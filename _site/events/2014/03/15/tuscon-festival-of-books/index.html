@@ -245,7 +245,7 @@ $(document).ready(function() {
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
 
-         if(event.starttime) {
+         if(event.allday == false) {
             $('<span>' + event.starttime + '</span><br />').appendTo('#calendar');
           }
  
