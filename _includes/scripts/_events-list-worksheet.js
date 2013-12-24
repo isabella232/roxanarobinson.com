@@ -11,7 +11,7 @@ permalink: /events/
 </div>
 
 
-<script src="{{site.baseurl}}/assets/js/moment.min.js"></script>
+<script src="{{site.baseurl}}assets/js/moment.min.js"></script>
 <script>
 
 var timing = function(start, end) {
