@@ -7,7 +7,7 @@ layout: page
 
 For Book Clubs or anyone who would like to leave a message for Roxana, please click here: 
 
-<a title='Contact' href='/contact/' class='button tiny radius'>Contact</a>
+<a title='Contact' href='../contact/' class='button tiny radius'>Contact</a>
 
 * * *
 
