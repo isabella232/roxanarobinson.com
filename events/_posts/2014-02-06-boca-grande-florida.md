@@ -1,7 +1,7 @@
 ---
 title: 
 event-allday: true
-event-start: 2014-02-06 18:00:00
+event-start: 2014-02-06
 event-end: 2014-02-06 20:30:00
 event-venue: 
 event-address: 
