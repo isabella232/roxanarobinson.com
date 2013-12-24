@@ -1,0 +1,65 @@
+baseurl: http://www.roxanarobinson.com.php54-1.dfw1-1.websitetestlink.com/
+sitename: Roxana Robinson
+permalink: pretty
+disqus_shortname: iliadxus
+future: true   # This will tell jekyll to not display future posts
+markdown: redcarpet
+redcarpet:
+  extensions: ['autolink', 'smart']
+exclude: ['README.md','Gemfile','links.jsonp', 'assets/scss', 'assets/sass']
+include: ['_pages','_books']
+relative_permalinks: false
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://prose.github.io/starter/'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'media'
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "splash"
+        field:
+          element: "text"
+          label: "Splash image"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
+            - name: "Pears"
+              value: "pears"
+            - name: "Mangos"
+              value: "mangos"
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""

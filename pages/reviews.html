@@ -1,0 +1,12 @@
+---
+layout: page
+title: Reviews
+permalink: /reviews/
+---
+<div class="entry">
+  {% for post in site.categories.reviews %}
+    {% include format-reviews.html %}
+  {% endfor %}
+</div>
+
+

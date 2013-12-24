@@ -1,0 +1,64 @@
+<script>
+// REQUIRES MOMENT.JS AND UNDERSCORE.JS
+var timing = function(start, end) {
+  // this can be improved another time <--seattlehacks
+  return moment(start).format('MM/DD/YYYY h:mma') + ' - ' + moment(end).format('MM/DD/YYYY h:mma');
+};
+
+$(document).ready(function() {
+  $.getJSON('/api/cal.json', null, function(response) {
+
+    var groups = _.groupBy(response.events, function(event) { return moment(event.start).format('YYYY-MM-DD'); }); 
+    
+    days = _.sortBy(Object.keys(groups), function(day) { return day });
+    //sort past event groups in descending order
+      days_desc = _.sortBy(Object.keys(groups), function(day) { return day * -1 });
+      
+    days.forEach(function(day) {
+        
+      if (moment(day).isAfter(moment().subtract('days', 1))) {
+        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6>').appendTo('#calendar');
+        groups[day].forEach(function(event) {
+          $('<div class="event" id="' + event.citystate + '"><div class="title"><h4><a href="/events#'+ event.citystate + '/">' + event.citystate + '</a></h4></div><div class="p-location location h-card vcard"><p class="location">' + event.venue + '  ' + event.starttime + '</small><br />' + event.address + '<br /><a href="' + event.website + '" class="small">' + event.website + '</a></p></div><br /><span class="p-name summary">' + event.summary + '</span></div><hr />').appendTo('#calendar');
+        });
+      }
+
+  
+  });    
+
+
+
+
+
+days_desc.forEach(function(day) {
+        
+      
+ 
+      if (moment(day).isBefore(moment().subtract('days', 1))) {
+        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6>').appendTo('#calendar-past');
+        groups[day].forEach(function(event) {
+          $('<div class="event" id="' + event.citystate + '"><div class="title"><h4><a href="/events#' + event.citystate + '/">' + event.citystate + '</a></h4></div><div class="p-location location h-card vcard"><p class="location">' + event.venue + '  ' + event.starttime + '</small><br />' + event.address + '<br /><a href="' + event.website + '" class="small">' + event.website + '</a></p></div><br /><span class="p-name summary">' + event.summary + '</span></div><hr />').appendTo('#calendar-past');
+        });
+      }
+  
+  });    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  });
+});
+    </script>

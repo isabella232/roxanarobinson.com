@@ -1,0 +1,27 @@
+
+
+  {% for post in site.categories.reviews offset:1 %}  
+    {% if page.name == post.related_book %}
+	    {% if  post.featured == true %}
+        {% include format-reviews.html %}
+
+    	{% endif %}
+    {% endif %}
+  {% endfor %}
+
+
+
+
+
+  {% for post in site.categories.reviews %}  
+    {% if page.name == post.related_book %}
+	    {% if  post.featured != true %}
+  
+        {% include format-reviews.html %}
+    
+    	{% endif %}
+    {% endif %}
+  {% endfor %}
+
+
+

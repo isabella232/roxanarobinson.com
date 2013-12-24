@@ -1,0 +1,45 @@
+---
+layout: page
+title: Appearances
+---
+{% assign now = site.time | date: '%Y-%m-%d' %}
+<div class="large-8 large-centered columns">
+  {% for page in site.pages %}
+    <div class="entry">
+      {% if page.event-start %}  
+        {% assign start = page.event-start | date: "%Y-%m-%d" %}
+        {% if start > now  %}
+          {% include event-detail.html %}
+          <hr />
+        {% endif %}
+      {% endif %}
+    </div>
+  {% endfor %}
+<h2 class="entry-title text-center" style="margin-top:3em;">- Past Appearances - </h2>
+  {% for page in site.pages reversed %}
+    <div class="entry">
+      <!-- experiment  think we must be posts to do this -->
+      {% capture this_year %}{{ page.event-start | date: "%Y" }}{% endcapture %}
+      {% capture next_year %}{{ page.previous.date | date: "%Y" }}{% endcapture %}
+      {% if forloop.first %}
+        <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
+      {% endif %}
+      <!-- /experiment  -->
+    {% if page.event-start %}  
+      {% assign start = page.event-start | date: "%Y-%m-%d" %}
+      {% if start < now  %}
+        {% include event-detail.html %}
+        <hr />
+      {% endif %}
+    {% endif %}
+    <!-- experiment  -->
+      {% if forloop.last %}
+        {% else %}
+          {% if this_year != next_year %}
+        <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
+        {% endif %}
+    {% endif %}
+    <!-- /experiment  -->
+    </div>
+  {% endfor %}
+</div><!--  /columns  -->

@@ -1,0 +1,52 @@
+<h4>
+	<small>
+		{% if page.event-allday %}
+		  {{ page.event-start | date: "%A, %b %d, %Y" }} 
+		{% else %}	
+		  {{ page.event-start | date: "%A, %b %d, %Y"  }}
+		  {{ page.event-start | date: "| %I:%M%p"  | downcase }}
+		    {% if page.event-end %}
+		    - {{ page.event-end | date: "%I:%M%p" | downcase }}
+		    {% endif %}
+		{% endif %}
+	</small>
+<br />
+{% if page.event-city-state %}
+
+	
+	<a href="{{ page.url }}">
+{{ page.event-city-state }}
+</a>
+<br />
+{% endif %}
+
+
+{% if  page.event-name %}
+	<span class="subheader">{{ page.event-name }}</span> <br /> 
+{% endif %}
+</h4>
+<p>
+
+
+{% if page.event-venue %}
+	{% if page.event-website %}
+		<a href="{{ page.event-website }}">{{ page.event-venue }}</a> <a href="{{ page.event-website }}" class="ss-redirect"></a>
+	{% else %}
+		{{ page.event-venue }}
+	{% endif %}
+	
+<br />
+
+{% endif %}
+
+
+
+
+
+
+
+
+{% if page.event-address %}{{ page.event-address }}<br />{% endif %}
+{% if page.event-city-state %}{{ page.event-city-state }}{% endif %}{% if page.event-zip %}, {{ page.event-zip }}{% endif %}
+</p>
+

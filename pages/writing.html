@@ -1,0 +1,71 @@
+---
+layout: page-full
+title: Writings
+permalink: /writing/
+---
+<div class="entry">
+	<div class="row">
+		<div class="large-12 columns">
+			<ul class="button-group radius">
+				<li class="button button-filter tiny not-active">Filters: </li>
+				{% for link in site.data.writingCats %}
+					<li class="button tiny" id="filter-{{link.catName}}">
+						{{link.name}}
+					</li>
+				{% endfor %}
+				<li class="button tiny" id="filter-none">
+					none
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div id="entry-list" style="margin-top:.25em;">
+		<div class="row">
+		<div class="large-3 columns">
+	    	<input type="text" class="search" placeholder="Search Writings" />
+	    </div>
+	</div>
+		<table>
+			<thead>
+	    	<tr>
+	      	<th class="sort" data-sort="category">Category <i class="fa fa-sort"></i></th>
+	      	<th class="sort" data-sort="title">Title <i class="fa fa-sort"></i></th>
+	      	<th class="sort" data-sort="date">date <i class="fa fa-sort"></i></th>
+	      	<th class="sort" data-sort="publication">publication <i class="fa fa-sort"></i></th>
+	    	</tr>
+	  	</thead>
+	  	<tbody class="list">
+				{% for writing in site.data.writing limit:250 %}
+					<tr>
+						<td class="category" width="15%">{{ writing.sm_writing_cats }}</td>
+						<td class="title" width="50%">
+							"{{ writing.title }}"
+							{% if writing.content %}
+								<br /><small>{{writing.content}}</small>
+							{% endif %}
+						</td>
+						<td class="date" width="15%">
+							{{ writing.date | date: "%Y-%b-%d" }}
+						</td>
+						{% if writing.link_to_original %}
+							<td class="publication" width="20%">
+								<a href="{{writing.link_to_original}}">
+									<em>
+										{{ writing.publication | sort}}
+									</em>
+								</a>
+								<a href="{{writing.link_to_original}}" class="ss-redirect"></a>
+							</td>
+	   				{% else %}
+							<td class="publication" width="20%">
+								<em>
+									{{ writing.publication | sort}}
+								</em>
+							</td>
+						{% endif %}
+				  </tr>
+				{% endfor %}
+			</tbody>
+		</table>
+	</div><!--  /entry-list  -->
+</div><!--  /entry  -->

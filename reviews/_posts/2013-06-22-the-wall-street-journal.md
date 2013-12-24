@@ -1,0 +1,12 @@
+---
+title: The Wall Street Journal
+layout: page
+category: review
+permalink: /reviews/the-wall-street-journal/
+link_to_original:
+  - 
+related_book: sparta
+attribution:
+  - '<em>The Wall Street Journal</em>, June 1, 2013'
+---
+ "[A] powerful reminder both of [post-traumatic stress disorder’s] concrete existence and of the risk it poses to veterans of America’s 21st-century wars...Robinson...is unsparingly forensic in her account of this proud ex-soldier’s tortured inability to readjust to civilian life...[<em>Sparta</em>’s] force lies in its level of bared psychological detail. Without becoming strident or pushy, it sounds an alarm for an invisible American crisis."
