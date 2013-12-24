@@ -480,7 +480,7 @@
     
   {
     "name"    : "",
-    "allday"  : "true",
+    "allday"  : "false",
     "start"   : "2014-01-22 18:00:00 UTC",
     "end"     : "2014-01-22 18:00:00 UTC",
     "starttime"   : "06:00 pm",
@@ -498,9 +498,9 @@
   {
     "name"    : "",
     "allday"  : "true",
-    "start"   : "2014-02-06",
+    "start"   : "2014-02-06 18:00:00 UTC",
     "end"     : "2014-02-06 20:30:00 UTC",
-    "starttime"   : "12:00 am",
+    "starttime"   : "06:00 pm",
     "endtime"     : "08:30 pm",
     "venue"   : "",
     "address" : "",

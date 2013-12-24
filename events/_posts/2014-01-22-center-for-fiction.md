@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-event-allday: true
+event-allday: false
 event-start: 2014-01-22 18:00:00
 event-end: 2014-01-22 18:00:00
 event-venue: Center for Fiction
