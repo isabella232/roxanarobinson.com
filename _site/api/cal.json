@@ -498,9 +498,9 @@
   {
     "name"    : "",
     "allday"  : "true",
-    "start"   : "2014-02-06 18:00:00 UTC",
+    "start"   : "2014-02-06",
     "end"     : "2014-02-06 20:30:00 UTC",
-    "starttime"   : "06:00 pm",
+    "starttime"   : "12:00 am",
     "endtime"     : "08:30 pm",
     "venue"   : "",
     "address" : "",
