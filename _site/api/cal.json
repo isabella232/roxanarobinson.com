@@ -544,4 +544,21 @@
     "summary" : ""
   }
 
+    ,
+    
+  {
+    "name"    : "Test Event",
+    "allday"  : "false",
+    "start"   : "2013-12-26 12:00:00 UTC",
+    "end"     : "2013-12-26 12:10:00 UTC",
+    "starttime"   : "12:00 pm",
+    "endtime"     : "12:10 pm",
+    "venue"   : "My House",
+    "address" : "280 Riverside Drive",
+    "citystate" : "New York, NY", 
+    "website" : "http://budparr.com",
+    "url"     : "/events/2103/12/27/testevent/",
+    "summary" : ""
+  }
+
 ]}
