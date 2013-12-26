@@ -11,13 +11,13 @@ relative_permalinks: false
 prose:
   rooturl: '_posts'
   siteurl: 'pubspringdev1.com'
-  media: 'media'
+  media: 'assets/img'
   metadata:
     _posts:
       - name: "category"
         field:
           element: "multiselect"
-          placeholder: "Choose a Category"
+          placeholder: "Choose a Page Type"
           options:
             - name: "Nature Journal"
               value: "nature-journal"
