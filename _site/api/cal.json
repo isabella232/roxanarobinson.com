@@ -549,8 +549,8 @@
   {
     "name"    : "Test Event",
     "allday"  : "false",
-    "start"   : "2013-12-26 12:00:00 UTC",
-    "end"     : "2013-12-26 12:10:00 UTC",
+    "start"   : "2013-12-27 12:00:00 UTC",
+    "end"     : "2013-12-27 12:10:00 UTC",
     "starttime"   : "12:00 pm",
     "endtime"     : "12:10 pm",
     "venue"   : "My House",
