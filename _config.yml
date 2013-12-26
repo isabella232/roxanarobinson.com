@@ -1,13 +1,12 @@
-baseurl: http://budparr.github.io/testrrsite/
+baseurl: http://budparr.github.io/testrrsite
 sitename: Roxana Robinson
 permalink: pretty
-disqus_shortname: iliadxus
 future: true   # This will tell jekyll to not display future posts
 markdown: redcarpet
 redcarpet:
   extensions: ['autolink', 'smart']
 exclude: ['README.md','Gemfile','links.jsonp', 'assets/scss', 'assets/sass']
-include: ['_pages','_books']
+include: ['_pages']
 relative_permalinks: false
 prose:
   rooturl: '_posts'
