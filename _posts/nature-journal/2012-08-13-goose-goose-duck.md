@@ -2,6 +2,7 @@
 title: Goose Goose Duck
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/goose-goose-duck/
 blogger_blog:
   - roxanarobinson.blogspot.com

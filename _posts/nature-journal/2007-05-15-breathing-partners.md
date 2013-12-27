@@ -2,6 +2,7 @@
 title: Breathing Partners
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/breathing-partners/
 blogger_blog:
   - roxanarobinson.blogspot.com

@@ -2,6 +2,7 @@
 title: Spring Again
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/spring-again/
 blogger_blog:
   - roxanarobinson.blogspot.com

@@ -2,6 +2,7 @@
 title: Monarchs and Milkweed
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/monarchs-and-milkweed/
 blogger_blog:
   - roxanarobinson.blogspot.com

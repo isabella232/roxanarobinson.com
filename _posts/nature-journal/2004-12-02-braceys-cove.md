@@ -2,6 +2,7 @@
 title: 'Bracey&#8217;s Cove'
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/braceys-cove/
 blogger_blog:
   - roxanarobinson.blogspot.com

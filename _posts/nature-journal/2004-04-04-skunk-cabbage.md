@@ -2,6 +2,7 @@
 title: Skunk Cabbage
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/skunk-cabbage/
 blogger_blog:
   - roxanarobinson.blogspot.com

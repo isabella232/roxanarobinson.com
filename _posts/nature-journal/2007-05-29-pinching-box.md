@@ -2,6 +2,7 @@
 title: Pinching Box
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/pinching-box/
 blogger_blog:
   - roxanarobinson.blogspot.com

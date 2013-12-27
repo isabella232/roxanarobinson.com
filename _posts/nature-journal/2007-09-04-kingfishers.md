@@ -2,6 +2,7 @@
 title: Kingfishers
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/kingfishers/
 blogger_blog:
   - roxanarobinson.blogspot.com

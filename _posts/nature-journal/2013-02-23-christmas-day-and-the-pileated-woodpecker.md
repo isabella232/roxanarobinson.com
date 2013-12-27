@@ -2,6 +2,7 @@
 title: Christmas Day and the Pileated Woodpecker
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/christmas-day-and-the-pileated-woodpecker/
 blogger_blog:
   - roxanarobinson.blogspot.com

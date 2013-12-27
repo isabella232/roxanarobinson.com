@@ -2,6 +2,7 @@
 title: The Hummingbird Wars
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/the-hummingbird-wars/
 blogger_blog:
   - roxanarobinson.blogspot.com

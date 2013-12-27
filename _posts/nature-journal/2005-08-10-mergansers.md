@@ -2,6 +2,7 @@
 title: Mergansers
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/mergansers/
 blogger_blog:
   - roxanarobinson.blogspot.com

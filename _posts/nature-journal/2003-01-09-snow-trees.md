@@ -2,6 +2,7 @@
 title: Snow Trees
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/snow-trees/
 blogger_blog:
   - roxanarobinson.blogspot.com

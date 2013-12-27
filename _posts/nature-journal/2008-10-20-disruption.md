@@ -2,6 +2,7 @@
 title: Disruption
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/disruption/
 blogger_blog:
   - roxanarobinson.blogspot.com

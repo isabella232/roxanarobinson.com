@@ -2,6 +2,7 @@
 title: Margaritaville
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/margaritaville/
 blogger_blog:
   - roxanarobinson.blogspot.com

@@ -2,6 +2,7 @@
 title: Holocaust
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/holocaust/
 blogger_blog:
   - roxanarobinson.blogspot.com

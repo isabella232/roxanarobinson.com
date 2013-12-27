@@ -2,6 +2,7 @@
 title: Polar Bears
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/polar-bears/
 blogger_blog:
   - roxanarobinson.blogspot.com

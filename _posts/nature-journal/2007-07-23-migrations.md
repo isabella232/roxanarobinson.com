@@ -2,6 +2,7 @@
 title: Migrations
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/migrations/
 blogger_blog:
   - roxanarobinson.blogspot.com

@@ -2,6 +2,8 @@
 title: The Phoebe
 author: Roxana
 layout: page
+category: nature-journal
+category: nature-journal
 permalink: /nature-journal/the-phoebe/
 blogger_blog:
   - roxanarobinson.blogspot.com

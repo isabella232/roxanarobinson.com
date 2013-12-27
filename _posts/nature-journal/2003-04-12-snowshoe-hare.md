@@ -2,6 +2,7 @@
 title: Snowshoe Hare
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/snowshoe-hare/
 blogger_blog:
   - roxanarobinson.blogspot.com

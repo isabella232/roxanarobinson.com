@@ -2,6 +2,7 @@
 title: You Turkey
 author: Roxana
 layout: page
+category: nature-journal
 permalink: /nature-journal/you-turkey/
 blogger_blog:
   - roxanarobinson.blogspot.com
