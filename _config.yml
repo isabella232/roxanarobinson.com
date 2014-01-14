@@ -1,4 +1,4 @@
-baseurl: http://pubspringdev1.com
+baseurl: http://rrobinson.pubspringdev1.com
 sitename: Roxana Robinson
 permalink: pretty
 future: true   # This will tell jekyll to not display future posts
