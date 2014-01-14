@@ -1,32 +1,27 @@
 ---
 layout: default
+category: home
 ---
 <div class="row">
-	<br /><br /><br />
-	<div class="large-12 large-centered columns page-layout">
-		<div class="large-8 columns">
-			<p><img src="{{site.baseurl}}/assets/img/Robinson2_JoyceRavid_300x400.jpg" class="image-shadow" style="max-width:200px;float:left;margin-right:18px;margin-top:10px;">
-			Roxana Robinson is the author of five novels, including <em>Cost</em>; three collections of short stories; and the biography <em>Georgia O’Keeffe: A Life</em>. Her work has appeared in <em>The New Yorker</em>, <em>The Atlantic</em>, <em>Harper’s</em> Magazine, <em>The New York Times</em>, <em>The Washington Post</em>, <em>The Wall Street Journal</em>, <em>Travel and Leisure</em>, <em>More</em>, and <em>Vogue</em>, among other publications. She divides her time between New York, Connecticut, and Maine. </p>
-
-	<br /><br /><br />
-
+	<div class="large-12 large-centered columns">
+		<div class="large-8 large-centered columns page-layout">
+			
 
 	<a href="{{site.baseurl}}/books/sparta/">
 		<img src="{{site.baseurl}}/assets/img/9780374267704_p0_v1_s600-220x330.jpg" style="max-width:200px;margin-top:10px;float:left;margin-right:18px;" class="image-shadow">
 	</a>
-<h3><a href="/books/sparta/">Sparta</a></h3>
-<p>	Conrad Farrell has no family military heritage, but as a classics major at Williams College, he has encountered the powerful appeal of the Marine Corps ethic. “Semper Fidelis” comes straight from the ancient world, from Sparta, where every citizen doubled as a full-time soldier. When Conrad graduates, he joins the Marines to continue a long tradition of honor, courage, and commitment.... <br />
+<h2><a href="/books/sparta/">SPARTA</a></h2>
+<p class="large">"One of the many strengths of this engaging story is that Robinson doesn’t treat post-traumatic stress disorder with that nifty abbreviation, PTSD, neatly buttoning it in place. Instead, she shows us a more insidious, layered and complex mix of debilitating psychological wounds..."<br />
+<small>— Ron Carlson, The New York Times Book Review  on Sparta</small></p>
 
-<a href="{{site.baseurl}}/books/sparta/"><strong>Read more about the book and see reviews</strong></a>
-
-</p>
-
+<small><a href="{{site.baseurl}}/books/sparta/"><strong>Read more about <em>Sparta</em> and see reviews</strong></a></small>
 
 
 
 
 
-{% for book in site.categories.books offset:1 %} 
+<!-- 
+ for book in site.categories.books offset:1 
 	
 
       <a href="{{book.url}}">
@@ -34,7 +29,7 @@ layout: default
 </a>
 
 
- {% endfor %}
+ endfor  -->
 
 
 
@@ -43,22 +38,42 @@ layout: default
 
 
 		</div>
-		<div class="large-3 large-offset-1 columns">
+		
+	</div>
+</div>
+
+<hr class="spacer" />
+
+<div class="row">
+	<div class="large-10 large-centered columns">
+		<div class="large-8 columns page-layout">
+<p><img src="{{site.baseurl}}/assets/img/Robinson2_JoyceRavid_300x400.jpg" class="image-shadow" style="max-width:200px;float:left;margin-right:18px;margin-top:10px;">
+			Roxana Robinson is the author of five novels, including <em>Cost</em>; three collections of short stories; and the biography <em>Georgia O’Keeffe: A Life</em>. Her work has appeared in <em>The New Yorker</em>, <em>The Atlantic</em>, <em>Harper’s</em> Magazine, <em>The New York Times</em>, <em>The Washington Post</em>, <em>The Wall Street Journal</em>, <em>Travel and Leisure</em>, <em>More</em>, and <em>Vogue</em>, among other publications. She divides her time between New York, Connecticut, and Maine. </p>
+
+
+
+<hr class="spacer" />
+
+{% for book in site.categories.books offset:1  %}
+	
+
+      <a href="{{book.url}}" style="height:180px;float:left;margin-right:22px;">
+<img src="{{site.baseurl}}/assets/img/{{book.cover_image}}" style="max-width:100px;height:152px;" class="image-shadow">
+</a>
+
+
+ {% endfor  %}
+
+
+		</div>
+		
+		
+			<div class="large-4 columns page-layout white">
             <aside>
-            <div id="calendar"></div>
+            	<h4 style="margin-bottom:-30px;">Upcoming Events</h4>
+            <div id="calendar" ></div>
           </aside>
 			
 		</div>
-	</div>
-</div>
-<hr />
-<div class="row">
-	<div class="large-12 large-centered columns">
-
-
-
-
-
-
 	</div>
 </div>

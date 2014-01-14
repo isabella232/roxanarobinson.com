@@ -14,9 +14,9 @@
 //@import url(http://fonts.googleapis.com/css?family=Merriweather:400,700,400italic,300italic,300);
 //@import url(http://fonts.googleapis.com/css?family=Josefin+Slab:400,600,400italic,600italic);
 
-@import url(http://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
+//@import url(http://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
 
-
+@import url(http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700);
 
 //join($imported-font-family, $body-font-family);
 // $experimental: true;
@@ -51,7 +51,7 @@ $column-gutter: rem-calc(50);
 // We use these to control various global styles
 $body-bg: rgba(255,255,255,.93);//#333;
 $body-font-color: #555;//#222;
- $body-font-family: Georgia, "Times New Roman", serif  ;
+ $body-font-family: "Old Standard TT", Georgia, "Times New Roman", serif  ;
 // $body-font-weight: normal;
 // $body-font-style: normal;
 $sans-font-family: "Helvetica Neue", Helvetica, "Lucida Grand", Verdana, Arial, sans-serif;
@@ -74,7 +74,7 @@ $paragraph-aside-line-height: 1.35;
 $paragraph-aside-font-style: italic;
 $paragraph-text-rendering: optimizeLegibility;
 
-$header-font-family: Cardo, Georgia, "Times New Roman", serif ;
+$header-font-family: $body-font-family;//Cardo, Georgia, "Times New Roman", serif ;
 $header-font-color: #555 !default;
 $subheader-font-color: #555;
 

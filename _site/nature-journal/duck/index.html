@@ -40,7 +40,7 @@
 
 
     </head>
-<body class="nature-journal"><header class="row"><div class="large-12 columns"><h1><a href="/">Roxana Robinson</a></h1></div></header><div class="row contain-to-gridTK">
+<body class="nature-journalnature-journal"><header class="row"><div class="large-12 columns"><h1><a href="/">Roxana Robinson</a></h1></div></header><div class="row contain-to-gridTK">
  <nav class="top-bar" data-topbar data-options="is_hover: false">
 
 
@@ -186,7 +186,23 @@ But the duck, with her sleek compact form, her grave black eyes, was gone. My pl
     <script src="/assets/js/jquery.min.js"></script>
     <script src="/assets/js/underscore-min.js"></script>
   <script src="/assets/js/moment.min.js"></script>
+<style type="text/css">
+h5 {
+  margin-top: 3em;
+}
+.event, h6 {
+  margin-top: 1em;
+}
+h4 {margin-bottom: 0;}
+.ml {
+  margin-left: .5em;
+}
+body.home .address {
+  clear: both;
+  float: left;
+}
 
+</style>
 
 <script>
 // TODO: [X]Times show an extra 0 <-- going to leave this
@@ -227,21 +243,21 @@ $(document).ready(function() {
         
       if (moment(day).isAfter(moment().subtract('days', 1))) {
 
-        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6>').appendTo('#calendar');
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr style="margin-top:-12px;"/>').appendTo('#calendar');
         
 
         groups[day].forEach(function(event) {
 
+
+
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
 
          if(event.allday != 'true') {
-            $('<span>' + event.starttime + '</span><br />').appendTo('#calendar');
+            $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');
           }
- 
-
 
           if(event.venue) {
-            $('<span class="p-location location h-card vcard">' + event.venue + '<br />' + event.address + '</span>').appendTo('#calendar');
+            $('<span class="p-location location h-card vcard"><strong>' + event.venue + '</strong> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar');
           }
       
           if(event.summary) {
@@ -249,10 +265,10 @@ $(document).ready(function() {
             }
 
           if(event.website) {
-            $('<br /><a href="' + event.website + '" class="small">website</a>').appendTo('#calendar');
+            $('<a href="' + event.website + '" class="small ml">website</a>').appendTo('#calendar');
           }
         
-        $('</div><hr />').appendTo('#calendar');
+        $('</div>').appendTo('#calendar');
 
         });
       
@@ -282,14 +298,12 @@ days_desc.forEach(function(day) {
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar-past');
 
-         if(event.starttime) {
-            $('<span>' + event.starttime + '</span><br />').appendTo('#calendar-past');
+         if(event.allday != 'true') {
+            $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar-past');
           }
- 
-
 
           if(event.venue) {
-            $('<span class="p-location location h-card vcard">' + event.venue + '<br />' + event.address + '</span>').appendTo('#calendar-past');
+            $('<span class="p-location location h-card vcard"><strong>' + event.venue + '</strong> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar-past');
           }
       
           if(event.summary) {
@@ -297,11 +311,10 @@ days_desc.forEach(function(day) {
             }
 
           if(event.website) {
-            $('<br /><a href="' + event.website + '" class="small">website</a>').appendTo('#calendar-past');
+            $('<a href="' + event.website + '" class="small ml">website</a>').appendTo('#calendar-past');
           }
         
-        $('</div><hr />').appendTo('#calendar-past');
-        
+        $('</div>').appendTo('#calendar-past');
 
 
 
