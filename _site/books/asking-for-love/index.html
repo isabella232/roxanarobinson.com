@@ -55,7 +55,7 @@
   <ul class="title-area">
     <li class="name">
     </li>
-    <li class="toggle-topbar menu-icon"><a href="#" style="color:black;">Menu</a></li>
+    <li class="toggle-topbar button tiny">Menu</li>
   </ul>
 
   <section class="top-bar-section">
@@ -445,16 +445,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/asking-for-love/">Asking for Love</a>
     
   
@@ -552,6 +542,91 @@
 	
 </ul>
 
+				IYIYI
+<script type="text/javascript">
+
+function toggleShowHide()
+   {
+       var theDiv = document.getElementById('buy-buttons');
+       
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+
+        else{
+              theDiv.style.display = "none";
+        }
+
+   }
+
+</script>
+
+
+
+
+
+<button class="pure-button" onclick="toggleShowHide()">Buy <em>Asking for Love</em></button>
+
+
+<div id="buy-buttons" class="list-block hidden" style="display:none;">
+
+
+<ul class="buy-retailers small">
+
+
+
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780679439028" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+
+<li>
+    <a href="http://www.powells.com/biblio?isbn=9780679439028" target="_blank" >
+      Powells
+    </a>
+  </li>  
+
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780679439028" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+
+
+
+
+
+</ul>
+
+
+
+
+
+
+<ul class="buy-retailers small">
+  <li>Digital Editions</li>
+
+
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn0679439021" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=0679439021" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+
+</div>sdkfjhsdkfhskjfh
 			</div>
 			<div class="small-12 medium-8 large-8 columns">
 				<p>In this second collection of her short fiction, the author returns to the world she knows so well, and shows us men and women whose lives are in various stages of disarray or disrepair. Divorce and remarriage have altered their landscapes, and they struggle to achieve order with a new set of rules. Stories like “The Nightmare” and “Family Restaurant” explore the minefields of stepparenting and portray the confused struggles—sometimes silent, sometimes not—of the ultimate victims of divorce, the children.</p>
@@ -646,16 +721,6 @@
 
 
   <footer>&mdash; <em>Cosmpolitan</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1267,16 +1332,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/asking-for-love/">Asking for Love</a>
     
   
@@ -1572,16 +1627,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/asking-for-love/">Asking for Love</a>
     
   
@@ -1607,16 +1652,6 @@
 
 
   <footer>&mdash; <em>Library Journal</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -2194,16 +2229,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/asking-for-love/">Asking for Love</a>
     
   
@@ -2330,8 +2355,10 @@ $(document).ready(function() {
 
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
-      days_desc = _.sortBy(Object.keys(groups), function(day) { return day * -1 });
+      days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
       
+
+
 
 
 

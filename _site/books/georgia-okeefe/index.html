@@ -55,7 +55,7 @@
   <ul class="title-area">
     <li class="name">
     </li>
-    <li class="toggle-topbar menu-icon"><a href="#" style="color:black;">Menu</a></li>
+    <li class="toggle-topbar button tiny">Menu</li>
   </ul>
 
   <section class="top-bar-section">
@@ -121,16 +121,6 @@
 
 
   <footer>&mdash; <em>The New York Times Book Review</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -550,6 +540,91 @@
 	
 </ul>
 
+				IYIYI
+<script type="text/javascript">
+
+function toggleShowHide()
+   {
+       var theDiv = document.getElementById('buy-buttons');
+       
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+
+        else{
+              theDiv.style.display = "none";
+        }
+
+   }
+
+</script>
+
+
+
+
+
+<button class="pure-button" onclick="toggleShowHide()">Buy <em>Georgia O&#8217;Keefe</em></button>
+
+
+<div id="buy-buttons" class="list-block hidden" style="display:none;">
+
+
+<ul class="buy-retailers small">
+
+
+
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780874519068" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+
+<li>
+    <a href="http://www.powells.com/biblio?isbn=9780874519068" target="_blank" >
+      Powells
+    </a>
+  </li>  
+
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780874519068" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+
+
+
+
+
+</ul>
+
+
+
+
+
+
+<ul class="buy-retailers small">
+  <li>Digital Editions</li>
+
+
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn0874519063" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=0874519063" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+
+</div>sdkfjhsdkfhskjfh
 			</div>
 			<div class="small-12 medium-8 large-8 columns">
 				<p>Georgia O&#8217;Keeffe is arguably the 20th century&#8217;s leading woman artist. Coming of age along with American modernism, her life was rich in intense relationships &#8212; with family, friends, and especially noted photographer Alfred Stieglitz. Her struggle between the rigorous demands of love and work resulted in extraordinary accomplishments. Her often-eroticized flowers, bones, stones, skulls, and pelvises became extremely well known to a broad American public. <em>The New York Times Book Review</em> named this richly detailed and moving biography a Notable Book of the Year.</p>
@@ -574,16 +649,6 @@
 
 
   <footer>&mdash; <em>The New York Times Book Review</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1265,16 +1330,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/georgia-okeefe/">Georgia O&#8217;Keefe</a>
     
   
@@ -1304,16 +1359,6 @@
 
 
   <footer>&mdash; <em>Ms. </em>magazine <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1891,16 +1936,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/georgia-okeefe/">Georgia O&#8217;Keefe</a>
     
   
@@ -2037,8 +2072,10 @@ $(document).ready(function() {
 
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
-      days_desc = _.sortBy(Object.keys(groups), function(day) { return day * -1 });
+      days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
       
+
+
 
 
 

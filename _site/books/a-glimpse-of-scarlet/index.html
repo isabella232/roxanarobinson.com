@@ -55,7 +55,7 @@
   <ul class="title-area">
     <li class="name">
     </li>
-    <li class="toggle-topbar menu-icon"><a href="#" style="color:black;">Menu</a></li>
+    <li class="toggle-topbar button tiny">Menu</li>
   </ul>
 
   <section class="top-bar-section">
@@ -117,16 +117,6 @@
 
 
   <footer>&mdash; <em>Time</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -550,6 +540,91 @@
 	
 </ul>
 
+				IYIYI
+<script type="text/javascript">
+
+function toggleShowHide()
+   {
+       var theDiv = document.getElementById('buy-buttons');
+       
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+
+        else{
+              theDiv.style.display = "none";
+        }
+
+   }
+
+</script>
+
+
+
+
+
+<button class="pure-button" onclick="toggleShowHide()">Buy <em>A Glimpse of Scarlet</em></button>
+
+
+<div id="buy-buttons" class="list-block hidden" style="display:none;">
+
+
+<ul class="buy-retailers small">
+
+
+
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780060981167" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+
+<li>
+    <a href="http://www.powells.com/biblio?isbn=9780060981167" target="_blank" >
+      Powells
+    </a>
+  </li>  
+
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780060981167" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+
+
+
+
+
+</ul>
+
+
+
+
+
+
+<ul class="buy-retailers small">
+  <li>Digital Editions</li>
+
+
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn0060981164" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=0060981164" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+
+</div>sdkfjhsdkfhskjfh
 			</div>
 			<div class="small-12 medium-8 large-8 columns">
 				<p>In the tradition of John Cheever, Roxana Robinson charts the hidden realities beneath the serene and gleaming surface of old-guard WASP family life. Taking readers into the summer homes, town houses, and boarding schools of those for whom power and wealth come as a birthright, she uncovers an astonishing emotional territory.</p>
@@ -574,16 +649,6 @@
 
 
   <footer>&mdash; <em>Time</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1285,16 +1350,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/a-glimpse-of-scarlet/">A Glimpse of Scarlet</a>
     
   
@@ -1322,16 +1377,6 @@
 
 
   <footer>&mdash; <em>Kirkus</em><em> Reviews</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1913,16 +1958,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/a-glimpse-of-scarlet/">A Glimpse of Scarlet</a>
     
   
@@ -2059,8 +2094,10 @@ $(document).ready(function() {
 
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
-      days_desc = _.sortBy(Object.keys(groups), function(day) { return day * -1 });
+      days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
       
+
+
 
 
 

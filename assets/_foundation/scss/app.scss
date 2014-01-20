@@ -225,15 +225,24 @@ blockquote, blockquote p {
   
 }
 
-.top-bar-section ul li{
+.top-bar-section {
   font-size: $small-font-size;
-}
 
+}
+.top-bar-section ul li {
+  display: block;
+}
 
 html { 
   background: none; 
   background-color: #FFF;
 }
+
+.entry-content img:first-child {
+  float: none;
+  margin: 10px; 
+}
+
 
 
 }

@@ -44,10 +44,8 @@ $(document).ready(function() {
 
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
-      days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
+      days_desc = _.sortBy(Object.keys(groups), function(day) { return day * -1 });
       
-
-
 
 
 

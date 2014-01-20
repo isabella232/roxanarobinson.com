@@ -55,7 +55,7 @@
   <ul class="title-area">
     <li class="name">
     </li>
-    <li class="toggle-topbar menu-icon"><a href="#" style="color:black;">Menu</a></li>
+    <li class="toggle-topbar button tiny">Menu</li>
   </ul>
 
   <section class="top-bar-section">
@@ -127,16 +127,6 @@
 
 
   <footer>&mdash; Susan Cheever <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -544,6 +534,69 @@
 	
 </ul>
 
+				IYIYI
+<script type="text/javascript">
+
+function toggleShowHide()
+   {
+       var theDiv = document.getElementById('buy-buttons');
+       
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+
+        else{
+              theDiv.style.display = "none";
+        }
+
+   }
+
+</script>
+
+
+
+
+
+<button class="pure-button" onclick="toggleShowHide()">Buy <em>Summer Light</em></button>
+
+
+<div id="buy-buttons" class="list-block hidden" style="display:none;">
+
+
+<ul class="buy-retailers small">
+
+
+
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780874517385" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+
+<li>
+    <a href="http://www.powells.com/biblio?isbn=9780874517385" target="_blank" >
+      Powells
+    </a>
+  </li>  
+
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780874517385" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+
+
+
+
+
+</ul>
+
+
+
+
+
+
+</div>sdkfjhsdkfhskjfh
 			</div>
 			<div class="small-12 medium-8 large-8 columns">
 				<p><em>Summer Light</em> is the story of a young woman hovering between careers, between marriages, between lives—and of the summer that throws her off balance and onto her feet. Laura is in her middle 30s, separated but not yet divorced from her philandering husband. She is spending the summer on the Maine coast with Ward, the man she lives with; Sam, her 3-year-old son; her sister, Sarah; Sarah’s husband, Richie; and their two adolescent daughters. It was supposed to be a tranquil family summer, full of berry picking, sailing, days spent in the sun and evenings before the fire—but it doesn’t turn out quite that way.</p>
@@ -574,16 +627,6 @@
 
 
   <footer>&mdash; Susan Cheever <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1259,16 +1302,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/summer-light/">Summer Light</a>
     
   
@@ -1320,16 +1353,6 @@
 
 
   <footer>&mdash; Frances FitzGerald <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1871,16 +1894,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/summer-light/">Summer Light</a>
     
   
@@ -2031,8 +2044,10 @@ $(document).ready(function() {
 
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
-      days_desc = _.sortBy(Object.keys(groups), function(day) { return day * -1 });
+      days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
       
+
+
 
 
 

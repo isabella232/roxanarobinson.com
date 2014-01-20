@@ -55,7 +55,7 @@
   <ul class="title-area">
     <li class="name">
     </li>
-    <li class="toggle-topbar menu-icon"><a href="#" style="color:black;">Menu</a></li>
+    <li class="toggle-topbar button tiny">Menu</li>
   </ul>
 
   <section class="top-bar-section">
@@ -115,16 +115,6 @@
 
 
   <footer>&mdash; <em>Vanity Fair</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -564,6 +554,91 @@
 	
 </ul>
 
+				IYIYI
+<script type="text/javascript">
+
+function toggleShowHide()
+   {
+       var theDiv = document.getElementById('buy-buttons');
+       
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+
+        else{
+              theDiv.style.display = "none";
+        }
+
+   }
+
+</script>
+
+
+
+
+
+<button class="pure-button" onclick="toggleShowHide()">Buy <em>Cost</em></button>
+
+
+<div id="buy-buttons" class="list-block hidden" style="display:none;">
+
+
+<ul class="buy-retailers small">
+
+
+
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780374271879" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+
+<li>
+    <a href="http://www.powells.com/biblio?isbn=9780374271879" target="_blank" >
+      Powells
+    </a>
+  </li>  
+
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780374271879" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+
+
+
+
+
+</ul>
+
+
+
+
+
+
+<ul class="buy-retailers small">
+  <li>Digital Editions</li>
+
+
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn0374271879" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=0374271879" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+
+</div>sdkfjhsdkfhskjfh
 			</div>
 			<div class="small-12 medium-8 large-8 columns">
 				<p>In <em>Cost</em>, Robinson tackles addiction and explores its subtle effects on the bonds of family, dazzling us with her subtlety and precision in evoking the emotional interiors of her characters. The result is a work in which the reader&#8217;s sense of discovery and compassion for every character remain unflagging to the end, even as the reader, like the characters, is caught up in <em>Cost</em>&#8216;s pace.</p>
@@ -582,16 +657,6 @@
 
 
   <footer>&mdash; <em>Vanity Fair</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1215,16 +1280,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/cost/">Cost</a>
     
   
@@ -1508,16 +1563,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/cost/">Cost</a>
     
   
@@ -1603,16 +1648,6 @@
 
 
   <footer>&mdash; Robert Stone, author of <em>Prime Green: Remembering the Sixties</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -2114,16 +2149,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/cost/">Cost</a>
     
   
@@ -2213,16 +2238,6 @@
 
 
   <footer>&mdash; Jennifer Egan, author of <em>The Keep</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -2704,16 +2719,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/cost/">Cost</a>
     
   
@@ -2797,16 +2802,6 @@
 
 
   <footer>&mdash; Donna Seaman <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -3328,16 +3323,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/cost/">Cost</a>
     
   
@@ -3419,16 +3404,6 @@
 
 
   <footer>&mdash; <em>Booklist</em>, starred review <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -3906,16 +3881,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/cost/">Cost</a>
     
   
@@ -4076,8 +4041,10 @@ $(document).ready(function() {
 
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
-      days_desc = _.sortBy(Object.keys(groups), function(day) { return day * -1 });
+      days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
       
+
+
 
 
 

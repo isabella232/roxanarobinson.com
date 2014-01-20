@@ -55,7 +55,7 @@
   <ul class="title-area">
     <li class="name">
     </li>
-    <li class="toggle-topbar menu-icon"><a href="#" style="color:black;">Menu</a></li>
+    <li class="toggle-topbar button tiny">Menu</li>
   </ul>
 
   <section class="top-bar-section">
@@ -169,16 +169,6 @@
 
 
   <footer>&mdash; Joyce Carol Oates <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -552,6 +542,91 @@
 	
 </ul>
 
+				IYIYI
+<script type="text/javascript">
+
+function toggleShowHide()
+   {
+       var theDiv = document.getElementById('buy-buttons');
+       
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+
+        else{
+              theDiv.style.display = "none";
+        }
+
+   }
+
+</script>
+
+
+
+
+
+<button class="pure-button" onclick="toggleShowHide()">Buy <em>A Perfect Stranger and Other Stories</em></button>
+
+
+<div id="buy-buttons" class="list-block hidden" style="display:none;">
+
+
+<ul class="buy-retailers small">
+
+
+
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780812967357" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+
+<li>
+    <a href="http://www.powells.com/biblio?isbn=9780812967357" target="_blank" >
+      Powells
+    </a>
+  </li>  
+
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780812967357" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+
+
+
+
+
+</ul>
+
+
+
+
+
+
+<ul class="buy-retailers small">
+  <li>Digital Editions</li>
+
+
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn0812967356" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=0812967356" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+
+</div>sdkfjhsdkfhskjfh
 			</div>
 			<div class="small-12 medium-8 large-8 columns">
 				<p>In Roxana Robinson’s lucid and elegant prose, her characters’ inner worlds open up to us, revealing private emotional cores that are familiar in their needs, their secrets, and their longings. These people tell us the truth–not only about themselves, their relationships, and their lives, but about ourselves as well. <em>A Perfect Stranger</em> powerfully and affectingly examines the complex, intricate network of experiences that binds us to one another. These stories are tender, raw, lovely, fine–and they reaffirm Roxana Robinson’s place at the forefront of modern literature.</p>
@@ -624,16 +699,6 @@
 
 
   <footer>&mdash; Joyce Carol Oates <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1239,16 +1304,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/a-perfect-stranger-and-other-stories/">A Perfect Stranger and Other Stories</a>
     
   
@@ -1326,16 +1381,6 @@
 
 
   <footer>&mdash; <em>Kirkus</em><em> Reviews</em>, starred review <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1877,16 +1922,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/a-perfect-stranger-and-other-stories/">A Perfect Stranger and Other Stories</a>
     
   
@@ -1954,16 +1989,6 @@
 
 
   <footer>&mdash; Bliss Broyard, <em>The New York Times</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -2356,8 +2381,10 @@ $(document).ready(function() {
 
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
-      days_desc = _.sortBy(Object.keys(groups), function(day) { return day * -1 });
+      days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
       
+
+
 
 
 
