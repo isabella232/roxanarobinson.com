@@ -10,12 +10,3 @@
     </ul>
   </div>
 </footer>
-
-    <script src="{{site.baseurl}}/assets/js/jquery.min.js"></script>
-    <script src="{{site.baseurl}}/assets/js/underscore-min.js"></script>
-  <script src="{{site.baseurl}}/assets/js/moment.min.js"></script>
-{% include scripts/events-list.js.html  %}
-
-{% if page.url == "/writing/" or page.url == '/media/' %}
-  {% include scripts/list.js.html  %}
-{% endif %}

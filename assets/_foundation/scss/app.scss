@@ -5,11 +5,10 @@
 html { 
   //background: url(http://563f8e56373163a3565b-ff036a63fe4db1f0ce81564f86905acf.r71.cf1.rackcdn.com/springmorning_2100x.jpg) no-repeat center center fixed; 
   background: url(/assets/img/background-leaves-full.JPG) no-repeat center center fixed; 
-  
- -webkit-background-size: cover;
- -moz-background-size: cover;
- -o-background-size: cover;
- background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 body {
@@ -48,7 +47,7 @@ body {
   box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.60);
 }
 .spacer {
-  border-top-style:none;margin-top:3em;
+  border-top-style:none;margin-top:6em;
 }
 
 .white, table {
@@ -145,7 +144,7 @@ header h1 a:hover {
 .main-section header {
   //override header decoration for article headings because we styled header
   background: none;
-  margin-bottom: 2em;
+  margin-bottom: 0;
 }
 
 .main-section {
@@ -218,6 +217,26 @@ footer li{
 }
 
 
+@media (max-width: 767px) {
+
+blockquote, blockquote p {
+
+  padding: 0 1em 0 1em;
+  
+}
+
+.top-bar-section ul li{
+  font-size: $small-font-size;
+}
+
+
+html { 
+  background: none; 
+  background-color: #FFF;
+}
+
+
+}
 
 
 

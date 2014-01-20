@@ -3,7 +3,7 @@ title: About Roxana
 permalink: /about-the-author/
 layout: page
 ---
-![Roxana](../assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG-200x200.jpg)Roxana Robinson is the author of five novels, including *Cost*; three collections of short stories; and the biography *Georgia O’Keeffe: A Life*. Her work has appeared in *The New Yorker*, *The Atlantic*, *Harper’s* Magazine, *The New York Times*, *The Washington Post*, *The Wall Street Journal*, *Travel and Leisure*, *More*, and *Vogue*, among other publications. She divides her time between New York, Connecticut, and Maine.  [Full Bio](/biography/)
+![Roxana](../assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG-200x200.jpg) Roxana Robinson is the author of five novels, including *Cost*; three collections of short stories; and the biography *Georgia O’Keeffe: A Life*. Her work has appeared in *The New Yorker*, *The Atlantic*, *Harper’s* Magazine, *The New York Times*, *The Washington Post*, *The Wall Street Journal*, *Travel and Leisure*, *More*, and *Vogue*, among other publications. She divides her time between New York, Connecticut, and Maine.  [Full Bio](/biography/)
 
 For Book Clubs or anyone who would like to leave a message for Roxana, please click here: 
 
@@ -13,21 +13,21 @@ For Book Clubs or anyone who would like to leave a message for Roxana, please cl
 
 <div style="text-align: left; float: left; width: 40%; margin-right: 40px;">
   <p>
-    <strong>Publicists:</strong><br /> Kimberly Burns<br /> <a href="mailto:kb@kimberlyburnspr.com">kb@kimberlyburnspr.com</a>
+    <strong>Publicists:</strong><br /> Kimberly Burns<br /> <a href="mailto:kb@kimberlyburnspr.com">email</a>
   </p>
   
   <p>
-    Lottchen Shivers<br /> <a href="mailto:Lottchen.Shivers@fsgbooks.com">Lottchen.Shivers@fsgbooks.com</a>
+    Lottchen Shivers<br /> <a href="mailto:Lottchen.Shivers@fsgbooks.com">email</a>
   </p>
 </div>
 
 <div style="text-align: left; float: left; width: 40%; margin-right: 10px;">
   <p>
-    <strong>Agent:</strong><br /> Lynn Nesbit, Janklow Nesbit<br /> <a href="mailto:lynn@janklow.com">lynn@janklow.com</a>
+    <strong>Agent:</strong><br /> Lynn Nesbit, Janklow Nesbit<br /> <a href="mailto:lynn@janklow.com">email</a>
   </p>
   
   <p>
-    <strong>Speaking Engagements:</strong><br /> Arlynn Greenbaum, at Authors Unlimited<br /> <a href="mailto:arlynnj@cs.com">arlynnj@cs.com</a>
+    <strong>Speaking Engagements:</strong><br /> Arlynn Greenbaum, at Authors Unlimited<br /> <a href="mailto:arlynnj@cs.com">email</a>
   </p>
 </div>
 
