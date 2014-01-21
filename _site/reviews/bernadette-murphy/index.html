@@ -330,12 +330,22 @@ days_desc.forEach(function(day) {
       
  
       if (moment(day).isBefore(moment().subtract('days', 1))) {
-        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6><hr class="divider" />').appendTo('#calendar-past');
+
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar-past');
+        
+
         groups[day].forEach(function(event) {
 
 
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar-past');
+
+if(event.name) {
+            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar-past');
+          }
+
+
+
 
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar-past');
@@ -355,6 +365,7 @@ days_desc.forEach(function(day) {
         
         $('</div>').appendTo('#calendar-past');
 
+        });
 
 
 
