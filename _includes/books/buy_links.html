@@ -11,12 +11,11 @@
    }
 </script>
 
-{% if page.isbn %}
-  
 
-<button class="pure-button" onclick="toggleShowHide()">Buy <em>{{page.title}}</em></button>
-  <div id="buy-buttons" class="list-block hidden" style="display:none;">
-    <ul class="buy-retailers small">
+{% if page.isbn %}
+<button class="pure-buttonTK buttonTK tiny radius" onclick="toggleShowHide()">Buy <em>{{page.title}}</em></button>
+  <div id="buy-buttons" class="list-block" style="display:block;">
+    <ul class="buy-retailers no-bullet">
       <div id='isbn10_{{ page.isbn }}'></div><!--  pulls in 10 digit ASIN for amazon from script -->
   <li>
     <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ page.isbn }}" target="_blank" >
@@ -36,8 +35,8 @@
 </ul>
 {% endif %}
 {% if page.isbn_digital or page.asin_kindle %}
-<ul class="buy-retailers small">
-  <li>Digital Editions</li>
+<ul class="buy-retailers no-bullet">
+  <li><strong>Digital Editions</strong></li>
 {% if page.asin_kindle %}
   <li>
     <a href="http://www.amazon.com/dp/{{ page.asin_kindle }}" target="_blank" >
@@ -60,7 +59,11 @@
 {% endif %}
 {% endif %}
 </div>
+
     <script type="text/javascript">
+    
+ 
+   
       function ISBN13toISBN10(isbn13) {
 
         var start = isbn13.substring(3, 12);
@@ -81,4 +84,7 @@
     return start + checkDig;
 }
 document.getElementById("isbn10_{{ page.isbn }}").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('{{ page.isbn }}') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+
+
+
 </script>

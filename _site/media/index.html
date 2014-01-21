@@ -143,6 +143,98 @@
 	  	<tbody class="list">
 				
 					<tr>
+						<td class="category" width="15%">Written Word</td>
+						<td class="title" width="50%">
+		
+							
+								Finalist - Nona Balakian Citation for Excellence in Reviewing
+							
+						</td>
+						<td class="date" width="15%">
+							2013-Jan-14
+						</td>
+						
+							<td class="publication" width="20%">
+								<a href="http://bookcritics.org/blog/archive/announcing-the-national-book-critics-awards-finalists">
+									<em>
+										NBCC
+									</em>
+								</a>
+								<a href="http://bookcritics.org/blog/archive/announcing-the-national-book-critics-awards-finalists" class="ss-redirect"></a>
+							</td>
+	   				
+				  </tr>
+				
+					<tr>
+						<td class="category" width="15%">Written Word</td>
+						<td class="title" width="50%">
+		
+							
+								“Accuracy of the Moment,” interview by Mariette Kalinowski
+							
+						</td>
+						<td class="date" width="15%">
+							2013-Dec-15
+						</td>
+						
+							<td class="publication" width="20%">
+								<a href="http://www.brooklynrail.org/2013/12/books/accuracy-of-the-moment-roxana-robinson-with-mariette-kalinowski">
+									<em>
+										Brooklyn Rail
+									</em>
+								</a>
+								<a href="http://www.brooklynrail.org/2013/12/books/accuracy-of-the-moment-roxana-robinson-with-mariette-kalinowski" class="ss-redirect"></a>
+							</td>
+	   				
+				  </tr>
+				
+					<tr>
+						<td class="category" width="15%">Written Word</td>
+						<td class="title" width="50%">
+		
+							
+								The Beecher Legacy, Part II
+							
+						</td>
+						<td class="date" width="15%">
+							2013-Nov-14
+						</td>
+						
+							<td class="publication" width="20%">
+								<a href="http://www.litkicks.com/BeecherLegacyTwo">
+									<em>
+										Levi Asher, Interview
+									</em>
+								</a>
+								<a href="http://www.litkicks.com/BeecherLegacyTwo" class="ss-redirect"></a>
+							</td>
+	   				
+				  </tr>
+				
+					<tr>
+						<td class="category" width="15%">Written Word</td>
+						<td class="title" width="50%">
+		
+							
+								The Beecher Legacy, Part I
+							
+						</td>
+						<td class="date" width="15%">
+							2013-Nov-11
+						</td>
+						
+							<td class="publication" width="20%">
+								<a href="http://www.litkicks.com/BeecherLegacyOne">
+									<em>
+										Levi Asher, Interview
+									</em>
+								</a>
+								<a href="http://www.litkicks.com/BeecherLegacyOne" class="ss-redirect"></a>
+							</td>
+	   				
+				  </tr>
+				
+					<tr>
 						<td class="category" width="15%">Spoken Word</td>
 						<td class="title" width="50%">
 		
@@ -220,7 +312,7 @@
 							
 						</td>
 						<td class="date" width="15%">
-							2013-Jul-02
+							2013-Jun-25
 						</td>
 						
 							<td class="publication" width="20%">
@@ -1001,6 +1093,8 @@
 
 
 
+
+
     <script src="/assets/js/underscore-min.js"></script>
   <script src="/assets/js/moment.min.js"></script>
 <style type="text/css">
@@ -1062,7 +1156,7 @@ $(document).ready(function() {
         
       if (moment(day).isAfter(moment().subtract('days', 1))) {
 
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr style="margin-top:-12px;"/>').appendTo('#calendar');
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar');
         
 
         groups[day].forEach(function(event) {
@@ -1070,6 +1164,13 @@ $(document).ready(function() {
 
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
+
+if(event.name) {
+            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar');
+          }
+
+
+
 
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');
@@ -1110,7 +1211,7 @@ days_desc.forEach(function(day) {
       
  
       if (moment(day).isBefore(moment().subtract('days', 1))) {
-        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6>').appendTo('#calendar-past');
+        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6><hr class="divider" />').appendTo('#calendar-past');
         groups[day].forEach(function(event) {
 
 
@@ -1162,6 +1263,7 @@ days_desc.forEach(function(day) {
   });
 });
     </script>
+
 
 
 

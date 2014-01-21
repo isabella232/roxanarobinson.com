@@ -113,7 +113,35 @@
   </header>
   
   <div class="entry-content prose">
-    
+    <p>Novelists on Loss and Love
+Why are loss and love such popular themes for writers to explore? Join these three novelists as they share their characters navigating friendships, memories, crisis and life in general.   </p>
+
+<p>Student Union Catalina (110 seats)<br>
+Sat, Mar 15, 11:30 am - 12:30 pm<br>
+Literature/Fiction<br>
+Signing area: Sales &amp; Signing Area #1 - UA BookStore Tent (following presentation)</p>
+
+<p>Panelists: T. Greenwood, Roxana Robinson<br>
+Moderator: Zara Larsen<br>
+Fiction: Worlds In Transition<br>
+Life demands that we move on, but how do we move forward when the past threatens to destroy us? </p>
+
+<p>Chemistry Room 111 (240 seats)<br>
+Sun, Mar 16, 11:30 am - 12:30 pm<br>
+Literature/Fiction<br>
+Signing area: Sales &amp; Signing Area #6 - Koffler Patio (following presentation)  </p>
+
+<p>Panelists: Christina Baker Kline, Jillian Cantor, Roxana Robinson<br>
+Moderator: Sheila Wilensky<br>
+Fiction: The Wreckage of War<br>
+Chemistry Room 111 (240 seats)<br>
+Sun, Mar 16, 2:30 pm - 3:30 pm<br>
+Literature/Fiction<br>
+Signing area: Sales &amp; Signing Area #6 - Koffler Patio (following presentation)</p>
+
+<p>Panelists: Ishmael Beah, Anthony Marra, Roxana Robinson<br>
+Moderator: Bill Carter</p>
+
 
     
     
@@ -155,6 +183,13 @@ Tuscon, AZ
 </h4>
 <p>
 
+
+
+	
+		<a href="http://tucsonfestivalofbooks.org/">(multiple events and venues)</a> <a href="http://tucsonfestivalofbooks.org/" class="ss-redirect"></a>
+	
+	
+<br />
 
 
 
@@ -203,6 +238,8 @@ Tuscon, AZ
       doc.setAttribute('data-useragent', navigator.userAgent);
     </script>
   
+
+
 
 
 
@@ -267,7 +304,7 @@ $(document).ready(function() {
         
       if (moment(day).isAfter(moment().subtract('days', 1))) {
 
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr style="margin-top:-12px;"/>').appendTo('#calendar');
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar');
         
 
         groups[day].forEach(function(event) {
@@ -275,6 +312,13 @@ $(document).ready(function() {
 
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
+
+if(event.name) {
+            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar');
+          }
+
+
+
 
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');
@@ -315,7 +359,7 @@ days_desc.forEach(function(day) {
       
  
       if (moment(day).isBefore(moment().subtract('days', 1))) {
-        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6>').appendTo('#calendar-past');
+        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6><hr class="divider" />').appendTo('#calendar-past');
         groups[day].forEach(function(event) {
 
 
@@ -367,6 +411,7 @@ days_desc.forEach(function(day) {
   });
 });
     </script>
+
 
 
 

@@ -1,5 +1,36 @@
 --- 
 - 
+  category: Written Word
+  date: "2013-01-14 23:37:07"
+  description: "Finalist - Nona Balakian Citation for Excellence in Reviewing"
+  link_to_original: 
+    - "http://bookcritics.org/blog/archive/announcing-the-national-book-critics-awards-finalists"
+  source: NBCC
+- 
+  category: Written Word
+  date: "2013-12-15 23:41:53"
+  description: "“Accuracy of the Moment,” interview by Mariette Kalinowski"
+  link_to_original: 
+    - "http://www.brooklynrail.org/2013/12/books/accuracy-of-the-moment-roxana-robinson-with-mariette-kalinowski"
+  related_book: sparta
+  source: "Brooklyn Rail"
+- 
+  category: Written Word
+  date: "2013-11-14 23:38:06"
+  description: "The Beecher Legacy, Part II"
+  link_to_original: 
+    - "http://www.litkicks.com/BeecherLegacyTwo"
+  source: Levi Asher, Interview
+
+- 
+  category: Written Word
+  date: "2013-11-11 23:38:06"
+  description: "The Beecher Legacy, Part I"
+  link_to_original: 
+    - "http://www.litkicks.com/BeecherLegacyOne"
+  source: Levi Asher, Interview
+
+- 
   category: Spoken Word
   date: "2013-08-02 23:37:07"
   description: "With Mark Herz, WSHU"
@@ -28,7 +59,7 @@
   source: priscillagilman.com
 - 
   category: Spoken Word
-  date: "2013-07-02 22:50:05"
+  date: "2013-06-25 22:50:05"
   description: "On Point: Roxanne Robinson and <em>Sparta</em>, with Tom Ashbrook, WBUR"
   link_to_original: 
     - "http://onpoint.wbur.org/2013/06/25/roxana-robinsons-sparta"

@@ -167,6 +167,98 @@
 					<tr>
 						<td class="category" width="15%">Essays</td>
 						<td class="title" width="50%">
+							"Reading to Write"
+							
+								<br /><small>I like to read before I write.</small>
+							
+						</td>
+						<td class="date" width="15%">
+							2013-Dec-15
+						</td>
+						
+							<td class="publication" width="20%">
+								<a href="http://www.glimmertrain.com/b82robinson.html">
+									<em>
+										Glimmer Train, Bulletin, 82nd issue, Winter 2013
+									</em>
+								</a>
+								<a href="http://www.glimmertrain.com/b82robinson.html" class="ss-redirect"></a>
+							</td>
+	   				
+				  </tr>
+				
+					<tr>
+						<td class="category" width="15%">Essays</td>
+						<td class="title" width="50%">
+							"A Tribute to Alice Munro"
+							
+								<br /><small>“I think I started reading Alice Munro in the early 1980s. I think the first book was <em>The Lives of Girls and Women</em>. It was an odd title, but I was drawn to it, because, if you’re a woman, that title reminds you that your own experience is different from others – by others I mean men, whose experience dominates the literary world—and suggests that your experience merits its own book.”</small>
+							
+						</td>
+						<td class="date" width="15%">
+							2013-Oct-10
+						</td>
+						
+							<td class="publication" width="20%">
+								<a href="http://centerforfiction.org/for-readers/alice-munro-by-roxana-robinson/">
+									<em>
+										The Center for Fiction
+									</em>
+								</a>
+								<a href="http://centerforfiction.org/for-readers/alice-munro-by-roxana-robinson/" class="ss-redirect"></a>
+							</td>
+	   				
+				  </tr>
+				
+					<tr>
+						<td class="category" width="15%">Essays</td>
+						<td class="title" width="50%">
+							"Writers on Munro"
+							
+								<br /><small>“We no longer require compassion from the literature we admire. We admire writers who celebrate irony, disdain, contempt.”</small>
+							
+						</td>
+						<td class="date" width="15%">
+							2013-Oct-10
+						</td>
+						
+							<td class="publication" width="20%">
+								<a href="http://www.newyorker.com/online/blogs/books/2013/10/writers-on-alice-munro.html">
+									<em>
+										The New Yorker
+									</em>
+								</a>
+								<a href="http://www.newyorker.com/online/blogs/books/2013/10/writers-on-alice-munro.html" class="ss-redirect"></a>
+							</td>
+	   				
+				  </tr>
+				
+					<tr>
+						<td class="category" width="15%">Essays</td>
+						<td class="title" width="50%">
+							"Roxana Robinson on Transit of Venus by Shirley Hazzard"
+							
+								<br /><small>“We no longer require compassion from the literature we admire. We admire writers who celebrate irony, disdain, contempt.”</small>
+							
+						</td>
+						<td class="date" width="15%">
+							2013-Sep-15
+						</td>
+						
+							<td class="publication" width="20%">
+								<a href="http://www.npr.org/2013/09/15/221784628/love-story-electrifies-beneath-the-silhouette-of-venus">
+									<em>
+										NPR
+									</em>
+								</a>
+								<a href="http://www.npr.org/2013/09/15/221784628/love-story-electrifies-beneath-the-silhouette-of-venus" class="ss-redirect"></a>
+							</td>
+	   				
+				  </tr>
+				
+					<tr>
+						<td class="category" width="15%">Essays</td>
+						<td class="title" width="50%">
 							"The Dark Heart of James Salter"
 							
 								<br /><small>“We no longer require compassion from the literature we admire. We admire writers who celebrate irony, disdain, contempt.”</small>
@@ -3101,7 +3193,7 @@
 				  </tr>
 				
 					<tr>
-						<td class="category" width="15%">Anthologies & CollectionsArt History</td>
+						<td class="category" width="15%">Art History</td>
 						<td class="title" width="50%">
 							"William M. Harnett"
 							
@@ -4034,6 +4126,8 @@
 
 
 
+
+
     <script src="/assets/js/underscore-min.js"></script>
   <script src="/assets/js/moment.min.js"></script>
 <style type="text/css">
@@ -4095,7 +4189,7 @@ $(document).ready(function() {
         
       if (moment(day).isAfter(moment().subtract('days', 1))) {
 
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr style="margin-top:-12px;"/>').appendTo('#calendar');
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar');
         
 
         groups[day].forEach(function(event) {
@@ -4103,6 +4197,13 @@ $(document).ready(function() {
 
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
+
+if(event.name) {
+            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar');
+          }
+
+
+
 
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');
@@ -4143,7 +4244,7 @@ days_desc.forEach(function(day) {
       
  
       if (moment(day).isBefore(moment().subtract('days', 1))) {
-        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6>').appendTo('#calendar-past');
+        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6><hr class="divider" />').appendTo('#calendar-past');
         groups[day].forEach(function(event) {
 
 
@@ -4195,6 +4296,7 @@ days_desc.forEach(function(day) {
   });
 });
     </script>
+
 
 
 

@@ -90,7 +90,7 @@
 
 
 	<section class="main-section row">
-		<article>
+		<article class="page-layout">
 	<header>
 	  <h1 class="entry-title">    	   
 	   	A Glimpse of Scarlet
@@ -554,11 +554,10 @@
 </script>
 
 
-  
 
-<button class="pure-button" onclick="toggleShowHide()">Buy <em>A Glimpse of Scarlet</em></button>
-  <div id="buy-buttons" class="list-block hidden" style="display:none;">
-    <ul class="buy-retailers small">
+<button class="pure-buttonTK buttonTK tiny radius" onclick="toggleShowHide()">Buy <em>A Glimpse of Scarlet</em></button>
+  <div id="buy-buttons" class="list-block" style="display:block;">
+    <ul class="buy-retailers no-bullet">
       <div id='isbn10_9780060981167'></div><!--  pulls in 10 digit ASIN for amazon from script -->
   <li>
     <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780060981167" target="_blank" >
@@ -578,8 +577,8 @@
 </ul>
 
 
-<ul class="buy-retailers small">
-  <li>Digital Editions</li>
+<ul class="buy-retailers no-bullet">
+  <li><strong>Digital Editions</strong></li>
 
 
   <li>
@@ -596,7 +595,11 @@
 
 
 </div>
+
     <script type="text/javascript">
+    
+ 
+   
       function ISBN13toISBN10(isbn13) {
 
         var start = isbn13.substring(3, 12);
@@ -617,6 +620,9 @@
     return start + checkDig;
 }
 document.getElementById("isbn10_9780060981167").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('9780060981167') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+
+
+
 </script>
 			</div>
 			<div class="small-12 medium-8 large-8 columns">
@@ -2039,6 +2045,8 @@ document.getElementById("isbn10_9780060981167").innerHTML='<li><a href="http://w
 
 
 
+
+
     <script src="/assets/js/underscore-min.js"></script>
   <script src="/assets/js/moment.min.js"></script>
 <style type="text/css">
@@ -2100,7 +2108,7 @@ $(document).ready(function() {
         
       if (moment(day).isAfter(moment().subtract('days', 1))) {
 
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr style="margin-top:-12px;"/>').appendTo('#calendar');
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar');
         
 
         groups[day].forEach(function(event) {
@@ -2108,6 +2116,13 @@ $(document).ready(function() {
 
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
+
+if(event.name) {
+            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar');
+          }
+
+
+
 
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');
@@ -2148,7 +2163,7 @@ days_desc.forEach(function(day) {
       
  
       if (moment(day).isBefore(moment().subtract('days', 1))) {
-        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6>').appendTo('#calendar-past');
+        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6><hr class="divider" />').appendTo('#calendar-past');
         groups[day].forEach(function(event) {
 
 
@@ -2200,6 +2215,7 @@ days_desc.forEach(function(day) {
   });
 });
     </script>
+
 
 
 

@@ -4,7 +4,13 @@
 
 html { 
   //background: url(http://563f8e56373163a3565b-ff036a63fe4db1f0ce81564f86905acf.r71.cf1.rackcdn.com/springmorning_2100x.jpg) no-repeat center center fixed; 
-  background: url(/assets/img/background-leaves-full.JPG) no-repeat center center fixed; 
+  //background: url(/assets/img/background-leaves-full.JPG) no-repeat center center fixed; 
+  //background: url(http://31.media.tumblr.com/44445713d1ea561f333795487720afc7/tumblr_ms9mywAOPn1st5lhmo1_1280.jpg) no-repeat center center fixed; 
+//  background: url(http://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.r92.cf1.rackcdn.com/unsplash_52b2cfb6647f6_1.JPG) no-repeat center center fixed; 
+
+background: url(/assets/img/bg-street-2278x1200.jpg) no-repeat center center fixed; 
+
+
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -50,6 +56,10 @@ body {
   border-top-style:none;margin-top:6em;
 }
 
+.divider {
+  margin-top:-12px;margin-bottom:0;
+}
+
 .white, table {
   background-color:rgba(255,255,255,0.68);
 }
@@ -67,6 +77,10 @@ tr {
 
 td.category, td.date, td.publication {
   font-size: $small-font-size;
+}
+
+td.title {
+  font-weight: 500;
 }
 
 // END
@@ -144,7 +158,9 @@ header h1 a:hover {
 .main-section header {
   //override header decoration for article headings because we styled header
   background: none;
-  margin-bottom: 0;
+  margin-bottom: 2.5em;
+  padding-top:0;
+  min-height: 0;
 }
 
 .main-section {
