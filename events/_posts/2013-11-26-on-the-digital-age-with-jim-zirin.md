@@ -1,7 +1,6 @@
 ---
 title: Interview on the Digital Age with Jim Zirin
 layout: page
-title: Name of Event
 event-allday: false
 event-start: 2013-11-26 17:00:00
 event-end:
