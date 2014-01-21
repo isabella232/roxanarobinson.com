@@ -55,7 +55,7 @@
   <ul class="title-area">
     <li class="name">
     </li>
-    <li class="toggle-topbar menu-icon"><a href="#" style="color:black;">Menu</a></li>
+    <li class="toggle-topbar button tiny">Menu</li>
   </ul>
 
   <section class="top-bar-section">
@@ -90,7 +90,7 @@
 
 
 	<section class="main-section row">
-		<article>
+		<article class="page-layout">
 	<header>
 	  <h1 class="entry-title">    	   
 	   	This Is My Daughter
@@ -123,16 +123,6 @@
 
 
   <footer>&mdash; <em>The New York Times</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -552,6 +542,90 @@
 	
 </ul>
 
+				<script type="text/javascript">
+  function toggleShowHide()
+   { //TODO: THIS ID SHOULD BE UNIQUE
+      var theDiv = document.getElementById('buy-buttons');
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+        else{
+              theDiv.style.display = "none";
+        }
+   }
+</script>
+
+
+
+<button class="pure-buttonTK buttonTK tiny radius" onclick="toggleShowHide()">Buy <em>This Is My Daughter</em></button>
+  <div id="buy-buttons" class="list-block" style="display:block;">
+    <ul class="buy-retailers no-bullet">
+      <div id='isbn10_9780684864365'></div><!--  pulls in 10 digit ASIN for amazon from script -->
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780684864365" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+  <li>
+    <a href="http://www.powells.com/biblio?isbn=9780684864365" target="_blank" >
+      Powells
+    </a>
+  </li>  
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780684864365" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+</ul>
+
+
+<ul class="buy-retailers no-bullet">
+  <li><strong>Digital Editions</strong></li>
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn0684864363" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=0684864363" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+</div>
+
+    <script type="text/javascript">
+    
+ 
+   
+      function ISBN13toISBN10(isbn13) {
+
+        var start = isbn13.substring(3, 12);
+        var sum = 0;
+        var mul = 10;
+        var i;
+     
+        for(i = 0; i < 9; i++) {
+            sum = sum + (mul * parseInt(start[i]));
+            mul -= 1;
+        }     
+    var checkDig = 11 - (sum % 11);
+    if (checkDig == 10) {
+        checkDig = "X";
+    } else if (checkDig == 11) {
+        checkDig = "0";
+    }
+    return start + checkDig;
+}
+document.getElementById("isbn10_9780684864365").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('9780684864365') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+
+
+
+</script>
 			</div>
 			<div class="small-12 medium-8 large-8 columns">
 				<p>When Peter and Emma, both refugees from failed first marriages, decide to create a new life together, they do so with an optimistic commitment to creating a union — and forging a new family from two existing ones — bonded by love and trust. Their young daughters, however, are not partners in this new venture, but helpless participants. Like all children of divorce, the girls feel sorrow, loss, and a longing for their earlier lives. As the tensions and complexities grow steadily more powerful, <i id="yui_3_8_1_1_1371744912301_1084">This Is My Daughter</i> moves inexorably to a stunning and emotional climax. Roxana Robinson, who has established a reputation as a perceptive chronicler of WASP family life, delivers a beautifully moving and compassionate account of a marriage in peril, proving once more that class and privilege provide no protection from the passion of opposing desires.</p>
@@ -578,16 +652,6 @@
 
 
   <footer>&mdash; <em>The New York Times</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1265,16 +1329,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/this-is-my-daughter/">This Is My Daughter</a>
     
   
@@ -1312,16 +1366,6 @@
 
 
   <footer>&mdash; <em>Minneapolis Star Tribune</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1897,16 +1941,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/this-is-my-daughter/">This Is My Daughter</a>
     
   
@@ -1934,16 +1968,6 @@
 
 
   <footer>&mdash; Amazon.com <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -2269,7 +2293,7 @@
 <script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
 
     <script src="/assets/js/foundation.min.js"></script>
-    <script src="/assets/js/foundation.topbar.js"></script>
+
     <script>
       $(document).foundation();
 
@@ -2277,6 +2301,8 @@
       doc.setAttribute('data-useragent', navigator.userAgent);
     </script>
   
+
+
 
 
 
@@ -2302,7 +2328,7 @@ body.home .address {
 
 <script>
 // TODO: [X]Times show an extra 0 <-- going to leave this
-// TODO: [ ]reverse ordering for past events (can fix with json file, but rather not)
+// TODO: [X]reverse ordering for past events (can fix with json file, but rather not)
 // TODO: [X]conditionals to not show missing content
 // TODO: [X]Links - taking out - put all info in the main post
 
@@ -2328,8 +2354,10 @@ $(document).ready(function() {
 
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
-      days_desc = _.sortBy(Object.keys(groups), function(day) { return day * -1 });
+      days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
       
+
+
 
 
 
@@ -2339,7 +2367,7 @@ $(document).ready(function() {
         
       if (moment(day).isAfter(moment().subtract('days', 1))) {
 
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr style="margin-top:-12px;"/>').appendTo('#calendar');
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar');
         
 
         groups[day].forEach(function(event) {
@@ -2347,6 +2375,13 @@ $(document).ready(function() {
 
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
+
+if(event.name) {
+            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar');
+          }
+
+
+
 
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');
@@ -2387,12 +2422,22 @@ days_desc.forEach(function(day) {
       
  
       if (moment(day).isBefore(moment().subtract('days', 1))) {
-        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6>').appendTo('#calendar-past');
+
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar-past');
+        
+
         groups[day].forEach(function(event) {
 
 
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar-past');
+
+if(event.name) {
+            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar-past');
+          }
+
+
+
 
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar-past');
@@ -2412,6 +2457,7 @@ days_desc.forEach(function(day) {
         
         $('</div>').appendTo('#calendar-past');
 
+        });
 
 
 
@@ -2439,6 +2485,7 @@ days_desc.forEach(function(day) {
   });
 });
     </script>
+
 
 
 

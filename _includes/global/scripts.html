@@ -2,7 +2,7 @@
 <script>window.jQuery || document.write('<script src="{{site.baseurl}}/assets/js/jquery.min.js"><\/script>')</script>
 
     <script src="{{site.baseurl}}/assets/js/foundation.min.js"></script>
-    <script src="{{site.baseurl}}/assets/js/foundation.topbar.js"></script>
+
     <script>
       $(document).foundation();
 
@@ -15,9 +15,12 @@
 {% endif %}
 
 
+
+
     <script src="{{site.baseurl}}/assets/js/underscore-min.js"></script>
   <script src="{{site.baseurl}}/assets/js/moment.min.js"></script>
 {% include scripts/events-list.js.html  %}
+
 
 {% if page.url == "/writing/" or page.url == '/media/' %}
   {% include scripts/list.js.html  %}

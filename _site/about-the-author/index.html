@@ -55,7 +55,7 @@
   <ul class="title-area">
     <li class="name">
     </li>
-    <li class="toggle-topbar menu-icon"><a href="#" style="color:black;">Menu</a></li>
+    <li class="toggle-topbar button tiny">Menu</li>
   </ul>
 
   <section class="top-bar-section">
@@ -109,6 +109,8 @@
   <div class="entry-content prose">
     <p><img src="../assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG-200x200.jpg" alt="Roxana"> Roxana Robinson is the author of five novels, including <em>Cost</em>; three collections of short stories; and the biography <em>Georgia O’Keeffe: A Life</em>. Her work has appeared in <em>The New Yorker</em>, <em>The Atlantic</em>, <em>Harper’s</em> Magazine, <em>The New York Times</em>, <em>The Washington Post</em>, <em>The Wall Street Journal</em>, <em>Travel and Leisure</em>, <em>More</em>, and <em>Vogue</em>, among other publications. She divides her time between New York, Connecticut, and Maine.  <a href="/biography/">Full Bio</a></p>
 
+<p><a href="#downloads">click here for hi-res images below</a></p>
+
 <p>For Book Clubs or anyone who would like to leave a message for Roxana, please click here: </p>
 
 <p><a title='Contact' href='../contact/' class='button tiny radius'>Contact</a></p>
@@ -138,6 +140,9 @@
 <hr>
 
 <h3>Awards</h3>
+
+<p><strong>2013</strong>
+&mdash; Finalist - Nona Balakian Citation for Excellence in Reviewing, NBCC</p>
 
 <p><strong>2008</strong><br>
 &mdash; Fiction Award, Maine Writers and Publishers Alliance, for<em> Cos</em><em>t </em><br>
@@ -210,6 +215,44 @@
 <p><strong>1984</strong><br>
 &mdash; “Getting On,” published in <em>The New Yorker</em>, listed in <em>Best American Short Stories</em></p>
 
+<hr>
+
+<div class="row" id="downloads">
+  <p>
+<i><a href="../assets/img/sparta_robinson_275x400.jpg"><img src="../assets/img/sparta_robinson_95x140.jpg" alt="SPARTA Cover" width="95" height="141" border="0" vspace="3" /></a></i>
+SPARTA Cover <br />6&quot;X10&quot; 72 ppi
+</p>
+</div><div class="row">
+<p>
+<a title="Cost  Jacket Cover Roxana Robinson" href="../assets/img/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG.jpg" target="_blank"><i><img src="../assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy.jpg" alt="Roxana Robinson Portrait" width="112" height="150" border="0" vspace="3" /></i></a>
+Roxana Robinson           <br />
+Author Photo credit: ©2010 David Ignaszewski/Koboy<br />
+6&quot;X9&quot; 300ppi          
+</p>
+</div><div class="row">
+<p>
+<a title="Cost  Jacket Cover Roxana Robinson" href="../assets/img/Roxana-ROBINSON-11-David-Ignaszewski-koboy_LG.jpg" target="_blank"><i><img src="../assets/img/Roxana-ROBINSON-11-David-Ignaszewski-koboy_thumb.jpg" alt="Roxana Robinson Portrait" width="110" height="147" border="0" vspace="3" /></i></a>Roxana Robinson<br />
+Author Photo credit: ©2010 David Ignaszewski/Koboy<br />
+4&quot;X6&quot; 300ppi 
+</p>
+</div><div class="row">
+<p>
+<a href="../assets/img/Robinson_JoyceRavid.jpg" target="_blank"><img src="../assets/img/Robinson_thmb_JoyceRavid.jpg" alt="" width="108" height="144" border="0" /></a>
+Roxana Robinson <br />
+Author Photo credit: ©2008 JoyceRavid <br />
+5X6.5 @ 300ppi
+</p>
+</div><div class="row">
+<p>
+<a href="../assets/img/Robinson2_JoyceRavid.jpg" target="_blank"><img src="../assets/img/Robinson2_thmb_JoyceRavid.jpg" alt="" width="108" height="144" border="0" /></a>
+Roxana Robinson <br />
+Author Photo credit: ©2008 JoyceRavid <br />
+5X6.5 @ 300ppi
+</p>
+</div>
+
+<hr>
+
 
     
     
@@ -253,7 +296,7 @@
 <script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
 
     <script src="/assets/js/foundation.min.js"></script>
-    <script src="/assets/js/foundation.topbar.js"></script>
+
     <script>
       $(document).foundation();
 
@@ -261,6 +304,8 @@
       doc.setAttribute('data-useragent', navigator.userAgent);
     </script>
   
+
+
 
 
 
@@ -286,7 +331,7 @@ body.home .address {
 
 <script>
 // TODO: [X]Times show an extra 0 <-- going to leave this
-// TODO: [ ]reverse ordering for past events (can fix with json file, but rather not)
+// TODO: [X]reverse ordering for past events (can fix with json file, but rather not)
 // TODO: [X]conditionals to not show missing content
 // TODO: [X]Links - taking out - put all info in the main post
 
@@ -312,8 +357,10 @@ $(document).ready(function() {
 
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
-      days_desc = _.sortBy(Object.keys(groups), function(day) { return day * -1 });
+      days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
       
+
+
 
 
 
@@ -323,7 +370,7 @@ $(document).ready(function() {
         
       if (moment(day).isAfter(moment().subtract('days', 1))) {
 
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr style="margin-top:-12px;"/>').appendTo('#calendar');
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar');
         
 
         groups[day].forEach(function(event) {
@@ -331,6 +378,13 @@ $(document).ready(function() {
 
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
+
+if(event.name) {
+            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar');
+          }
+
+
+
 
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');
@@ -371,12 +425,22 @@ days_desc.forEach(function(day) {
       
  
       if (moment(day).isBefore(moment().subtract('days', 1))) {
-        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6>').appendTo('#calendar-past');
+
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar-past');
+        
+
         groups[day].forEach(function(event) {
 
 
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar-past');
+
+if(event.name) {
+            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar-past');
+          }
+
+
+
 
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar-past');
@@ -396,6 +460,7 @@ days_desc.forEach(function(day) {
         
         $('</div>').appendTo('#calendar-past');
 
+        });
 
 
 
@@ -423,6 +488,7 @@ days_desc.forEach(function(day) {
   });
 });
     </script>
+
 
 
 

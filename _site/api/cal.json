@@ -411,74 +411,6 @@
     ,
     
   {
-    "name"    : "This is a test",
-    "allday"  : "false",
-    "start"   : "2013-12-20 23:16:00 UTC",
-    "end"     : "2013-12-20 23:18:00 UTC",
-    "starttime"   : "11:16 pm",
-    "endtime"     : "11:18 pm",
-    "venue"   : "The Great Venue",
-    "address" : "280 Riverside Drive.",
-    "citystate" : "New Yak, NY", 
-    "website" : "http://budparr.com",
-    "url"     : "/events/2013/12/20/test/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "This is a test Again",
-    "allday"  : "false",
-    "start"   : "2013-12-20 23:25:00 UTC",
-    "end"     : "2013-12-20 23:28:00 UTC",
-    "starttime"   : "11:25 pm",
-    "endtime"     : "11:28 pm",
-    "venue"   : "The Great Venue",
-    "address" : "280 Riverside Drive.",
-    "citystate" : "New Yak CITY, NY", 
-    "website" : "http://budparr.com",
-    "url"     : "/events/2013/12/20/test2/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "This is a test",
-    "allday"  : "false",
-    "start"   : "2013-12-21 22:15:00 UTC",
-    "end"     : "2013-12-21 22:30:00 UTC",
-    "starttime"   : "10:15 pm",
-    "endtime"     : "10:30 pm",
-    "venue"   : "The Great Venue",
-    "address" : "280 Riverside Drive.",
-    "citystate" : "New Yak, NY", 
-    "website" : "http://budparr.com",
-    "url"     : "/events/2013/12/20/test3/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "This is a test 12/18",
-    "allday"  : "false",
-    "start"   : "2013-12-21 23:13:00 UTC",
-    "end"     : "2013-12-21 23:45:00 UTC",
-    "starttime"   : "11:13 pm",
-    "endtime"     : "11:45 pm",
-    "venue"   : "The Great Venue",
-    "address" : "280 Riverside Drive.",
-    "citystate" : "New York CIty, NY 12/18", 
-    "website" : "http://budparr.com",
-    "url"     : "/events/2013/12/20/test4/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
     "name"    : "",
     "allday"  : "false",
     "start"   : "2014-01-22 18:00:00 UTC",
@@ -519,7 +451,7 @@
     "end"     : "2014-03-16 20:30:00 UTC",
     "starttime"   : "06:00 pm",
     "endtime"     : "08:30 pm",
-    "venue"   : "",
+    "venue"   : "(multiple events and venues)",
     "address" : "",
     "citystate" : "Tuscon, AZ", 
     "website" : "http://tucsonfestivalofbooks.org/",
@@ -541,23 +473,6 @@
     "citystate" : "San Antonio, TX", 
     "website" : "",
     "url"     : "/events/2014/04/05/san-antonio-literary-festival/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "Test Event",
-    "allday"  : "false",
-    "start"   : "2013-12-27 12:00:00 UTC",
-    "end"     : "2013-12-27 12:10:00 UTC",
-    "starttime"   : "12:00 pm",
-    "endtime"     : "12:10 pm",
-    "venue"   : "My House",
-    "address" : "280 Riverside Drive",
-    "citystate" : "New York, NY", 
-    "website" : "http://budparr.com",
-    "url"     : "/events/2103/12/27/testevent/",
     "summary" : ""
   }
 

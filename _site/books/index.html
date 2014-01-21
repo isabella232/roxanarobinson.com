@@ -55,7 +55,7 @@
   <ul class="title-area">
     <li class="name">
     </li>
-    <li class="toggle-topbar menu-icon"><a href="#" style="color:black;">Menu</a></li>
+    <li class="toggle-topbar button tiny">Menu</li>
   </ul>
 
   <section class="top-bar-section">
@@ -90,13 +90,13 @@
 
 
 	<section class="main-section row">
-		<article>
+		<article class="page-layout">
     <header>
         <h1 class="page-title">
              Books  
         </h1>
     </header>
-                                                                                                                                                                               
+                                                                                                                                                                     
     <div class="row" style="margin-bottom:8rem;">
         <div class="small-12 medium-11 large-11 large-centered columns">
             <div class="small-12 medium-12 large-12">
@@ -115,16 +115,6 @@
 	<p>&ldquo;One of the many strengths of this engaging story is that Robinson doesn’t treat post-traumatic stress disorder with that nifty abbreviation, PTSD, neatly buttoning it in place. Instead, she shows us a more insidious, layered and complex mix of debilitating psychological wounds&hellip;&rdquo;</p>
 
   <footer>&mdash; Ron Carlson, <em>The New York Times Book Review</em> <a href="http://www.nytimes.com/2013/07/28/books/review/sparta-by-roxana-robinson.html?_r=1&" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -672,16 +662,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/sparta/">Sparta</a>
     
   
@@ -849,12 +829,96 @@
 	
 		<li>
 			<small>
-				ISBN Digital: 66154439
+				ISBN Digital: 9780374267704
 			</small>
 		<li>
 	
 </ul>
 
+                <script type="text/javascript">
+  function toggleShowHide()
+   { //TODO: THIS ID SHOULD BE UNIQUE
+      var theDiv = document.getElementById('buy-buttons');
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+        else{
+              theDiv.style.display = "none";
+        }
+   }
+</script>
+
+
+
+<button class="pure-buttonTK buttonTK tiny radius" onclick="toggleShowHide()">Buy <em>Sparta</em></button>
+  <div id="buy-buttons" class="list-block" style="display:block;">
+    <ul class="buy-retailers no-bullet">
+      <div id='isbn10_9780374267704'></div><!--  pulls in 10 digit ASIN for amazon from script -->
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780374267704" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+  <li>
+    <a href="http://www.powells.com/biblio?isbn=9780374267704" target="_blank" >
+      Powells
+    </a>
+  </li>  
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780374267704" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+</ul>
+
+
+<ul class="buy-retailers no-bullet">
+  <li><strong>Digital Editions</strong></li>
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn9780374267704" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780374267704" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+</div>
+
+    <script type="text/javascript">
+    
+ 
+   
+      function ISBN13toISBN10(isbn13) {
+
+        var start = isbn13.substring(3, 12);
+        var sum = 0;
+        var mul = 10;
+        var i;
+     
+        for(i = 0; i < 9; i++) {
+            sum = sum + (mul * parseInt(start[i]));
+            mul -= 1;
+        }     
+    var checkDig = 11 - (sum % 11);
+    if (checkDig == 10) {
+        checkDig = "X";
+    } else if (checkDig == 11) {
+        checkDig = "0";
+    }
+    return start + checkDig;
+}
+document.getElementById("isbn10_9780374267704").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('9780374267704') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+
+
+
+</script>
             </div>
             <div class="small-12 medium-8 large-8 columns">
                 		<h1 class="entry-title"> 
@@ -892,16 +956,6 @@
 	<p>&ldquo;Roxana Robinson’s <em>Cost</em> artfully portrays a family transformed by the far-reaching consequences of a son’s heroin addiction.&rdquo;</p>
 
   <footer>&mdash; <em>Vanity Fair</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1341,6 +1395,90 @@
 	
 </ul>
 
+                <script type="text/javascript">
+  function toggleShowHide()
+   { //TODO: THIS ID SHOULD BE UNIQUE
+      var theDiv = document.getElementById('buy-buttons');
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+        else{
+              theDiv.style.display = "none";
+        }
+   }
+</script>
+
+
+
+<button class="pure-buttonTK buttonTK tiny radius" onclick="toggleShowHide()">Buy <em>Cost</em></button>
+  <div id="buy-buttons" class="list-block" style="display:block;">
+    <ul class="buy-retailers no-bullet">
+      <div id='isbn10_9780374271879'></div><!--  pulls in 10 digit ASIN for amazon from script -->
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780374271879" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+  <li>
+    <a href="http://www.powells.com/biblio?isbn=9780374271879" target="_blank" >
+      Powells
+    </a>
+  </li>  
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780374271879" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+</ul>
+
+
+<ul class="buy-retailers no-bullet">
+  <li><strong>Digital Editions</strong></li>
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn0374271879" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=0374271879" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+</div>
+
+    <script type="text/javascript">
+    
+ 
+   
+      function ISBN13toISBN10(isbn13) {
+
+        var start = isbn13.substring(3, 12);
+        var sum = 0;
+        var mul = 10;
+        var i;
+     
+        for(i = 0; i < 9; i++) {
+            sum = sum + (mul * parseInt(start[i]));
+            mul -= 1;
+        }     
+    var checkDig = 11 - (sum % 11);
+    if (checkDig == 10) {
+        checkDig = "X";
+    } else if (checkDig == 11) {
+        checkDig = "0";
+    }
+    return start + checkDig;
+}
+document.getElementById("isbn10_9780374271879").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('9780374271879') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+
+
+
+</script>
             </div>
             <div class="small-12 medium-8 large-8 columns">
                 		<h1 class="entry-title"> 
@@ -1426,16 +1564,6 @@
 	<p>&ldquo;Roxana Robinson’s beautifully rendered prose captures moments of domestic drama—sometimes painful, sometimes ecstatic, always heartrending and illuminating.&rdquo;</p>
 
   <footer>&mdash; Joyce Carol Oates <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1809,6 +1937,90 @@
 	
 </ul>
 
+                <script type="text/javascript">
+  function toggleShowHide()
+   { //TODO: THIS ID SHOULD BE UNIQUE
+      var theDiv = document.getElementById('buy-buttons');
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+        else{
+              theDiv.style.display = "none";
+        }
+   }
+</script>
+
+
+
+<button class="pure-buttonTK buttonTK tiny radius" onclick="toggleShowHide()">Buy <em>A Perfect Stranger and Other Stories</em></button>
+  <div id="buy-buttons" class="list-block" style="display:block;">
+    <ul class="buy-retailers no-bullet">
+      <div id='isbn10_9780812967357'></div><!--  pulls in 10 digit ASIN for amazon from script -->
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780812967357" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+  <li>
+    <a href="http://www.powells.com/biblio?isbn=9780812967357" target="_blank" >
+      Powells
+    </a>
+  </li>  
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780812967357" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+</ul>
+
+
+<ul class="buy-retailers no-bullet">
+  <li><strong>Digital Editions</strong></li>
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn0812967356" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=0812967356" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+</div>
+
+    <script type="text/javascript">
+    
+ 
+   
+      function ISBN13toISBN10(isbn13) {
+
+        var start = isbn13.substring(3, 12);
+        var sum = 0;
+        var mul = 10;
+        var i;
+     
+        for(i = 0; i < 9; i++) {
+            sum = sum + (mul * parseInt(start[i]));
+            mul -= 1;
+        }     
+    var checkDig = 11 - (sum % 11);
+    if (checkDig == 10) {
+        checkDig = "X";
+    } else if (checkDig == 11) {
+        checkDig = "0";
+    }
+    return start + checkDig;
+}
+document.getElementById("isbn10_9780812967357").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('9780812967357') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+
+
+
+</script>
             </div>
             <div class="small-12 medium-8 large-8 columns">
                 		<h1 class="entry-title"> 
@@ -1854,16 +2066,6 @@
 	<p>&ldquo;There is such quiet power in this fateful novel, present from the start and gathering to its culmination: a story of loss and remarriage and of the harm done to and by vulnerable men and women. This is cool, intrepid writing, not a word wasted, creating a human tension that reflects our endangered world.&rdquo;</p>
 
   <footer>&mdash; Shirley Hazzard <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -2279,6 +2481,90 @@
 	
 </ul>
 
+                <script type="text/javascript">
+  function toggleShowHide()
+   { //TODO: THIS ID SHOULD BE UNIQUE
+      var theDiv = document.getElementById('buy-buttons');
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+        else{
+              theDiv.style.display = "none";
+        }
+   }
+</script>
+
+
+
+<button class="pure-buttonTK buttonTK tiny radius" onclick="toggleShowHide()">Buy <em>Sweetwater</em></button>
+  <div id="buy-buttons" class="list-block" style="display:block;">
+    <ul class="buy-retailers no-bullet">
+      <div id='isbn10_9780812967340'></div><!--  pulls in 10 digit ASIN for amazon from script -->
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780812967340" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+  <li>
+    <a href="http://www.powells.com/biblio?isbn=9780812967340" target="_blank" >
+      Powells
+    </a>
+  </li>  
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780812967340" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+</ul>
+
+
+<ul class="buy-retailers no-bullet">
+  <li><strong>Digital Editions</strong></li>
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn9780307431882" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780307431882" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+</div>
+
+    <script type="text/javascript">
+    
+ 
+   
+      function ISBN13toISBN10(isbn13) {
+
+        var start = isbn13.substring(3, 12);
+        var sum = 0;
+        var mul = 10;
+        var i;
+     
+        for(i = 0; i < 9; i++) {
+            sum = sum + (mul * parseInt(start[i]));
+            mul -= 1;
+        }     
+    var checkDig = 11 - (sum % 11);
+    if (checkDig == 10) {
+        checkDig = "X";
+    } else if (checkDig == 11) {
+        checkDig = "0";
+    }
+    return start + checkDig;
+}
+document.getElementById("isbn10_9780812967340").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('9780812967340') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+
+
+
+</script>
             </div>
             <div class="small-12 medium-8 large-8 columns">
                 		<h1 class="entry-title"> 
@@ -2318,16 +2604,6 @@
 	<p>&ldquo;Often compared to John Cheever…but Robinson’s latest novel made me think of an earlier literary forebear, Henry James.&rdquo;</p>
 
   <footer>&mdash; <em>The New York Times</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -2747,6 +3023,90 @@
 	
 </ul>
 
+                <script type="text/javascript">
+  function toggleShowHide()
+   { //TODO: THIS ID SHOULD BE UNIQUE
+      var theDiv = document.getElementById('buy-buttons');
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+        else{
+              theDiv.style.display = "none";
+        }
+   }
+</script>
+
+
+
+<button class="pure-buttonTK buttonTK tiny radius" onclick="toggleShowHide()">Buy <em>This Is My Daughter</em></button>
+  <div id="buy-buttons" class="list-block" style="display:block;">
+    <ul class="buy-retailers no-bullet">
+      <div id='isbn10_9780684864365'></div><!--  pulls in 10 digit ASIN for amazon from script -->
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780684864365" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+  <li>
+    <a href="http://www.powells.com/biblio?isbn=9780684864365" target="_blank" >
+      Powells
+    </a>
+  </li>  
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780684864365" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+</ul>
+
+
+<ul class="buy-retailers no-bullet">
+  <li><strong>Digital Editions</strong></li>
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn0684864363" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=0684864363" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+</div>
+
+    <script type="text/javascript">
+    
+ 
+   
+      function ISBN13toISBN10(isbn13) {
+
+        var start = isbn13.substring(3, 12);
+        var sum = 0;
+        var mul = 10;
+        var i;
+     
+        for(i = 0; i < 9; i++) {
+            sum = sum + (mul * parseInt(start[i]));
+            mul -= 1;
+        }     
+    var checkDig = 11 - (sum % 11);
+    if (checkDig == 10) {
+        checkDig = "X";
+    } else if (checkDig == 11) {
+        checkDig = "0";
+    }
+    return start + checkDig;
+}
+document.getElementById("isbn10_9780684864365").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('9780684864365') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+
+
+
+</script>
             </div>
             <div class="small-12 medium-8 large-8 columns">
                 		<h1 class="entry-title"> 
@@ -3108,16 +3468,6 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <a href="/books/asking-for-love/">Asking for Love</a>
     
   
@@ -3215,6 +3565,90 @@
 	
 </ul>
 
+                <script type="text/javascript">
+  function toggleShowHide()
+   { //TODO: THIS ID SHOULD BE UNIQUE
+      var theDiv = document.getElementById('buy-buttons');
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+        else{
+              theDiv.style.display = "none";
+        }
+   }
+</script>
+
+
+
+<button class="pure-buttonTK buttonTK tiny radius" onclick="toggleShowHide()">Buy <em>Asking for Love</em></button>
+  <div id="buy-buttons" class="list-block" style="display:block;">
+    <ul class="buy-retailers no-bullet">
+      <div id='isbn10_9780679439028'></div><!--  pulls in 10 digit ASIN for amazon from script -->
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780679439028" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+  <li>
+    <a href="http://www.powells.com/biblio?isbn=9780679439028" target="_blank" >
+      Powells
+    </a>
+  </li>  
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780679439028" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+</ul>
+
+
+<ul class="buy-retailers no-bullet">
+  <li><strong>Digital Editions</strong></li>
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn0679439021" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=0679439021" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+</div>
+
+    <script type="text/javascript">
+    
+ 
+   
+      function ISBN13toISBN10(isbn13) {
+
+        var start = isbn13.substring(3, 12);
+        var sum = 0;
+        var mul = 10;
+        var i;
+     
+        for(i = 0; i < 9; i++) {
+            sum = sum + (mul * parseInt(start[i]));
+            mul -= 1;
+        }     
+    var checkDig = 11 - (sum % 11);
+    if (checkDig == 10) {
+        checkDig = "X";
+    } else if (checkDig == 11) {
+        checkDig = "0";
+    }
+    return start + checkDig;
+}
+document.getElementById("isbn10_9780679439028").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('9780679439028') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+
+
+
+</script>
             </div>
             <div class="small-12 medium-8 large-8 columns">
                 		<h1 class="entry-title"> 
@@ -3250,16 +3684,6 @@
 	<p>&ldquo;Once people like these were the focus of Henry James and Edith Wharton - in recent years Louis Auchincloss and John Cheever have been their chroniclers. Robinson shows similar mastery of form, and she belongs in their august company.&rdquo;</p>
 
   <footer>&mdash; <em>Time</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -3683,6 +4107,90 @@
 	
 </ul>
 
+                <script type="text/javascript">
+  function toggleShowHide()
+   { //TODO: THIS ID SHOULD BE UNIQUE
+      var theDiv = document.getElementById('buy-buttons');
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+        else{
+              theDiv.style.display = "none";
+        }
+   }
+</script>
+
+
+
+<button class="pure-buttonTK buttonTK tiny radius" onclick="toggleShowHide()">Buy <em>A Glimpse of Scarlet</em></button>
+  <div id="buy-buttons" class="list-block" style="display:block;">
+    <ul class="buy-retailers no-bullet">
+      <div id='isbn10_9780060981167'></div><!--  pulls in 10 digit ASIN for amazon from script -->
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780060981167" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+  <li>
+    <a href="http://www.powells.com/biblio?isbn=9780060981167" target="_blank" >
+      Powells
+    </a>
+  </li>  
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780060981167" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+</ul>
+
+
+<ul class="buy-retailers no-bullet">
+  <li><strong>Digital Editions</strong></li>
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn0060981164" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=0060981164" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+</div>
+
+    <script type="text/javascript">
+    
+ 
+   
+      function ISBN13toISBN10(isbn13) {
+
+        var start = isbn13.substring(3, 12);
+        var sum = 0;
+        var mul = 10;
+        var i;
+     
+        for(i = 0; i < 9; i++) {
+            sum = sum + (mul * parseInt(start[i]));
+            mul -= 1;
+        }     
+    var checkDig = 11 - (sum % 11);
+    if (checkDig == 10) {
+        checkDig = "X";
+    } else if (checkDig == 11) {
+        checkDig = "0";
+    }
+    return start + checkDig;
+}
+document.getElementById("isbn10_9780060981167").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('9780060981167') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+
+
+
+</script>
             </div>
             <div class="small-12 medium-8 large-8 columns">
                 		<h1 class="entry-title"> 
@@ -3724,16 +4232,6 @@
 	<p>&ldquo;Does much to give body to the O’Keeffe myth. The author presents a person who was both vulnerable and fierce, passionate and coolly withholding, sensuous yet oddly unsexual. Benefiting from the O’Keeffe family’s cooperation, Ms. Robinson…draws on correspondence that was inaccessible to scholars during the artist’s lifetime. Ms. Robinson assiduously interviewed people who knew O’Keeffe and deftly collated masses of information.&rdquo;</p>
 
   <footer>&mdash; <em>The New York Times Book Review</em> <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -4153,6 +4651,90 @@
 	
 </ul>
 
+                <script type="text/javascript">
+  function toggleShowHide()
+   { //TODO: THIS ID SHOULD BE UNIQUE
+      var theDiv = document.getElementById('buy-buttons');
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+        else{
+              theDiv.style.display = "none";
+        }
+   }
+</script>
+
+
+
+<button class="pure-buttonTK buttonTK tiny radius" onclick="toggleShowHide()">Buy <em>Georgia O&#8217;Keefe</em></button>
+  <div id="buy-buttons" class="list-block" style="display:block;">
+    <ul class="buy-retailers no-bullet">
+      <div id='isbn10_9780874519068'></div><!--  pulls in 10 digit ASIN for amazon from script -->
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780874519068" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+  <li>
+    <a href="http://www.powells.com/biblio?isbn=9780874519068" target="_blank" >
+      Powells
+    </a>
+  </li>  
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780874519068" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+</ul>
+
+
+<ul class="buy-retailers no-bullet">
+  <li><strong>Digital Editions</strong></li>
+
+
+  <li>
+    <a href="http://itunes.apple.com/us/book/isbn0874519063" target="_blank" >
+      Apple iBooks
+    </a>
+  </li>
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=0874519063" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+</ul>
+
+
+</div>
+
+    <script type="text/javascript">
+    
+ 
+   
+      function ISBN13toISBN10(isbn13) {
+
+        var start = isbn13.substring(3, 12);
+        var sum = 0;
+        var mul = 10;
+        var i;
+     
+        for(i = 0; i < 9; i++) {
+            sum = sum + (mul * parseInt(start[i]));
+            mul -= 1;
+        }     
+    var checkDig = 11 - (sum % 11);
+    if (checkDig == 10) {
+        checkDig = "X";
+    } else if (checkDig == 11) {
+        checkDig = "0";
+    }
+    return start + checkDig;
+}
+document.getElementById("isbn10_9780874519068").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('9780874519068') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+
+
+
+</script>
             </div>
             <div class="small-12 medium-8 large-8 columns">
                 		<h1 class="entry-title"> 
@@ -4196,16 +4778,6 @@
 	<p>&ldquo;Roxana Robinson’s beguiling story is rich with the lessons we all should have learned from Henry James and Edith Wharton. A real human drama is measured out in simple moments: it’s as quiet as an intercepted glance at the breakfast table, the creak of a bedroom door.&rdquo;</p>
 
   <footer>&mdash; Susan Cheever <a href="" class="ss-redirect"></a> on 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -4613,6 +5185,73 @@
 	
 </ul>
 
+                <script type="text/javascript">
+  function toggleShowHide()
+   { //TODO: THIS ID SHOULD BE UNIQUE
+      var theDiv = document.getElementById('buy-buttons');
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+        else{
+              theDiv.style.display = "none";
+        }
+   }
+</script>
+
+
+
+<button class="pure-buttonTK buttonTK tiny radius" onclick="toggleShowHide()">Buy <em>Summer Light</em></button>
+  <div id="buy-buttons" class="list-block" style="display:block;">
+    <ul class="buy-retailers no-bullet">
+      <div id='isbn10_9780874517385'></div><!--  pulls in 10 digit ASIN for amazon from script -->
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780874517385" target="_blank" >
+      Barnes &amp; Noble
+    </a>
+  </li>
+  <li>
+    <a href="http://www.powells.com/biblio?isbn=9780874517385" target="_blank" >
+      Powells
+    </a>
+  </li>  
+  <li>
+    <a href="http://www.indiebound.org/product/info.jsp?isbn=9780874517385" target="_blank" >
+        Your Local Bookstore
+    </a>
+  </li>  
+</ul>
+
+
+</div>
+
+    <script type="text/javascript">
+    
+ 
+   
+      function ISBN13toISBN10(isbn13) {
+
+        var start = isbn13.substring(3, 12);
+        var sum = 0;
+        var mul = 10;
+        var i;
+     
+        for(i = 0; i < 9; i++) {
+            sum = sum + (mul * parseInt(start[i]));
+            mul -= 1;
+        }     
+    var checkDig = 11 - (sum % 11);
+    if (checkDig == 10) {
+        checkDig = "X";
+    } else if (checkDig == 11) {
+        checkDig = "0";
+    }
+    return start + checkDig;
+}
+document.getElementById("isbn10_9780874517385").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('9780874517385') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+
+
+
+</script>
             </div>
             <div class="small-12 medium-8 large-8 columns">
                 		<h1 class="entry-title"> 
@@ -4647,7 +5286,7 @@
 <script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
 
     <script src="/assets/js/foundation.min.js"></script>
-    <script src="/assets/js/foundation.topbar.js"></script>
+
     <script>
       $(document).foundation();
 
@@ -4655,6 +5294,8 @@
       doc.setAttribute('data-useragent', navigator.userAgent);
     </script>
   
+
+
 
 
 
@@ -4680,7 +5321,7 @@ body.home .address {
 
 <script>
 // TODO: [X]Times show an extra 0 <-- going to leave this
-// TODO: [ ]reverse ordering for past events (can fix with json file, but rather not)
+// TODO: [X]reverse ordering for past events (can fix with json file, but rather not)
 // TODO: [X]conditionals to not show missing content
 // TODO: [X]Links - taking out - put all info in the main post
 
@@ -4706,8 +5347,10 @@ $(document).ready(function() {
 
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
-      days_desc = _.sortBy(Object.keys(groups), function(day) { return day * -1 });
+      days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
       
+
+
 
 
 
@@ -4717,7 +5360,7 @@ $(document).ready(function() {
         
       if (moment(day).isAfter(moment().subtract('days', 1))) {
 
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr style="margin-top:-12px;"/>').appendTo('#calendar');
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar');
         
 
         groups[day].forEach(function(event) {
@@ -4725,6 +5368,13 @@ $(document).ready(function() {
 
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
+
+if(event.name) {
+            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar');
+          }
+
+
+
 
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');
@@ -4765,12 +5415,22 @@ days_desc.forEach(function(day) {
       
  
       if (moment(day).isBefore(moment().subtract('days', 1))) {
-        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6>').appendTo('#calendar-past');
+
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar-past');
+        
+
         groups[day].forEach(function(event) {
 
 
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar-past');
+
+if(event.name) {
+            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar-past');
+          }
+
+
+
 
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar-past');
@@ -4790,6 +5450,7 @@ days_desc.forEach(function(day) {
         
         $('</div>').appendTo('#calendar-past');
 
+        });
 
 
 
@@ -4817,6 +5478,7 @@ days_desc.forEach(function(day) {
   });
 });
     </script>
+
 
 
 

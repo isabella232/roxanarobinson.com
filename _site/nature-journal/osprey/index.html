@@ -55,7 +55,7 @@
   <ul class="title-area">
     <li class="name">
     </li>
-    <li class="toggle-topbar menu-icon"><a href="#" style="color:black;">Menu</a></li>
+    <li class="toggle-topbar button tiny">Menu</li>
   </ul>
 
   <section class="top-bar-section">
@@ -165,7 +165,7 @@ In the cove below, the water moves silently, swirling with the incoming tide, de
 <script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
 
     <script src="/assets/js/foundation.min.js"></script>
-    <script src="/assets/js/foundation.topbar.js"></script>
+
     <script>
       $(document).foundation();
 
@@ -173,6 +173,8 @@ In the cove below, the water moves silently, swirling with the incoming tide, de
       doc.setAttribute('data-useragent', navigator.userAgent);
     </script>
   
+
+
 
 
 
@@ -198,7 +200,7 @@ body.home .address {
 
 <script>
 // TODO: [X]Times show an extra 0 <-- going to leave this
-// TODO: [ ]reverse ordering for past events (can fix with json file, but rather not)
+// TODO: [X]reverse ordering for past events (can fix with json file, but rather not)
 // TODO: [X]conditionals to not show missing content
 // TODO: [X]Links - taking out - put all info in the main post
 
@@ -224,8 +226,10 @@ $(document).ready(function() {
 
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
-      days_desc = _.sortBy(Object.keys(groups), function(day) { return day * -1 });
+      days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
       
+
+
 
 
 
@@ -235,7 +239,7 @@ $(document).ready(function() {
         
       if (moment(day).isAfter(moment().subtract('days', 1))) {
 
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr style="margin-top:-12px;"/>').appendTo('#calendar');
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar');
         
 
         groups[day].forEach(function(event) {
@@ -243,6 +247,13 @@ $(document).ready(function() {
 
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
+
+if(event.name) {
+            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar');
+          }
+
+
+
 
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');
@@ -283,12 +294,22 @@ days_desc.forEach(function(day) {
       
  
       if (moment(day).isBefore(moment().subtract('days', 1))) {
-        $('<h6><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h6>').appendTo('#calendar-past');
+
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar-past');
+        
+
         groups[day].forEach(function(event) {
 
 
 
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar-past');
+
+if(event.name) {
+            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar-past');
+          }
+
+
+
 
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar-past');
@@ -308,6 +329,7 @@ days_desc.forEach(function(day) {
         
         $('</div>').appendTo('#calendar-past');
 
+        });
 
 
 
@@ -335,6 +357,7 @@ days_desc.forEach(function(day) {
   });
 });
     </script>
+
 
 
 

@@ -1,5 +1,42 @@
 --- 
 - 
+  content: "I like to read before I write."
+  date: "2013-12-15 23:20:43"
+  link_to_original: 
+    - "http://www.glimmertrain.com/b82robinson.html"
+  publication: Glimmer Train, Bulletin, 82nd issue, Winter 2013
+  sm_writing_cats: 
+    - Essays
+  title: "Reading to Write"
+- 
+  content: "“I think I started reading Alice Munro in the early 1980s. I think the first book was <em>The Lives of Girls and Women</em>. It was an odd title, but I was drawn to it, because, if you’re a woman, that title reminds you that your own experience is different from others – by others I mean men, whose experience dominates the literary world—and suggests that your experience merits its own book.”"
+  date: "2013-10-10 23:20:43"
+  link_to_original: 
+    - "http://centerforfiction.org/for-readers/alice-munro-by-roxana-robinson/"
+  publication: The Center for Fiction
+  sm_writing_cats: 
+    - Essays
+  title: "A Tribute to Alice Munro"
+- 
+  content: "“We no longer require compassion from the literature we admire. We admire writers who celebrate irony, disdain, contempt.”"
+  date: "2013-10-10 23:20:43"
+  link_to_original: 
+    - "http://www.newyorker.com/online/blogs/books/2013/10/writers-on-alice-munro.html"
+  publication: The New Yorker
+  sm_writing_cats: 
+    - Essays
+  title: "Writers on Munro"
+
+- 
+  content: "“We no longer require compassion from the literature we admire. We admire writers who celebrate irony, disdain, contempt.”"
+  date: "2013-09-15 23:20:43"
+  link_to_original: 
+    - "http://www.npr.org/2013/09/15/221784628/love-story-electrifies-beneath-the-silhouette-of-venus"
+  publication: NPR
+  sm_writing_cats: 
+    - Essays
+  title: "Roxana Robinson on Transit of Venus by Shirley Hazzard"
+- 
   content: "“We no longer require compassion from the literature we admire. We admire writers who celebrate irony, disdain, contempt.”"
   date: "2013-06-25 23:20:43"
   link_to_original: 
@@ -1746,7 +1783,6 @@
   publication: 
     - "Harry Abrams"
   sm_writing_cats: 
-    - "Anthologies & Collections"
     - "Art History"
   title: "William M. Harnett"
 - 
