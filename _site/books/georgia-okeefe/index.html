@@ -540,72 +540,46 @@
 	
 </ul>
 
-				IYIYI
-<script type="text/javascript">
-
-function toggleShowHide()
-   {
-       var theDiv = document.getElementById('buy-buttons');
-       
+				<script type="text/javascript">
+  function toggleShowHide()
+   { //TODO: THIS ID SHOULD BE UNIQUE
+      var theDiv = document.getElementById('buy-buttons');
         if(theDiv.style.display == 'none') {
             theDiv.style.display = "block";
         }
-
         else{
               theDiv.style.display = "none";
         }
-
    }
-
 </script>
 
 
-
-
+  
 
 <button class="pure-button" onclick="toggleShowHide()">Buy <em>Georgia O&#8217;Keefe</em></button>
-
-
-<div id="buy-buttons" class="list-block hidden" style="display:none;">
-
-
-<ul class="buy-retailers small">
-
-
-
+  <div id="buy-buttons" class="list-block hidden" style="display:none;">
+    <ul class="buy-retailers small">
+      <div id='isbn10_9780874519068'></div><!--  pulls in 10 digit ASIN for amazon from script -->
   <li>
     <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=9780874519068" target="_blank" >
       Barnes &amp; Noble
     </a>
   </li>
-
-<li>
+  <li>
     <a href="http://www.powells.com/biblio?isbn=9780874519068" target="_blank" >
       Powells
     </a>
   </li>  
-
   <li>
     <a href="http://www.indiebound.org/product/info.jsp?isbn=9780874519068" target="_blank" >
         Your Local Bookstore
     </a>
   </li>  
-
-
-
-
-
 </ul>
-
-
-
-
 
 
 <ul class="buy-retailers small">
   <li>Digital Editions</li>
-
-
 
 
   <li>
@@ -613,8 +587,6 @@ function toggleShowHide()
       Apple iBooks
     </a>
   </li>
-
-
   <li>
     <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN=0874519063" target="_blank" >
       Barnes &amp; Noble Nook
@@ -623,8 +595,29 @@ function toggleShowHide()
 </ul>
 
 
+</div>
+    <script type="text/javascript">
+      function ISBN13toISBN10(isbn13) {
 
-</div>sdkfjhsdkfhskjfh
+        var start = isbn13.substring(3, 12);
+        var sum = 0;
+        var mul = 10;
+        var i;
+     
+        for(i = 0; i < 9; i++) {
+            sum = sum + (mul * parseInt(start[i]));
+            mul -= 1;
+        }     
+    var checkDig = 11 - (sum % 11);
+    if (checkDig == 10) {
+        checkDig = "X";
+    } else if (checkDig == 11) {
+        checkDig = "0";
+    }
+    return start + checkDig;
+}
+document.getElementById("isbn10_9780874519068").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('9780874519068') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+</script>
 			</div>
 			<div class="small-12 medium-8 large-8 columns">
 				<p>Georgia O&#8217;Keeffe is arguably the 20th century&#8217;s leading woman artist. Coming of age along with American modernism, her life was rich in intense relationships &#8212; with family, friends, and especially noted photographer Alfred Stieglitz. Her struggle between the rigorous demands of love and work resulted in extraordinary accomplishments. Her often-eroticized flowers, bones, stones, skulls, and pelvises became extremely well known to a broad American public. <em>The New York Times Book Review</em> named this richly detailed and moving biography a Notable Book of the Year.</p>
@@ -2013,7 +2006,7 @@ function toggleShowHide()
 <script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
 
     <script src="/assets/js/foundation.min.js"></script>
-    <script src="/assets/js/foundation.topbar.js"></script>
+
     <script>
       $(document).foundation();
 
@@ -2046,7 +2039,7 @@ body.home .address {
 
 <script>
 // TODO: [X]Times show an extra 0 <-- going to leave this
-// TODO: [ ]reverse ordering for past events (can fix with json file, but rather not)
+// TODO: [X]reverse ordering for past events (can fix with json file, but rather not)
 // TODO: [X]conditionals to not show missing content
 // TODO: [X]Links - taking out - put all info in the main post
 
