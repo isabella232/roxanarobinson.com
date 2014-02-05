@@ -2,7 +2,7 @@
 layout: none
 ---
 {"events": [{% assign first = true %}
-{% for post in site.data.events reversed %}
+{% for post in site.categories.events reversed %}
     {% if first == false %},{% endif %}
     {% if first == true %}{% assign first = false %}{% endif %}
   {

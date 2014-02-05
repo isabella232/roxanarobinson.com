@@ -7,34 +7,6 @@ layout: page
 
 [click here for hi-res images below](#downloads)
 
-For Book Clubs or anyone who would like to leave a message for Roxana, please click here: 
-
-<a title='Contact' href='../contact/' class='button tiny radius'>Contact</a>
-
-* * *
-
-<div style="text-align: left; float: left; width: 40%; margin-right: 40px;">
-  <p>
-    <strong>Publicists:</strong><br /> Kimberly Burns<br /> <a href="mailto:kb@kimberlyburnspr.com">email</a>
-  </p>
-  
-  <p>
-    Lottchen Shivers<br /> <a href="mailto:Lottchen.Shivers@fsgbooks.com">email</a>
-  </p>
-</div>
-
-<div style="text-align: left; float: left; width: 40%; margin-right: 10px;">
-  <p>
-    <strong>Agent:</strong><br /> Lynn Nesbit, Janklow Nesbit<br /> <a href="mailto:lynn@janklow.com">email</a>
-  </p>
-  
-  <p>
-    <strong>Speaking Engagements:</strong><br /> Arlynn Greenbaum, at Authors Unlimited<br /> <a href="mailto:arlynnj@cs.com">email</a>
-  </p>
-</div>
-
-
-
 * * *
 
 ### Awards

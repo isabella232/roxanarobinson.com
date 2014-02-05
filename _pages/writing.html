@@ -3,6 +3,12 @@ layout: page-full
 title: Writings
 permalink: /writing/
 ---
+
+<style type="text/css">
+td.title p {
+	font-size: 90%;
+}
+</style>
 <div class="entry">
 	<div class="row">
 		<div class="large-12 columns">
@@ -37,11 +43,11 @@ permalink: /writing/
 	  	<tbody class="list">
 				{% for writing in site.data.writing limit:250 %}
 					<tr>
-						<td class="category" width="15%">{{ writing.sm_writing_cats }}</td>
+						<td class="category" width="15%">{{ writing.category }}</td>
 						<td class="title" width="50%">
 							"{{ writing.title }}"
 							{% if writing.content %}
-								<br /><small>{{writing.content}}</small>
+								<small>{{writing.content | markdownify }}</small>
 							{% endif %}
 						</td>
 						<td class="date" width="15%">

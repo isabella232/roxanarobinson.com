@@ -1,2306 +1,1521 @@
---- 
-- 
-  content: "I like to read before I write."
-  date: "2013-12-15 23:20:43"
-  link_to_original: 
-    - "http://www.glimmertrain.com/b82robinson.html"
-  publication: Glimmer Train, Bulletin, 82nd issue, Winter 2013
-  sm_writing_cats: 
-    - Essays
-  title: "Reading to Write"
-- 
-  content: "“I think I started reading Alice Munro in the early 1980s. I think the first book was <em>The Lives of Girls and Women</em>. It was an odd title, but I was drawn to it, because, if you’re a woman, that title reminds you that your own experience is different from others – by others I mean men, whose experience dominates the literary world—and suggests that your experience merits its own book.”"
-  date: "2013-10-10 23:20:43"
-  link_to_original: 
-    - "http://centerforfiction.org/for-readers/alice-munro-by-roxana-robinson/"
-  publication: The Center for Fiction
-  sm_writing_cats: 
-    - Essays
-  title: "A Tribute to Alice Munro"
-- 
-  content: "“We no longer require compassion from the literature we admire. We admire writers who celebrate irony, disdain, contempt.”"
-  date: "2013-10-10 23:20:43"
-  link_to_original: 
-    - "http://www.newyorker.com/online/blogs/books/2013/10/writers-on-alice-munro.html"
-  publication: The New Yorker
-  sm_writing_cats: 
-    - Essays
-  title: "Writers on Munro"
 
 - 
-  content: "“We no longer require compassion from the literature we admire. We admire writers who celebrate irony, disdain, contempt.”"
-  date: "2013-09-15 23:20:43"
-  link_to_original: 
-    - "http://www.npr.org/2013/09/15/221784628/love-story-electrifies-beneath-the-silhouette-of-venus"
+  title: "Reading to Write"
+  content: "I like to read before I write."
+  date: 2013-12-15
+  link_to_original: "http://www.glimmertrain.com/b82robinson.html"
+  publication: Glimmer Train, Bulletin, 82nd issue, Winter 2013
+  category: Essays
+  
+- 
+  title: "A Tribute to Alice Munro"
+  content: "“I think I started reading Alice Munro in the early 1980s. I think the first book was *The Lives of Girls and Women*. It was an odd title, but I was drawn to it, because, if you’re a woman, that title reminds you that your own experience is different from others – by others I mean men, whose experience dominates the literary world—and suggests that your experience merits its own book.”"
+  date: 2013-10-10
+  link_to_original: "http://centerforfiction.org/for-readers/alice-munro-by-roxana-robinson/"
+  publication: The Center for Fiction
+  category: Essays
+  
+- 
+  title: "Writers on Munro"
+  content: "“Like Chekhov, Alice Munro never sets out to make a political point. She isn’t sexist, she has no axe to grind. She’s simply bearing witness to the human experience…”"
+  date: 2013-10-10
+  link_to_original: "http://www.newyorker.com/online/blogs/books/2013/10/writers-on-alice-munro.html"
+  publication: The New Yorker
+  category: Essays
+
+- 
+  title: "Love Story Electrifies Beneath The Silhouette 'Of Venus'"
+  content: "On *Transit of Venus* by Shirley Hazzard"
+  date: 2013-09-15
+  link_to_original: "http://www.npr.org/2013/09/15/221784628/love-story-electrifies-beneath-the-silhouette-of-venus"
   publication: NPR
-  sm_writing_cats: 
-    - Essays
-  title: "Roxana Robinson on Transit of Venus by Shirley Hazzard"
+  category: "Book Reviews"
+
 - 
-  content: "“We no longer require compassion from the literature we admire. We admire writers who celebrate irony, disdain, contempt.”"
-  date: "2013-06-25 23:20:43"
-  link_to_original: 
-    - "http://www.slate.com/articles/double_x/doublex/2013/06/james_salter_author_of_all_that_is_is_a_sexist.single.html"
-  permalink: /writing/the-dark-heart-of-james-salter/
-  publication: Slate
-  sm_writing_cats: 
-    - Essays
   title: "The Dark Heart of James Salter"
+  content: "“We no longer require compassion from the literature we admire. We admire writers who celebrate irony, disdain, contempt.”"
+  date: 2013-06-25
+  link_to_original: "http://www.slate.com/articles/double_x/doublex/2013/06/james_salter_author_of_all_that_is_is_a_sexist.single.html"
+  publication: Slate
+  category: Essays
+  
 - 
-  content: "Page-Turner, May 23, 2013"
-  date: "2013-05-23 08:38:14"
-  description: 
-    - "Page-Turner, May 23, 2013"
-  link_to_original: 
-    - "http://www.newyorker.com/online/blogs/books/2013/05/what-writers-leave-behind.html"
-  permalink: /writing/burn-your-letters/
-  publication: 
-    - "The New Yorker"
-  sm_writing_cats: 
-    - "Web Essays"
   title: "Burn Your Letters?"
+  content: "Page-Turner, May 23, 2013"
+  date: 2013-05-23
+  link_to_original: "http://www.newyorker.com/online/blogs/books/2013/05/what-writers-leave-behind.html"
+  publication: "The New Yorker"
+  category: Essays
+  
 - 
-  content: "<em>The Washington Post Book World</em>, April 21, 2002; Eugene McCabe, <em>Death and Nightingales</em>"
-  date: "2013-04-21 00:00:50"
-  description: 
-    - "<em>The Washington Post Book World</em>, April 21, 2002; Eugene McCabe, <em>Death and Nightingales</em>"
-  link_to_original: 
-  permalink: /writing/death-and-nightingales/
-  publication: 
-    - "The Washington Post"
-  sm_writing_cats: 
-    - "Book Reviews"
   title: "Death and Nightingales"
-- 
-  content: "Culture Blog, April 4, 2013"
-  date: "2013-04-04 08:40:08"
-  description: 
-    - "Culture Blog, April 4, 2013"
+  content: "On Eugene McCabe's, *Death and Nightingales*"
+  date: 2013-04-21
   link_to_original: 
-    - "http://www.newyorker.com/online/blogs/books/2013/04/anatole-broyard-new-york-times-book-review.html"
-  permalink: /writing/god-calls/
-  publication: 
-    - "The New Yorker"
-  sm_writing_cats: 
-    - "Web Essays"
+  publication: "The Washington Post Book World"
+  category: "Book Reviews"
+
+- 
   title: "God Calls"
+  content: "Culture Blog"
+  date: 2013-04-04
+  link_to_original: "http://www.newyorker.com/online/blogs/books/2013/04/anatole-broyard-new-york-times-book-review.html"
+  publication: "The New Yorker"
+  category: Essays
+
 - 
-  content: "Story of the Week, March 17, 2013"
-  date: "2013-03-17 08:17:14"
-  description: 
-    - "Story of the Week, March 17, 2013"
-  link_to_original: 
-    - "http://www.narrativemagazine.com/issues/stories-week-2012–2013/heart’s-desire"
-  permalink: /writing/hearts-desire/
-  publication: 
-    - "Narrative Magazine"
-  sm_writing_cats: 
-    - Essays
   title: "Heart’s Desire"
+  content: "Story of the Week"
+  date: 2013-03-17
+  link_to_original: "http://www.narrativemagazine.com/issues/stories-week-2012–2013/heart’s-desire"
+  publication: "Narrative Magazine"
+  category: Essays
+
 - 
-  content: "Culture Blog, March 1, 2013"
-  date: "2013-03-01 08:42:04"
-  description: 
-    - "Culture Blog</em>,</em> March 1, 2013"
-  link_to_original: 
-    - "http://www.newyorker.com/online/blogs/culture/2013/03/opera-in-hd.html"
-  permalink: /writing/opera-on-hd/
-  publication: 
-    - "The New Yorker"
-  sm_writing_cats: 
-    - "Web Essays"
-  title: "Opera on HD"
+  title: "Opera on HD" 
+  content: "Culture Blog"
+  date: 2013-03-01
+  link_to_original: "http://www.newyorker.com/online/blogs/culture/2013/03/opera-in-hd.html"
+  publication: "The New Yorker"
+  category: Essays
+
 - 
-  content: "Culture Blog, February 6, 2013"
-  date: "2013-02-06 08:42:52"
-  description: 
-    - "Culture Blog, February 6, 2013"
-  link_to_original: 
-    - "http://www.newyorker.com/online/blogs/books/2013/02/phantom-bookstores.html"
-  permalink: /writing/new-yorks-phantom-bookstores/
-  publication: 
-    - "The New Yorker"
-  sm_writing_cats: 
-    - "Web Essays"
   title: "New York’s Phantom Bookstores"
+  content: "Culture Blog"
+  date: 2013-02-06
+  link_to_original: "http://www.newyorker.com/online/blogs/books/2013/02/phantom-bookstores.html"
+  publication: "The New Yorker"
+  category: Essays
+
 - 
-  content: "Culture Blog, January 4, 2013"
-  date: "2013-01-04 08:44:24"
-  description: 
-    - "Culture Blog, January 4, 2013"
-  link_to_original: 
-    - "http://www.newyorker.com/online/blogs/books/2013/01/on-writing-in-the-morning.html"
-  permalink: /writing/how-i-get-to-write/
-  publication: 
-    - "The New Yorker"
-  sm_writing_cats: 
-    - "Web Essays"
   title: "How I Get to ‘Write’"
+  content: "Culture Blog"
+  date: 2013-01-04
+  link_to_original: "http://www.newyorker.com/online/blogs/books/2013/01/on-writing-in-the-morning.html"
+  publication: "The New Yorker"
+  category: Essays
+
 - 
-  content: "edited by Elizabeth Benedict (Algonquin, 2013)"
-  date: "2013-01-01 09:38:14"
-  description: 
-    - "edited by Elizabeth Benedict (Algonquin, 2013)"
-  link_to_original: 
-  permalink: /writing/what-my-mother-gave-me/
-  publication: 
-    - Algonquin
-  sm_writing_cats: 
-    - "Anthologies & Collections"
   title: "What My Mother Gave Me"
+  content: "Edited by Elizabeth Benedict (Algonquin, 2013)"
+  date: 2013-01-01
+  publication: Algonquin
+  category: "Anthologies & Collections"
+
 - 
-  content: "October 2012"
-  date: "2012-10-01 08:18:23"
-  description: 
-    - "October 2012"
-  link_to_original: 
-    - "http://www.travelandleisure.com/articles/the-beauty-of-japanese-gardens-in-kyoto"
-  permalink: /writing/a-different-sort-of-nature-the-gardens-of-kyoto/
-  publication: 
-    - "Travel and Leisure"
-  sm_writing_cats: 
-    - Travel
   title: "A Different Sort of Nature: The Gardens of Kyoto"
+  content: "Appeared as *A Different Nature* in T+L Magazine, October 2012"
+  date: 2012-10-01
+  link_to_original: "http://www.travelandleisure.com/articles/the-beauty-of-japanese-gardens-in-kyoto"
+  publication: "Travel and Leisure"
+  category: Travel
+  
+
 - 
-  content: "Center for Fiction, August, 2012"
-  date: "2012-08-01 08:47:28"
-  description: 
-    - "Center for Fiction, August, 2012"
-  link_to_original: 
-    - "http://www.centerforfiction.org/for-readers/roxana-robinson-responds-to-jon-franzens-new-yorker-piece-on-edith-wharton/"
-  permalink: /writing/response-to-jonathan-franzen-on-edith-wharton/
-  publication: 
-    - "Center for Fiction"
-  sm_writing_cats: 
-    - "Web Essays"
   title: "Response to Jonathan Franzen on Edith Wharton"
+  content: "Center for Fiction, August, 2012"
+  date: 2012-08-01
+  link_to_original: "http://www.centerforfiction.org/for-readers/roxana-robinson-responds-to-jon-franzens-new-yorker-piece-on-edith-wharton/"
+  publication: "Center for Fiction"
+  category: Essays
+
 - 
-  content: "<em>The Washington Post</em>, May 14, 2012; Marilynne Robinson, <em>When I Was a Child I Read Books</em>"
-  date: "2012-05-14 08:11:11"
-  description: 
-    - "<em>The Washington Post</em>, May 14, 2012; Marilynne Robinson, <em>When I Was a Child I Read Books</em>"
-  link_to_original: 
-  permalink: /writing/when-i-was-a-child-i-read-books/
-  publication: 
-    - "The Washington Post"
-  sm_writing_cats: 
-    - "Book Reviews"
-  title: "When I Was a Child I Read Books"
+  title: "Marilynne Robinson’s ‘When I Was a Child I Read Books’: Essays on faith, reading"
+  content: "Review of *When I Was a Child I Read Books* by Marilynne Robinson"
+  date: 2012-05-14
+  link_to_original: http://www.washingtonpost.com/entertainment/books/marilynne-robinsons-when-i-was-a-child-i-read-books-essays-on-faith-reading/2012/05/14/gIQACAefPU_story.html
+  publication: "The Washington Post"
+  category: "Book Reviews"
+
 - 
-  content: "April 11, 2012"
-  date: "2012-04-11 08:48:19"
-  description: 
-    - "April 11, 2012"
-  link_to_original: 
-    - "http://www.themillions.com/2012/04/edith-wharton-a-writers-reflections.html"
-  permalink: /writing/edith-wharton-a-writers-reflections/
-  publication: 
-    - "The Millions"
-  sm_writing_cats: 
-    - "Web Essays"
   title: "Edith Wharton, a Writer’s Reflections"
+  content: "April 11, 2012"
+  date: 2012-04-11
+  link_to_original: "http://www.themillions.com/2012/04/edith-wharton-a-writers-reflections.html"
+  publication: "The Millions"
+  category: Essays
+
 - 
-  content: "Opinionator Blog, State of Our Disunion, March 20, 2012"
-  date: "2012-03-20 08:49:13"
-  description: 
-    - "Opinionator Blog, State of Our Disunion, March 20, 2012"
-  link_to_original: 
-    - "http://opinionator.blogs.nytimes.com/2012/03/20/the-strange-career-of-frank-dawson/"
-  permalink: /writing/the-strange-career-of-frank-dawson/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Web Essays"
   title: "The Strange Career of Frank Dawson"
+  content: "Opinionator Blog, State of Our Disunion"
+  date: 2012-03-20
+  link_to_original: "http://opinionator.blogs.nytimes.com/2012/03/20/the-strange-career-of-frank-dawson/"
+  publication: "The New York Times"
+  category: Essays
+  
 - 
-  content: "February 23, 2012"
-  date: "2012-02-23 08:20:17"
-  description: 
-    - "February 23, 2012"
-  link_to_original: 
-    - "http://www.bostonglobe.com/opinion/2012/02/23/deadly-consequences-fracking/rjY6Xdi9gIWigsLEFVLIBN/story.html"
-  permalink: /writing/the-lethal-consequences-of-fracking/
-  publication: 
-    - "The Boston Globe"
-  sm_writing_cats: 
-    - Essays
   title: "The Lethal Consequences of Fracking"
+  content: "February 23, 2012"
+  date: 2012-02-23
+  link_to_original: "http://www.bostonglobe.com/opinion/2012/02/23/deadly-consequences-fracking/rjY6Xdi9gIWigsLEFVLIBN/story.html"
+  publication: "The Boston Globe"
+  category: Essays
+
 - 
-  content: "<em>The Washington Post</em>, November 3, 2011; Anne Enright, <em>The Forgotten Waltz</em>"
-  date: "2011-11-03 08:12:47"
-  description: 
-    - "<em>The Washington Post</em>, November 3, 2011; Anne Enright, <em>The Forgotten Waltz</em>"
-  link_to_original: 
-  permalink: /writing/the-forgotten-waltz/
-  publication: 
-    - "The Washington Post"
-  sm_writing_cats: 
-    - "Book Reviews"
-  title: "The Forgotten Waltz"
+  title: "Anne Enright’s ‘The Forgotten Waltz’"
+  content: "Anne Enright’s new novel, *The Forgotten Waltz,* is the luxury sedan. Everything in it is perfectly engineered, and it’s so beautifully written that you could read it once just for the dazzle of the prose, then start over for the content."
+  date: 2011-11-03
+  link_to_original: http://www.washingtonpost.com/entertainment/books/anne-enrights-the-forgotten-waltz/2011/10/03/gIQAAQVXjM_story.html
+  publication: "The Washington Post"
+  category: "Book Reviews"
+  
 - 
-  content: "p. 216, November 3, 2011"
-  date: "2011-11-03 08:21:39"
-  description: 
-    - "p. 216, November 3, 2011"
-  link_to_original: 
-    - "http://www.cnn.com/2011/10/20/living/real-siple-objects/"
-  permalink: /writing/my-wooden-deer-carving/
-  publication: 
-    - "Real Simple"
-  sm_writing_cats: 
-    - Essays
   title: "My Wooden Deer Carving"
+  content: "p. 216, November 3, 2011"
+  date: 2011-11-03
+  link_to_original: "http://www.cnn.com/2011/10/20/living/real-siple-objects/"
+  publication: "Real Simple"
+  category: Essays
+  
 - 
-  content: "Opinionator Blog, State of our Disunion, September 18, 2011. Harriet Beecher Stowe was my great-great-great aunt."
-  date: "2011-09-18 08:54:54"
-  description: 
-    - "Opinionator Blog, State of our Disunion, September 18, 2011. Harriet Beecher Stowe was my great-great-great aunt."
-  link_to_original: 
-    - "http://opinionator.blogs.nytimes.com/2011/09/18/great-aunt-hatties-little-book/"
-  permalink: /writing/great-aunt-hatties-little-book/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Web Essays"
   title: "Great-Aunt Hattie’s ‘Little Book’"
+  content: "Opinionator Blog, State of our Disunion, September 18, 2011. Harriet Beecher Stowe was my great-great-great aunt."
+  date: 2011-09-18
+  link_to_original: "http://opinionator.blogs.nytimes.com/2011/09/18/great-aunt-hatties-little-book/"
+  publication: "The New York Times"
+  category: Essays
+
 - 
-  content: "September 11, 2011"
-  date: "2011-09-11 08:22:49"
-  description: 
-    - "September 11, 2011"
-  link_to_original: 
-    - "http://articles.boston.com/2011-09-11/bostonglobe/30142842_1_flaws-death-tallest-building"
-  permalink: /writing/in-the-north-tower/
-  publication: 
-    - Boston.com
-  sm_writing_cats: 
-    - Essays
   title: "In the North Tower"
+  content: "September 11, 2011"
+  date: 2011-09-11
+  link_to_original: "http://articles.boston.com/2011-09-11/bostonglobe/30142842_1_flaws-death-tallest-building"
+  publication: Boston.com
+  category: Essays
+
 - 
-  content: "Center for Fiction, June 5, 2011"
-  date: "2011-06-05 08:55:42"
-  description: 
-    - "Center for Fiction, June 5, 2011"
-  link_to_original: 
-    - "http://centerforfiction.org/for-readers/roxana-robinson-responds-to-vs-naipaul/"
-  permalink: /writing/vs-naipaul-and-womens-tosh/
-  publication: 
-    - "Center for Fiction"
-  sm_writing_cats: 
-    - "Web Essays"
   title: "VS Naipaul and Women’s Tosh"
+  content: "Center for Fiction, June 5, 2011"
+  date: 2011-06-05
+  link_to_original: "http://centerforfiction.org/for-readers/roxana-robinson-responds-to-vs-naipaul/"
+  publication: "Center for Fiction"
+  category: Essays
+
 - 
-  content: "Sunday Weekend Edition; June 5, 2011"
-  date: "2011-06-05 08:56:24"
-  description: 
-    - "Sunday Weekend Edition; June 5, 2011"
-  link_to_original: 
-    - "http://www.npr.org/2011/06/05/136972490/naipauls-comments-reflective-of-hubris"
-  permalink: /writing/naipauls-comments-reflective-of-hubris/
-  publication: 
-    - NPR
-  sm_writing_cats: 
-    - "Web Essays"
   title: "Naipaul’s Comments Reflective Of ‘Hubris"
+  content: "Sunday Weekend Edition; June 5, 2011"
+  date: 2011-06-05 
+  link_to_original: "http://www.npr.org/2011/06/05/136972490/naipauls-comments-reflective-of-hubris"
+  publication: NPR
+  category: Essays
+
 - 
-  content: "<em>The Washington Post</em>, April 14, 2011; Francisco Goldman, <em>Say Her Name</em>"
-  date: "2011-04-14 08:13:33"
-  description: 
-    - "<em>The Washington Post</em>, April 14, 2011; Francisco Goldman, <em>Say Her Name</em>"
-  link_to_original: 
-  permalink: /writing/say-her-name/
-  publication: 
-    - "The Washington Post"
-  sm_writing_cats: 
-    - "Book Reviews"
-  title: "Say Her Name"
+  title: "Book review: Francisco Goldman’s ‘Say Her Name’"
+  content: "How much of our own lives should writers use as material? What should we reveal and what hold back? What, for a writer, is privacy? Do writers even have private lives? These are questions raised by Francisco Goldman’s newest book, *Say Her Name.*"
+  date: 2011-04-14 
+  link_to_original: http://www.washingtonpost.com/entertainment/books/book-review-francisco-goldmans-say-her-name/2011/03/22/AFGTz5eD_story.html 
+  publication: "The Washington Post"
+  category: "Book Reviews"
+
 - 
-  content: "January 14, 2011"
-  date: "2011-01-14 08:57:19"
-  description: 
-    - "January 14, 2011"
-  link_to_original: 
-    - "http://www.nytimes.com/2011/01/16/books/review/Upfront-t.html?_r=0&adxnnl=1&adxnnlx=1371646649-Y/AIdggdcoEBow4HTTAbAw"
-  permalink: /writing/up-front-the-new-york-times-book-review/
-  publication: 
-    - "The New York Times Book Review"
-  sm_writing_cats: 
-    - "Web Essays"
-  title: "Up Front: The New York Times Book Review"
+  title: "Up Front: Roxana Robinson"
+  content: "by The Editors"
+  date: 2011-01-14 
+  link_to_original: "http://www.nytimes.com/2011/01/16/books/review/Upfront-t.html?_r=0&adxnnl=1&adxnnlx=1371646649-Y/AIdggdcoEBow4HTTAbAw"
+  publication: "The New York Times Book Review"
+  category: Essays
+
 - 
-  content: "<em>The New York Times Book Review</em>, January 14, 2011; Edith Pearlman, <em>Binocular Vision</em>"
-  date: "2011-01-14 08:14:18"
-  description: 
-    - "<em>The New York Times Book Review</em>, January 14, 2011; Edith Pearlman, <em>Binocular Vision</em>"
-  link_to_original: 
-  permalink: /writing/binocular-vision/
-  publication: 
-    - "The New York Times Book Review"
-  sm_writing_cats: 
-    - "Book Reviews"
-  title: "Binocular Vision"
+  title: "Stories of Dislocation and Relocation"
+  content: "Review of Edith Pearlman's, *Binocular Vision*"
+  date: 2011-01-14 
+  link_to_original: http://www.nytimes.com/2011/01/16/books/review/Robinson-t.html?pagewanted=all
+  publication: "The New York Times Book Review"
+  category: "Book Reviews"
+  
 - 
-  content: "<em>The Washington Post Book World</em>, October 5, 2010; Philip Roth, <em>Nemesis</em>"
-  date: "2010-10-05 08:15:04"
-  description: 
-    - "<em>The Washington Post Book World</em>, October 5, 2010; Philip Roth, <em>Nemesis</em>"
-  link_to_original: 
-  permalink: /writing/nemesis/
-  publication: 
-    - "The Washington Post"
-  sm_writing_cats: 
-    - "Book Reviews"
-  title: Nemesis
+  title: "On Philip Roth's 'Nemesis'"
+  content: "For decades, Philip Roth has written the long narrative of the Jewish American experience, shining on it the light of his considerable intelligence. His latest book, *Nemesis*, addresses a biological threat to his community in the 1940s."
+  date: 2010-10-05 
+  link_to_original: http://www.washingtonpost.com/wp-dyn/content/article/2010/10/04/AR2010100406372.html
+  publication: "The Washington Post"
+  category: "Book Reviews"
+
 - 
-  content: <em>Harper’s <em>magazine
-  date: "2010-09-18 08:24:06"
-  description: 
-    - "September 2010"
-  link_to_original: 
-    - "http://harpers.org/archive/2010/09/paralyzed/"
-  permalink: /writing/paralyzed-learning-to-live-in-the-shadow-of-polio/
-  publication: 
-    - Harper’s
-  sm_writing_cats: 
-    - Essays
   title: "Paralyzed: Learning to Live in the Shadow of Polio"
+  content: "*Harper’s* Magazine"
+  date: 2010-09-18 
+  link_to_original: "http://harpers.org/archive/2010/09/paralyzed/"
+  publication: Harper’s
+  category: Essays
+
 - 
-  content: "July 2010"
-  date: "2010-07-01 08:24:08"
-  description: 
-    - "July 2010"
-  link_to_original: 
-    - "http://www.more.com/relationships/attitudes/vanishing-point"
-  permalink: /writing/vanishing-point/
-  publication: 
-    - "More magazine"
-  sm_writing_cats: 
-    - Essays
   title: "Vanishing Point"
+  content: "July 2010"
+  date: 2010-07-01 
+  link_to_original: "http://www.more.com/relationships/attitudes/vanishing-point"
+  publication: "More magazine"
+  category: Essays
+  
 - 
   content: "summer 2010"
-  date: "2010-05-01 19:31:53"
-  description: 
-    - "summer 2010"
+  date: 2010-05-01 
   link_to_original: 
-  permalink: /writing/honey/
-  publication: 
-    - "The American Scholar"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The American Scholar"
+  category: "Short Stories"
   title: Honey
+
 - 
   content: "on Kindle, April 1, 2010"
-  date: "2010-04-01 19:33:17"
-  description: 
-    - "on Kindle, April 1, 2010"
+  date: 2010-04-01 
   link_to_original: 
-  permalink: /writing/this-is-america/
-  publication: 
-    - "The Atlantic"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The Atlantic"
+  category: "Short Stories"
   title: "This Is America"
+
 - 
   content: "spring 2010"
-  date: "2010-04-01 19:32:54"
-  description: 
-    - "spring 2010"
-  link_to_original: 
-    - "http://www.howjournal.com/issues-current.html#roxana"
-  permalink: /writing/the-bureau/
-  publication: 
-    - "H.O.W. Journal"
-  sm_writing_cats: 
-    - "Short Stories"
+  date: 2010-04-01 
+  link_to_original: "http://www.howjournal.com/issues-current.html#roxana"
+  publication: "H.O.W. Journal"
+  category: "Short Stories"
   title: "The Bureau"
+
 - 
-  content: "<em>The New York Times Book Review</em>, January 12, 2010; Jonathan Dee, <em>The Privileges</em>"
-  date: "2010-01-12 08:17:17"
-  description: 
-    - "<em>The New York Times Book Review</em>, January 12, 2010; Jonathan Dee, <em>The Privileges</em>"
+  content: "*The New York Times Book Review*, January 12, 2010; Jonathan Dee, *The Privileges*"
+  date: 2010-01-12 
   link_to_original: 
-  permalink: /writing/the-privileges/
-  publication: 
-    - "The New York Times Book Review"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times Book Review"
+  category: "Book Reviews"
   title: "The Privileges"
+
 - 
   content: "recipes from today’s best-selling authors, edited by Judy Gelman and Vicki Levy Krupp (Adams Media, 2010)"
-  date: "2010-01-01 09:43:20"
-  description: 
-    - "recipes from today’s best-selling authors, edited by Judy Gelman and Vicki Levy Krupp (Adams Media, 2010)"
+  date: 2010-01-01 
   link_to_original: 
-  permalink: /writing/table-of-contents/
-  publication: 
-    - "Adams Media"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "Adams Media"
+  category: "Anthologies & Collections"
   title: "Table of Contents"
+
 - 
-  content: "stories from <em>The New York Times<em> City Section, edited by Constance Rosenblum (NYU Press, 2010)"
-  date: "2010-01-01 09:41:22"
-  description: 
-    - "stories from <em>The New York Times</em> City Section, edited by Constance Rosenblum (NYU Press, 2010)"
+  content: "stories from *The New York Times* City Section, edited by Constance Rosenblum (NYU Press, 2010)"
+  date: 2010-01-01 
   link_to_original: 
-  permalink: /writing/more-new-york-stories/
-  publication: 
-    - "NYU Press"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "NYU Press"
+  category: "Anthologies & Collections"
   title: "More New York Stories"
+
 - 
   content: "issue #11, “Make Believe,” winter 2009"
-  date: "2009-12-01 19:37:19"
-  description: 
-    - "issue #11, “Make Believe,” winter 2009"
+  date: 2009-12-01 
   link_to_original: 
-  permalink: /writing/the-trade/
-  publication: 
-    - "PEN Journal"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "PEN Journal"
+  category: "Short Stories"
   title: "The Trade"
+
 - 
   content: "Winter Reading, volume 11, number 2, winter 2009–2010"
-  date: "2009-11-01 08:25:50"
-  description: 
-    - "Winter Reading, volume 11, number 2, winter 2009–2010"
-  link_to_original: 
-    - "http://www.tinhouse.com/issue-42-winter-reading-2009.html"
-  permalink: /writing/kentucky-bread/
-  publication: 
-    - "Tin House"
-  sm_writing_cats: 
-    - Essays
+  date: 2009-11-01 
+  link_to_original: "http://www.tinhouse.com/issue-42-winter-reading-2009.html"
+  publication: "Tin House"
+  category: Essays
   title: "Kentucky Bread"
+
 - 
-  content: "<em>The New York Times Book Review</em>, August 16, 2009; Richard Russo, <em>That Old Cape Magic</em>"
-  date: "2009-08-16 08:18:07"
-  description: 
-    - "<em>The New York Times Book Review</em>, August 16, 2009; Richard Russo, <em>That Old Cape Magic</em>"
+  content: "*The New York Times Book Review*, August 16, 2009; Richard Russo, *That Old Cape Magic*"
+  date: 2009-08-16 
   link_to_original: 
-  permalink: /writing/that-old-cape-magic/
-  publication: 
-    - "The New York Times Book Review"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times Book Review"
+  category: "Book Reviews"
   title: "That Old Cape Magic"
+
 - 
   content: "July 30, 2009"
-  date: "2009-07-30 08:27:08"
-  description: 
-    - "July 30, 2009"
-  link_to_original: 
-    - "http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/07/30/stopping_heroin_use_before_its_too_late/"
-  permalink: /writing/stopping-heroin-before-its-too-late/
-  publication: 
-    - "The Boston Globe"
-  sm_writing_cats: 
-    - Essays
+  date: 2009-07-30 
+  link_to_original: "http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/07/30/stopping_heroin_use_before_its_too_late/"
+  publication: "The Boston Globe"
+  category: Essays
   title: "Stopping Heroin Before It’s Too Late"
+
 - 
   content: "online, Paper Cuts, June 9, 2009"
-  date: "2009-06-09 08:27:54"
-  description: 
-    - "online, Paper Cuts, June 9, 2009"
+  date: 2009-06-09 
   link_to_original: 
-  permalink: /writing/unpacking/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Essays
+  publication: "The New York Times"
+  category: Essays
   title: Unpacking
+
 - 
   content: "June 9, 2009"
-  date: "2009-06-09 08:58:26"
-  description: 
-    - "June 9, 2009"
-  link_to_original: 
-    - "http://artsbeat.blogs.nytimes.com/2009/06/09/the-writers-notebook-roxana-robinson/"
-  permalink: /writing/the-writers-notebook/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Web Essays"
+  date: 2009-06-09 
+  link_to_original: "http://artsbeat.blogs.nytimes.com/2009/06/09/the-writers-notebook-roxana-robinson/"
+  publication: "The New York Times"
+  category: Essays
   title: "The Writer’s Notebook"
+
 - 
   content: "May 10, 2009"
-  date: "2009-05-01 08:27:21"
-  description: 
-    - "May 10, 2009"
+  date: 2009-05-01 
   link_to_original: 
-  permalink: /writing/soul-train/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Essays
+  publication: "The New York Times"
+  category: Essays
   title: "Soul Train"
+
 - 
-  content: "<em>The New York Times</em>, March 9, 2003; Nancy Clark,<em> The Hills at Home</em>"
-  date: "2009-03-09 08:24:52"
-  description: 
-    - "<em>The New York Times</em>, March 9, 2003; Nancy Clark,<em> The Hills at Home</em>"
+  content: "*The New York Times*, March 9, 2003; Nancy Clark, *The Hills at Home*"
+  date: 2009-03-09 
   link_to_original: 
-  permalink: /writing/the-hills-at-home/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "The Hills at Home"
+
 - 
   content: "March 6, 2009"
-  date: "2009-03-06 08:30:19"
-  description: 
-    - "March 6, 2009"
-  link_to_original: 
-    - "http://www.nytimes.com/2009/03/06/opinion/06iht-edrobinson.1.20644301.html?_r=0"
-  permalink: /writing/a-mockingbirds-cry-of-desperation/
-  publication: 
-    - "International Herald Tribune"
-  sm_writing_cats: 
-    - Essays
+  date: 2009-03-06 
+  link_to_original: "http://www.nytimes.com/2009/03/06/opinion/06iht-edrobinson.1.20644301.html?_r=0"
+  publication: "International Herald Tribune"
+  category: Essays
   title: "A Mockingbird’s Cry of Desperation"
+
 - 
   content: "March 5, 2009"
-  date: "2009-03-05 08:29:33"
-  description: 
-    - "March 5, 2009"
-  link_to_original: 
-    - "http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/03/05/a_mockingbirds_cry_of_desperation/"
-  permalink: /writing/mockingbird-cry-desperation/
-  publication: 
-    - "The Boston Globe"
-  sm_writing_cats: 
-    - Essays
+  date: 2009-03-05 
+  link_to_original: "http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/03/05/a_mockingbirds_cry_of_desperation/"
+  publication: "The Boston Globe"
+  category: Essays
   title: "A Mockingbird’s Cry of Desperation"
+
 - 
-  content: "<em>The New York Times Book Review</em>, February 22, 2009 / <em>International Herald Tribune</em>, February 22, 2009   Joan London, <em>The Good Parents</em>"
-  date: "2009-02-22 08:18:51"
-  description: 
-    - |
-        <em>The New York Times Book Review</em>, February 22, 2009 / <em>International Herald Tribune</em>, February 22, 2009
-        Joan London, <em>The Good Parents</em>
+  content: "*The New York Times Book Review*, February 22, 2009 / *International Herald Tribune*, February 22, 2009   Joan London, *The Good Parents*"
+  date: 2009-02-22 
+        *The New York Times Book Review*, February 22, 2009 / *International Herald Tribune*, February 22, 2009
+        Joan London, *The Good Parents*
   link_to_original: 
-  permalink: /writing/the-good-parents/
-  publication: 
-    - ~
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: ~
+  category: "Book Reviews"
   title: "The Good Parents"
+
 - 
   content: "January 29, 2009"
-  date: "2009-01-29 08:59:20"
-  description: 
-    - "January 29, 2009"
-  link_to_original: 
-    - "http://bookcritics.org/blog/archive/ro/"
-  permalink: /writing/on-john-updike/
-  publication: 
-    - NBCC
-  sm_writing_cats: 
-    - "Web Essays"
+  date: 2009-01-29 
+  link_to_original: "http://bookcritics.org/blog/archive/ro/"
+  publication: NBCC
+  category: Essays
   title: "On John Updike"
+
 - 
-  content: "<em>The Washington Post Book World</em>, October 12, 2008; Carlos Fuentes, <em>Happy Families</em>"
-  date: "2008-10-12 08:20:43"
-  description: 
-    - "<em>The Washington Post Book World</em>, October 12, 2008; Carlos Fuentes, <em>Happy Families</em>"
+  content: "*The Washington Post Book World*, October 12, 2008; Carlos Fuentes, *Happy Families*"
+  date: 2008-10-12 
   link_to_original: 
-  permalink: /writing/happy-families/
-  publication: 
-    - "The Washington Post"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The Washington Post"
+  category: "Book Reviews"
   title: "Happy Families"
+
 - 
   content: "October 2008"
-  date: "2008-10-01 19:37:48"
-  description: 
-    - "October 2008"
+  date: 2008-10-01 
   link_to_original: 
-  permalink: /writing/the-finish-line/
-  publication: 
-    - "Good Housekeeping"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "Good Housekeeping"
+  category: "Short Stories"
   title: "The Finish Line"
+
 - 
-  content: "<em>Chekhov’s Mistress</em>, a blog of literary enthusiasms, July 15, 2008"
-  date: "2008-07-15 09:05:19"
-  description: 
-    - "<em>Chekhov's Mistress</em>, a blog of literary enthusiasms, July 15, 2008"
+  content: "*Chekhov’s Mistress*, a blog of literary enthusiasms, July 15, 2008"
+  date: 2008-07-15 
   link_to_original: 
-  permalink: /writing/classics-on-edith-wharton/
-  publication: 
-    - "Chekhov's Mistress"
-  sm_writing_cats: 
-    - "Web Essays"
+  publication: "Chekhov's Mistress"
+  category: Essays
   title: "Classics: On Edith Wharton"
+
 - 
   content: "July 7, 2008"
-  date: "2008-07-07 09:00:43"
-  description: 
-    - "July 7, 2008"
-  link_to_original: 
-    - "http://americareads.blogspot.com/2008/07/pg-69-roxana-robinsons-cost.html"
-  permalink: /writing/campaign-for-american-reader/
-  publication: 
-    - "Campaign for the American Reader"
-  sm_writing_cats: 
-    - "Web Essays"
+  date: 2008-07-07 
+  link_to_original: "http://americareads.blogspot.com/2008/07/pg-69-roxana-robinsons-cost.html"
+  publication: "Campaign for the American Reader"
+  category: Essays
   title: "Campaign for the American Reader"
+
 - 
   content: "June 27, 2008"
-  date: "2008-06-27 09:06:04"
-  description: 
-    - "June 27, 2008"
-  link_to_original: 
-    - "http://www.largeheartedboy.com/blog/archive/2008/06/book_notes_roxa.html"
-  permalink: /writing/book-notes-cost/
-  publication: 
-    - "Largehearted Boy"
-  sm_writing_cats: 
-    - "Web Essays"
+  date: 2008-06-27 
+  link_to_original: "http://www.largeheartedboy.com/blog/archive/2008/06/book_notes_roxa.html"
+  publication: "Largehearted Boy"
+  category: Essays
   title: "Book Notes: Cost"
+
 - 
   content: "April 19, 2008"
-  date: "2008-04-19 08:32:16"
-  description: 
-    - "April 19, 2008"
+  date: 2008-04-19 
   link_to_original: 
-  permalink: /writing/a-literary-glass-ceiling/
-  publication: 
-    - "Chicago Tribune"
-  sm_writing_cats: 
-    - Essays
+  publication: "Chicago Tribune"
+  category: Essays
   title: "A Literary Glass Ceiling"
+
 - 
-  content: "<em>N.Y./Region Opinions, <em>December 23, 2007"
-  date: "2007-12-23 08:34:21"
-  description: 
-    - "<em>N.Y./Region Opinions, </em>December 23, 2007"
+  content: "*N.Y./Region Opinions, *December 23, 2007"
+  date: 2007-12-23 
   link_to_original: 
-  permalink: /writing/my-mothers-home/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Essays
+  publication: "The New York Times"
+  category: Essays
   title: "My Mother’s Home"
+
 - 
   content: "winter 2007"
-  date: "2007-12-01 19:39:40"
-  description: 
-    - "winter 2007"
+  date: 2007-12-01 
   link_to_original: 
-  permalink: /writing/the-leap/
-  publication: 
-    - "The American Scholar"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The American Scholar"
+  category: "Short Stories"
   title: "The Leap"
+
 - 
   content: "October 2007"
-  date: "2007-10-01 08:36:30"
-  description: 
-    - "October 2007"
+  date: 2007-10-01 
   link_to_original: 
-  permalink: /writing/nan/
-  publication: 
-    - "More magazine"
-  sm_writing_cats: 
-    - Essays
+  publication: "More magazine"
+  category: Essays
   title: Nan
+
 - 
   content: "on the natural world from July 18 through July 29."
-  date: "2007-07-18 09:09:37"
-  description: 
-    - "on the natural world from July 18 through July 29."
+  date: 2007-07-18 
   link_to_original: 
-  permalink: /writing/natural-resources-defense-council/
-  publication: 
-    - "NRDC Action Blog"
-  sm_writing_cats: 
-    - "Web Essays"
+  publication: "NRDC Action Blog"
+  category: Essays
   title: "Natural Resources Defense Council"
+
 - 
   content: "edited by Ellen Sussman (W. W. Norton July 9, 2007)"
-  date: "2007-07-09 09:07:06"
-  description: 
-    - "edited by Ellen Sussman (W. W. Norton July 9, 2007)"
-  link_to_original: 
-    - "http://books.wwnorton.com/books/Bad-Girls/"
-  permalink: /writing/bad-girls-26-writers-misbehave/
-  publication: 
-    - "W. W. Norton"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
-    - Essays
+  date: 2007-07-09 
+  link_to_original: "http://books.wwnorton.com/books/Bad-Girls/"
+  publication: "W. W. Norton"
+  category: "Anthologies & Collections"
   title: "Bad Girls: 26 Writers Misbehave"
+
 - 
   content: "City Section, page 3, June 3, 2007"
-  date: "2007-06-03 08:37:03"
-  description: 
-    - "City Section, page 3, June 3, 2007"
+  date: 2007-06-03 
   link_to_original: 
-  permalink: /writing/the-novelist-and-the-curious-cabbie/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Essays
+  publication: "The New York Times"
+  category: Essays
   title: "The Novelist and the Curious Cabbie"
+
 - 
   content: "Op-Ed, January 14, 2007"
-  date: "2007-01-14 08:37:41"
-  description: 
-    - "Op-Ed, January 14, 2007"
+  date: 2007-01-14 
   link_to_original: 
-  permalink: /writing/drowning-in-apathy/
-  publication: 
-    - "The Philadelphia Inquirer"
-  sm_writing_cats: 
-    - Essays
+  publication: "The Philadelphia Inquirer"
+  category: Essays
   title: "Drowning in Apathy"
+
 - 
   content: "edited by Karen Stabiner (Hyperion, 2007)"
-  date: "2007-01-01 09:45:29"
-  description: 
-    - "edited by Karen Stabiner (Hyperion, 2007)"
+  date: 2007-01-01 
   link_to_original: 
-  permalink: /writing/the-empty-nest/
-  publication: 
-    - Hyperion
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: Hyperion
+  category: "Anthologies & Collections"
   title: "The Empty Nest"
+
 - 
   content: "edited by Harriet Brown (Ballantine Books, 2007)"
-  date: "2007-01-01 09:47:16"
-  description: 
-    - "edited by Harriet Brown (Ballantine Books, 2007)"
+  date: 2007-01-01 
   link_to_original: 
-  permalink: /writing/mr-wrong/
-  publication: 
-    - "Ballantine Books"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "Ballantine Books"
+  category: "Anthologies & Collections"
   title: "Mr. Wrong"
+
 - 
   content: "2007"
-  date: "2007-01-01 08:33:22"
-  description: 
-    - 2007
+  date: 2007-01-01 
   link_to_original: 
-  permalink: /writing/introduction-to-the-new-york-stories-of-edith-wharton/
-  publication: 
-    - "New York Review of Books"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
-    - Essays
+  publication: "New York Review of Books"
+  category: "Anthologies & Collections"
   title: "Introduction to The New York Stories of Edith Wharton"
+
 - 
   content: "winter 2006"
-  date: "2006-12-01 08:41:15"
-  description: 
-    - "winter 2006"
+  date: 2006-12-01 
   link_to_original: 
-  permalink: /writing/wild-duck/
-  publication: 
-    - "The Southern Review"
-  sm_writing_cats: 
-    - Essays
+  publication: "The Southern Review"
+  category: Essays
   title: "Wild Duck"
+
 - 
   content: "November 2006"
-  date: "2006-11-01 08:38:30"
-  description: 
-    - "November 2006"
+  date: 2006-11-01 
   link_to_original: 
-  permalink: /writing/the-night-ride/
-  publication: 
-    - "More magazine"
-  sm_writing_cats: 
-    - Essays
+  publication: "More magazine"
+  category: Essays
   title: "The Night Ride"
+
 - 
   content: "September 7, 2006"
-  date: "2006-09-07 08:39:40"
-  description: 
-    - "September 7, 2006"
+  date: 2006-09-07 
   link_to_original: 
-  permalink: /writing/the-monarch-and-the-milkweed/
-  publication: 
-    - "International Herald Tribune"
-  sm_writing_cats: 
-    - Essays
+  publication: "International Herald Tribune"
+  category: Essays
   title: "The Monarch and the Milkweed"
+
 - 
   content: "Op-Ed, September 6, 2006"
-  date: "2006-09-06 08:38:59"
-  description: 
-    - "Op-Ed, September 6, 2006"
+  date: 2006-09-06 
   link_to_original: 
-  permalink: /writing/the-monarch-and-the-milkweed-2/
-  publication: 
-    - "The Boston Globe"
-  sm_writing_cats: 
-    - Essays
+  publication: "The Boston Globe"
+  category: Essays
   title: "The Monarch and the Milkweed"
+
 - 
   content: "June 2006"
-  date: "2006-06-01 08:40:35"
-  description: 
-    - "June 2006"
+  date: 2006-06-01 
   link_to_original: 
-  permalink: /writing/mother-once-removed/
-  publication: 
-    - "Real Simple"
-  sm_writing_cats: 
-    - Essays
+  publication: "Real Simple"
+  category: Essays
   title: "Mother, Once Removed"
+
 - 
-  content: "sailing on the Sea Cloud, Turkey; <em>The New York Times</em>, February 4, 1996"
-  date: "2006-02-04 11:28:34"
-  description: 
-    - "sailing on the Sea Cloud, Turkey; <em>The New York Times</em>, February 4, 1996"
+  content: "sailing on the Sea Cloud, Turkey; *The New York Times*, February 4, 1996"
+  date: 2006-02-04 
   link_to_original: 
-  permalink: /writing/sailing-through-the-classics/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Travel
+  publication: "The New York Times"
+  category: Travel
   title: "Sailing Through the Classics"
+
 - 
   content: "January 1, 2006"
-  date: "2006-01-01 08:43:00"
-  description: 
-    - "January 1, 2006"
+  date: 2006-01-01 
   link_to_original: 
-  permalink: /writing/watching-as-the-world-vanishes/
-  publication: 
-    - "The Boston Globe"
-  sm_writing_cats: 
-    - Essays
+  publication: "The Boston Globe"
+  category: Essays
   title: "Watching as the World Vanishes"
+
 - 
   content: "edited by Elizabeth Merrick (Random House, 2006)"
-  date: "2006-01-01 09:52:35"
-  description: 
-    - "edited by Elizabeth Merrick (Random House, 2006)"
+  date: 2006-01-01 
   link_to_original: 
-  permalink: /writing/this-is-not-chick-lit-original-stories-by-americas-best-women-writers/
-  publication: 
-    - "Random House"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "Random House"
+  category: "Anthologies & Collections"
   title: "This Is Not Chick Lit: Original Stories by America’s Best Women Writers"
+
 - 
   content: "edited by Anne Burt (W.W. Norton, 2006)"
-  date: "2006-01-01 09:53:19"
-  description: 
-    - "edited by Anne Burt (W.W. Norton, 2006)"
+  date: 2006-01-01 
   link_to_original: 
-  permalink: /writing/my-father-married-your-mother/
-  publication: 
-    - "W. W. Norton"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "W. W. Norton"
+  category: "Anthologies & Collections"
   title: "My Father Married Your Mother"
+
 - 
   content: "October/November 2005"
-  date: "2005-10-01 08:45:46"
-  description: 
-    - "October/November 2005"
+  date: 2005-10-01 
   link_to_original: 
-  permalink: /writing/this-dogs-life/
-  publication: 
-    - "Women’s Health"
-  sm_writing_cats: 
-    - Essays
+  publication: "Women’s Health"
+  category: Essays
   title: "This Dog’s Life"
+
 - 
   content: "August 21, 2005"
-  date: "2005-08-21 08:46:47"
-  description: 
-    - "August 21, 2005"
+  date: 2005-08-21 
   link_to_original: 
-  permalink: /writing/gendered-genres/
-  publication: 
-    - "Chicago Tribune"
-  sm_writing_cats: 
-    - Essays
+  publication: "Chicago Tribune"
+  category: Essays
   title: "Gendered Genres"
+
 - 
   content: "Pen on Fire: Writers on Writing, July 12, 2005"
-  date: "2005-07-12 09:10:20"
-  description: 
-    - "Pen on Fire: Writers on Writing, July 12, 2005"
-  link_to_original: 
-    - "http://penonfire.blogspot.com/2005/07/roxana-robinson-on-writing.html"
-  permalink: /writing/on-writing/
-  publication: 
-    - "Pen on Fire"
-  sm_writing_cats: 
-    - "Web Essays"
+  date: 2005-07-12 
+  link_to_original: "http://penonfire.blogspot.com/2005/07/roxana-robinson-on-writing.html"
+  publication: "Pen on Fire"
+  category: Essays
   title: "On Writing"
+
 - 
   content: "summer 2005"
-  date: "2005-07-01 08:41:46"
-  description: 
-    - "summer 2005"
+  date: 2005-07-01 
   link_to_original: 
-  permalink: /writing/nrdc-action-blog/
-  publication: 
-    - "NRDC Action Blog"
-  sm_writing_cats: 
-    - Essays
+  publication: "NRDC Action Blog"
+  category: Essays
   title: "NRDC Action Blog"
+
 - 
   content: "April 27, 2005"
-  date: "2005-04-27 09:12:02"
-  description: 
-    - "April 27, 2005"
-  link_to_original: 
-    - "http://thehappybooker.blogs.com/the_happy_booker/2005/04/roxana_robinson.html"
-  permalink: /writing/writing-space/
-  publication: 
-    - "The Happy Booker"
-  sm_writing_cats: 
-    - "Web Essays"
+  date: 2005-04-27 
+  link_to_original: "http://thehappybooker.blogs.com/the_happy_booker/2005/04/roxana_robinson.html"
+  publication: "The Happy Booker"
+  category: Essays
   title: "Writing Spaces"
+
 - 
   content: "April 2005"
-  date: "2005-04-01 19:42:06"
-  description: 
-    - "April 2005"
+  date: 2005-04-01 
   link_to_original: 
-  permalink: /writing/a-perfect-stranger/
-  publication: 
-    - "One Story"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "One Story"
+  category: "Short Stories"
   title: "A Perfect Stranger"
+
 - 
-  content: "<em>The Wilson Quarterly</em>, 2005; John M. Marzluff and Tony Angell, <em>In the Company of Crows and Ravens</em>, Yale University Press"
-  date: "2005-01-01 08:24:00"
-  description: 
-    - "<em>The Wilson Quarterly</em>, 2005; John M. Marzluff and Tony Angell, <em>In the Company of Crows and Ravens</em>, Yale University Press"
+  content: "*The Wilson Quarterly*, 2005; John M. Marzluff and Tony Angell, *In the Company of Crows and Ravens*, Yale University Press"
+  date: 2005-01-01 
   link_to_original: 
-  permalink: /writing/in-the-company-of-crows-and-ravens/
-  publication: 
-    - "The Wilson Quarterly"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The Wilson Quarterly"
+  category: "Book Reviews"
   title: "In the Company of Crows and Ravens"
+
 - 
   content: "edited by Bryant Mangum, published by Modern Library, 2005"
-  date: "2005-01-01 08:44:45"
-  description: 
-    - "edited by Bryant Mangum, published by Modern Library, 2005"
+  date: 2005-01-01 
   link_to_original: 
-  permalink: /writing/foreword-to-best-early-stories-f-scott-fitzgerald/
-  publication: 
-    - "Modern Library"
-  sm_writing_cats: 
-    - Essays
+  publication: "Modern Library"
+  category: Essays
   title: "Foreword to The Best Early Stories of F. Scott Fitzgerald"
+
 - 
   content: "vol. 33, no. 3, 2005"
-  date: "2005-01-01 08:42:23"
-  description: 
-    - "vol. 33, no. 3, 2005"
+  date: 2005-01-01 
   link_to_original: 
-  permalink: /writing/coyote/
-  publication: 
-    - "Mississippi Review"
-  sm_writing_cats: 
-    - Essays
+  publication: "Mississippi Review"
+  category: Essays
   title: Coyote
+
 - 
   content: "Op-Ed, October 10, 2004"
-  date: "2004-10-10 08:47:36"
-  description: 
-    - "Op-Ed, October 10, 2004"
+  date: 2004-10-10 
   link_to_original: 
-  permalink: /writing/breathing-partners/
-  publication: 
-    - "The Boston Globe"
-  sm_writing_cats: 
-    - Essays
+  publication: "The Boston Globe"
+  category: Essays
   title: "Breathing Partners"
+
 - 
   content: "fall 2004"
-  date: "2004-09-01 19:42:40"
-  description: 
-    - "fall 2004"
+  date: 2004-09-01 
   link_to_original: 
-  permalink: /writing/intersection/
-  publication: 
-    - "Ms. magazine"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "Ms. magazine"
+  category: "Short Stories"
   title: Intersection
+
 - 
-  content: "<em>Travel and Leisure</em>, July, 2004"
-  date: "2004-07-01 11:25:24"
-  description: 
-    - "<em>Travel and Leisure</em>, July, 2004"
+  content: "*Travel and Leisure*, July, 2004"
+  date: 2004-07-01 
   link_to_original: 
-  permalink: /writing/new-zealands-natural-wonders/
-  publication: 
-    - "Travel and Leisure"
-  sm_writing_cats: 
-    - Travel
+  publication: "Travel and Leisure"
+  category: Travel
   title: "New Zealand’s Natural Wonders"
+
 - 
   content: "summer 2004"
-  date: "2004-06-01 19:43:03"
-  description: 
-    - "summer 2004"
+  date: 2004-06-01 
   link_to_original: 
-  permalink: /writing/blind-man/
-  publication: 
-    - Daedalus
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: Daedalus
+  category: "Short Stories"
   title: "Blind Man"
+
 - 
   content: "Travel Section, May 2, 2004"
-  date: "2004-05-02 08:48:23"
-  description: 
-    - "Travel Section, May 2, 2004"
+  date: 2004-05-02 
   link_to_original: 
-  permalink: /writing/to-russia-with-books/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Travel
+  publication: "The New York Times"
+  category: Travel
   title: "To Russia, With Books"
+
 - 
   content: "Op-Ed, February 16, 2004"
-  date: "2004-02-16 08:49:16"
-  description: 
-    - "Op-Ed, February 16, 2004"
+  date: 2004-02-16 
   link_to_original: 
-  permalink: /writing/a-hare-out-of-season/
-  publication: 
-    - "The Boston Globe"
-  sm_writing_cats: 
-    - Essays
+  publication: "The Boston Globe"
+  category: Essays
   title: "A Hare Out of Season"
+
 - 
-  content: "St. Petersburg, <em>The New York Times</em>, December 14, 2003"
-  date: "2003-12-14 11:24:24"
-  description: 
-    - "St. Petersburg, <em>The New York Times</em>, December 14, 2003"
+  content: "St. Petersburg, *The New York Times*, December 14, 2003"
+  date: 2003-12-14 
   link_to_original: 
-  permalink: /writing/the-lairs-of-the-russian-literary-lions/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Travel
+  publication: "The New York Times"
+  category: Travel
   title: "The Lairs of the Russian Literary Lions"
+
 - 
   content: "December 2003"
-  date: "2003-12-01 08:50:35"
-  description: 
-    - "December 2003"
+  date: 2003-12-01 
   link_to_original: 
-  permalink: /writing/the-setting-of-sweetwater/
-  publication: 
-    - "Adirondack Life"
-  sm_writing_cats: 
-    - Essays
+  publication: "Adirondack Life"
+  category: Essays
   title: "The Setting of Sweetwater"
+
 - 
   content: "fall 2003"
-  date: "2003-09-01 08:51:10"
-  description: 
-    - "fall 2003"
+  date: 2003-09-01 
   link_to_original: 
-  permalink: /writing/my-dog-lacey/
-  publication: 
-    - "The Bark"
-  sm_writing_cats: 
-    - Essays
+  publication: "The Bark"
+  category: Essays
   title: "My Dog Lacey"
+
 - 
   content: "July/August 2003"
-  date: "2003-07-01 08:51:42"
-  description: 
-    - "July/August 2003"
+  date: 2003-07-01 
   link_to_original: 
-  permalink: /writing/the-fabric-of-life-in-a-meadow/
-  publication: 
-    - "Fine Gardening"
-  sm_writing_cats: 
-    - Essays
+  publication: "Fine Gardening"
+  category: Essays
   title: "The Fabric of Life in a Meadow"
+
 - 
-  content: "Taronga Zoo, Sydney, Australia; <em>The New York Times</em>, June 1, 2003"
-  date: "2003-06-01 11:26:22"
-  description: 
-    - "Taronga Zoo, Sydney, Australia; <em>The New York Times</em>, June 1, 2003"
+  content: "Taronga Zoo, Sydney, Australia; *The New York Times*, June 1, 2003"
+  date: 2003-06-01 
   link_to_original: 
-  permalink: /writing/wombats-and-wallabies/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Travel
+  publication: "The New York Times"
+  category: Travel
   title: "Wombats and Wallabies"
+
 - 
   content: "June 2003"
-  date: "2003-06-01 08:52:14"
-  description: 
-    - "June 2003"
+  date: 2003-06-01 
   link_to_original: 
-  permalink: /writing/a-calm-quiet-place-watermark/
-  publication: 
-    - "House Beautiful"
-  sm_writing_cats: 
-    - Essays
+  publication: "House Beautiful"
+  category: Essays
   title: "A Calm, Quiet Place: Watermark"
+
 - 
   content: "May 2003"
-  date: "2003-05-01 19:43:29"
-  description: 
-    - "May 2003"
+  date: 2003-05-01 
   link_to_original: 
-  permalink: /writing/at-the-beach/
-  publication: 
-    - "Good Housekeeping"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "Good Housekeeping"
+  category: "Short Stories"
   title: "At the Beach"
+
 - 
-  content: "<em>The Old Maid: The Fifties, <em>by Edith Wharton, Modern Library, 2003"
-  date: "2003-01-01 08:49:47"
-  description: 
-    - "<em>The Old Maid: The Fifties, </em>by Edith Wharton, Modern Library, 2003"
+  content: "*The Old Maid: The Fifties, *by Edith Wharton, Modern Library, 2003"
+  date: 2003-01-01 
   link_to_original: 
-  permalink: /writing/introduction-to-the-old-maid-the-fifties/
-  publication: 
-    - "Modern Library"
-  sm_writing_cats: 
-    - Essays
+  publication: "Modern Library"
+  category: Essays
   title: "Introduction to The Old Maid: The Fifties"
+
 - 
   content: "December 2002, p. 72"
-  date: "2002-12-01 08:52:53"
-  description: 
-    - "December 2002, p. 72"
+  date: 2002-12-01 
   link_to_original: 
-  permalink: /writing/box-step/
-  publication: 
-    - "House and Garden"
-  sm_writing_cats: 
-    - Essays
+  publication: "House and Garden"
+  category: Essays
   title: "Box Step"
+
 - 
   content: "September 2002"
-  date: "2002-09-01 19:43:56"
-  description: 
-    - "September 2002"
+  date: 2002-09-01 
   link_to_original: 
-  permalink: /writing/treatment/
-  publication: 
-    - "The Atlantic Monthly"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The Atlantic Monthly"
+  category: "Short Stories"
   title: Treatment
+
 - 
   content: "City Section, p. 11, August 18, 2002"
-  date: "2002-08-18 08:53:29"
-  description: 
-    - "City Section, p. 11, August 18, 2002"
+  date: 2002-08-18 
   link_to_original: 
-  permalink: /writing/chandelier/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Essays
+  publication: "The New York Times"
+  category: Essays
   title: Chandelier
+
 - 
-  content: "<em>The Washington Post Book World</em>, July 28, 2002; John Hough, <em>The Last Summer</em>"
-  date: "2002-07-28 08:26:56"
-  description: 
-    - "<em>The Washington Post Book World</em>, July 28, 2002; John Hough, <em>The Last Summer</em>"
+  content: "*The Washington Post Book World*, July 28, 2002; John Hough, *The Last Summer*"
+  date: 2002-07-28 
   link_to_original: 
-  permalink: /writing/the-last-summer/
-  publication: 
-    - "The Washington Post"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The Washington Post"
+  category: "Book Reviews"
   title: "The Last Summer"
+
 - 
   content: "edited by Robert Kahn (The Little Bookroom, New York, 2002)"
-  date: "2002-01-01 09:54:06"
-  description: 
-    - "edited by Robert Kahn (The Little Bookroom, New York, 2002)"
+  date: 2002-01-01 
   link_to_original: 
-  permalink: /writing/city-secrets-new-york-city/
-  publication: 
-    - "The Little Bookroom"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "The Little Bookroom"
+  category: "Anthologies & Collections"
   title: "City Secrets: New York City"
+
 - 
   content: "edited by Ulrich Baer (NYU Press, 2002)"
-  date: "2002-01-01 09:55:03"
-  description: 
-    - "edited by Ulrich Baer (NYU Press, 2002)"
+  date: 2002-01-01 
   link_to_original: 
-  permalink: /writing/110-stories-new-york-writes-after-september-11/
-  publication: 
-    - "NYU Press"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "NYU Press"
+  category: "Anthologies & Collections"
   title: "110 Stories: New York Writes After September 11"
+
 - 
   content: "August 2001"
-  date: "2001-08-01 08:54:00"
-  description: 
-    - "August 2001"
+  date: 2001-08-01 
   link_to_original: 
-  permalink: /writing/here-comes-the-mother-of-the-bride/
-  publication: 
-    - Vogue
-  sm_writing_cats: 
-    - Essays
+  publication: Vogue
+  category: Essays
   title: "Here Comes the Mother of the Bride"
+
 - 
   content: "Lives column, June 17, 2001"
-  date: "2001-01-17 08:54:40"
-  description: 
-    - "Lives column, June 17, 2001"
+  date: 2001-01-17 
   link_to_original: 
-  permalink: /writing/great-expectations/
-  publication: 
-    - "The New York Times Magazine"
-  sm_writing_cats: 
-    - Essays
+  publication: "The New York Times Magazine"
+  category: Essays
   title: "Great Expectations"
+
 - 
   content: "January 7, 2001"
-  date: "2001-01-07 08:55:18"
-  description: 
-    - "January 7, 2001"
+  date: 2001-01-07 
   link_to_original: 
-  permalink: /writing/the-ice-age/
-  publication: 
-    - "The New York Times Book Review"
-  sm_writing_cats: 
-    - Essays
+  publication: "The New York Times Book Review"
+  category: Essays
   title: "The Ice Age"
+
 - 
   content: "edited by Jane Maher (Prentice-Hall, 2001)"
-  date: "2001-01-01 09:59:53"
-  description: 
-    - "edited by Jane Maher (Prentice-Hall, 2001)"
+  date: 2001-01-01 
   link_to_original: 
-  permalink: /writing/writing-for-a-lifetime-contemporary-readings-from-popular-sources/
-  publication: 
-    - Prentice-Hall
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: Prentice-Hall
+  category: "Anthologies & Collections"
   title: "Writing for a Lifetime: Contemporary Readings From Popular Sources"
+
 - 
   content: "edited by John Darnton (Times Books, New York, 2001)"
-  date: "2001-01-01 09:57:03"
-  description: 
-    - "edited by John Darnton (Times Books, New York, 2001)"
+  date: 2001-01-01 
   link_to_original: 
-  permalink: /writing/writers-on-writing-collected-essays-from-the-new-york-times/
-  publication: 
-    - "Times Books"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "Times Books"
+  category: "Anthologies & Collections"
   title: "Writers on Writing: Collected Essays From the New York Times"
+
 - 
   content: "edited by Otto Penzler (Houghton Mifflin, Boston, 2001)"
-  date: "2001-01-01 09:57:37"
-  description: 
-    - "edited by Otto Penzler (Houghton Mifflin, Boston, 2001)"
+  date: 2001-01-01 
   link_to_original: 
-  permalink: /writing/best-american-mystery-stories-of-2001/
-  publication: 
-    - "Houghton Mifflin"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "Houghton Mifflin"
+  category: "Anthologies & Collections"
   title: "Best American Mystery Stories of 2001"
+
 - 
   content: "December 2000"
-  date: "2000-12-01 19:44:20"
-  description: 
-    - "December 2000"
+  date: 2000-12-01 
   link_to_original: 
-  permalink: /writing/family-christmas/
-  publication: 
-    - "The Atlantic Monthly"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The Atlantic Monthly"
+  category: "Short Stories"
   title: "Family Christmas"
+
 - 
   content: "October 20, 2000, p. W17"
-  date: "2000-10-20 08:55:51"
-  description: 
-    - "October 20, 2000, p. W17"
+  date: 2000-10-20 
   link_to_original: 
-  permalink: /writing/listening-silence/
-  publication: 
-    - "The Wall Street Journal"
-  sm_writing_cats: 
-    - Essays
+  publication: "The Wall Street Journal"
+  category: Essays
   title: "Listening Silence"
+
 - 
   content: "September 2000"
-  date: "2000-09-01 08:56:28"
-  description: 
-    - "September 2000"
+  date: 2000-09-01 
   link_to_original: 
-  permalink: /writing/dogs-in-my-life/
-  publication: 
-    - "Victoria Magazine"
-  sm_writing_cats: 
-    - Essays
+  publication: "Victoria Magazine"
+  category: Essays
   title: "Dogs in My Life"
+
 - 
   content: "August 2000"
-  date: "2000-08-01 19:44:44"
-  description: 
-    - "August 2000"
+  date: 2000-08-01 
   link_to_original: 
-  permalink: /writing/the-face-lift/
-  publication: 
-    - "The Atlantic Monthly"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The Atlantic Monthly"
+  category: "Short Stories"
   title: "The Face-Lift"
+
 - 
   content: "Writers on Writing column, July 17, 2000"
-  date: "2000-07-17 08:57:00"
-  description: 
-    - "Writers on Writing column, July 17, 2000"
+  date: 2000-07-17 
   link_to_original: 
-  permalink: /writing/if-you-write-the-story/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Essays
+  publication: "The New York Times"
+  category: Essays
   title: "If You Write the Story…"
+
 - 
-  content: "<em>Travel and Leisure</em>, March 2000"
-  date: "2000-03-01 11:26:56"
-  description: 
-    - "<em>Travel and Leisure</em>, March 2000"
+  content: "*Travel and Leisure*, March 2000"
+  date: 2000-03-01 
   link_to_original: 
-  permalink: /writing/a-walking-trip-in-the-sicilian-countryside/
-  publication: 
-    - "Travel and Leisure"
-  sm_writing_cats: 
-    - Travel
+  publication: "Travel and Leisure"
+  category: Travel
   title: "A Walking Trip in the Sicilian Countryside"
+
 - 
-  content: "<em>The Washington Post Book World</em>, 2000; Karen Bender, <em>Like Normal People</em>"
-  date: "2000-01-01 08:28:59"
-  description: 
-    - "<em>The Washington Post Book World</em>, 2000; Karen Bender, <em>Like Normal People</em>"
+  content: "*The Washington Post Book World*, 2000; Karen Bender, *Like Normal People*"
+  date: 2000-01-01 
   link_to_original: 
-  permalink: /writing/like-normal-people/
-  publication: 
-    - "The Washington Post"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The Washington Post"
+  category: "Book Reviews"
   title: "Like Normal People"
+
 - 
   content: "December 1999"
-  date: "1999-12-01 19:44:48"
-  description: 
-    - "December 1999"
+  date: 1999-12-01 
   link_to_original: 
-  permalink: /writing/assistance/
-  publication: 
-    - "The Atlantic Monthly"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The Atlantic Monthly"
+  category: "Short Stories"
   title: Assistance
+
 - 
   content: "Lives column, April 4, 1999"
-  date: "1999-04-04 08:57:43"
-  description: 
-    - "Lives column, April 4, 1999"
+  date: 1999-04-04 
   link_to_original: 
-  permalink: /writing/instant-intimacy/
-  publication: 
-    - "The New York Times Magazine"
-  sm_writing_cats: 
-    - Essays
+  publication: "The New York Times Magazine"
+  category: Essays
   title: "Instant Intimacy"
+
 - 
   content: "Books Column: On Reading, November 1, 1998"
-  date: "1998-11-01 08:58:15"
-  description: 
-    - "Books Column: On Reading, November 1, 1998"
+  date: 1998-11-01 
   link_to_original: 
-  permalink: /writing/when-tragedy-in-literature-is-a-family-affair/
-  publication: 
-    - "The Boston Globe"
-  sm_writing_cats: 
-    - Essays
+  publication: "The Boston Globe"
+  category: Essays
   title: "When Tragedy in Literature Is a Family Affair"
+
 - 
   content: "Op-Ed, October 19, 1998"
-  date: "1998-10-19 08:59:00"
-  description: 
-    - "Op-Ed, October 19, 1998"
+  date: 1998-10-19 
   link_to_original: 
-  permalink: /writing/censorship-or-common-sense/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Essays
+  publication: "The New York Times"
+  category: Essays
   title: "Censorship or Common Sense"
+
 - 
-  content: "<em>The New York Times</em>, October 11, 1998; Susan Minot, <em>Evening</em>"
-  date: "1998-10-11 08:30:00"
-  description: 
-    - "<em>The New York Times</em>, October 11, 1998; Susan Minot, <em>Evening</em>"
+  content: "*The New York Times*, October 11, 1998; Susan Minot, *Evening*"
+  date: 1998-10-11 
   link_to_original: 
-  permalink: /writing/evening/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: Evening
+
 - 
   content: "May 1998"
-  date: "1998-05-01 08:59:30"
-  description: 
-    - "May 1998"
+  date: 1998-05-01 
   link_to_original: 
-  permalink: /writing/personal-growth/
-  publication: 
-    - "House and Garden"
-  sm_writing_cats: 
-    - Essays
+  publication: "House and Garden"
+  category: Essays
   title: "Personal Growth"
+
 - 
-  content: "<em>The Washington Post Book World</em>, April 5, 1998; Dorothy Allison, <em>Cavedweller</em>"
-  date: "1998-04-05 08:30:51"
-  description: 
-    - "<em>The Washington Post Book World</em>, April 5, 1998; Dorothy Allison, <em>Cavedweller</em>"
+  content: "*The Washington Post Book World*, April 5, 1998; Dorothy Allison, *Cavedweller*"
+  date: 1998-04-05 
   link_to_original: 
-  permalink: /writing/cavedweller/
-  publication: 
-    - "The Washington Post"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The Washington Post"
+  category: "Book Reviews"
   title: Cavedweller
+
 - 
-  content: "<em>The Washington Post Book World</em>, February 1, 1998; David Gates, <em>Preston Falls</em>"
-  date: "1998-02-01 08:31:35"
-  description: 
-    - "<em>The Washington Post Book World</em>, February 1, 1998; David Gates, <em>Preston Falls</em>"
+  content: "*The Washington Post Book World*, February 1, 1998; David Gates, *Preston Falls*"
+  date: 1998-02-01 
   link_to_original: 
-  permalink: /writing/preston-falls/
-  publication: 
-    - "The Washington Post"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The Washington Post"
+  category: "Book Reviews"
   title: "Preston Falls"
+
 - 
   content: "edited by Susan Hill (Michael Joseph, London, 1998)"
-  date: "1998-01-01 10:00:38"
-  description: 
-    - "edited by Susan Hill (Michael Joseph, London, 1998)"
+  date: 1998-01-01 
   link_to_original: 
-  permalink: /writing/the-second-penguin-book-of-modern-womens-short-stories/
-  publication: 
-    - "Michael Joseph"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "Michael Joseph"
+  category: "Anthologies & Collections"
   title: "The Second Penguin Book of Modern Women’s Short Stories"
+
 - 
-  content: "<em>The New York Times</em>, December 14, 1997; Thomas Caplan, <em>Grace and Favor</em>"
-  date: "1997-12-14 08:32:18"
-  description: 
-    - "<em>The New York Times</em>, December 14, 1997; Thomas Caplan, <em>Grace and Favor</em>"
+  content: "*The New York Times*, December 14, 1997; Thomas Caplan, *Grace and Favor*"
+  date: 1997-12-14 
   link_to_original: 
-  permalink: /writing/grace-and-favor/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "Grace and Favor"
+
 - 
-  content: "<em>The New York Times</em>, March 30, 1997; Fernanda Eberstadt, <em>When the Sons of Heaven Meet the Daughters of the Earth</em>"
-  date: "1997-03-30 08:33:15"
-  description: 
-    - "<em>The New York Times</em>, March 30, 1997; Fernanda Eberstadt, <em>When the Sons of Heaven Meet the Daughters of the Earth</em>"
+  content: "*The New York Times*, March 30, 1997; Fernanda Eberstadt, *When the Sons of Heaven Meet the Daughters of the Earth*"
+  date: 1997-03-30 
   link_to_original: 
-  permalink: /writing/when-the-sons-of-heaven-meet-the-daughters-of-the-earth/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "When the Sons of Heaven Meet the Daughters of the Earth"
+
 - 
   content: "February 1997"
-  date: "1997-02-01 08:59:59"
-  description: 
-    - "February 1997"
+  date: 1997-02-01 
   link_to_original: 
-  permalink: /writing/the-stepmother/
-  publication: 
-    - Vogue
-  sm_writing_cats: 
-    - Essays
+  publication: Vogue
+  category: Essays
   title: "The Stepmother"
+
 - 
-  content: "<em>The Washington Post</em>, December 10, 1996; Janet Peery, <em>The River Beyond the World</em>"
-  date: "1996-12-10 08:33:57"
-  description: 
-    - "<em>The Washington Post</em>, December 10, 1996; Janet Peery, <em>The River Beyond the World</em>"
+  content: "*The Washington Post*, December 10, 1996; Janet Peery, *The River Beyond the World*"
+  date: 1996-12-10
   link_to_original: 
-  permalink: /writing/the-river-beyond-the-world/
-  publication: 
-    - "The Washington Post"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The Washington Post"
+  category: "Book Reviews"
   title: "The River Beyond the World"
+
 - 
-  content: "<em>The New York Times</em>, November 3, 1996; Shena Mackay, <em>The Orchard on Fire</em>"
-  date: "1996-11-03 08:35:05"
-  description: 
-    - "<em>The New York Times</em>, November 3, 1996; Shena Mackay, <em>The Orchard on Fire</em>"
+  content: "*The New York Times*, November 3, 1996; Shena Mackay, *The Orchard on Fire*"
+  date: 1996-11-03
   link_to_original: 
-  permalink: /writing/the-orchard-on-fire/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "The Orchard on Fire"
+
 - 
-  content: "<em>The Washington Post Book World</em>, October 6, 1996; Mona Simpson, <em>A Regular Guy</em>"
-  date: "1996-10-06 08:36:26"
-  description: 
-    - "<em>The Washington Post Book World</em>, October 6, 1996; Mona Simpson, <em>A Regular Guy</em>"
+  content: "*The Washington Post Book World*, October 6, 1996; Mona Simpson, *A Regular Guy*"
+  date: 1996-10-06 
   link_to_original: 
-  permalink: /writing/a-regular-guy/
-  publication: 
-    - "The Washington Post"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The Washington Post"
+  category: "Book Reviews"
   title: "A Regular Guy"
+
 - 
-  content: "Ireland, <em>The New York Times</em>, July 21, 1996"
-  date: "1996-07-21 11:27:50"
-  description: 
-    - "Ireland, <em>The New York Times</em>, July 21, 1996"
+  content: "Ireland, *The New York Times*, July 21, 1996"
+  date: 1996-07-21
   link_to_original: 
-  permalink: /writing/horses-of-another-color/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Travel
+  publication: "The New York Times"
+  category: Travel
   title: "Horses of Another Color"
+
 - 
-  content: "<em>The Washington Post Book World</em>, April 21, 1996; Louise Erdrich, <em>Tales of Burning Love</em>"
-  date: "1996-04-21 08:37:27"
-  description: 
-    - "<em>The Washington Post Book World</em>, April 21, 1996; Louise Erdrich, <em>Tales of Burning Love</em>"
+  content: "*The Washington Post Book World*, April 21, 1996; Louise Erdrich, *Tales of Burning Love*"
+  date: 1996-04-21
   link_to_original: 
-  permalink: /writing/tales-of-burning-love/
-  publication: 
-    - "The Washington Post"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The Washington Post"
+  category: "Book Reviews"
   title: "Tales of Burning Love"
+
 - 
   content: "January 1996"
-  date: "1996-01-01 08:08:49"
-  description: 
-    - "January 1996"
+  date: 1996-01-01
   link_to_original: 
-  permalink: /writing/the-favor/
-  publication: 
-    - "The Atlantic Monthly"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The Atlantic Monthly"
+  category: "Short Stories"
   title: "The Favor"
+
 - 
   content: "edited by Katrina Kenison and Kathleen Hirsch (Farrar Straus, New York 1996)"
-  date: "1996-01-01 10:01:55"
-  description: 
-    - "edited by Katrina Kenison and Kathleen Hirsch (Farrar Straus, New York 1996)"
+  date: 1996-01-01
   link_to_original: 
-  permalink: /writing/mothers-twenty-stories-of-contemporary-motherhood/
-  publication: 
-    - "Farrar Straus"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "Farrar Straus"
+  category: "Anthologies & Collections"
   title: "Mothers: Twenty Stories of Contemporary Motherhood"
+
 - 
-  content: "<em>The Los Angeles Times</em>, May 7, 1995; Sue Miller, <em>The Distinguished Guest</em>"
-  date: "1995-05-07 08:38:18"
-  description: 
-    - "<em>The Los Angeles Times</em>, May 7, 1995; Sue Miller, <em>The Distinguished Guest</em>"
+  content: "*The Los Angeles Times*, May 7, 1995; Sue Miller, *The Distinguished Guest*"
+  date: 1995-05-07
   link_to_original: 
-  permalink: /writing/the-distinguished-guest/
-  publication: 
-    - "The Los Angeles Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The Los Angeles Times"
+  category: "Book Reviews"
   title: "The Distinguished Guest"
+
 - 
   content: "November 1994"
-  date: "1994-11-01 08:09:41"
-  description: 
-    - "November 1994"
+  date: 1994-11-01
   link_to_original: 
-  permalink: /writing/king-of-the-sky/
-  publication: 
-    - Harper’s
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: Harper’s
+  category: "Short Stories"
   title: "King of the Sky"
+
 - 
   content: "September 1994"
-  date: "1994-09-01 08:10:07"
-  description: 
-    - "September 1994"
+  date: 1994-09-01
   link_to_original: 
-  permalink: /writing/leaving-home/
-  publication: 
-    - "The Atlantic Monthly"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The Atlantic Monthly"
+  category: "Short Stories"
   title: "Leaving Home"
+
 - 
-  content: "Sweden, <em>The New York Times</em>, May 29, 1994"
-  date: "1994-05-29 11:29:03"
-  description: 
-    - "Sweden, <em>The New York Times</em>, May 29, 1994"
+  content: "Sweden, *The New York Times*, May 29, 1994"
+  date: 1994-05-29
   link_to_original: 
-  permalink: /writing/carl-larssons-house/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Travel
+  publication: "The New York Times"
+  category: Travel
   title: "Carl Larsson’s House"
+
 - 
   content: "edited by Tobias Wolfe and Katrina Kenison (Houghton Mifflin, Boston, 1994)"
-  date: "1994-01-01 10:03:19"
-  description: 
-    - "edited by Tobias Wolfe and Katrina Kenison (Houghton Mifflin, Boston, 1994)"
+  date: 1994-01-01
   link_to_original: 
-  permalink: /writing/the-best-american-short-stories-1994/
-  publication: 
-    - "Houghton Mifflin"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "Houghton Mifflin"
+  category: "Anthologies & Collections"
   title: "The Best American Short Stories 1994"
+
 - 
-  content: "<em>The New York Times</em>, October 26, 1993; Beatrice Kert, <em>Abby Aldrich Rockefeller</em>"
-  date: "1993-10-26 08:39:05"
-  description: 
-    - "<em>The New York Times</em>, October 26, 1993; Beatrice Kert, <em>Abby Aldrich Rockefeller</em>"
+  content: "*The New York Times*, October 26, 1993; Beatrice Kert, *Abby Aldrich Rockefeller*"
+  date: 1993-10-26
   link_to_original: 
-  permalink: /writing/abby-aldrich-rockefeller/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "Abby Aldrich Rockefeller"
+
 - 
   content: "summer 1993"
-  date: "1993-05-01 08:10:41"
-  description: 
-    - "summer 1993"
+  date: 1993-05-01
   link_to_original: 
-  permalink: /writing/sleepover/
-  publication: 
-    - "Glimmer Train"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "Glimmer Train"
+  category: "Short Stories"
   title: Sleepover
+
 - 
-  content: "<em>The New York Times</em>, April 25, 1993; Mary Morris, <em>A Mother’s Love</em>"
-  date: "1993-04-25 08:40:04"
-  description: 
-    - "<em>The New York Times</em>, April 25, 1993; Mary Morris, <em>A Mother’s Love</em>"
+  content: "*The New York Times*, April 25, 1993; Mary Morris, *A Mother’s Love*"
+  date: 1993-04-25
   link_to_original: 
-  permalink: /writing/a-mothers-love/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "A Mother’s Love"
+
 - 
   content: "April 1993"
-  date: "1993-04-01 08:11:10"
-  description: 
-    - "April 1993"
+  date: 1993-04-01
   link_to_original: 
-  permalink: /writing/mr-sumarsono/
-  publication: 
-    - "The Atlantic Monthly"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The Atlantic Monthly"
+  category: "Short Stories"
   title: "Mr. Sumarsono"
+
 - 
-  content: "<em>The New York Times</em>, January 24, 1993; Diane Johnson, <em>Natural Opium</em>"
-  date: "1993-01-24 08:40:52"
-  description: 
-    - "<em>The New York Times</em>, January 24, 1993; Diane Johnson, <em>Natural Opium</em>"
+  content: "*The New York Times*, January 24, 1993; Diane Johnson, *Natural Opium*"
+  date: 1993-01-24
   link_to_original: 
-  permalink: /writing/natural-opium/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "Natural Opium"
+
 - 
-  content: "<em>The New York Times</em>, March 15, 1992; Louis Auchincloss, <em>False Gods</em>"
-  date: "1992-03-15 08:41:32"
-  description: 
-    - "<em>The New York Times</em>, March 15, 1992; Louis Auchincloss, <em>False Gods</em>"
+  content: "*The New York Times*, March 15, 1992; Louis Auchincloss, *False Gods*"
+  date: 1992-03-15
   link_to_original: 
-  permalink: /writing/false-gods/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "False Gods"
+
 - 
   content: "edited by Doreen Bolger, Marc Simpson, and John Wilmerding. Essays by Roxana Robinson, et al. (New York, Metropolitan Museum of Art, Harry Abrams, 1992)"
-  date: "1992-01-01 09:21:45"
-  description: 
-    - "edited by Doreen Bolger, Marc Simpson, and John Wilmerding. Essays by Roxana Robinson, et al. (New York, Metropolitan Museum of Art, Harry Abrams, 1992)"
+  date: 1992-01-01
   link_to_original: 
-  permalink: /writing/william-m-harnett/
-  publication: 
-    - "Harry Abrams"
-  sm_writing_cats: 
-    - "Art History"
+  publication: "Harry Abrams"
+  category: "Art History"
   title: "William M. Harnett"
+
 - 
-  content: "<em>A Matter of Prejudice,<em> by Kate Chopin (Bantam 1992)"
-  date: "1992-01-01 09:00:32"
-  description: 
-    - "<em>A Matter of Prejudice,</em> by Kate Chopin (Bantam 1992)"
+  content: "*A Matter of Prejudice,* by Kate Chopin (Bantam 1992)"
+  date: 1992-01-01
   link_to_original: 
-  permalink: /writing/introduction-to-a-matter-of-prejudice/
-  publication: 
-    - Bantam
-  sm_writing_cats: 
-    - "Anthologies & Collections"
-    - Essays
+  publication: Bantam
+  category: "Anthologies & Collections"
   title: "Introduction to A Matter of Prejudice"
+
 - 
   content: "edited by C. Michael Curtis (Boston, Globe Pequot Press, 1992)"
-  date: "1992-01-01 10:03:49"
-  description: 
-    - "edited by C. Michael Curtis (Boston, Globe Pequot Press, 1992)"
+  date: 1992-01-01
   link_to_original: 
-  permalink: /writing/contemporary-new-england-stories/
-  publication: 
-    - "Globe Pequot Press"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "Globe Pequot Press"
+  category: "Anthologies & Collections"
   title: "Contemporary New England Stories"
+
 - 
-  content: "<em>The New York Times</em>, September 29, 1991; Peter Cameron, <em>Far-Flung</em>"
-  date: "1991-09-29 08:42:08"
-  description: 
-    - "<em>The New York Times</em>, September 29, 1991; Peter Cameron, <em>Far-Flung</em>"
+  content: "*The New York Times*, September 29, 1991; Peter Cameron, *Far-Flung*"
+  date: 1991-09-29
   link_to_original: 
-  permalink: /writing/far-flung/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: Far-Flung
+
 - 
-  content: "<em>The New York Times</em>, July 21, 1991; David Small, <em>Alone</em>"
-  date: "1991-07-21 08:42:45"
-  description: 
-    - "<em>The New York Times</em>, July 21, 1991; David Small, <em>Alone</em>"
+  content: "*The New York Times*, July 21, 1991; David Small, *Alone*"
+  date: 1991-07-21
   link_to_original: 
-  permalink: /writing/alone/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: Alone
+
 - 
-  content: "<em>Newsday</em>, June 30, 1991;   John Pope-Hennessy, <em>Learning to Look: My Life in Art   <em>Jed Perls</em>, Gallery Going: Four Seasons in the Art World</em>"
-  date: "1991-06-30 08:43:28"
-  description: 
-    - |
-        <em>Newsday</em>, June 30, 1991;
-        John Pope-Hennessy, <em>Learning to Look: My Life in Art
-        </em>Jed Perls</em>, Gallery Going: Four Seasons in the Art World</em>
+  content: "*Newsday*, June 30, 1991;   John Pope-Hennessy, *Learning to Look: My Life in Art   *Jed Perls*, Gallery Going: Four Seasons in the Art World*"
+  date: 1991-06-30
   link_to_original: 
-  permalink: /writing/learning-to-look-and-gallery-going/
-  publication: 
-    - Newsday
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: Newsday
+  category: "Book Reviews"
   title: "Learning to Look and Gallery Going"
+
 - 
   content: "February 1991"
-  date: "1991-02-01 08:11:49"
-  description: 
-    - "February 1991"
+  date: 1991-02-01
   link_to_original: 
-  permalink: /writing/the-time-for-kissing/
-  publication: 
-    - "The Atlantic Monthly"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The Atlantic Monthly"
+  category: "Short Stories"
   title: "The Time for Kissing"
+
 - 
   content: "September, 1990"
-  date: "1990-09-01 08:12:24"
-  description: 
-    - "September, 1990"
+  date: 1990-09-01
   link_to_original: 
-  permalink: /writing/at-the-heart-of-my-life-graduation/
-  publication: 
-    - "Wigwag magazine"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "Wigwag magazine"
+  category: "Short Stories"
   title: "At the Heart of My Life (Graduation)"
+
 - 
-  content: "summer in Provence; <em>The New York Times</em>, May 27, 1990"
-  date: "1990-05-27 11:29:45"
-  description: 
-    - "summer in Provence; <em>The New York Times</em>, May 27, 1990"
+  content: "summer in Provence; *The New York Times*, May 27, 1990"
+  date: 1990-05-27
   link_to_original: 
-  permalink: /writing/bulls-bravery-and-bounty-in-st-remy/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Travel
+  publication: "The New York Times"
+  category: Travel
   title: "Bulls, Bravery, and Bounty in St.-Remy"
+
 - 
-  content: "<em>The New York Times</em>, April 1990; Avis Berman, <em>Rebels on 8th Street: Julianna Force and the Whitney Museum of American Art</em>"
-  date: "1990-04-01 08:44:49"
-  description: 
-    - "<em>The New York Times</em>, April 1990; Avis Berman, <em>Rebels on 8th Street: Julianna Force and the Whitney Museum of American Art</em>"
+  content: "*The New York Times*, April 1990; Avis Berman, *Rebels on 8th Street: Julianna Force and the Whitney Museum of American Art*"
+  date: 1990-04-01
   link_to_original: 
-  permalink: /writing/rebels-on-8th-street-julianna-force-and-the-whitney-museum-of-american-art/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "Rebels on 8th Street: Julianna Force and the Whitney Museum of American Art"
+
 - 
   content: "March 1990"
-  date: "1990-03-01 08:13:07"
-  description: 
-    - "March 1990"
+  date: 1990-03-01
   link_to_original: 
-  permalink: /writing/a-glimpse-of-scarlet/
-  publication: 
-    - "New York Woman"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "New York Woman"
+  category: "Short Stories"
   title: "A Glimpse of Scarlet"
+
 - 
   content: "edited by Suzanne S. Webb (Harcourt, Brace, Jovanovich, 1990)"
-  date: "1990-01-01 10:05:37"
-  description: 
-    - "edited by Suzanne S. Webb (Harcourt, Brace, Jovanovich, 1990)"
+  date: 1990-01-01
   link_to_original: 
-  permalink: /writing/the-resourceful-writer-readings-to-accompany-the-harbrace-college-handbook-second-edition/
-  publication: 
-    - "Harcourt Brace Jovanovich"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "Harcourt Brace Jovanovich"
+  category: "Anthologies & Collections"
   title: "The Resourceful Writer: Readings to Accompany the Harbrace College Handbook, Second Edition"
+
 - 
-  content: "<em>The New York Times</em>, October 29, 1989"
-  date: "1989-10-29 11:30:20"
-  description: 
-    - "<em>The New York Times</em>, October 29, 1989"
+  content: "*The New York Times*, October 29, 1989"
+  date: 1989-10-29
   link_to_original: 
-  permalink: /writing/on-the-ancient-nile-a-modern-voyage/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Travel
+  publication: "The New York Times"
+  category: Travel
   title: "On the Ancient Nile, a Modern Voyage"
+
 - 
-  content: "<em>The New York Times</em>, Sophisticated Traveler, March 12, 1989"
-  date: "1989-03-12 11:30:54"
-  description: 
-    - "<em>The New York Times</em>, Sophisticated Traveler, March 12, 1989"
+  content: "*The New York Times*, Sophisticated Traveler, March 12, 1989"
+  date: 1989-03-12
   link_to_original: 
-  permalink: /writing/a-puritan-at-the-helm/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Travel
+  publication: "The New York Times"
+  category: Travel
   title: "A Puritan at the Helm"
+
 - 
   content: "edited by Michael Nagler and William Swanson (New York, Mentor Books, 1989)"
-  date: "1989-01-01 10:06:15"
-  description: 
-    - "edited by Michael Nagler and William Swanson (New York, Mentor Books, 1989)"
+  date: 1989-01-01
   link_to_original: 
-  permalink: /writing/wives-and-husbands-20-stories-about-marriage/
-  publication: 
-    - "Mentor Books"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
+  publication: "Mentor Books"
+  category: "Anthologies & Collections"
   title: "Wives and Husbands: 20 Stories About Marriage"
+
 - 
-  content: "safari in Africa, <em>The New York Times</em>, December 4, 1988"
-  date: "1988-12-04 11:31:48"
-  description: 
-    - "safari in Africa, <em>The New York Times</em>, December 4, 1988"
+  content: "safari in Africa, *The New York Times*, December 4, 1988"
+  date: 1988-12-04
   link_to_original: 
-  permalink: /writing/investing-in-an-absence-of-civilization/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Travel
+  publication: "The New York Times"
+  category: Travel
   title: "Investing in an Absence of Civilization"
+
 - 
-  content: "<em>The New York Times</em>, January 24, 1988; Jill Paton Walsh, <em>Lapsing</em>"
-  date: "1988-01-24 08:45:29"
-  description: 
-    - "<em>The New York Times</em>, January 24, 1988; Jill Paton Walsh, <em>Lapsing</em>"
+  content: "*The New York Times*, January 24, 1988; Jill Paton Walsh, *Lapsing*"
+  date: 1988-01-24
   link_to_original: 
-  permalink: /writing/lapsing/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: Lapsing
+
 - 
   content: "(LSU, Baton Rouge) Winter, 1987"
-  date: "1987-12-01 08:13:38"
-  description: 
-    - "(LSU, Baton Rouge) Winter, 1987"
+  date: 1987-12-01
   link_to_original: 
-  permalink: /writing/charity-dance/
-  publication: 
-    - "The Southern Review"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The Southern Review"
+  category: "Short Stories"
   title: "Charity Dance"
+
 - 
   content: "London, July 1986"
-  date: "1987-07-01 08:14:24"
-  description: 
-    - "London, July 1986"
+  date: 1987-07-01
   link_to_original: 
-  permalink: /writing/charity-dance-2/
-  publication: 
-    - "The Fiction Magazine"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The Fiction Magazine"
+  category: "Short Stories"
   title: "Charity Dance"
+
 - 
-  content: "<em>The New York Times</em>, February 22, 1987"
-  date: "1987-02-22 11:32:32"
-  description: 
-    - "<em>The New York Times</em>, February 22, 1987"
+  content: "*The New York Times*, February 22, 1987"
+  date: 1987-02-22
   link_to_original: 
-  permalink: /writing/total-immersion-in-a-flood-of-french/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Travel
+  publication: "The New York Times"
+  category: Travel
   title: "Total Immersion in a Flood of French"
+
 - 
-  content: "<em>The New York Times</em>, January 18, 1987; Dorie Friend, <em>Family Laundry</em>"
-  date: "1987-01-18 08:46:19"
-  description: 
-    - "<em>The New York Times</em>, January 18, 1987; Dorie Friend, <em>Family Laundry</em>"
+  content: "*The New York Times*, January 18, 1987; Dorie Friend, *Family Laundry*"
+  date: 1987-01-18
   link_to_original: 
-  permalink: /writing/family-laundry/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "Family Laundry"
+
 - 
-  content: "<em>The New York Times</em>, November 23, 1986"
-  date: "1986-11-23 11:33:02"
-  description: 
-    - "<em>The New York Times</em>, November 23, 1986"
+  content: "*The New York Times*, November 23, 1986"
+  date: 1986-11-23
   link_to_original: 
-  permalink: /writing/john-gardner-tennis-ranch/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Travel
+  publication: "The New York Times"
+  category: Travel
   title: "John Gardner Tennis Ranch"
+
 - 
-  content: "<em>The New York Times</em>, August 10, 1986; J.I.M. Stewart, <em>Parlour 4 and Other Stories</em>"
-  date: "1986-08-10 08:47:02"
-  description: 
-    - "<em>The New York Times</em>, August 10, 1986; J.I.M. Stewart, <em>Parlour 4 and Other Stories</em>"
+  content: "*The New York Times*, August 10, 1986; J.I.M. Stewart, *Parlour 4 and Other Stories*"
+  date: 1986-08-10
   link_to_original: 
-  permalink: /writing/parlour-4-and-other-stories/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "Parlour 4 and Other Stories"
+
 - 
-  content: "<em>The New York Times</em>, April 13, 1986"
-  date: "1986-04-13 11:33:38"
-  description: 
-    - "<em>The New York Times</em>, April 13, 1986"
+  content: "*The New York Times*, April 13, 1986"
+  date: 1986-04-13
   link_to_original: 
-  permalink: /writing/the-lure-of-londons-chelsea-flower-show/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - Travel
+  publication: "The New York Times"
+  category: Travel
   title: "The Lure of London’s Chelsea Flower Show"
+
 - 
-  content: "<em>The New York Times</em>, March 2, 1986; Francis King, <em>One Is a Wanderer</em>"
-  date: "1986-03-02 08:47:43"
-  description: 
-    - "<em>The New York Times</em>, March 2, 1986; Francis King, <em>One Is a Wanderer</em>"
+  content: "*The New York Times*, March 2, 1986; Francis King, *One Is a Wanderer*"
+  date: 1986-03-02
   link_to_original: 
-  permalink: /writing/one-is-a-wanderer/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "One Is a Wanderer"
+
 - 
   content: "London, February 1986"
-  date: "1986-02-01 08:15:10"
-  description: 
-    - "London, February 1986"
+  date: 1986-02-01
   link_to_original: 
-  permalink: /writing/snowfall/
-  publication: 
-    - "The Fiction Magazine"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The Fiction Magazine"
+  category: "Short Stories"
   title: Snowfall
+
 - 
-  content: "<em>The Philadelphia Inquirer,<em> December 29, 1985; Marina Warner, <em>Monuments and Maidens: The Allegory of the Female Form</em>"
-  date: "1985-12-29 08:49:04"
-  description: 
-    - "<em>The Philadelphia Inquirer,</em> December 29, 1985; Marina Warner, <em>Monuments and Maidens: The Allegory of the Female Form</em>"
+  content: "*The Philadelphia Inquirer,* December 29, 1985; Marina Warner, *Monuments and Maidens: The Allegory of the Female Form*"
+  date: 1985-12-29
   link_to_original: 
-  permalink: /writing/monuments-and-maidens-the-allegory-of-the-female-form/
-  publication: 
-    - "The Philadelphia Inquirer"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The Philadelphia Inquirer"
+  category: "Book Reviews"
   title: "Monuments and Maidens: The Allegory of the Female Form"
+
 - 
-  content: "<em>The New York Times</em>, September 8, 1985; Penelope Fitzgerald, <em>At Freddie’s</em>"
-  date: "1985-09-08 08:48:21"
-  description: 
-    - "<em>The New York Times</em>, September 8, 1985; Penelope Fitzgerald, <em>At Freddie’s</em>"
+  content: "*The New York Times*, September 8, 1985; Penelope Fitzgerald, *At Freddie’s*"
+  date: 1985-09-08
   link_to_original: 
-  permalink: /writing/at-freddies/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "At Freddie’s"
+
 - 
   content: "London, August/September 1985"
-  date: "1985-08-01 08:15:42"
-  description: 
-    - "London, August/September 1985"
+  date: 1985-08-01
   link_to_original: 
-  permalink: /writing/layering/
-  publication: 
-    - "The Fiction Magazine"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The Fiction Magazine"
+  category: "Short Stories"
   title: Layering
+
 - 
-  content: "<em>The New York Times</em>, April 14, 1985; Jill Tweedie, Jewels"
-  date: "1985-04-14 08:50:32"
-  description: 
-    - "<em>The New York Times</em>, April 14, 1985; Jill Tweedie, Jewels"
+  content: "*The New York Times*, April 14, 1985; Jill Tweedie, Jewels"
+  date: 1985-04-14
   link_to_original: 
-  permalink: /writing/jewels/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: Jewels
+
 - 
-  content: "<em>The New York Times</em>, November 25, 1984; Thomas Baird, <em>Villa Aphrodite</em>"
-  date: "1984-11-25 08:51:08"
-  description: 
-    - "<em>The New York Times</em>, November 25, 1984; Thomas Baird, <em>Villa Aphrodite</em>"
+  content: "*The New York Times*, November 25, 1984; Thomas Baird, *Villa Aphrodite*"
+  date: 1984-11-25
   link_to_original: 
-  permalink: /writing/villa-aphrodite/
-  publication: 
-    - "The New York Times"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The New York Times"
+  category: "Book Reviews"
   title: "Villa Aphrodite"
+
 - 
-  content: "<em>The Philadelphia Inquirer</em>, March 25, 1984; Isabel Colegate, <em>Three Novels</em>"
-  date: "1984-03-25 08:51:49"
-  description: 
-    - "<em>The Philadelphia Inquirer</em>, March 25, 1984; Isabel Colegate, <em>Three Novels</em>"
+  content: "*The Philadelphia Inquirer*, March 25, 1984; Isabel Colegate, *Three Novels*"
+  date: 1984-03-25
   link_to_original: 
-  permalink: /writing/three-novels/
-  publication: 
-    - "The Philadelphia Inquirer"
-  sm_writing_cats: 
-    - "Book Reviews"
+  publication: "The Philadelphia Inquirer"
+  category: "Book Reviews"
   title: "Three Novels"
+
 - 
   content: "catalogue raisonne by Ann Lee Morgan (Newark, University of Delaware Press, 1984)"
-  date: "1984-01-01 09:22:38"
-  description: 
-    - "catalogue raisonne by Ann Lee Morgan (Newark, University of Delaware Press, 1984)"
+  date: 1984-01-01
   link_to_original: 
-  permalink: /writing/introduction-to-arthur-dove/
-  publication: 
-    - "University of Delaware Press"
-  sm_writing_cats: 
-    - "Anthologies & Collections"
-    - "Art History"
+  publication: "University of Delaware Press"
+  category: "Anthologies & Collections"
   title: "Introduction to Arthur Dove"
+
 - 
   content: "March 28, 1983"
-  date: "1983-03-28 08:16:17"
-  description: 
-    - "March 28, 1983"
+  date: 1983-03-28
   link_to_original: 
-  permalink: /writing/getting-on/
-  publication: 
-    - "The New Yorker"
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: "The New Yorker"
+  category: "Short Stories"
   title: "Getting On"
+
 - 
   content: "Jan/Feb 1983"
-  date: "1983-01-01 09:23:42"
-  description: 
-    - "Jan/Feb 1983"
+  date: 1983-01-01
   link_to_original: 
-  permalink: /writing/19th-century-picnic-paintings-an-arcadian-idyll/
-  publication: 
-    - "Art & Antiques"
-  sm_writing_cats: 
-    - "Art History"
+  publication: "Art & Antiques"
+  category: "Art History"
   title: "19th Century Picnic Paintings: An Arcadian Idyll"
+
 - 
   content: "September 1981"
-  date: "1981-09-01 09:25:11"
-  description: 
-    - "September 1981"
+  date: 1981-09-01
   link_to_original: 
-  permalink: /writing/the-bathing-scene-people-on-the-beach-in-american-art-1700-1900/
-  publication: 
-    - "Antiques World"
-  sm_writing_cats: 
-    - "Art History"
+  publication: "Antiques World"
+  category: "Art History"
   title: "The Bathing Scene: People on the Beach in American Art, 1700–1900"
+
 - 
   content: "Sep/Oct 1981"
-  date: "1981-09-01 09:29:05"
-  description: 
-    - "Sep/Oct 1981"
+  date: 1981-09-01
   link_to_original: 
-  permalink: /writing/plane-truths/
-  publication: 
-    - "Art & Antiques"
-  sm_writing_cats: 
-    - "Art History"
+  publication: "Art & Antiques"
+  category: "Art History"
   title: "Plane Truths"
+
 - 
   content: "exhibition catalog, The Katonah Gallery, 1981"
-  date: "1981-01-01 09:26:50"
-  description: 
-    - "exhibition catalog, The Katonah Gallery, 1981"
+  date: 1981-01-01
   link_to_original: 
-  permalink: /writing/land-of-plenty-19th-century-american-picnic-and-harvest-scenes/
-  publication: 
-    - "The Katonah Gallery"
-  sm_writing_cats: 
-    - "Art History"
+  publication: "The Katonah Gallery"
+  category: "Art History"
   title: "Land of Plenty: 19th Century American Picnic and Harvest Scenes"
+
 - 
   content: "December, 1980"
-  date: "1980-12-01 09:31:36"
-  description: 
-    - "December, 1980"
+  date: 1980-12-01
   link_to_original: 
-  permalink: /writing/where-are-americas-missing-masterpieces/
-  publication: 
-    - ARTnews
-  sm_writing_cats: 
-    - "Art History"
+  publication: ARTnews
+  category: "Art History"
   title: "Where Are America’s Missing Masterpieces?"
+
 - 
   content: "November, 1980"
-  date: "1980-11-01 08:16:45"
-  description: 
-    - "November, 1980"
+  date: 1980-11-01
   link_to_original: 
-  permalink: /writing/daughter/
-  publication: 
-    - McCall’s
-  sm_writing_cats: 
-    - "Short Stories"
+  publication: McCall’s
+  category: "Short Stories"
   title: Daughter
+
 - 
   content: "exhibition catalog, The Katonah Gallery, 1980"
-  date: "1980-01-01 09:30:52"
-  description: 
-    - "exhibition catalog, The Katonah Gallery, 1980"
+  date: 1980-01-01
   link_to_original: 
-  permalink: /writing/plane-truths-19th-century-american-trompe-loeil-painting/
-  publication: 
-    - "The Katonah Gallery"
-  sm_writing_cats: 
-    - "Art History"
+  publication: "The Katonah Gallery"
+  category: "Art History"
   title: "Plane Truths: 19th Century American Trompe l’Oeil Painting"
+
 - 
   content: "October, 1979"
-  date: "1979-10-01 09:32:24"
-  description: 
-    - "October, 1979"
+  date: 1979-10-01
   link_to_original: 
-  permalink: /writing/the-age-of-blood-and-iron-marsden-hartley-in-berlin/
-  publication: 
-    - Arts
+  publication: Arts
   title: "The Age of Blood and Iron: Marsden Hartley in Berlin"
+
 - 
   content: "exhibition catalog, Terry Dintenfass Gallery, New York, 1975"
-  date: "1975-01-01 09:33:01"
-  description: 
-    - "exhibition catalog, Terry Dintenfass Gallery, New York, 1975"
+  date: 1975-01-01
   link_to_original: 
-  permalink: /writing/shapes-of-industry-first-images-in-american-art/
-  publication: 
-    - "Terry Dintenfass Gallery"
-  sm_writing_cats: 
-    - "Art History"
+  publication: "Terry Dintenfass Gallery"
+  category: "Art History"
   title: "Shapes of Industry: First Images in American Art"
+
 - 
   content: "December, 1975 "
-  date: "1975-01-01 09:34:10"
-  description: 
-    - "December, 1975"
+  date: 1975-01-01
   link_to_original: 
-  permalink: /writing/rousseau-buffalo-bill-and-the-european-image-of-the-american-indian/
-  publication: 
-    - ARTnews
-  sm_writing_cats: 
-    - "Art History"
+  publication: ARTnews
+  category: "Art History"
   title: "Rousseau, Buffalo Bill, and the European Image of the American Indian"

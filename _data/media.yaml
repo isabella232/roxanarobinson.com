@@ -1,354 +1,273 @@
 --- 
 - 
-  category: Written Word
-  date: "2013-01-14 23:37:07"
+  category: Article
+  date: 2013-01-14
   description: "Finalist - Nona Balakian Citation for Excellence in Reviewing"
-  link_to_original: 
-    - "http://bookcritics.org/blog/archive/announcing-the-national-book-critics-awards-finalists"
+  link_to_original: "http://bookcritics.org/blog/archive/announcing-the-national-book-critics-awards-finalists"
   source: NBCC
 - 
-  category: Written Word
-  date: "2013-12-15 23:41:53"
+  category: Interview
+  date: 2013-12-15
   description: "“Accuracy of the Moment,” interview by Mariette Kalinowski"
-  link_to_original: 
-    - "http://www.brooklynrail.org/2013/12/books/accuracy-of-the-moment-roxana-robinson-with-mariette-kalinowski"
+  link_to_original: "http://www.brooklynrail.org/2013/12/books/accuracy-of-the-moment-roxana-robinson-with-mariette-kalinowski"
   related_book: sparta
   source: "Brooklyn Rail"
 - 
-  category: Written Word
-  date: "2013-11-14 23:38:06"
+  category: Interview
+  date: 2013-11-14
   description: "The Beecher Legacy, Part II"
-  link_to_original: 
-    - "http://www.litkicks.com/BeecherLegacyTwo"
+  link_to_original: "http://www.litkicks.com/BeecherLegacyTwo"
   source: Levi Asher, Interview
 
 - 
-  category: Written Word
-  date: "2013-11-11 23:38:06"
+  category: Interview
+  date: 2013-11-11
   description: "The Beecher Legacy, Part I"
-  link_to_original: 
-    - "http://www.litkicks.com/BeecherLegacyOne"
+  link_to_original: "http://www.litkicks.com/BeecherLegacyOne"
   source: Levi Asher, Interview
 
 - 
-  category: Spoken Word
-  date: "2013-08-02 23:37:07"
+  category: Interview
+  date: 2013-08-02
   description: "With Mark Herz, WSHU"
-  link_to_original: 
-    - "http://wshu.org/news/story.php?ID=11409"
-  permalink: /media/npr-4/
+  link_to_original: "http://wshu.org/news/story.php?ID=11409"
   related_book: sparta
   source: NPR
 - 
-  category: Spoken Word
-  date: "2013-07-26 23:41:53"
+  category: Interview
+  date: 2013-07-26
   description: "Host, Ron Beard, University of Maine Cooperative Extension"
-  link_to_original: 
-    - "http://archives.weru.org/talk-of-the-towns/2013/07/talk-of-the-towns-72613/"
-  permalink: /media/talk-of-the-towns-weru/
+  link_to_original: "http://archives.weru.org/talk-of-the-towns/2013/07/talk-of-the-towns-72613/"
   related_book: sparta
   source: "Talk of the Towns, WERU"
 - 
-  category: Written Word
-  date: "2013-07-16 23:38:06"
+  category: Interview
+  date: 2013-07-16
   description: "Q&A with Pricilla Gilman."
-  link_to_original: 
-    - "http://priscillagilman.com/2013/07/a-q-a-with-writer-roxana-robinson/"
-  permalink: /media/priscillagilman/
+  link_to_original: "http://priscillagilman.com/2013/07/a-q-a-with-writer-roxana-robinson/"
   related_book: sparta
   source: priscillagilman.com
 - 
-  category: Spoken Word
-  date: "2013-06-25 22:50:05"
+  category: Interview
+  date: 2013-06-25
   description: "On Point: Roxanne Robinson and <em>Sparta</em>, with Tom Ashbrook, WBUR"
-  link_to_original: 
-    - "http://onpoint.wbur.org/2013/06/25/roxana-robinsons-sparta"
-  permalink: /media/on-point-wbur/
+  link_to_original: "http://onpoint.wbur.org/2013/06/25/roxana-robinsons-sparta"
   related_book: sparta
   source: "On Point, WBUR"
 - 
-  category: Written Word
-  date: "2013-06-13 23:49:51"
+  category: Article
+  date: 2013-06-13
   description: "David Abrams discusses <em>Sparta</em>."
-  link_to_original: 
-    - "http://davidabramsbooks.blogspot.com/2013/06/the-quiet-outrage-of-war-sparta-by.html"
-  permalink: /media/the-quivering-pen/
+  link_to_original: "http://davidabramsbooks.blogspot.com/2013/06/the-quiet-outrage-of-war-sparta-by.html"
   related_book: sparta
   source: "The Quivering Pen"
 - 
-  category: Spoken Word
-  date: "2013-06-11 23:50:43"
+  category: Interview
+  date: 2013-06-11
   description: "Interview by Edward Champion"
-  link_to_original: 
-    - "http://www.edrants.com/roxana-robinson-the-bat-segundo-show-503/"
-  permalink: /media/the-bat-segundo-show/
+  link_to_original: "http://www.edrants.com/roxana-robinson-the-bat-segundo-show-503/"
   related_book: sparta
   source: "The Bat Segundo Show"
 - 
-  category: Spoken Word
-  date: "2013-06-06 08:40:46"
+  category: Interview
+  date: 2013-06-06
   description: "The Radiator: Write The Book, Shelagh Shapiro, Radio 105.9 FM, Burlington, VT"
-  link_to_original: 
-    - "http://writethebook.podbean.com/2013/06/11/roxana-robinson-interview-247-61013/"
-  permalink: /media/radio-105-9-fm/
+  link_to_original: "http://writethebook.podbean.com/2013/06/11/roxana-robinson-interview-247-61013/"
   related_book: sparta
   source: "Radio 105.9 FM"
 - 
-  category: Spoken Word
-  date: "2013-06-04 11:43:42"
+  category: Reading
+  date: 2013-06-04
   description: "Roxana Robinson reads from <em>Sparta</em> at the Center for Fiction in New York City"
-  link_to_original: 
-    - "http://www.youtube.com/watch?v=xBauyXd3xXA"
-  permalink: /media/center-for-fiction/
+  link_to_original: "http://www.youtube.com/watch?v=xBauyXd3xXA"
   related_book: sparta
   source: "Center for Fiction"
 - 
-  category: 
-    - Written Word
-  date: "2013-06-03 08:43:08"
+  category: Interview
+  date: 2013-06-03
   description: "A Troubled Iraq War Vet Returns Home in Roxana Robinson’s Sparta, Jane Ciabattari, <em>The Daily Beast, Newsweek</em>"
-  link_to_original: 
-    - "http://www.thedailybeast.com/articles/2013/06/03/a-troubled-iraq-war-vet-returns-home-in-roxana-robinson-s-sparta.html"
-  permalink: /media/the-daily-beast-newsweek/
+  link_to_original: "http://www.thedailybeast.com/articles/2013/06/03/a-troubled-iraq-war-vet-returns-home-in-roxana-robinson-s-sparta.html"
   related_book: sparta
   source: "The Daily Beast, Newsweek"
 - 
-  category: 
-    - Written Word
-  date: "2013-06-03 08:43:56"
+  category: Interview
+  date: 2013-06-03
   description: "Roxana Robinson on Sparta, Killing People, Iraq, and Writing, MaryAnne Kolton, <em>LA Review of Books</em>"
-  link_to_original: 
-    - "http://lareviewofbooks.org/interview/roxana-robinson-on-sparta-killing-people-iraq-and-writing"
-  permalink: /media/la-review-of-books/
+  link_to_original: "http://lareviewofbooks.org/interview/roxana-robinson-on-sparta-killing-people-iraq-and-writing"
   related_book: sparta
   source: "LA Review of Books"
 - 
-  category: 
-    - Written Word
-  date: "2013-05-27 08:44:34"
+  category: Interview
+  date: 2013-05-27
   description: "Under False Pretences: PW Interviews Roxana Robinson, Alexis Burling, <em>Publishers Weekly</em>"
-  link_to_original: 
-    - "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/57338-under-false-pretenses-pw-talks-with-roxana-robinson.html"
-  permalink: /media/publishers-weekly/
+  link_to_original: "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/57338-under-false-pretenses-pw-talks-with-roxana-robinson.html"
   related_book: sparta
   source: "Publishers Weekly"
 - 
-  category: Spoken Word
-  date: "2012-12-24 09:07:27"
+  category: Interview
+  date: 2012-12-24
   description: "Christmas Commentary, NPR, <em>All Things Considered</em>, WSHU"
-  link_to_original: 
-    - "http://wshu.org/news/story.php?ID=10666"
-  permalink: /media/all-things-considered/
+  link_to_original: "http://wshu.org/news/story.php?ID=10666"
   related_book: ~
   source: "All Things Considered"
 - 
-  category: Written Word
-  date: "2012-11-19 08:45:27"
+  category: Interview
+  date: 2012-11-19
   description: "In a Brooklyn Cafe, It’s Write! Camera! Action! Jennifer Schuessler, <em>The New York Times</em>"
-  link_to_original: 
-    - "http://artsbeat.blogs.nytimes.com/2012/11/19/in-a-brooklyn-cafe-its-write-camera-action/?ref=roxanarobinson&_r=0"
-  permalink: /media/the-new-york-times/
+  link_to_original: "http://artsbeat.blogs.nytimes.com/2012/11/19/in-a-brooklyn-cafe-its-write-camera-action/?ref=roxanarobinson&_r=0"
   related_book: ~
   source: "The New York Times"
+# - 
+#  category: Interview
+#   date: 2012-08-09
+#   description: "WGBH Forum Network—live and archived webcasts of free public lectures in partnership with Boston’s leading cultural and educational organizations"
+#   link_to_original: "http://www.wgbh.org/search/?q=roxana%20robinson"
+#   related_book: cost
+#   source: "WGBH Forum Network"
 - 
-  category: Spoken Word
-  date: "2012-08-09 09:20:19"
-  description: "WGBH Forum Network—live and archived webcasts of free public lectures in partnership with Boston’s leading cultural and educational organizations"
-  link_to_original: 
-    - "http://www.wgbh.org/search/?q=roxana%20robinson"
-  permalink: /media/wgbh-forum-network/
-  related_book: cost
-  source: "WGBH Forum Network"
-- 
-  category: Spoken Word
-  date: "2012-08-09 09:08:47"
+  category: Article
+  date: 2012-08-09
   description: "\"The Cry of the Loon\", <em>NPR, All Things Considered</em>"
-  link_to_original: 
-    - "http://www.npr.org/2012/08/09/158202053/wish-you-were-here-listening-to-loons-in-maine"
-  permalink: /media/all-things-considered-2/
+  link_to_original: "http://www.npr.org/2012/08/09/158202053/wish-you-were-here-listening-to-loons-in-maine"
   related_book: cost
   source: "All Things Considered"
 - 
-  category: Spoken Word
-  date: "2012-07-12 09:07:31"
+  category: Interview
+  date: 2012-07-12
   description: "\"Edith Wharton on Mount Desert Island,\" talk at College of the Atlantic, Bar Harbor, Maine"
-  link_to_original: 
-    - "http://www.youtube.com/watch?v=UHbb-POhj2A"
-  permalink: /media/college-of-the-atlantic/
+  link_to_original: "http://www.youtube.com/watch?v=UHbb-POhj2A"
   related_book: ~
   source: "College of the Atlantic"
 - 
-  category: Spoken Word
-  date: "2012-03-27 08:46:59"
+  category: Interview
+  date: 2012-03-27
   description: "<em>The Leonard Lopate Show</em>, Honoring Edith Wharton, NPR, WNYC"
-  link_to_original: 
-    - "http://www.wnyc.org/shows/lopate/2012/mar/27/celebrating-edith-wharton/"
-  permalink: /media/the-leonard-lopate-show/
+  link_to_original: "http://www.wnyc.org/shows/lopate/2012/mar/27/celebrating-edith-wharton/"
   related_book: ~
   source: "The Leonard Lopate Show"
 - 
-  category: Spoken Word
-  date: "2012-01-24 09:09:39"
+  category: Interview
+  date: 2012-01-24
   description: "Edith Wharton, NPR, WSHU"
-  link_to_original: 
-    - "http://wshu.org/news/story.php?ID=9433"
-  permalink: /media/npr/
+  link_to_original: "http://wshu.org/news/story.php?ID=9433"
   related_book: ~
   source: NPR
 - 
-  category: Spoken Word
-  date: "2011-11-11 09:10:33"
+  category: Interview
+  date: 2011-11-11
   description: "Roxana Robinson on Edith Wharton’s House of Mirth, NPR, on the WNYC series, American Icons,"
-  link_to_original: 
-    - "http://www.studio360.org/2011/nov/11/american-icons/"
-  permalink: /media/american-icons/
+  link_to_original: "http://www.studio360.org/2011/nov/11/american-icons/"
   related_book: ~
   source: "American Icons"
 - 
-  category: Spoken Word
-  date: "2011-11-02 09:11:36"
+  category: Interview
+  date: 2011-11-02
   description: "\"The Mountain Lion,\" <em>All Things Considered</em>, NPR, WSHU"
-  link_to_original: 
-    - "http://wshu.org/news/story.php?ID=9232"
-  permalink: /media/all-things-considered-3/
+  link_to_original: "http://wshu.org/news/story.php?ID=9232"
   related_book: ~
   source: "All Things Considered"
 - 
-  category: Spoken Word
-  date: "2011-09-07 09:12:36"
+  category: Interview
+  date: 2011-09-07
   description: "A Reflection on a 9/11 Loss, NPR, WSHU"
-  link_to_original: 
-    - "http://wshu.org/news/story.php?ID=9085"
-  permalink: /media/npr-2/
+  link_to_original: "http://wshu.org/news/story.php?ID=9085"
   related_book: ~
   source: NPR
 - 
-  category: Spoken Word
-  date: "2011-06-13 09:13:27"
+  category: Interview
+  date: 2011-06-13
   description: "Reconsidering Uncle Tom’s Cabin on the 200th birthday of Harriet Beecher Stowe, NPR, WSHU"
-  link_to_original: 
-    - "http://wshu.org/news/story.php?ID=8841"
-  permalink: /media/npr-3/
+  link_to_original: "http://wshu.org/news/story.php?ID=8841"
   related_book: ~
   source: NPR
 - 
-  category: 
-    - Written Word
-  date: "2011-01-14 08:50:06"
+  category: Interview
+  date: 2011-01-14
   description: "\"Up Front: Roxana Robinson,\" The Editors, <em>The New York Times</em>"
-  link_to_original: 
-    - "http://www.nytimes.com/2011/01/16/books/review/Upfront-t.html?_r=0&adxnnl=1&ref=roxanarobinson&adxnnlx=1371905411-hjviPQqYARPaSCshDLdzaQ"
-  permalink: /media/the-new-york-times-2/
+  link_to_original: "http://www.nytimes.com/2011/01/16/books/review/Upfront-t.html?_r=0&adxnnl=1&ref=roxanarobinson&adxnnlx=1371905411-hjviPQqYARPaSCshDLdzaQ"
   related_book: ~
   source: "The New York Times"
 - 
-  category: Spoken Word
-  date: "2010-11-22 09:14:07"
+  category: Interview
+  date: 2010-11-22
   description: "Poets and Writers 40th Anniversary"
-  link_to_original: 
-    - "http://www.pw.org/content/roxana_robinson?cmnt_all=1"
-  permalink: /media/poets-and-writer/
+  link_to_original: "http://www.pw.org/content/roxana_robinson?cmnt_all=1"
   related_book: ~
   source: "Poets and Writers"
 - 
-  category: Spoken Word
-  date: "2010-10-29 09:15:45"
+  category: Interview
+  date: 2010-10-29
   description: "Studio 360, Roxana Robinson on American Idol: Edith Wharton, The House of Mirth"
-  link_to_original: 
-    - "http://www.studio360.org/people/roxana-robinson/"
-  permalink: /media/studio-360/
+  link_to_original: "http://www.studio360.org/people/roxana-robinson/"
   related_book: ~
   source: "Studio 360"
 - 
-  category: Spoken Word
-  date: "2010-09-26 09:17:59"
+  category: Interview
+  date: 2010-09-26
   description: "Roxana Robinson—coffee and conversation with Karen Waldron, College of the Atlantic, Bar Harbor, Maine"
-  link_to_original: 
-    - "http://www.youtube.com/watch?v=1od_XUa0Xdk"
-  permalink: /media/college-of-the-atlantic-2/
+  link_to_original: "http://www.youtube.com/watch?v=1od_XUa0Xdk"
   related_book: ~
   source: "College of the Atlantic"
 - 
-  category: Spoken Word
-  date: "2010-01-01 09:17:02"
+  category: Interview
+  date: 2010-01-01
   description: "\"At the Beach,\" story by Roxana Robinson, read by William Hope (33 min.)"
-  link_to_original: 
-    - "http://www.spokenink.co.uk/Roxana+Robinson/library/1/?author=96"
-  permalink: /media/spoken-ink/
+  link_to_original: "http://www.spokenink.co.uk/Roxana+Robinson/library/1/?author=96"
   related_book: a-perfect-stranger-and-other-stories
   source: "Spoken Ink"
 - 
-  category: 
-    - Written Word
-  date: "2009-07-10 08:52:55"
+  category: Interview
+  date: 2009-07-10
   description: "\"For a Writer, a Home With a Hideout,\" Constance Rosenblum, <em>The New York Times</em>"
-  link_to_original: 
-    - "http://www.nytimes.com/2009/07/12/realestate/12habi.html?adxnnl=1&ref=roxanarobinson&adxnnlx=1371905578-JuMoXQrP0nxTEyNuJ/esbA"
-  permalink: /media/the-new-york-times-3/
+  link_to_original: "http://www.nytimes.com/2009/07/12/realestate/12habi.html?adxnnl=1&ref=roxanarobinson&adxnnlx=1371905578-JuMoXQrP0nxTEyNuJ/esbA"
   related_book: cost
   source: "The New York Times"
 - 
-  category: 
-    - Written Word
-  date: "2009-01-09 08:54:06"
+  category: Interview
+  date: 2009-01-09
   description: "\"Beyond Team of Rivals: Books to Stock on Air Force One,\" Margo Hammond and Ellen Heltzel, <em>Huffington Post</em>"
-  link_to_original: 
-    - "http://www.huffingtonpost.com/margo-hammond-and-ellen-heltzel/beyond-team-of-rivals-boo_b_156464.html"
-  permalink: /media/huffington-post/
+  link_to_original: "http://www.huffingtonpost.com/margo-hammond-and-ellen-heltzel/beyond-team-of-rivals-boo_b_156464.html"
   related_book: cost
   source: "Huffington Post"
 - 
-  category: Spoken Word
-  date: "2008-08-27 09:19:05"
+  category: Interview
+  date: 2008-08-27
   description: "Maine Public Broadcasting Network, Maine Things Considered"
-  link_to_original: 
-    - ~
-  permalink: /media/maine-things-considered/
+  link_to_original: ~
   related_book: ~
   source: "Maine Things Considered"
 - 
-  category: Spoken Word
-  date: "2008-07-31 08:55:32"
+  category: Interview
+  date: 2008-07-31
   description: "Interview with Leonard Lopate at WNYC"
-  link_to_original: 
-    - "http://www.wnyc.org/shows/lopate/2008/jul/31/a-summer-of-family-traumas/"
-  permalink: /media/leonard-lopate/
+  link_to_original: "http://www.wnyc.org/shows/lopate/2008/jul/31/a-summer-of-family-traumas/"
   related_book: cost
   source: "Leonard Lopate"
 - 
-  category: Spoken Word
-  date: "2008-07-14 08:56:15"
+  category: Interview
+  date: 2008-07-14
   description: "<em>The Book Show</em>, WAMC"
-  link_to_original: 
-    - "http://wamc.org/post/book-show-1043"
-  permalink: /media/wamc/
+  link_to_original: "http://wamc.org/post/book-show-1043"
   related_book: cost
   source: WAMC
 - 
-  category: Spoken Word
-  date: "2008-06-25 08:57:39"
+  category: Interview
+  date: 2008-06-25
   description: "<em>On Point</em> with Tom Ashbrook, WBUR"
-  link_to_original: 
-    - ~
-  permalink: /media/wbur/
+  link_to_original: ~
   related_book: ~
   source: WBUR
 - 
-  category: 
-    - Written Word
-  date: "2008-06-01 08:58:54"
+  category: Article
+  date: 2008-06-01
   description: "\"A Novel’s Twists Immerse a Writer in the World of Addiction,\" Cynthia Magriel Wetzler, <em>The New York Times,</em>"
-  link_to_original: 
-    - "http://www.nytimes.com/2008/06/01/nyregion/nyregionspecial2/01roxanact.html?_r=1&oref=slogin"
-  permalink: /media/the-new-york-times-4/
+  link_to_original: "http://www.nytimes.com/2008/06/01/nyregion/nyregionspecial2/01roxanact.html?_r=1&oref=slogin"
   related_book: cost
   source: "The New York Times"
 - 
-  category: Spoken Word
-  date: "2007-01-24 09:19:30"
+  category: Interview
+  date: 2007-01-24
   description: "Reading by novelist Roxana Robinson at the College of the Atlantic, Bar Harbor, Maine"
-  link_to_original: 
-    - ~
-  permalink: /media/college-of-the-atlantic-3/
-  related_book: ~
+  link_to_original:
+  related_book:
   source: "College of the Atlantic"

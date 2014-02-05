@@ -13,7 +13,7 @@
     "address" : "17 East 47th Street",
     "citystate" : "New York, NY", 
     "website" : "http://centerforfiction.org/",
-    "url"     : "/events/center-for-fiction-new-york-new-york/",
+    "url"     : "",
     "summary" : "Reading and Signing; Launch for novel Sparta"
   }
 
@@ -30,8 +30,8 @@
     "address" : "",
     "citystate" : "Chicago, IL", 
     "website" : "",
-    "url"     : "/events/printers-row-book-festival-chicago-illinois/",
-    "summary" : ""
+    "url"     : "",
+    "summary" : "Conversation with Elizabeth Taylor, Literary Editor of the *Chicago Tribune*."
   }
 
     ,
@@ -47,14 +47,14 @@
     "address" : "10 Langley Road",
     "citystate" : "Newton, MA", 
     "website" : "",
-    "url"     : "/events/newtonville-books-newton-massachusetts/",
+    "url"     : "",
     "summary" : ""
   }
 
     ,
     
   {
-    "name"    : "",
+    "name"    : "Reading/signing",
     "allday"  : "false",
     "start"   : "2013-06-13 12:00:00 UTC",
     "end"     : "2013-06-13 13:00:00 UTC",
@@ -64,14 +64,14 @@
     "address" : "10 1/2 Beacon Street",
     "citystate" : "Boston, MA", 
     "website" : "",
-    "url"     : "/events/boston-atheneum-boston-massachusetts/",
+    "url"     : "",
     "summary" : ""
   }
 
     ,
     
   {
-    "name"    : "",
+    "name"    : "Reading from *Sparta*",
     "allday"  : "false",
     "start"   : "2013-06-13 19:00:00 UTC",
     "end"     : "2013-06-13 20:00:00 UTC",
@@ -81,7 +81,7 @@
     "address" : "25 White Street",
     "citystate" : "Cambridge, MA", 
     "website" : "",
-    "url"     : "/events/porter-square-books-cambridge-massachusetts/",
+    "url"     : "",
     "summary" : ""
   }
 
@@ -98,7 +98,7 @@
     "address" : "",
     "citystate" : "Middletown, MA", 
     "website" : "",
-    "url"     : "/events/wesleyan-writers-conference-middletown-massachusetts/",
+    "url"     : "",
     "summary" : ""
   }
 
@@ -115,14 +115,14 @@
     "address" : "",
     "citystate" : "New York, NY", 
     "website" : "",
-    "url"     : "/events/nyu-summer-writing-intensive-new-york-new-york/",
-    "summary" : ""
+    "url"     : "",
+    "summary" : "Two-week Summer Intensive Program in Creative Writing."
   }
 
     ,
     
   {
-    "name"    : "Name of Event",
+    "name"    : "Reading/Signing",
     "allday"  : "false",
     "start"   : "2013-06-16 19:00:00 UTC",
     "end"     : "2013-06-16 20:00:00 UTC",
@@ -132,14 +132,14 @@
     "address" : "163 Court Street",
     "citystate" : "Brooklyn, NY", 
     "website" : "",
-    "url"     : "/events/book-court-brooklyn-new-york/",
+    "url"     : "",
     "summary" : ""
   }
 
     ,
     
   {
-    "name"    : "Name of Event",
+    "name"    : "Reading/signing",
     "allday"  : "false",
     "start"   : "2013-06-23 15:00:00 UTC",
     "end"     : "2013-06-23 16:00:00 UTC",
@@ -149,14 +149,14 @@
     "address" : "2 Green Hill Road",
     "citystate" : "Washington, CT", 
     "website" : "",
-    "url"     : "/events/hickory-stick-books-washington-connecticut/",
+    "url"     : "",
     "summary" : ""
   }
 
     ,
     
   {
-    "name"    : "",
+    "name"    : "Reading",
     "allday"  : "false",
     "start"   : "2013-06-29 18:00:00 UTC",
     "end"     : "2013-06-29 19:00:00 UTC",
@@ -166,14 +166,14 @@
     "address" : "5015 Connecticut Ave.",
     "citystate" : "Washington, D.C.", 
     "website" : "",
-    "url"     : "/events/politics-and-prose-bookstore-washington-d-c/",
+    "url"     : "",
     "summary" : ""
   }
 
     ,
     
   {
-    "name"    : "Name of Event",
+    "name"    : "Reading from *Sparta*",
     "allday"  : "false",
     "start"   : "2013-07-16 17:30:00 UTC",
     "end"     : "2013-07-16 18:30:00 UTC",
@@ -183,31 +183,31 @@
     "address" : "",
     "citystate" : "Tenants Harbor, ME", 
     "website" : "",
-    "url"     : "/events/tenants-harbor-maine/",
+    "url"     : "",
     "summary" : ""
   }
 
     ,
     
   {
-    "name"    : "College of the Atlantic",
+    "name"    : "Reading from *Sparta*",
     "allday"  : "false",
     "start"   : "2013-07-22 17:00:00 UTC",
     "end"     : "2013-07-22 18:00:00 UTC",
     "starttime"   : "05:00 pm",
     "endtime"     : "06:00 pm",
-    "venue"   : "Gates Auditorium",
+    "venue"   : "College of the Atlantic, Gates Auditorium",
     "address" : "",
     "citystate" : "Bar Harbor, ME", 
     "website" : "",
-    "url"     : "/events/college-atlantic-bar-harbor-maine/",
+    "url"     : "",
     "summary" : ""
   }
 
     ,
     
   {
-    "name"    : "",
+    "name"    : "Reading from *Sparta*",
     "allday"  : "false",
     "start"   : "2013-07-24 18:00:00 UTC",
     "end"     : "2013-07-24 19:00:00 UTC",
@@ -217,245 +217,7 @@
     "address" : "Joy Street Northeast",
     "citystate" : "Northeast Harbor, ME", 
     "website" : "",
-    "url"     : "/events/northeast-harbor-library-northeast-harbor-maine/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "",
-    "allday"  : "false",
-    "start"   : "2013-07-31 12:00:00 UTC",
-    "end"     : "2013-07-31 13:00:00 UTC",
-    "starttime"   : "12:00 pm",
-    "endtime"     : "01:00 pm",
-    "venue"   : "Portland Library",
-    "address" : "5 Monument Square",
-    "citystate" : "Portland, Maine", 
-    "website" : "",
-    "url"     : "/events/portland-library-portland-maine/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "Name of Event",
-    "allday"  : "true",
-    "start"   : "2013-08-02 19:00:00 UTC",
-    "end"     : "",
-    "starttime"   : "07:00 pm",
-    "endtime"     : "",
-    "venue"   : "Hotchkiss Library",
-    "address" : "",
-    "citystate" : "Sharon, CT", 
-    "website" : "",
-    "url"     : "/events/hotchkiss-library-sharon-connecticut/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "",
-    "allday"  : "false",
-    "start"   : "2013-08-03 14:00:00 UTC",
-    "end"     : "2013-08-03 16:00:00 UTC",
-    "starttime"   : "02:00 pm",
-    "endtime"     : "04:00 pm",
-    "venue"   : "House of Books",
-    "address" : "Main Street",
-    "citystate" : "Kent, Connecticut", 
-    "website" : "",
-    "url"     : "/events/house-of-books-kent-connecticut/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "",
-    "allday"  : "false",
-    "start"   : "2013-08-10 16:00:00 UTC",
-    "end"     : "",
-    "starttime"   : "04:00 pm",
-    "endtime"     : "",
-    "venue"   : "Cornwall Library",
-    "address" : "30 Pine Street",
-    "citystate" : "Cornwall, CT", 
-    "website" : "",
-    "url"     : "/events/cornwall-library/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "Gala for Maine Writers and Publishers Alliance",
-    "allday"  : "false",
-    "start"   : "2013-08-17 02:00:00 UTC",
-    "end"     : "2013-08-17 07:30:00 UTC",
-    "starttime"   : "02:00 am",
-    "endtime"     : "07:30 am",
-    "venue"   : "Tess Gerritsen House, Camden Hills State Park",
-    "address" : "280 Belfast Road",
-    "citystate" : "Camden, Maine", 
-    "website" : "",
-    "url"     : "/events/camden-maine/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "",
-    "allday"  : "false",
-    "start"   : "2013-08-19 19:00:00 UTC",
-    "end"     : "",
-    "starttime"   : "07:00 pm",
-    "endtime"     : "",
-    "venue"   : "Witherle Library",
-    "address" : "",
-    "citystate" : "Castine, Maine", 
-    "website" : "",
-    "url"     : "/events/castine-maine/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "",
-    "allday"  : "false",
-    "start"   : "2013-08-24 11:00:00 UTC",
-    "end"     : "",
-    "starttime"   : "11:00 am",
-    "endtime"     : "",
-    "venue"   : "Toadstool Books",
-    "address" : "12 Depot Sq.",
-    "citystate" : "Peterborough, New Hampshire", 
-    "website" : "http://www.toadbooks.com/",
-    "url"     : "/events/peterborough-new-hampshire/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "",
-    "allday"  : "false",
-    "start"   : "2013-09-12 20:00:00 UTC",
-    "end"     : "2013-09-12 21:00:00 UTC",
-    "starttime"   : "08:00 pm",
-    "endtime"     : "09:00 pm",
-    "venue"   : "McNally-Jackson Bookstore",
-    "address" : "52 Prince Street",
-    "citystate" : "New York, NY", 
-    "website" : "http://mcnallyjackson.com/",
-    "url"     : "/events/mcnally-jackson-bookstore-new-york-new-york/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "Brattleboro Literary Festival",
-    "allday"  : "false",
-    "start"   : "2013-10-14 18:00:00 UTC",
-    "end"     : "2013-10-14 20:30:00 UTC",
-    "starttime"   : "06:00 pm",
-    "endtime"     : "08:30 pm",
-    "venue"   : "",
-    "address" : "",
-    "citystate" : "Brattleboro, Vermont", 
-    "website" : "",
-    "url"     : "/events/brattleboro-literary-festival-brattleboro-vermont/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "",
-    "allday"  : "true",
-    "start"   : "2013-11-01 18:00:00 UTC",
-    "end"     : "2013-11-01 20:30:00 UTC",
-    "starttime"   : "06:00 pm",
-    "endtime"     : "08:30 pm",
-    "venue"   : "Warner Theatre",
-    "address" : "",
-    "citystate" : "Torrington, Connecticut", 
-    "website" : "",
-    "url"     : "/events/warner-theatre-torrington-connecticut/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "Interview on the Digital Age with Jim Zirin",
-    "allday"  : "false",
-    "start"   : "2013-11-26 17:00:00 UTC",
-    "end"     : "",
-    "starttime"   : "05:00 pm",
-    "endtime"     : "",
-    "venue"   : "",
-    "address" : "",
-    "citystate" : "", 
-    "website" : "",
-    "url"     : "/events/2013/11/26/on-the-digital-age-with-jim-zirin/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "",
-    "allday"  : "false",
-    "start"   : "2014-01-22 18:00:00 UTC",
-    "end"     : "2014-01-22 18:00:00 UTC",
-    "starttime"   : "06:00 pm",
-    "endtime"     : "06:00 pm",
-    "venue"   : "Center for Fiction",
-    "address" : "17 East 47th Street",
-    "citystate" : "New York, NY", 
-    "website" : "http://centerforfiction.org/",
-    "url"     : "/events/2014/01/22/center-for-fiction/",
-    "summary" : "Discussion with David Finkel, moderated by Noreen Tomassi."
-  }
-
-    ,
-    
-  {
-    "name"    : "",
-    "allday"  : "true",
-    "start"   : "2014-02-06 18:00:00 UTC",
-    "end"     : "2014-02-06 20:30:00 UTC",
-    "starttime"   : "06:00 pm",
-    "endtime"     : "08:30 pm",
-    "venue"   : "",
-    "address" : "",
-    "citystate" : "Boca Grande, FL", 
-    "website" : "",
-    "url"     : "/events/boca-grande-florida/",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
-    "name"    : "Tucson Festival of Books",
-    "allday"  : "true",
-    "start"   : "2014-03-14 18:00:00 UTC",
-    "end"     : "2014-03-16 20:30:00 UTC",
-    "starttime"   : "06:00 pm",
-    "endtime"     : "08:30 pm",
-    "venue"   : "(multiple events and venues)",
-    "address" : "",
-    "citystate" : "Tuscon, AZ", 
-    "website" : "http://tucsonfestivalofbooks.org/",
-    "url"     : "/events/2014/03/15/tuscon-festival-of-books/",
+    "url"     : "",
     "summary" : ""
   }
 
@@ -472,7 +234,245 @@
     "address" : "",
     "citystate" : "San Antonio, TX", 
     "website" : "",
-    "url"     : "/events/2014/04/05/san-antonio-literary-festival/",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "Tucson Festival of Books",
+    "allday"  : "true",
+    "start"   : "2014-03-14 18:00:00 UTC",
+    "end"     : "2014-03-16 20:30:00 UTC",
+    "starttime"   : "06:00 pm",
+    "endtime"     : "08:30 pm",
+    "venue"   : "(multiple events and venues)",
+    "address" : "",
+    "citystate" : "Tuscon, AZ", 
+    "website" : "http://tucsonfestivalofbooks.org/",
+    "url"     : "",
+    "summary" : "Novelists on Loss and Love - Why are loss and love such popular themes for writers to explore? Join these three novelists as they share their characters navigating friendships, memories, crisis and life in general."
+  }
+
+    ,
+    
+  {
+    "name"    : "Reading",
+    "allday"  : "true",
+    "start"   : "2014-02-06 18:00:00 UTC",
+    "end"     : "2014-02-06 20:30:00 UTC",
+    "starttime"   : "06:00 pm",
+    "endtime"     : "08:30 pm",
+    "venue"   : "",
+    "address" : "",
+    "citystate" : "Boca Grande, FL", 
+    "website" : "",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "Discussion with David Finkel, moderated by Noreen Tomassi.",
+    "allday"  : "false",
+    "start"   : "2014-01-22 18:00:00 UTC",
+    "end"     : "2014-01-22 18:00:00 UTC",
+    "starttime"   : "06:00 pm",
+    "endtime"     : "06:00 pm",
+    "venue"   : "Center for Fiction",
+    "address" : "17 East 47th Street",
+    "citystate" : "New York, NY", 
+    "website" : "http://centerforfiction.org/",
+    "url"     : "",
+    "summary" : "Discussion with David Finkel, moderated by Noreen Tomassi."
+  }
+
+    ,
+    
+  {
+    "name"    : "Interview on the Digital Age with Jim Zirin",
+    "allday"  : "false",
+    "start"   : "2013-11-26 17:00:00 UTC",
+    "end"     : "",
+    "starttime"   : "05:00 pm",
+    "endtime"     : "",
+    "venue"   : "",
+    "address" : "",
+    "citystate" : "", 
+    "website" : "",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "Conversation with Davyne Verstandig",
+    "allday"  : "true",
+    "start"   : "2013-11-01 18:00:00 UTC",
+    "end"     : "2013-11-01 20:30:00 UTC",
+    "starttime"   : "06:00 pm",
+    "endtime"     : "08:30 pm",
+    "venue"   : "Warner Theatre",
+    "address" : "",
+    "citystate" : "Torrington, Connecticut", 
+    "website" : "",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "Brattleboro Literary Festival",
+    "allday"  : "false",
+    "start"   : "2013-10-14 18:00:00 UTC",
+    "end"     : "2013-10-14 20:30:00 UTC",
+    "starttime"   : "06:00 pm",
+    "endtime"     : "08:30 pm",
+    "venue"   : "",
+    "address" : "",
+    "citystate" : "Brattleboro, Vermont", 
+    "website" : "",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "Conversations on Practice: A Series run by Glenn Kurtz.",
+    "allday"  : "false",
+    "start"   : "2013-09-12 20:00:00 UTC",
+    "end"     : "2013-09-12 21:00:00 UTC",
+    "starttime"   : "08:00 pm",
+    "endtime"     : "09:00 pm",
+    "venue"   : "McNally-Jackson Bookstore",
+    "address" : "52 Prince Street",
+    "citystate" : "New York, NY", 
+    "website" : "http://mcnallyjackson.com/",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "Reading and Signing",
+    "allday"  : "false",
+    "start"   : "2013-08-24 11:00:00 UTC",
+    "end"     : "",
+    "starttime"   : "11:00 am",
+    "endtime"     : "",
+    "venue"   : "Toadstool Books",
+    "address" : "12 Depot Sq.",
+    "citystate" : "Peterborough, New Hampshire", 
+    "website" : "http://www.toadbooks.com/",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "Reading",
+    "allday"  : "false",
+    "start"   : "2013-08-19 19:00:00 UTC",
+    "end"     : "",
+    "starttime"   : "07:00 pm",
+    "endtime"     : "",
+    "venue"   : "Witherle Library",
+    "address" : "",
+    "citystate" : "Castine, Maine", 
+    "website" : "",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "Gala for Maine Writers and Publishers Alliance",
+    "allday"  : "false",
+    "start"   : "2013-08-17 02:00:00 UTC",
+    "end"     : "2013-08-17 07:30:00 UTC",
+    "starttime"   : "02:00 am",
+    "endtime"     : "07:30 am",
+    "venue"   : "Tess Gerritsen House, Camden Hills State Park",
+    "address" : "280 Belfast Road",
+    "citystate" : "Camden, Maine", 
+    "website" : "",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "Reading/Signing",
+    "allday"  : "false",
+    "start"   : "2013-08-10 16:00:00 UTC",
+    "end"     : "",
+    "starttime"   : "04:00 pm",
+    "endtime"     : "",
+    "venue"   : "Cornwall Library",
+    "address" : "30 Pine Street",
+    "citystate" : "Cornwall, CT", 
+    "website" : "",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "Book-signing",
+    "allday"  : "false",
+    "start"   : "2013-08-03 14:00:00 UTC",
+    "end"     : "2013-08-03 16:00:00 UTC",
+    "starttime"   : "02:00 pm",
+    "endtime"     : "04:00 pm",
+    "venue"   : "House of Books",
+    "address" : "Main Street",
+    "citystate" : "Kent, Connecticut", 
+    "website" : "",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "Book Signing",
+    "allday"  : "true",
+    "start"   : "2013-08-02 19:00:00 UTC",
+    "end"     : "",
+    "starttime"   : "07:00 pm",
+    "endtime"     : "",
+    "venue"   : "Hotchkiss Library",
+    "address" : "",
+    "citystate" : "Sharon, CT", 
+    "website" : "",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "Brown Bag Luncheon Reading",
+    "allday"  : "false",
+    "start"   : "2013-07-31 12:00:00 UTC",
+    "end"     : "2013-07-31 13:00:00 UTC",
+    "starttime"   : "12:00 pm",
+    "endtime"     : "01:00 pm",
+    "venue"   : "Portland Library",
+    "address" : "5 Monument Square",
+    "citystate" : "Portland, Maine", 
+    "website" : "",
+    "url"     : "",
     "summary" : ""
   }
 

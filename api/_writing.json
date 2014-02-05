@@ -2,7 +2,7 @@
 layout: none
 ---
 [{% for writing in site.data.writing %}{
-    "category": "{{writing.sm_writing_cats}}",
+    "category": "{{writing.category}}",
     "title": "{{ writing.title}}",
     "date": "{{writing.date}}",
     "publication": "{{ writing.publication}}",

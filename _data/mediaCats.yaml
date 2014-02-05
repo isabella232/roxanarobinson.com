@@ -1,5 +1,8 @@
-- catName: spoke-word
-  name: Spoken Word
+- catName: Interview
+  name: Interview
 
-- catName: written-word
-  name: Written Word
+- catName: Reading
+  name: Reading
+
+- catName: Article
+  name: Article
