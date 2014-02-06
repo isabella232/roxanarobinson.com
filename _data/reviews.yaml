@@ -1,4 +1,9 @@
 -  
+  book: sparta
+  source: 'Claire Messud, author of *The Emperor’s Children* and *The Woman Upstairs*'
+  quote: "Roxana Robinson’s *Sparta* is a feat of the imagination. Vividly and with unflinching wisdom, Robinson has given voice, substance, and profound reality to her protagonist Conrad Farrell of the Marine Corps—and in so doing to thousands of veterans like him."
+
+-  
   link_to_original: http://www.openlettersmonthly.com/sparta-iraq/
   book: sparta
   source: 'Anne Fernald, Editor, The Cambridge Edition of *Mrs. Dalloway,* for *Open Letters Monthly*'
@@ -17,8 +22,6 @@
   book: cost
   source: '*Vanity Fair*'
   quote: "Roxana Robinson’s *Cost* artfully portrays a family transformed by the far-reaching consequences of a son’s heroin addiction."
--  
- "Roxana Robinson’s *Cost* artfully portrays a family transformed by the far-reaching consequences of a son’s heroin addiction."
 
 -  
   featured: true
@@ -307,12 +310,6 @@
   book: sparta
   source: 'David Abrams, author of *Fobbit*'
   quote: "No matter where you fall in the spectrum between hawk and dove, Robinson's novel is powerfully affecting and takes its place on the shelf of essential war literature."
-
--  
-  featured: true
-  book: sparta
-  source: 'Claire Messud, author of *The Emperor’s Children* and *The Woman Upstairs*'
-  quote: "Roxana Robinson’s *Sparta* is a feat of the imagination. Vividly and with unflinching wisdom, Robinson has given voice, substance, and profound reality to her protagonist Conrad Farrell of the Marine Corps—and in so doing to thousands of veterans like him."
 
 -  
   link_to_original: 
