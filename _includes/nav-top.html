@@ -9,13 +9,13 @@
   <section class="top-bar-section">
     <!-- Right Nav Section -->
     <ul class="">
-      <li class="menu-item {% if page.url == '' %} active{% endif %}">
+      <li class="menu-item{% if page.url == '' %} active{% endif %}">
         <a href="{{site.baseurl}}/">Home</a>
       </li>
 
 {% for links in site.data.menu %}
       
-      <li class="menu-item {% if page.url contains /{{links.slug}} %} active{% endif %}">
+      <li class="menu-item{% if page.url contains /{{links.slug}} %} active{% endif %}">
         <a href="{{site.baseurl}}/{{links.slug}}/">{{links.name}}</a>
       </li>
       
