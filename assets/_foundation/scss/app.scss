@@ -187,24 +187,27 @@ color:#CCC;
 h1, h2, h3, h4 {
   font-weight: 300;
 }
+
 header h1 , header h1 a {
+  //Styles the main header in the banner, not page headers
     color: #FFF;
 }
 
-.main-section header h1 , .main-section header h1 a, h4 {
+h4 {
     color: $primary-color;
 }
 
 
-.entry-title {
+.entry-title, .entry-title a {
   color: $primary-color;
   font-size: rem-calc(36);
+  margin-top: 5rem;
 
 }
 
-.page-title {
+.page-title, .page-title a{
   //text-transform: uppercase;
-  color: $primary-color;
+  color: #555;//$primary-color;
   font-size: rem-calc(38);
 
 }
@@ -221,6 +224,7 @@ header h1 a:hover {
   
 }
 //ARTICLES 
+
 .main-section header {
   //override header decoration for article headings because we styled header
   background: none;
@@ -230,6 +234,7 @@ header h1 a:hover {
 }
 
 .main-section {
+  min-height: 500px;
   background-color: $body-bg;
   padding-bottom:4rem;
   border-bottom-right-radius:3px;

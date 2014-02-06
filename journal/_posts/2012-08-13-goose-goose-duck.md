@@ -1,14 +1,14 @@
 ---
 title: Goose Goose Duck
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/goose-goose-duck/
+# permalink: /nature-journal/goose-goose-duck/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2013/03/goose-goose-duck.html
 ---
 If you drive up Town Street from the Lake, just before you reach Scoville Road you enter dangerous territory. The Scoville farm house stands on the right, and across from it, in a field on the left, stands the duckpond. The traffic between the house and the duckpond is serious. I don’t know if you’ve ever had to stop your car for the goose parade, but I have. There is no way through.

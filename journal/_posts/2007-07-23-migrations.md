@@ -1,14 +1,14 @@
 ---
 title: Migrations
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/migrations/
+# permalink: /nature-journal/migrations/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2007/07/im-in-maine-now-and-garden-at-midseason.html
 tags:
   - Migrations

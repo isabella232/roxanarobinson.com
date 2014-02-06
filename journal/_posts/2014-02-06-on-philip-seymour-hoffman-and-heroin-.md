@@ -1,6 +1,6 @@
 ---
 title: On Philip Seymour Hoffman and Heroin
-layout: page
+layout: article
 category: interviews
 ---
 Because of the subject matter of *Cost*, "2 Paragraphs" asked me heroin addiction in light of Philip Seymour Hoffman's death. 

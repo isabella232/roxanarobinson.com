@@ -1,14 +1,14 @@
 ---
 title: 'Bracey&#8217;s Cove'
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/braceys-cove/
+# permalink: /nature-journal/braceys-cove/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2004/12/braceys-cove.html
 ---
 It’s just after sundown, and cold. The sky is perfectly clear, the air crystalline.  

@@ -1,14 +1,14 @@
 ---
 title: Kingfishers
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/kingfishers/
+# permalink: /nature-journal/kingfishers/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2007/09/kingfishers.html
 tags:
   - Kingfishers

@@ -2,16 +2,12 @@
   
   <header>
     {% if page.title %}
-    <h1 class="page-title">    
-      
-        {{page.title}}
-      
-    </h1>
+    <h1 class="page-title"><a href="{{post.url}}">{{page.title}}</a></h1>
     {% endif %}
     {% if page.date %}
     <span class='date'>
       <small>
-        {{ page.date | date:'%B, %Y' }}
+        {{ page.date | date:'%B %d, %Y' }}
       </small>
     </span>
     {% endif %}
@@ -25,26 +21,14 @@
   
   <div class="entry-content prose">
     {{ content }}
+{% if page.url contains '/journal/' %}
+{% include articles/sharing.html %}
+{% endif %}
 
     
     {% if page.related_include %}
   {% include {{page.related_include}} %}
   {% endif %}
-
-
-
-
-{% if page.url contains 'reviews' %}
-    &mdash; {{ page.attribution}}
-on 
-  {% for post in site.pages %}
-    {% if post.name == page.related_book %}
-      <a href="{{post.url}}">{{post.title}} </a>
-    {% endif %}
-  {% endfor %}
-
-{% endif %}
-
 
 
 

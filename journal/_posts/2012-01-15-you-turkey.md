@@ -1,14 +1,14 @@
 ---
 title: You Turkey
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/you-turkey/
+# permalink: /nature-journal/you-turkey/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2013/03/you-turkey-recentlyin-fit-of-worldiness.html
 ---
 Recently, in a fit of worldiness, I had the car washed.

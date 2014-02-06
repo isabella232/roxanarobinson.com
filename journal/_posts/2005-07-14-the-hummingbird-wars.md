@@ -1,14 +1,14 @@
 ---
 title: The Hummingbird Wars
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/the-hummingbird-wars/
+# permalink: /nature-journal/the-hummingbird-wars/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2005/07/hummingbird-wars.html
 ---
 Along the eastern edge of the meadow here I put in clumps of beautiful dark red beebalm, the native monarda. They’re upright plants, with tall stalks and dense moppy heads. In July and August these glow against the dark shadowy woods beyond.  

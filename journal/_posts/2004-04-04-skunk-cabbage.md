@@ -1,14 +1,14 @@
 ---
 title: Skunk Cabbage
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/skunk-cabbage/
+# permalink: /nature-journal/skunk-cabbage/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2004/04/skunk-cabbage.html
 ---
 It’s cold here, still. In the evenings I still go running in my parka. The air is clean and chill; I can see my breath. The woods on either side of the dirt road are still brown and grey. Nothing is green. Spring is keeping herself dark – though I know she’s around: the bare grey branches are full of birdsong. The red-winged blackbirds have arrived, with their liquid warbling calls, and a huge flock of robins were busy in the hillside meadow last week.

@@ -1,14 +1,14 @@
 ---
 title: The Necklace
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/the-necklace/
+# permalink: /nature-journal/the-necklace/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2007/05/necklace.html
 ---
 One of the great pleasures of the garden lies in its textures – the lace of ferns, the velvet of roses, the smooth fluted curves of hosta. Boxwood’s texture has a particular appeal, especially now – September &#8211; when everything else is in decline. Box is still dense and vigorous, the leaves bright dark green and shiny, the surface of the shrub dense and springy, somehow luxuriant.

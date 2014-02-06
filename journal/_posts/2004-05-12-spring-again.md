@@ -1,14 +1,14 @@
 ---
 title: Spring Again
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/spring-again/
+# permalink: /nature-journal/spring-again/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2007/05/spring-again.html
 ---
 It’s still cold, and in the late afternoons, when I go running, I’m still in my parka. The air is clean and chill, and I can see my breath. The woods, on either side of the road, are still brown and grey. Nothing is green. Spring is keeping herself dar – though I know she’s around: the bare grey branches are full of birdsong. The red-winged blackbirs have arrived, with their lovely liquid purling trills, and last week I saw a flock of robins in the field.

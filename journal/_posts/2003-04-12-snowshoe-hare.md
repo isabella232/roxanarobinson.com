@@ -1,14 +1,14 @@
 ---
 title: Snowshoe Hare
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/snowshoe-hare/
+# permalink: /nature-journal/snowshoe-hare/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2003/04/snowshoe-hare.html
 ---
 Op-Ed, The Boston Globe

@@ -1,14 +1,14 @@
 ---
 title: Holocaust
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/holocaust/
+# permalink: /nature-journal/holocaust/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2005/12/holocaust.html
 ---
 (Op-Ed, The Boston Globe, The International Herald Tribune)

@@ -1,14 +1,14 @@
 ---
 title: Mergansers
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/mergansers/
+# permalink: /nature-journal/mergansers/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2005/08/mergansers.html
 ---
 One evening I saw something shimmering, down in the cove, and I went down to see who was there. It was a flock of ducks, very busy, paddling around by the little point near us. There were sixteen of them, I think, though it was hard to count, they moved so quickly. They were long and slim, with slightly reddish heads and long flat beaks. There was some blurry white around the neck, and a white patch on the back near the tail. They all seemed to be about the same color &#8211; reddish brown heads and greyish-brown backs. They kept moving, paddling fast, in and out of the little cove, and then went out again into the larger one. The water was very still and glassy, and the pines on the far shore were black, and the ducks were dark against that sheet of silver.  

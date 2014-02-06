@@ -1,14 +1,14 @@
 ---
 title: Pinching Box
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/pinching-box/
+# permalink: /nature-journal/pinching-box/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2007/05/pinching-box.html
 ---
 Pinching box: it’s a mysterious phrase. It might be an eccentric sort of fisticuffs, or an exquisite Asian torture, but in fact it’s a peaceful horticultural task, pleasant, solitary and satisfying.  

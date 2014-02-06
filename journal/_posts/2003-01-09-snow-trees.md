@@ -1,14 +1,14 @@
 ---
 title: Snow Trees
 author: Roxana
-layout: page
+layout: article
 category: nature-journal
-permalink: /nature-journal/snow-trees/
+# permalink: /nature-journal/snow-trees/
 blogger_blog:
   - roxanarobinson.blogspot.com
 blogger_author:
   - Roxana Robinson
-blogger_permalink:
+# blogger_permalink:
   - /2003/01/snow-trees.html
 ---
 The snow has silenced the landscape. Nothing moves today in this white forest. The birds are mysteriously absent.  
