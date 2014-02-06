@@ -1,11 +1,11 @@
 <article class="hentry">
   <header>
    {% if page.title %}
-      {% if page.layout == 'page' %}
-      ARTICLE {{page.layout}}
+      {% if page.section == article %}
+      
       <h1 class="page-title"><a href="{{page.url}}">{{page.title}}</a></h1>
         {% else %}
-        NOT AN ARTICLE {{page.layout}}
+      
       <h1 class="page-title">{{page.title}}</h1>
         {% endif %}
    {% endif %}
