@@ -1,0 +1,21 @@
+-
+  name: Books
+  slug: books
+-
+  name: Writings
+  slug: writing
+-
+  name: Media
+  slug: media
+-
+  name: Appearances
+  slug: books
+-
+  name: Bio
+  slug: about-the-author
+-
+  name: Journal
+  slug: journal
+-
+  name: Contact
+  slug: contact
