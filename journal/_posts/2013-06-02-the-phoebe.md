@@ -1,15 +1,11 @@
 ---
 title: The Phoebe
-author: Roxana
 layout: article
 category: nature-journal
 # permalink: /nature-journal/the-phoebe/
-blogger_blog:
-  - roxanarobinson.blogspot.com
-blogger_author:
-  - Roxana Robinson
-# blogger_permalink:
-  - /2013/06/the-phoebe.html
+blogger_blog: roxanarobinson.blogspot.com
+# blogger_permalink: /2013/06/the-phoebe.html
+excerpt: "The phoebes have been nesting here for as long as I can remember. My father used to complain about them, though my mother defended them. He thought they were messy, and they are a bit. But they are indefatigable gnatcatchers, and they are cheerful, sociable birds."
 ---
 The phoebes have been nesting here for as long as I can remember. My father used to complain about them, though my mother defended them. He thought they were messy, and they are a bit. But they are indefatigable gnatcatchers, and they are cheerful, sociable birds. My mother liked them, and they have always been here. They build a nest on the porch, on top of the molding over the doorway, on the far edge, in the most remote corner of the porch. The nest is modest, made of mud and twigs, mostly, but they finish it, beautifully, with a coverlet of fine moss.
 

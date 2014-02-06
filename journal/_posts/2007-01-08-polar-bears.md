@@ -1,15 +1,10 @@
 ---
 title: Polar Bears
-author: Roxana
 layout: article
 category: nature-journal
 # permalink: /nature-journal/polar-bears/
-blogger_blog:
-  - roxanarobinson.blogspot.com
-blogger_author:
-  - Roxana Robinson
-# blogger_permalink:
-  - /2007/01/polar-bears.html
+blogger_blog: roxanarobinson.blogspot.com
+# blogger_permalink: /2007/01/polar-bears.html
 ---
 Op-Ed, The Philadelphia Inquirer
 

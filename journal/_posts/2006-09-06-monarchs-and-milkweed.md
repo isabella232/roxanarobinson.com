@@ -1,15 +1,10 @@
 ---
 title: Monarchs and Milkweed
-author: Roxana
 layout: article
 category: nature-journal
 # permalink: /nature-journal/monarchs-and-milkweed/
-blogger_blog:
-  - roxanarobinson.blogspot.com
-blogger_author:
-  - Roxana Robinson
-# blogger_permalink:
-  - /2006/09/monarchs-and-milkweed.html
+blogger_blog: roxanarobinson.blogspot.com
+# blogger_permalink: /2006/09/monarchs-and-milkweed.html
 ---
 Op-Ed, The Boston Globe, The International Herald Tribune
 

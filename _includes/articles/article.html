@@ -9,5 +9,20 @@
       </span>
     {% endif %}
   </header>
-{{post.content}}
+
+  {{post.excerpt | markdownify}}
+
+{% capture words %}
+  {{ post.content | number_of_words | minus: 0 }}
+{% endcapture %}
+
+{% capture words_total %}
+  {{ post.excerpt | number_of_words | minus: words }} 
+{% endcapture %}
+
+{% if words_total contains "-" %}
+<strong><a href="{{post.url}}">read more &raquo;</a></strong>
+{% endif %}
+
+
 </article>

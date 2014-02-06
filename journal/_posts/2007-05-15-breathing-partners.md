@@ -1,15 +1,10 @@
 ---
 title: Breathing Partners
-author: Roxana
 layout: article
 category: nature-journal
 # permalink: /nature-journal/breathing-partners/
-blogger_blog:
-  - roxanarobinson.blogspot.com
-blogger_author:
-  - Roxana Robinson
-# blogger_permalink:
-  - /2007/05/breathing-partners.html
+blogger_blog: roxanarobinson.blogspot.com
+# blogger_permalink: /2007/05/breathing-partners.html
 ---
 Op-Ed, The Boston Globe
 

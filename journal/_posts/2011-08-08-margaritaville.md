@@ -1,15 +1,10 @@
 ---
 title: Margaritaville
-author: Roxana
 layout: article
 category: nature-journal
 # permalink: /nature-journal/margaritaville/
-blogger_blog:
-  - roxanarobinson.blogspot.com
-blogger_author:
-  - Roxana Robinson
-# blogger_permalink:
-  - /2013/03/margaritaville.html
+blogger_blog: roxanarobinson.blogspot.com
+# blogger_permalink: /2013/03/margaritaville.html
 ---
 My garden is divided into two countries, north and south. They’re separated by the mason line, a stone walkway.
 

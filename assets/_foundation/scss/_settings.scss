@@ -50,7 +50,7 @@ $column-gutter: rem-calc(50);
 
 // We use these to control various global styles
 $body-bg: rgba(255,255,255,.92);//#333;
-$body-font-color: #555;//#222;
+$body-font-color: #4d4d4d;//#222;
  $body-font-family: "Old Standard TT", Georgia, "Times New Roman", serif  ;
 // $body-font-weight: normal;
 // $body-font-style: normal;
@@ -178,8 +178,8 @@ $tabs-navigation-font-color: #666;
 // $include-html-top-bar-classes: $include-html-classes;
 
 // Background color for the top bar
-$topbar-bg-color: #FFF;//$primary-color;//darken($primary-color, 7%);//#2e3e48;// #f6f6f6;
- $topbar-bg:#FFF;// $topbar-bg-color;
+$topbar-bg-color: #99b4c6;//#FFF;//$primary-color;//darken($primary-color, 7%);//#2e3e48;// #f6f6f6;
+ $topbar-bg:#99b4c6;// $topbar-bg-color;
 
 
 
@@ -202,15 +202,15 @@ $topbar-margin-bottom: 0;
 // $topbar-dropdown-toggle-alpha: 0.4;
 
 // Set the link colors and styles for top-level nav
-$topbar-link-color: $primary-color;//#666;
+$topbar-link-color: #fff;//$primary-color;//#666;
  $topbar-link-color-hover: #606060;
-$topbar-link-color-active: #9f9f9f;
+$topbar-link-color-active: lighten($topbar-bg, 20%);//#9f9f9f;
 // $topbar-link-weight: normal;
  $topbar-link-font-size: rem-calc(14);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
  $topbar-link-bg-hover: #f6f6f6 ;
- $topbar-link-bg-active: #fff;
-// $topbar-link-bg-active-hover: darken($primary-color, 5%);
+ $topbar-link-bg-active: $topbar-bg;//#fff;
+$topbar-link-bg-active-hover: darken($topbar-bg, 2%);
 // $topbar-link-font-family: $body-font-family;
 
 // $topbar-button-font-size: 0.75rem;

@@ -1,15 +1,10 @@
 ---
 title: Snow Trees
-author: Roxana
 layout: article
 category: nature-journal
 # permalink: /nature-journal/snow-trees/
-blogger_blog:
-  - roxanarobinson.blogspot.com
-blogger_author:
-  - Roxana Robinson
-# blogger_permalink:
-  - /2003/01/snow-trees.html
+blogger_blog: roxanarobinson.blogspot.com
+# blogger_permalink: /2003/01/snow-trees.html
 ---
 The snow has silenced the landscape. Nothing moves today in this white forest. The birds are mysteriously absent.  
 Even the cove itself – though certainly the tide still sweeps its waters in and out – seems motionless. Its shoreline is roughly piled with snow, and the inner half of the cove is frozen, a solid stretch of churned-up snow and cakes of ice. Out beyond this, the water is dark and gray with drifting, translucent ice, granular and amorphous. 

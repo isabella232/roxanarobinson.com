@@ -1,15 +1,10 @@
 ---
 title: Disruption
-author: Roxana
 layout: article
 category: nature-journal
 # permalink: /nature-journal/disruption/
-blogger_blog:
-  - roxanarobinson.blogspot.com
-blogger_author:
-  - Roxana Robinson
-# blogger_permalink:
-  - /2008/10/its-nearly-high-tide-and-cove-is-glassy.html
+blogger_blog: roxanarobinson.blogspot.com
+# blogger_permalink: /2008/10/its-nearly-high-tide-and-cove-is-glassy.html
 tags:
   - Maine
 ---

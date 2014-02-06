@@ -1,15 +1,10 @@
 ---
 title: Christmas Day and the Pileated Woodpecker
-author: Roxana
 layout: article
 category: nature-journal
 # permalink: /nature-journal/christmas-day-and-the-pileated-woodpecker/
-blogger_blog:
-  - roxanarobinson.blogspot.com
-blogger_author:
-  - Roxana Robinson
-# blogger_permalink:
-  - /2013/03/christmas-day-and-pileated-woodpecker.html
+blogger_blog: roxanarobinson.blogspot.com
+# blogger_permalink: /2013/03/christmas-day-and-pileated-woodpecker.html
 ---
 
 It was my grandfather, “Lawyer Sam” Scoville, who got us all watching birds. Besides lawyering, Sam was a writer and an amateur naturalist. He died when I was five, but by then the whole family was hooked. I read all his books: “Man and Beast,” “Lords of the Wild,” “The Out-of-Doors Club” and the rest. I grew up watching not only birds, but animals and snakes – everything in the whole big natural shebang.
