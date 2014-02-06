@@ -123,12 +123,14 @@
 	<section class="main-section row">
 		<div class="small-12 medium-8 large-8 large-centered columns page-layout">
   <article class="hentry">
-  
   <header>
-    
-    <h1 class="page-title"><a href="">Watching as the World Vanishes</a></h1>
-    
-    
+   
+      
+        NOT AN ARTICLE default
+      <h1 class="page-title">Watching as the World Vanishes</h1>
+        
+   
+   
     <span class='date'>
       <small>
         January 01, 2006
@@ -136,9 +138,7 @@
     </span>
     
     
-  
   </header>
-  
   <div class="entry-content prose">
     <p>IT WAS SHAMEFUL, everyone agreed afterward, that no one did anything at the time. Because people knew it was happening. There were reports, early on. People saw things, near where it was happening. They knew. Later, they said they hadn&#8217;t known, really; they hadn&#8217;t understood the scale of it. They explained their reasons for doing nothing. They said the government was responsible, there was nothing they could do. Certainly the government was determined to carry out its plans, and maybe people felt overwhelmed and helpless. Maybe this was a place where the curves of ignorance, courage, and survival instinct intersected, to exclude the possibility of action.</p>
 
@@ -168,15 +168,9 @@
 
 <p>Roxana Robinson is a novelist, most recently the author of the short story collection, &#8221;A Perfect Stranger.&#8221;</p>
 
-
-
     
     
-
-
-
   </div>
-
 </article>
 
 	
@@ -208,7 +202,7 @@
       // doc.setAttribute('data-useragent', navigator.userAgent);
 
 
-$("h1 a").each(function() {
+$("h1.entry-title a, h1.page-title").each(function() {
   //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
   var wordArray = $(this).text().split(" ");
   if (wordArray.length > 1) {

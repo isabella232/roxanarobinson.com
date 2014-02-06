@@ -123,12 +123,14 @@
 	<section class="main-section row">
 		<div class="small-12 medium-8 large-8 large-centered columns page-layout">
   <article class="hentry">
-  
   <header>
-    
-    <h1 class="page-title"><a href="">My Mother&#8217;s Home</a></h1>
-    
-    
+   
+      
+        NOT AN ARTICLE default
+      <h1 class="page-title">My Mother&#8217;s Home</h1>
+        
+   
+   
     <span class='date'>
       <small>
         December 23, 2007
@@ -136,9 +138,7 @@
     </span>
     
     
-  
   </header>
-  
   <div class="entry-content prose">
     <p>IN 1928 my grandparents built a summer house in northwestern Connecticut, on a wooded hillside overlooking a small lake. Trees cluster closely about its dark rough clapboards and massive chimneys; a stone porch looks out toward the water. It’s a refuge, knitted smoothly into the natural world around it.</p>
 
@@ -214,15 +214,9 @@
 
 <p>“Come,” I tell her. “Stay as long as you want. Stay the rest of your life.”</p>
 
-
-
     
     
-
-
-
   </div>
-
 </article>
 
 	
@@ -254,7 +248,7 @@
       // doc.setAttribute('data-useragent', navigator.userAgent);
 
 
-$("h1 a").each(function() {
+$("h1.entry-title a, h1.page-title").each(function() {
   //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
   var wordArray = $(this).text().split(" ");
   if (wordArray.length > 1) {

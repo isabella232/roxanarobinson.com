@@ -123,16 +123,16 @@
 	<section class="main-section row">
 		<div class="small-12 medium-8 large-8 large-centered columns page-layout">
   <article class="hentry">
-  
   <header>
+   
+      
+        NOT AN ARTICLE default
+      <h1 class="page-title">About Roxana</h1>
+        
+   
+   
     
-    <h1 class="page-title"><a href="">About Roxana</a></h1>
-    
-    
-    
-  
   </header>
-  
   <div class="entry-content prose">
     <p><img src="../assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG-200x200.jpg" alt="Roxana"> Roxana Robinson is the author of five novels, including <em>Cost</em>; three collections of short stories; and the biography <em>Georgia O’Keeffe: A Life</em>. Her work has appeared in <em>The New Yorker</em>, <em>The Atlantic</em>, <em>Harper’s</em> Magazine, <em>The New York Times</em>, <em>The Washington Post</em>, <em>The Wall Street Journal</em>, <em>Travel and Leisure</em>, <em>More</em>, and <em>Vogue</em>, among other publications. She divides her time between New York, Connecticut, and Maine.  <a href="/biography/">Full Bio</a></p>
 
@@ -254,15 +254,9 @@ Author Photo credit: ©2008 JoyceRavid <br />
 
 <hr>
 
-
-
     
     
-
-
-
   </div>
-
 </article>
 
 	
@@ -294,7 +288,7 @@ Author Photo credit: ©2008 JoyceRavid <br />
       // doc.setAttribute('data-useragent', navigator.userAgent);
 
 
-$("h1 a").each(function() {
+$("h1.entry-title a, h1.page-title").each(function() {
   //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
   var wordArray = $(this).text().split(" ");
   if (wordArray.length > 1) {

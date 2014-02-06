@@ -123,16 +123,16 @@
 	<section class="main-section row">
 		<div class="large-12 large-centered columns page-layout">
   <article class="hentry">
-  
   <header>
+   
+      
+        NOT AN ARTICLE default
+      <h1 class="page-title">Interviews & Readings</h1>
+        
+   
+   
     
-    <h1 class="page-title"><a href="">Interviews & Readings</a></h1>
-    
-    
-    
-  
   </header>
-  
   <div class="entry-content prose">
     <div class="entry">
 	<div class="row">
@@ -1040,15 +1040,9 @@
 		</table>
 	</div><!--  /entry-list  -->
 </div><!--  /entry  -->
-
-
     
     
-
-
-
   </div>
-
 </article>
 
 	
@@ -1079,7 +1073,7 @@
       // doc.setAttribute('data-useragent', navigator.userAgent);
 
 
-$("h1 a").each(function() {
+$("h1.entry-title a, h1.page-title").each(function() {
   //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
   var wordArray = $(this).text().split(" ");
   if (wordArray.length > 1) {

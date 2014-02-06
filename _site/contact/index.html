@@ -140,16 +140,16 @@ function validateEmail(email){
 	<section class="main-section row">
 		<div class="small-12 medium-8 large-8 large-centered columns page-layout">
   <article class="hentry">
-  
   <header>
+   
+      
+        NOT AN ARTICLE default
+      <h1 class="page-title">Contact</h1>
+        
+   
+   
     
-    <h1 class="page-title"><a href="">Contact</a></h1>
-    
-    
-    
-  
   </header>
-  
   <div class="entry-content prose">
     <h4>Publicist</h4>
 
@@ -179,15 +179,9 @@ function validateEmail(email){
 
 <p>For Book Clubs: Roxana would be happy to meet with your book club in person, if she&rsquo;s in your area, or via Skype, iChat, or on the phone.</p>
 
-
-
     
     
-
-
-
   </div>
-
 </article>
 
 	
@@ -260,7 +254,7 @@ function validateEmail(email){
       // doc.setAttribute('data-useragent', navigator.userAgent);
 
 
-$("h1 a").each(function() {
+$("h1.entry-title a, h1.page-title").each(function() {
   //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
   var wordArray = $(this).text().split(" ");
   if (wordArray.length > 1) {

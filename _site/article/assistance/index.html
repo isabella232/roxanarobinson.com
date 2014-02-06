@@ -123,16 +123,16 @@
 	<section class="main-section row">
 		<div class="small-12 medium-8 large-8 large-centered columns page-layout">
   <article class="hentry">
-  
   <header>
+   
+      
+        NOT AN ARTICLE default
+      <h1 class="page-title">Assistance</h1>
+        
+   
+   
     
-    <h1 class="page-title"><a href="">Assistance</a></h1>
-    
-    
-    
-  
   </header>
-  
   <div class="entry-content prose">
     <p>Adele had had a bad night. She had gone to sleep around midnight, in her parents&#8217; guest room, but she had waked again at two-fifteen. From then to four-thirty she had lain awake in the blond Swedish bed her uncle had given her mother when he got rid of all his Swedish modern furniture. The bed looked odd in this room, which was painted lavender and filled with Victorian mahogany furniture from Adele&#8217;s grandparents. But Adele&#8217;s mother, Cynthia, did not like getting rid of things, so the bed stayed, with a length of lavender cotton draped over its hard wooden headboard as a sort of temporary disguise. It had been like that for twenty-two years.</p>
 
@@ -438,15 +438,9 @@ Adele sat up in bed. Since her father&#8217;s hip replacement, a group of neighb
 <p>(First published in “The Atlantic,” December, 1999. Included in the short story collection “A Perfect Stranger,” by Roxana Robinson. Random House, 2005. Copyright Roxana Robinson.<br>
 Robinson’s next novel, “Cost,” to be published by Farrar, Straus in June, 2008, also deals with this subject.)</p>
 
-
-
     
     
-
-
-
   </div>
-
 </article>
 
 	
@@ -478,7 +472,7 @@ Robinson’s next novel, “Cost,” to be published by Farrar, Straus in June, 
       // doc.setAttribute('data-useragent', navigator.userAgent);
 
 
-$("h1 a").each(function() {
+$("h1.entry-title a, h1.page-title").each(function() {
   //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
   var wordArray = $(this).text().split(" ");
   if (wordArray.length > 1) {

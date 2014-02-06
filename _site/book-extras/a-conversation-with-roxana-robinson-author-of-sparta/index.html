@@ -123,16 +123,16 @@
 	<section class="main-section row">
 		<div class="small-12 medium-8 large-8 large-centered columns page-layout">
   <article class="hentry">
-  
   <header>
+   
+      
+        NOT AN ARTICLE default
+      <h1 class="page-title">A Conversation with Roxana Robinson, author of Sparta</h1>
+        
+   
+   
     
-    <h1 class="page-title"><a href="">A Conversation with Roxana Robinson, author of Sparta</a></h1>
-    
-    
-    
-  
   </header>
-  
   <div class="entry-content prose">
     <p><strong>Why did you choose the title “Sparta”?</strong></p>
 
@@ -188,15 +188,9 @@
 
 <p><a href="/books/sparta/">back to the book page</a></p>
 
-
-
     
     
-
-
-
   </div>
-
 </article>
 
 	
@@ -228,7 +222,7 @@
       // doc.setAttribute('data-useragent', navigator.userAgent);
 
 
-$("h1 a").each(function() {
+$("h1.entry-title a, h1.page-title").each(function() {
   //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
   var wordArray = $(this).text().split(" ");
   if (wordArray.length > 1) {

@@ -123,16 +123,16 @@
 	<section class="main-section row">
 		<div class="small-12 medium-8 large-8 large-centered columns page-layout">
   <article class="hentry">
-  
   <header>
+   
+      
+        NOT AN ARTICLE default
+      <h1 class="page-title">Biography</h1>
+        
+   
+   
     
-    <h1 class="page-title"><a href="">Biography</a></h1>
-    
-    
-    
-  
   </header>
-  
   <div class="entry-content prose">
     <p><a href="/wp-content/uploads/2013/06/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG.jpg"><img class="alignleft" style="margin-left: 5px; margin-right: 5px;" alt="Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG" src="/assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG.jpg" width="225" height="300" hspace="5" /></a>Born in Pine Mountain, Kentucky, Roxana Robinson grew up in New Hope, Pennsylvania. She graduated from Buckingham Friends School, in Lahaska, and from The Shipley School, in Bryn Mawr. She attended Bennington College and studied with Bernard Malamud and Howard Nemerov. She received a B.A. degree in English Literature from the University of Michigan</p>
 
@@ -146,15 +146,9 @@
 
 <p>Ms. Robinson is also a gardener and garden writer, and her essays in this field have appeared in <em>Horticulture</em>, <em>House and Garden</em>, <em>House Beautiful</em>, and <em>Fine Gardening</em>. For years, her garden was listed in the Garden Conservancy Open Days, and it has been written about in <em>The</em> <em>New York Times</em>, <em>House and Garden</em>, <em>Traditional Homes</em>, <em>The Atlantic</em>, <em>Gardens Illustrated</em>, and other publications.</p>
 
-
-
     
     
-
-
-
   </div>
-
 </article>
 
 	
@@ -186,7 +180,7 @@
       // doc.setAttribute('data-useragent', navigator.userAgent);
 
 
-$("h1 a").each(function() {
+$("h1.entry-title a, h1.page-title").each(function() {
   //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
   var wordArray = $(this).text().split(" ");
   if (wordArray.length > 1) {

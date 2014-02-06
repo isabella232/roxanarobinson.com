@@ -123,30 +123,24 @@
 	<section class="main-section row">
 		<div class="small-12 medium-8 large-8 large-centered columns page-layout">
   <article class="hentry">
-  
   <header>
+   
+      
+        NOT AN ARTICLE default
+      <h1 class="page-title">Thank You</h1>
+        
+   
+   
     
-    <h1 class="page-title"><a href="">Thank You</a></h1>
-    
-    
-    
-  
   </header>
-  
   <div class="entry-content prose">
     <h3>Thanks for Getting in Touch</h3>
 
 <p>I will try to respond to your email as soon as possible.</p>
 
-
-
     
     
-
-
-
   </div>
-
 </article>
 
 	
@@ -178,7 +172,7 @@
       // doc.setAttribute('data-useragent', navigator.userAgent);
 
 
-$("h1 a").each(function() {
+$("h1.entry-title a, h1.page-title").each(function() {
   //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
   var wordArray = $(this).text().split(" ");
   if (wordArray.length > 1) {
