@@ -17,3 +17,14 @@
 {% endif %}
 
 <script type="text/javascript">{% include scripts/super-quotes.js  %}</script>
+{% if page.url contains "/books/" %}
+<script type="text/javascript">
+    function unhide(divID) {
+        var item = document.getElementById(divID);
+        if (item) {
+
+            item.style.display=(item.style.display=='none')?'block':'none';
+        }
+    }
+</script>
+{% endif %}

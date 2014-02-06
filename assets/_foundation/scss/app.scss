@@ -1,6 +1,45 @@
   @import "settings";
-@import "../bower_components/foundation/scss/foundation";
+//@import "../bower_components/foundation/scss/foundation";
+@import
+  //"foundation/components/accordion",
+  //"foundation/components/alert-boxes",
+  //"foundation/components/block-grid",
+  //"foundation/components/breadcrumbs",
+  "foundation/components/button-groups",
+  "foundation/components/buttons",
+  "foundation/components/clearing",
+  //"foundation/components/dropdown",
+  //"foundation/components/dropdown-buttons",
+  //"foundation/components/flex-video",
+  "foundation/components/forms",
+  "foundation/components/grid",
+  "foundation/components/inline-lists",
+  //"foundation/components/joyride",
+  //"foundation/components/keystrokes",
+  //"foundation/components/labels",
+  //"foundation/components/magellan",
+  //"foundation/components/orbit",
+  ////"foundation/components/pagination",
+  ////"foundation/components/panels",
+  //"foundation/components/pricing-tables",
+  //"foundation/components/progress-bars",
+  ////"foundation/components/reveal",
+  ////"foundation/components/side-nav",
+  //"foundation/components/split-buttons",
+  //////////"foundation/components/sub-nav",
+  //"foundation/components/switch",
+  "foundation/components/tables",
+  ////"foundation/components/tabs",
+  //"foundation/components/thumbs",
+  //"foundation/components/tooltips",
+  //"foundation/components/tabs",
+  //"foundation/components/offcanvas", //Needed to import type
+  "foundation/components/type", //Needed to import type
+  "foundation/components/top-bar", //Needed to import type
+  "foundation/components/visibility";
 
+
+@import "quotes", "buy-buttons";
 
 html { 
   //background: url(http://563f8e56373163a3565b-ff036a63fe4db1f0ce81564f86905acf.r71.cf1.rackcdn.com/springmorning_2100x.jpg) no-repeat center center fixed; 
@@ -15,6 +54,13 @@ background: url(/assets/img/bg-street-2278x1200.jpg) no-repeat center center fix
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+.hidden {
+    display: none;
+}
+
+.unhidden {
+    display: block;
 }
 
 body {
@@ -38,6 +84,26 @@ body {
 .page-layout {
   padding-top:2em;
 }
+
+h5 {
+  margin-top: 3em;
+}
+.event, h6 {
+  margin-top: 1em;
+}
+h4 {margin-bottom: 0;}
+.ml {
+  margin-left: .5em;
+}
+body.home .address {
+  clear: both;
+  float: left;
+}
+.event span, span {
+  font-family: Georgia;
+}
+
+
 
 @mixin color-ease {
 
@@ -170,33 +236,6 @@ header h1 a:hover {
   border-bottom-left-radius:3px;
 }
 
-#reviews blockquote {
-  //targeting reviews below the book
-  margin-top: 2.5rem;
-}
-#reviews blockquote footer{
-  //targeting reviews below the book
-  margin-bottom: 2.5rem;
-}
-
-blockquote, blockquote p {
-
-  line-height:1.6;
-  font-size: 1.2rem;
-  padding: 0 2em 0 2em;
-  color: $primary-color;
-  border-left:none;
-}
-
-
-blockquote footer {
-font-size:.8rem;
-padding-bottom:.75rem;
-//text-align:left;
-text-indent: 3rem;
-padding-left:2em;
-
-}
 footer li{
   font-size: rem-calc(12);
   font-family: $sans-font-family;

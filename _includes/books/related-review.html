@@ -1,11 +1,11 @@
 {% assign count = '0' %}
 {% assign show_count = {{include.show}} %}
-  {% for post in site.categories.reviews %}  
-    {% if page.name == post.related_book %}
-    {% if  post.featured == true %}
+  {% for review in site.data.reviews %}  
+    {% if page.name == review.book %}
+    {% if  review.featured == true %}
       {% capture count %}{{ count | plus: '1' }}{% endcapture %}
       <div {% if count > show_count %}style="display:none;"{% endif %}>
-        {% include format-reviews.html %}
+        {% include books/format-reviews.html %}
       </div>
     {% endif %}
     {% endif %}

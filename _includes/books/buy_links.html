@@ -1,20 +1,10 @@
-<script type="text/javascript">
-  function toggleShowHide()
-   { //TODO: THIS ID SHOULD BE UNIQUE
-      var theDiv = document.getElementById('buy-buttons');
-        if(theDiv.style.display == 'none') {
-            theDiv.style.display = "block";
-        }
-        else{
-              theDiv.style.display = "none";
-        }
-   }
-</script>
 
 
 {% if page.isbn %}
-<button class="pure-buttonTK buttonTK tiny radius" onclick="toggleShowHide()">Buy <em>{{page.title}}</em></button>
-  <div id="buy-buttons" class="list-block" style="display:block;">
+
+<button class="pure-buttonTK button tiny radius" onclick="javascript:unhide('buy-{{page.isbn}}');">Buy <em>{{page.title}}</em></button>
+
+  <div id="buy-{{page.isbn}}" class="buy-buttons list-block hiddenTK" style="display:none;">
     <ul class="buy-retailers no-bullet">
       <div id='isbn10_{{ page.isbn }}'></div><!--  pulls in 10 digit ASIN for amazon from script -->
   <li>
