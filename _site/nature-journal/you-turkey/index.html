@@ -43,7 +43,7 @@
 
 
     </head>
-<body class="nature-journalnature-journal">
+<body class="nature-journaljournal">
 	<header class="row">
 		<div class="small-12 medium-12 large-12 columns">
 			<h1>
@@ -64,41 +64,53 @@
   <section class="top-bar-section">
     <!-- Right Nav Section -->
     <ul class="">
-      <li id="menu-item-440" class="menu-item  menu-item-440">
+      <li class="menu-item ">
         <a href="/">Home</a>
       </li>
 
 
       
-      <li id="menu-item-438" class="menu-item menu-item-438">
+      <li class="menu-item ">
         <a href="/books">Books</a>
       </li>
       
-      <li id="menu-item-458" class="menu-item menu-item-458">
-        <a href="/writing/">Writings</a>
+ 
+      
+      <li class="menu-item ">
+        <a href="/writing">Writings</a>
       </li>
       
-      <li id="menu-item-459" class="menu-item menu-item-459">
+ 
+      
+      <li class="menu-item ">
         <a href="/media">Media</a>
       </li>
       
-      <li id="menu-item-457" class="menu-item current-menu-item menu-item-457">
-        <a href="/events">Appearances</a>
+ 
+      
+      <li class="menu-item ">
+        <a href="/books">Appearances</a>
       </li>
       
-
-<li id="menu-item-440" class="menu-item  menu-item-440">
-        <a href="/about-the-author/">Bio</a>
+ 
+      
+      <li class="menu-item ">
+        <a href="/about-the-author">Bio</a>
       </li>
       
-
-      <li id="menu-item-436" class="menu-item  current_page_parent menu-item-436 active">
-        <a href="/nature-journal/">Journal</a>
+ 
+      
+      <li class="menu-item ">
+        <a href="/journal">Journal</a>
       </li>
-
-<li id="menu-item-440" class="menu-item  menu-item-440">
-        <a href="/contact/">Contact</a>
+      
+ 
+      
+      <li class="menu-item ">
+        <a href="/contact">Contact</a>
       </li>
+      
+      
 
 
       </ul>
@@ -205,6 +217,21 @@
       $(document).foundation();
       var doc = document.documentElement;
       doc.setAttribute('data-useragent', navigator.userAgent);
+
+
+$("h1 a").each(function() {
+  //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
+  var wordArray = $(this).text().split(" ");
+  if (wordArray.length > 1) {
+    wordArray[wordArray.length-2] += "&nbsp;" + wordArray[wordArray.length-1];
+    wordArray.pop();
+    $(this).html(wordArray.join(" "));
+  }
+});
+
+
+
+
     </script>
 
 <script src="/assets/js/underscore-min.js"></script>

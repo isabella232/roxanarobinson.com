@@ -9,41 +9,17 @@
   <section class="top-bar-section">
     <!-- Right Nav Section -->
     <ul class="">
-      <li id="menu-item-440" class="menu-item  menu-item-440{% if page.url == '' %} active{% endif %}">
+      <li class="menu-item {% if page.url == '' %} active{% endif %}">
         <a href="{{site.baseurl}}/">Home</a>
       </li>
 
-
+{% for links in site.data.menu %}
       
-      <li id="menu-item-438" class="menu-item menu-item-438{% if page.url contains 'books' %} active{% endif %}">
-        <a href="{{site.baseurl}}/books">Books</a>
-      </li>
-      
-      <li id="menu-item-458" class="menu-item menu-item-458{% if page.url contains 'writing' %} active{% endif %}">
-        <a href="{{site.baseurl}}/writing/">Writings</a>
+      <li class="menu-item {% if page.url contains '/{{links.slug}}' %} active{% endif %}">
+        <a href="{{site.baseurl}}/{{links.slug}}">{{links.name}}</a>
       </li>
       
-      <li id="menu-item-459" class="menu-item menu-item-459{% if page.url contains 'media' %} active{% endif %}">
-        <a href="{{site.baseurl}}/media">Media</a>
-      </li>
-      
-      <li id="menu-item-457" class="menu-item current-menu-item menu-item-457{% if page.url contains 'events'  %} active{% endif %}">
-        <a href="{{site.baseurl}}/events">Appearances</a>
-      </li>
-      
-
-<li id="menu-item-440" class="menu-item  menu-item-440{% if page.url contains 'about' %} active{% endif %}">
-        <a href="{{site.baseurl}}/about-the-author/">Bio</a>
-      </li>
-      
-
-      <li id="menu-item-436" class="menu-item  current_page_parent menu-item-436{% if page.url contains 'nature-journal' %} active{% endif %}">
-        <a href="{{site.baseurl}}/nature-journal/">Journal</a>
-      </li>
-
-<li id="menu-item-440" class="menu-item  menu-item-440{% if page.url contains 'about' %} active{% endif %}">
-        <a href="{{site.baseurl}}/contact/">Contact</a>
-      </li>
+ {% endfor %}     
 
 
       </ul>

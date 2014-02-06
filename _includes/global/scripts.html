@@ -5,6 +5,21 @@
       $(document).foundation();
       var doc = document.documentElement;
       doc.setAttribute('data-useragent', navigator.userAgent);
+
+
+$("h1 a").each(function() {
+  //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
+  var wordArray = $(this).text().split(" ");
+  if (wordArray.length > 1) {
+    wordArray[wordArray.length-2] += "&nbsp;" + wordArray[wordArray.length-1];
+    wordArray.pop();
+    $(this).html(wordArray.join(" "));
+  }
+});
+
+
+
+
     </script>
 {% if page.url == "/sitemap/" %}
   {% include scripts/list.js.html  %}
