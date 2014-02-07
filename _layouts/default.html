@@ -1,5 +1,5 @@
 {% include head.html %}
-<body class="{{page.category | replace: ' ','-' | downcase}}{{page.categories}}">
+<body class="{{page.category | replace: ' ','-' | downcase}}{{page.categories | first}}">
 	<header class="row">
 		<div class="small-12 medium-12 large-12 columns">
 			<h1>
