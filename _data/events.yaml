@@ -1,4 +1,27 @@
 -
+  title: Wesleyan Writers Conference
+  event-venue: 
+  event-address: 
+  event-city-state: Middletown, CT
+  event-zip:
+  event-website: http://www.wesleyan.edu/writing/conference/index.html
+  event-allday: true
+  event-start: 2014-06-11 18:00:00
+  event-end: 2014-06-15 20:30:00
+
+-
+  title: Tucson Festival of Books
+  event-venue: (multiple events and venues)
+  event-address: 
+  event-city-state: Tuscon, AZ
+  event-zip:
+  event-website: http://tucsonfestivalofbooks.org/ 
+  event-allday: true
+  event-start: 2014-03-14 18:00:00
+  event-end: 2014-03-16 20:30:00
+  summary: "Novelists on Loss and Love (Saturday, 11:30am); Fiction: Worlds In Transition (Sunday, 11:30am); Fiction: The Wreckage of War (Sunday, 2:30pm)"
+  
+-
   title: Brown Bag Luncheon Reading
   event-allday: false
   event-start: 2013-07-31 12:00:00
@@ -141,19 +164,6 @@
   event-city-state: Boca Grande, FL
   event-zip:
   event-website:  
-
--
-  title: Tucson Festival of Books
-  event-venue: (multiple events and venues)
-  event-address: 
-  event-city-state: Tuscon, AZ
-  event-zip:
-  event-website: http://tucsonfestivalofbooks.org/ 
-  event-allday: true
-  event-start: 2014-03-14 18:00:00
-  event-end: 2014-03-16 20:30:00
-  summary: "Novelists on Loss and Love - Why are loss and love such popular themes for writers to explore? Join these three novelists as they share their characters navigating friendships, memories, crisis and life in general."
-
 
 -
   title: Literary Festival

@@ -241,23 +241,6 @@
     ,
     
   {
-    "name"    : "Tucson Festival of Books",
-    "allday"  : "true",
-    "start"   : "2014-03-14 18:00:00 UTC",
-    "end"     : "2014-03-16 20:30:00 UTC",
-    "starttime"   : "06:00 pm",
-    "endtime"     : "08:30 pm",
-    "venue"   : "(multiple events and venues)",
-    "address" : "",
-    "citystate" : "Tuscon, AZ", 
-    "website" : "http://tucsonfestivalofbooks.org/",
-    "url"     : "",
-    "summary" : "Novelists on Loss and Love - Why are loss and love such popular themes for writers to explore? Join these three novelists as they share their characters navigating friendships, memories, crisis and life in general."
-  }
-
-    ,
-    
-  {
     "name"    : "Reading",
     "allday"  : "true",
     "start"   : "2014-02-06 18:00:00 UTC",
@@ -472,6 +455,40 @@
     "address" : "5 Monument Square",
     "citystate" : "Portland, Maine", 
     "website" : "",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "Tucson Festival of Books",
+    "allday"  : "true",
+    "start"   : "2014-03-14 18:00:00 UTC",
+    "end"     : "2014-03-16 20:30:00 UTC",
+    "starttime"   : "06:00 pm",
+    "endtime"     : "08:30 pm",
+    "venue"   : "(multiple events and venues)",
+    "address" : "",
+    "citystate" : "Tuscon, AZ", 
+    "website" : "http://tucsonfestivalofbooks.org/",
+    "url"     : "",
+    "summary" : "Novelists on Loss and Love (Saturday, 11:30am); Fiction: Worlds In Transition (Sunday, 11:30am); Fiction: The Wreckage of War (Sunday, 2:30pm)"
+  }
+
+    ,
+    
+  {
+    "name"    : "Wesleyan Writers Conference",
+    "allday"  : "true",
+    "start"   : "2014-06-11 18:00:00 UTC",
+    "end"     : "2014-06-15 20:30:00 UTC",
+    "starttime"   : "06:00 pm",
+    "endtime"     : "08:30 pm",
+    "venue"   : "",
+    "address" : "",
+    "citystate" : "Middletown, CT", 
+    "website" : "http://www.wesleyan.edu/writing/conference/index.html",
     "url"     : "",
     "summary" : ""
   }
