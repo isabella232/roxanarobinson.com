@@ -28,4 +28,4 @@ Alison Granucci, Blue Flower Arts <alison@blueflowerarts.com>
 
 
 ### Get in Touch
-For Book Clubs: Roxana would be happy to meet with your book club in person, if she's in your area, or via Skype, iChat, or on the phone.
+If you’d like to contact me directly, click here.  Send me a message, or invite me to visit your book group, in person or by skype.
