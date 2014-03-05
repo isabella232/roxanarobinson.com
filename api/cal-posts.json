@@ -7,15 +7,15 @@ layout: none
     {% if first == true %}{% assign first = false %}{% endif %}
   {
     "name"    : "{{ post.title }}",
-    "allday"  : "{{ post.event-allday }}",
-    "start"   : "{{ post.event-start }}",
-    "end"     : "{{ post.event-end }}",
-    "starttime"   : "{{ post.event-start | date: "%I:%M %p"  | downcase }}",
-    "endtime"     : "{{ post.event-end | date: "%I:%M %p" | downcase }}",
-    "venue"   : "{{ post.event-venue }}",
-    "address" : "{{ post.event-address }}",
-    "citystate" : "{{ post.event-city-state }}", 
-    "website" : "{{ post.event-website }}",
+    "allday"  : "{{ post.allday }}",
+    "start"   : "{{ post.start }}",
+    "end"     : "{{ post.end }}",
+    "starttime"   : "{{ post.start | date: "%I:%M %p"  | downcase }}",
+    "endtime"     : "{{ post.end | date: "%I:%M %p" | downcase }}",
+    "venue"   : "{{ post.venue }}",
+    "address" : "{{ post.address }}",
+    "citystate" : "{{ post.city-state }}", 
+    "website" : "{{ post.website }}",
     "url"     : "{{ post.url }}",
     "summary" : "{{ post.summary | strip_html }}"
   }
