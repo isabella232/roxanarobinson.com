@@ -2,6 +2,7 @@
 title: 'BBC Names "Sparta" one of 2013's Best Books'
 layout: article
 category: books
+published: false
 ---
 Describing the book as "harrowing" and "palpable," the BBC has listed *Sparta* as one of 2013's best books. 
 
