@@ -1,5 +1,5 @@
 ---
-title: 'Georgia O&#8217;Keefe'
+title: "Georgia O’Keeffe: A Life"
 layout: book
 permalink: /books/georgia-okeefe/
 name: georgia-okeefe
