@@ -37,6 +37,13 @@
   publication: NPR
   category: "Book Reviews"
 
+-
+  title: "Review of *Someone*, latest novel by Alice McDermott"
+  date: 2013-09-09
+  publication: "Washington Post"
+  link_to_original: "http://articles.washingtonpost.com/2013-09-09/entertainment/41903940_1_novel-marie-neighborhood"
+  category: "Book Reviews"
+
 - 
   title: "The Dark Heart of James Salter"
   content: "“We no longer require compassion from the literature we admire. We admire writers who celebrate irony, disdain, contempt.”"
