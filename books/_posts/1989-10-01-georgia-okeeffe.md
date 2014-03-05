@@ -16,8 +16,6 @@ isbn_kindle:
   - 
 meta_data:
   - 
-subtitle:
-  - A Life
 short_description:
   - "<em>The New York Times Book Review</em> named this richly detailed and moving biography of the 20th century's leading woman artist a Notable Book of the Year."
 synopsis:
