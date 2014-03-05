@@ -306,6 +306,27 @@ td.title p {
 				  </tr>
 				
 					<tr>
+						<td class="category" width="15%">Book Reviews</td>
+						<td class="title" width="50%">
+							"Review of 'Someone', latest novel by Alice McDermott"
+							
+						</td>
+						<td class="date" width="15%">
+							2013-Sep-09
+						</td>
+						
+							<td class="publication" width="20%">
+								<a href="http://articles.washingtonpost.com/2013-09-09/entertainment/41903940_1_novel-marie-neighborhood">
+									<em>
+										Washington Post
+									</em>
+								</a>
+								<a href="http://articles.washingtonpost.com/2013-09-09/entertainment/41903940_1_novel-marie-neighborhood" class="ss-redirect"></a>
+							</td>
+	   				
+				  </tr>
+				
+					<tr>
 						<td class="category" width="15%">Essays</td>
 						<td class="title" width="50%">
 							"The Dark Heart of James Salter"
@@ -363,7 +384,7 @@ td.title p {
 							
 						</td>
 						<td class="date" width="15%">
-							2013-Apr-21
+							2002-Apr-21
 						</td>
 						
 							<td class="publication" width="20%">
@@ -4438,7 +4459,7 @@ if(event.name) {
           }
 
           if(event.venue) {
-            $('<span class="p-location location h-card vcard"><strong>' + event.venue + '</strong> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar');
+            $('<br /><span class="p-location location h-card vcard"><strong>' + event.venue + '</strong> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar');
           }
       
           if(event.summary) {
@@ -4446,7 +4467,7 @@ if(event.name) {
             }
 
           if(event.website) {
-            $('<a href="' + event.website + '" class="small ml">website</a>').appendTo('#calendar');
+            $('<a href="' + event.website + '" class="ml">website</a>').appendTo('#calendar');
           }
         
         $('</div>').appendTo('#calendar');
@@ -4494,7 +4515,7 @@ if(event.name) {
           }
 
           if(event.venue) {
-            $('<span class="p-location location h-card vcard"><strong>' + event.venue + '</strong> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar-past');
+            $('<br /><span class="p-location location h-card vcard"><strong>' + event.venue + '</strong> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar-past');
           }
       
           if(event.summary) {
@@ -4502,7 +4523,7 @@ if(event.name) {
             }
 
           if(event.website) {
-            $('<a href="' + event.website + '" class="small ml">website</a>').appendTo('#calendar-past');
+            $('<a href="' + event.website + '" class="ml">website</a>').appendTo('#calendar-past');
           }
         
         $('</div>').appendTo('#calendar-past');

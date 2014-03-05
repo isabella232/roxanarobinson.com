@@ -547,7 +547,7 @@ if(event.name) {
           }
 
           if(event.venue) {
-            $('<span class="p-location location h-card vcard"><strong>' + event.venue + '</strong> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar');
+            $('<br /><span class="p-location location h-card vcard"><strong>' + event.venue + '</strong> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar');
           }
       
           if(event.summary) {
@@ -555,7 +555,7 @@ if(event.name) {
             }
 
           if(event.website) {
-            $('<a href="' + event.website + '" class="small ml">website</a>').appendTo('#calendar');
+            $('<a href="' + event.website + '" class="ml">website</a>').appendTo('#calendar');
           }
         
         $('</div>').appendTo('#calendar');
@@ -603,7 +603,7 @@ if(event.name) {
           }
 
           if(event.venue) {
-            $('<span class="p-location location h-card vcard"><strong>' + event.venue + '</strong> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar-past');
+            $('<br /><span class="p-location location h-card vcard"><strong>' + event.venue + '</strong> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar-past');
           }
       
           if(event.summary) {
@@ -611,7 +611,7 @@ if(event.name) {
             }
 
           if(event.website) {
-            $('<a href="' + event.website + '" class="small ml">website</a>').appendTo('#calendar-past');
+            $('<a href="' + event.website + '" class="ml">website</a>').appendTo('#calendar-past');
           }
         
         $('</div>').appendTo('#calendar-past');

@@ -31,7 +31,7 @@
     "citystate" : "Chicago, IL", 
     "website" : "",
     "url"     : "",
-    "summary" : "Conversation with Elizabeth Taylor, Literary Editor of the *Chicago Tribune*."
+    "summary" : "Conversation with Elizabeth Taylor, Literary Editor of the 'Chicago Tribune'."
   }
 
     ,
@@ -71,7 +71,7 @@
     ,
     
   {
-    "name"    : "Reading from *Sparta*",
+    "name"    : "Reading from “Sparta”",
     "allday"  : "false",
     "start"   : "2013-06-13 19:00:00 UTC",
     "end"     : "2013-06-13 20:00:00 UTC",
@@ -173,7 +173,7 @@
     ,
     
   {
-    "name"    : "Reading from *Sparta*",
+    "name"    : "Reading from “Sparta”",
     "allday"  : "false",
     "start"   : "2013-07-16 17:30:00 UTC",
     "end"     : "2013-07-16 18:30:00 UTC",
@@ -190,7 +190,7 @@
     ,
     
   {
-    "name"    : "Reading from *Sparta*",
+    "name"    : "Reading from “Sparta”",
     "allday"  : "false",
     "start"   : "2013-07-22 17:00:00 UTC",
     "end"     : "2013-07-22 18:00:00 UTC",
@@ -207,7 +207,7 @@
     ,
     
   {
-    "name"    : "Reading from *Sparta*",
+    "name"    : "Reading from “Sparta”",
     "allday"  : "false",
     "start"   : "2013-07-24 18:00:00 UTC",
     "end"     : "2013-07-24 19:00:00 UTC",
@@ -470,7 +470,7 @@
     "endtime"     : "08:30 pm",
     "venue"   : "",
     "address" : "",
-    "citystate" : "Tuscon, AZ", 
+    "citystate" : "Tucson, AZ", 
     "website" : "http://tucsonfestivalofbooks.org/",
     "url"     : "",
     "summary" : "Novelists on Loss and Love (Saturday, 11:30am); Fiction: Worlds In Transition (Sunday, 11:30am); Fiction: The Wreckage of War (Sunday, 2:30pm)"
