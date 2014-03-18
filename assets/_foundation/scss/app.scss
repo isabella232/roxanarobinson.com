@@ -1,39 +1,13 @@
   @import "settings";
 //@import "../bower_components/foundation/scss/foundation";
 @import
-  //"foundation/components/accordion",
-  //"foundation/components/alert-boxes",
-  //"foundation/components/block-grid",
-  //"foundation/components/breadcrumbs",
   "foundation/components/button-groups",
   "foundation/components/buttons",
   "foundation/components/clearing",
-  //"foundation/components/dropdown",
-  //"foundation/components/dropdown-buttons",
-  //"foundation/components/flex-video",
   "foundation/components/forms",
   "foundation/components/grid",
   "foundation/components/inline-lists",
-  //"foundation/components/joyride",
-  //"foundation/components/keystrokes",
-  //"foundation/components/labels",
-  //"foundation/components/magellan",
-  //"foundation/components/orbit",
-  ////"foundation/components/pagination",
-  ////"foundation/components/panels",
-  //"foundation/components/pricing-tables",
-  //"foundation/components/progress-bars",
-  ////"foundation/components/reveal",
-  ////"foundation/components/side-nav",
-  //"foundation/components/split-buttons",
-  //////////"foundation/components/sub-nav",
-  //"foundation/components/switch",
   "foundation/components/tables",
-  ////"foundation/components/tabs",
-  //"foundation/components/thumbs",
-  //"foundation/components/tooltips",
-  //"foundation/components/tabs",
-  //"foundation/components/offcanvas", //Needed to import type
   "foundation/components/type", //Needed to import type
   "foundation/components/top-bar", //Needed to import type
   "foundation/components/visibility";
@@ -43,13 +17,13 @@
 
 //@import "../../../assets/webfonts/ss-symbolicons-block.scss";
 
-html { 
-  //background: url(http://563f8e56373163a3565b-ff036a63fe4db1f0ce81564f86905acf.r71.cf1.rackcdn.com/springmorning_2100x.jpg) no-repeat center center fixed; 
-  //background: url(/assets/img/background-leaves-full.JPG) no-repeat center center fixed; 
-  //background: url(http://31.media.tumblr.com/44445713d1ea561f333795487720afc7/tumblr_ms9mywAOPn1st5lhmo1_1280.jpg) no-repeat center center fixed; 
-//  background: url(http://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.r92.cf1.rackcdn.com/unsplash_52b2cfb6647f6_1.JPG) no-repeat center center fixed; 
+html {
+  //background: url(http://563f8e56373163a3565b-ff036a63fe4db1f0ce81564f86905acf.r71.cf1.rackcdn.com/springmorning_2100x.jpg) no-repeat center center fixed;
+  //background: url(/assets/img/background-leaves-full.JPG) no-repeat center center fixed;
+  //background: url(http://31.media.tumblr.com/44445713d1ea561f333795487720afc7/tumblr_ms9mywAOPn1st5lhmo1_1280.jpg) no-repeat center center fixed;
+//  background: url(http://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.r92.cf1.rackcdn.com/unsplash_52b2cfb6647f6_1.JPG) no-repeat center center fixed;
 
-background: url(/assets/img/bg-street-2278x1200.jpg) no-repeat center center fixed; 
+background: url(/assets/img/bg-street-2278x1200.jpg) no-repeat center center fixed;
 
 
   -webkit-background-size: cover;
@@ -178,9 +152,9 @@ header {
     //background-position: center center;
     background-color: rgba(43,125,165,0.8);
     background-color: rgba(35,110,148,0.8);
-  
+
 }
-.button-group > .not-active { 
+.button-group > .not-active {
     background-color: lighten($primary-color, 3%);
 }
 .button-active {
@@ -223,14 +197,14 @@ color: $primary-color;
 
 .entry-content img:first-child {
   float: left;
-  margin: .5rem 1rem 0 0; 
+  margin: .5rem 1rem 0 0;
   @include image-shadow;
 }
 
 header h1 a:hover {
   color: darken(#FFF, 14%);
-  @include color-ease; 
-  
+  @include color-ease;
+
 }
 
 img.cover {
@@ -241,7 +215,7 @@ body.books img.cover {
   margin-top: 22px;
 }
 
-//ARTICLES 
+//ARTICLES
 
 .main-section header {
   //override header decoration for article headings because we styled header
@@ -267,7 +241,7 @@ footer li{
   display: table; margin: 0 auto;
 }
 .top-bar-section ul li {
-  display: table-cell; 
+  display: table-cell;
 }
 .top-bar-section ul li {
   text-transform:uppercase;
@@ -300,7 +274,7 @@ footer li{
 blockquote, blockquote p {
 
   padding: 0 1em 0 1em;
-  
+
 }
 
 .top-bar-section {
@@ -311,14 +285,14 @@ blockquote, blockquote p {
   display: block;
 }
 
-html { 
-  background: none; 
+html {
+  background: none;
   background-color: #FFF;
 }
 
 .entry-content img:first-child {
   float: none;
-  margin: 10px; 
+  margin: 10px;
 }
 
 
@@ -330,10 +304,10 @@ html {
 //=========== SHARING ====================
 
 .addthis_toolbox {
-  float:right !important;
+//  float:right !important;
 }
 
-.addthis_32x32_style .dummy .at300bs, .addthis_32x32_style .at300bs, .addthis_32x32_style .at15t, 
+.addthis_32x32_style .dummy .at300bs, .addthis_32x32_style .at300bs, .addthis_32x32_style .at15t,
 .addthis_toolbox img {
 
 filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale") !important; /* Firefox 10+, Firefox on Android */
@@ -343,21 +317,9 @@ filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><
 
 }
 
-.addthis_32x32_style .dummy .at300bs:hover, .addthis_32x32_style .at300bs:hover, .addthis_32x32_style .at15t:hover, 
+.addthis_32x32_style .dummy .at300bs:hover, .addthis_32x32_style .at300bs:hover, .addthis_32x32_style .at15t:hover,
 .addthis_toolbox img {
 
     filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0\'/></filter></svg>#grayscale") !important;
     -webkit-filter: grayscale(0%) !important;
 }
-
-
-
-
-
-
-
-
-
-
-
-
