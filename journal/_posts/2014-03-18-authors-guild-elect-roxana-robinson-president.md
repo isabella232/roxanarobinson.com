@@ -7,6 +7,6 @@ category: News
 
 > “As writers, we are living in very interesting times. The challenges are huge,” Ms. Robinson said after her election, “and I am thrilled to be a part of it all. We’re going to move ahead, we’re going to extend our membership, we’re going to continue to offer practical help and advice and a sense of community to our writers, and we’re going to continue to support the craft of writing.”
 
-Read the announcement in its entirety at [The Authors Guild](http://www.authorsguild.org/general/authors-guild-members-elect-roxana-robinson-president/)
+Read the announcement in its entirety at [the Authors Guild](http://www.authorsguild.org/general/authors-guild-members-elect-roxana-robinson-president/)
 
 Photo credit: Luis Garcia
