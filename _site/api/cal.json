@@ -514,7 +514,7 @@
     
   {
     "name"    : "Adrian Bonbenberger - War Lit Panel",
-    "allday"  : "",
+    "allday"  : "true",
     "start"   : "2014-04-29",
     "end"     : "",
     "starttime"   : "12:00 am",
