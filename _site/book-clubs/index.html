@@ -303,7 +303,7 @@ if(event.name) {
           }
 
           if(event.venue) {
-            $('<br /><span class="p-location location h-card vcard"><strong>' + event.venue + '</strong> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar');
+            $('<br /><span class="p-location location h-card vcard"><span>' + event.venue + '</span> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar');
           }
 
           if(event.summary) {
@@ -359,7 +359,7 @@ if(event.name) {
           }
 
           if(event.venue) {
-            $('<br /><span class="p-location location h-card vcard"><strong>' + event.venue + '</strong> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar-past');
+            $('<br /><span class="p-location location h-card vcard"><span>' + event.venue + '</span> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar-past');
           }
 
           if(event.summary) {
