@@ -61,14 +61,6 @@
   category: Essays
   
 - 
-  title: "Death and Nightingales"
-  content: "On Eugene McCabe's, *Death and Nightingales*"
-  date: 2002-04-21
-  link_to_original: 
-  publication: "The Washington Post Book World"
-  category: "Book Reviews"
-
-- 
   title: "God Calls"
   content: "Culture Blog"
   date: 2013-04-04
@@ -821,6 +813,14 @@
   publication: "The Washington Post"
   category: "Book Reviews"
   title: "The Last Summer"
+
+- 
+  title: "Death and Nightingales"
+  content: "On Eugene McCabe's, *Death and Nightingales*"
+  date: 2002-04-21
+  link_to_original: 
+  publication: "The Washington Post Book World"
+  category: "Book Reviews"
 
 - 
   content: "edited by Robert Kahn (The Little Bookroom, New York, 2002)"
