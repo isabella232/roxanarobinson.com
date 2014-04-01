@@ -3,7 +3,8 @@ title: This Is My Daughter
 layout: book
 permalink: /books/this-is-my-daughter/
 name: this-is-my-daughter
-cover_image: 9780684864365-220x342.jpg
+# cover_image: 9780684864365-220x342.jpg
+cover_image: my_daughter.jpg
 publisher:
   - Touchstone
 isbn:
