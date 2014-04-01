@@ -493,4 +493,72 @@
     "summary" : ""
   }
 
+    ,
+    
+  {
+    "name"    : "Berkshire Festival of Women Writers",
+    "allday"  : "",
+    "start"   : "2014-03-21 19:30:00 UTC",
+    "end"     : "",
+    "starttime"   : "07:30 pm",
+    "endtime"     : "",
+    "venue"   : "Lichtenstein Arts Center",
+    "address" : "Renne Avenue",
+    "citystate" : "Pittsfield Mass.", 
+    "website" : "",
+    "url"     : "",
+    "summary" : "Panel on transgendered writing at Berkshire Women Writers Festival."
+  }
+
+    ,
+    
+  {
+    "name"    : "Adrian Bonbenberger - War Lit Panel",
+    "allday"  : "",
+    "start"   : "2014-04-29",
+    "end"     : "",
+    "starttime"   : "12:00 am",
+    "endtime"     : "",
+    "venue"   : "Strand Bookstore",
+    "address" : "828 Broadway, New York",
+    "citystate" : "New York", 
+    "website" : "",
+    "url"     : "",
+    "summary" : ""
+  }
+
+    ,
+    
+  {
+    "name"    : "War Lit Panel",
+    "allday"  : "",
+    "start"   : "2014-05-01 19:00:00 UTC",
+    "end"     : "",
+    "starttime"   : "07:00 pm",
+    "endtime"     : "",
+    "venue"   : "Wollman Auditorium",
+    "address" : "65 West 12 Street",
+    "citystate" : "New York, NY", 
+    "website" : "",
+    "url"     : "",
+    "summary" : "PEN World Voices Festival"
+  }
+
+    ,
+    
+  {
+    "name"    : "Reading",
+    "allday"  : "true",
+    "start"   : "2014-07-10",
+    "end"     : "",
+    "starttime"   : "12:00 am",
+    "endtime"     : "",
+    "venue"   : "Jesop Library",
+    "address" : "",
+    "citystate" : "Bar Harbor, Maine", 
+    "website" : "",
+    "url"     : "",
+    "summary" : ""
+  }
+
 ]}
