@@ -1,14 +1,3 @@
-baseurl: http://rrobinson.pubspringdev1.com
-sitename: Roxana Robinson
-permalink: pretty
-future: true   # This will tell jekyll to not display future posts
-markdown: redcarpet
-redcarpet:
-  extensions: ['autolink', 'smart']
-exclude: ['README.md','Gemfile','links.jsonp', 'assets/scss', 'assets/sass', 'CNAME']
-include: ['_pages']
-relative_permalinks: false
-production: false
 prose:
   rooturl: '_posts'
   siteurl: 'pubspringdev1.com'
