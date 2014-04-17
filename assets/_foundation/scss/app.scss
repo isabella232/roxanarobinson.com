@@ -1,193 +1,186 @@
-  @import "settings";
+@import "settings";
 //@import "../bower_components/foundation/scss/foundation";
 @import
-  "foundation/components/button-groups",
-  "foundation/components/buttons",
-  "foundation/components/clearing",
-  "foundation/components/forms",
-  "foundation/components/grid",
-  "foundation/components/inline-lists",
-  "foundation/components/tables",
-  "foundation/components/type", //Needed to import type
-  "foundation/components/top-bar", //Needed to import type
-  "foundation/components/visibility";
+"foundation/components/button-groups",
+"foundation/components/buttons",
+"foundation/components/clearing",
+"foundation/components/forms",
+"foundation/components/grid",
+"foundation/components/inline-lists",
+"foundation/components/tables",
+"foundation/components/type", //Needed to import type
+"foundation/components/top-bar", //Needed to import type
+"foundation/components/visibility";
 
-
-@import "quotes", "buy-buttons";
+@import "quotes", "buy-buttons", "font-icons";
 
 //@import "../../../assets/webfonts/ss-symbolicons-block.scss";
 
 html {
-  //background: url(http://563f8e56373163a3565b-ff036a63fe4db1f0ce81564f86905acf.r71.cf1.rackcdn.com/springmorning_2100x.jpg) no-repeat center center fixed;
-  //background: url(/assets/img/background-leaves-full.JPG) no-repeat center center fixed;
-  //background: url(http://31.media.tumblr.com/44445713d1ea561f333795487720afc7/tumblr_ms9mywAOPn1st5lhmo1_1280.jpg) no-repeat center center fixed;
-//  background: url(http://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.r92.cf1.rackcdn.com/unsplash_52b2cfb6647f6_1.JPG) no-repeat center center fixed;
-
-background: url(/assets/img/bg-street-2278x1200.jpg) no-repeat center center fixed;
-
-
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url(/assets/img/bg-street-2278x1200.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
+
 .hidden {
-    display: none;
+display: none;
 }
 
 .unhidden {
-    display: block;
+display: block;
 }
 
 body {
-  background:none ;
+background:none ;
 }
 .small {
-    font-size: $small-font-size;
+font-size: $small-font-size;
 }
 
 .large {
-  font-size: $paragraph-font-size * 1.1;
+font-size: $paragraph-font-size * 1.1;
 }
 
 /// Style the calendar a bit differently
 
 #calendar, #calendar-past {
-  //font-family: $sans-font-family;
-  font-size: $small-font-size * 1.1;
-  line-height:1.3;
+//font-family: $sans-font-family;
+font-size: $small-font-size * 1.1;
+line-height:1.3;
 }
 .page-layout {
-  padding-top:2em;
+padding-top:2em;
 }
 
 h5 {
-  margin-top: 3em;
+margin-top: 3em;
 }
 .event, h6 {
-  margin-top: 1em;
+margin-top: 1em;
 }
 h4 {margin-bottom: 0;}
 .ml {
-  margin-left: .5em;
+margin-left: .5em;
 }
 body.home .address {
-  clear: both;
-  float: left;
+clear: both;
+float: left;
 }
 .event span, span {
-  font-family: Georgia;
+font-family: Georgia;
 }
 
 
 
 @mixin color-ease {
 
-  -webkit-transition:color 1s ease-in;
-  -moz-transition:color 1s ease-in;
-  -o-transition:color 1s ease-in;
-  transition:color 1s ease-in;
+-webkit-transition:color 1s ease-in;
+-moz-transition:color 1s ease-in;
+-o-transition:color 1s ease-in;
+transition:color 1s ease-in;
 }
 
 @mixin image-shadow {
 -moz-box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.60);
-  -webkit-box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.60);
-  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.60);
+-webkit-box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.60);
+box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.60);
 }
 .spacer {
-  border-top-style:none;margin-top:6em;
+border-top-style:none;margin-top:6em;
 }
 
 .divider {
-  margin-top:-12px;margin-bottom:0;
+margin-top:-12px;margin-bottom:0;
 }
 
 .white, table {
-  background-color:rgba(255,255,255,0.68);
+background-color:rgba(255,255,255,0.68);
 }
 //TABLES
 td
-  {
+{
 vertical-align:top;
 }
 
 tr {
-  border-bottom:1px solid #666;
-  padding-bottom:2rem;
-  min-height: 50px;
+border-bottom:1px solid #666;
+padding-bottom:2rem;
+min-height: 50px;
 }
 
 td.category, td.date, td.publication {
-  font-size: $small-font-size;
+font-size: $small-font-size;
 }
 
 td.title {
-  font-weight: 500;
+font-weight: 500;
 }
 
 // END
 
 .button, tdTK {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Verdana, Arial, Tahoma, "Lucida Grande", sans-serif;
+font-family: "Open Sans", "Helvetica Neue", Helvetica, Verdana, Arial, Tahoma, "Lucida Grande", sans-serif;
 }
 
 .image-shadow {
-   @include image-shadow;
+@include image-shadow;
 }
 
 .ss-redirect {
-  font-size: rem-calc(10);
+font-size: rem-calc(10);
 }
 .text-large {
-  font-size: 130%;
+font-size: 130%;
 }
 header {
-    text-align: center;
+text-align: center;
 //    background-color:$primary-color;
-    padding-top: 2rem;
-    //background-color: none;
-    //background-image: url(/assets/img/startcluster_380x215v3-150x150.png);
-    //background-repeat: repeat;
-    min-height: 8rem;
-    //background-position: center center;
-    background-color: rgba(43,125,165,0.8);
-    background-color: rgba(35,110,148,0.8);
+padding-top: 2rem;
+//background-color: none;
+//background-image: url(/assets/img/startcluster_380x215v3-150x150.png);
+//background-repeat: repeat;
+min-height: 8rem;
+//background-position: center center;
+background-color: rgba(43,125,165,0.8);
+background-color: rgba(35,110,148,0.8);
 
 }
 .button-group > .not-active {
-    background-color: lighten($primary-color, 3%);
+background-color: lighten($primary-color, 3%);
 }
 .button-active {
 color:#CCC;
 }
 h1, h2, h3, h4 {
-  font-weight: 300;
+font-weight: 300;
 }
 
 header h1 , header h1 a {
-  //Styles the main header in the banner, not page headers
-    color: #FFF;
+//Styles the main header in the banner, not page headers
+color: #FFF;
 }
 
 h4 {
-    color: $primary-color;
+color: $primary-color;
 }
 
 
 .entry-title, .entry-title a {
-  color: $primary-color;
-  font-size: rem-calc(36);
-  //margin-top: 1rem;
+color: $primary-color;
+font-size: rem-calc(36);
+//margin-top: 1rem;
 }
 .listing .entry-title {
-  //give the entries room on the listing page
-  margin-top: 5rem;
+//give the entries room on the listing page
+margin-top: 5rem;
 }
 
 .page-title{
-  //text-transform: uppercase;
-  color: darken($primary-color, 15%);//#2d393e;//#555;//$primary-color;
-  font-size: rem-calc(38);
+//text-transform: uppercase;
+color: darken($primary-color, 15%);//#2d393e;//#555;//$primary-color;
+font-size: rem-calc(38);
 
 }
 
@@ -196,58 +189,58 @@ color: $primary-color;
 }
 
 .entry-content img:first-child {
-  float: left;
-  margin: .5rem 1rem 0 0;
-  @include image-shadow;
+float: left;
+margin: .5rem 1rem 0 0;
+@include image-shadow;
 }
 
 header h1 a:hover {
-  color: darken(#FFF, 14%);
-  @include color-ease;
+color: darken(#FFF, 14%);
+@include color-ease;
 
 }
 
 img.cover {
-  margin-top: 8px;
+margin-top: 8px;
 }
 
 body.books img.cover {
-  margin-top: 22px;
+margin-top: 22px;
 }
 
 //ARTICLES
 
 .main-section header {
-  //override header decoration for article headings because we styled header
-  background: none;
-  margin-bottom: 2.5em;
-  padding-top:0;
-  min-height: 0;
+//override header decoration for article headings because we styled header
+background: none;
+margin-bottom: 2.5em;
+padding-top:0;
+min-height: 0;
 }
 
 .main-section {
-  min-height: 500px;
-  background-color: $body-bg;
-  padding-bottom:4rem;
-  border-bottom-right-radius:3px;
-  border-bottom-left-radius:3px;
+min-height: 500px;
+background-color: $body-bg;
+padding-bottom:4rem;
+border-bottom-right-radius:3px;
+border-bottom-left-radius:3px;
 }
 
 footer li{
-  font-size: rem-calc(12);
-  font-family: $sans-font-family;
+font-size: rem-calc(12);
+font-family: $sans-font-family;
 }
 .top-bar-section ul {
-  display: table; margin: 0 auto;
+display: table; margin: 0 auto;
 }
 .top-bar-section ul li {
-  display: table-cell;
+display: table-cell;
 }
 .top-bar-section ul li {
-  text-transform:uppercase;
+text-transform:uppercase;
 }
 .top-bar-section ul li ul li{
-  text-transform:none;
+text-transform:none;
 }
 
 ////////////
@@ -260,12 +253,12 @@ footer li{
 @keyframes fade-in{0%{opacity:0}100%{opacity:1}}
 
 .main-section,footer {
-  -webkit-animation:fade-in 0.33s ease-in;
-  -moz-animation:fade-in 0.33s ease-in;
-  animation:fade-in 0.33s ease-in;
-  -webkit-animation-iteration-count:1;
-  -moz-animation-iteration-count:1;
-  animation-iteration-count:1
+-webkit-animation:fade-in 0.33s ease-in;
+-moz-animation:fade-in 0.33s ease-in;
+animation:fade-in 0.33s ease-in;
+-webkit-animation-iteration-count:1;
+-moz-animation-iteration-count:1;
+animation-iteration-count:1
 }
 
 
@@ -273,53 +266,28 @@ footer li{
 
 blockquote, blockquote p {
 
-  padding: 0 1em 0 1em;
+padding: 0 1em 0 1em;
 
 }
 
 .top-bar-section {
-  font-size: $small-font-size;
+font-size: $small-font-size;
 
 }
 .top-bar-section ul li {
-  display: block;
+display: block;
 }
 
 html {
-  background: none;
-  background-color: #FFF;
+background: none;
+background-color: #FFF;
 }
 
 .entry-content img:first-child {
-  float: none;
-  margin: 10px;
+float: none;
+margin: 10px;
 }
 
 
 
-}
-
-
-
-//=========== SHARING ====================
-
-.addthis_toolbox {
-//  float:right !important;
-}
-
-.addthis_32x32_style .dummy .at300bs, .addthis_32x32_style .at300bs, .addthis_32x32_style .at15t,
-.addthis_toolbox img {
-
-filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale") !important; /* Firefox 10+, Firefox on Android */
-    /* Firefox 10+, Firefox on Android */
-    filter: gray  !important; /* IE6-9 */
-    -webkit-filter: grayscale(100%)  !important; /* Chrome 19+, Safari 6+, Safari 6+ iOS */
-
-}
-
-.addthis_32x32_style .dummy .at300bs:hover, .addthis_32x32_style .at300bs:hover, .addthis_32x32_style .at15t:hover,
-.addthis_toolbox img {
-
-    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0\'/></filter></svg>#grayscale") !important;
-    -webkit-filter: grayscale(0%) !important;
 }

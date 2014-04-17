@@ -1,6 +1,7 @@
-if RUBY_VERSION =~ /1.9/
-  Encoding.default_external = Encoding::UTF_8
-  Encoding.default_internal = Encoding::UTF_8
-end
 source 'https://rubygems.org'
 gem 'github-pages'
+gem 'sass', "3.2.9"
+gem 'sass-globbing', ">= 1.1.0"
+gem 'compass', "0.12.2"
+#gem 'breakpoint',  "2.0.5"
+#gem 'singularitygs', "< 2.0.0"

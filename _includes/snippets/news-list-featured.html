@@ -1,0 +1,19 @@
+<div class="news-list row">
+	<div class="column-wrapper">
+{% if page.url contains 'en' %}
+	{% for item in site.data.news %}
+		{% if item.language contains 'english' and item.featured == true %}
+				{% include snippets/news-list-formatting.html %}
+		{% endif %}
+	{% endfor %}
+{% else %}
+	{% for item in site.data.news %}
+		{% if item.language contains 'norsk' and item.featured == true %}
+			{% if item.featured %}
+				{% include snippets/news-list-formatting.html %}
+		{% endif %}
+		{% endif %}
+	{% endfor %}
+{% endif %}
+	</div>
+</div>

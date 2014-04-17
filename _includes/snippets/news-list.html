@@ -1,0 +1,7 @@
+<div class="row">
+	<div class="column-wrapper">
+	{% for item in site.data.news | limit:3 %}
+			{% include snippets/news-list-formatting.html %}
+	{% endfor %}
+	</div>
+</div>
