@@ -40,7 +40,9 @@ td.title p {
 					<tr>
 						<td class="category" width="15%">{{ writing.category }}</td>
 						<td class="title" width="65%">
-							"{{ writing.title }}"
+							{% if writing.title %}
+								{{ writing.title | markdownify | replace: '<p>', '“' | replace: '</p>', '”'}}
+							{% endif %}
 							{% if writing.content %}
 								<small>{{writing.content | markdownify }}</small>
 							{% endif %}
@@ -55,7 +57,7 @@ td.title p {
 										{{ writing.publication | sort}}
 									</em>
 								</a>
-								<a href="{{writing.link_to_original}}" class="ss-redirect"></a>
+								<a href="{{writing.link_to_original}}" class="ss-redirect"><i class="icon-link-ext"></i></a>
 							</td>
 	   				{% else %}
 							<td class="publication" width="20%">

@@ -1,3 +1,6 @@
+# Book Reviews: e.g. title: "Author's *BookTitle*" unless the article has its own title, use that, and put "On Author's *BookTitle*" in the content:
+# to make a word italicized, put an asterisk around it, like *this*
+
 -
   title: "Facing the Change: Personal Encounters with Global Warming"
   content: "edited by Steven Pavlos Holmes"
@@ -10,7 +13,7 @@
   content: "I like to read before I write."
   date: 2013-12-15
   link_to_original: "http://www.glimmertrain.com/b82robinson.html"
-  publication: Glimmer Train, Bulletin, 82nd issue, Winter 2013
+  publication: "Glimmer Train, Bulletin, 82nd issue, Winter 2013"
   category: Essays
   
 - 
@@ -38,7 +41,7 @@
   category: "Book Reviews"
 
 -
-  title: "Review of 'Someone', latest novel by Alice McDermott"
+  title: "Review of *Someone*, latest novel by Alice McDermott"
   date: 2013-09-09
   publication: "Washington Post"
   link_to_original: "http://articles.washingtonpost.com/2013-09-09/entertainment/41903940_1_novel-marie-neighborhood"
@@ -54,7 +57,7 @@
   
 - 
   title: "Burn Your Letters?"
-  content: "Page-Turner, May 23, 2013"
+  content: "Page-Turner"
   date: 2013-05-23
   link_to_original: "http://www.newyorker.com/online/blogs/books/2013/05/what-writers-leave-behind.html"
   publication: "The New Yorker"
@@ -109,12 +112,11 @@
 
 - 
   title: "A Different Sort of Nature: The Gardens of Kyoto"
-  content: "Appeared as *A Different Nature* in T+L Magazine, October 2012"
+  content: "Appeared as *A Different Nature* in T+L Magazine, October issue"
   date: 2012-10-01
   link_to_original: "http://www.travelandleisure.com/articles/the-beauty-of-japanese-gardens-in-kyoto"
   publication: "Travel and Leisure"
   category: Travel
-  
 
 - 
   title: "Response to Jonathan Franzen on Edith Wharton"
@@ -134,7 +136,6 @@
 
 - 
   title: "Edith Wharton, a Writer’s Reflections"
-  content: "April 11, 2012"
   date: 2012-04-11
   link_to_original: "http://www.themillions.com/2012/04/edith-wharton-a-writers-reflections.html"
   publication: "The Millions"
@@ -157,7 +158,7 @@
   category: Essays
 
 - 
-  title: "Anne Enright’s ‘The Forgotten Waltz’"
+  title: "Anne Enright’s *The Forgotten Waltz*"
   content: "Anne Enright’s new novel, *The Forgotten Waltz,* is the luxury sedan. Everything in it is perfectly engineered, and it’s so beautifully written that you could read it once just for the dazzle of the prose, then start over for the content."
   date: 2011-11-03
   link_to_original: http://www.washingtonpost.com/entertainment/books/anne-enrights-the-forgotten-waltz/2011/10/03/gIQAAQVXjM_story.html
@@ -166,7 +167,7 @@
   
 - 
   title: "My Wooden Deer Carving"
-  content: "p. 216, November 3, 2011"
+  content: "p. 216"
   date: 2011-11-03
   link_to_original: "http://www.cnn.com/2011/10/20/living/real-siple-objects/"
   publication: "Real Simple"
@@ -174,7 +175,7 @@
   
 - 
   title: "Great-Aunt Hattie’s ‘Little Book’"
-  content: "Opinionator Blog, State of our Disunion, September 18, 2011. Harriet Beecher Stowe was my great-great-great aunt."
+  content: "Opinionator Blog, State of our Disunion. Harriet Beecher Stowe was my great-great-great aunt."
   date: 2011-09-18
   link_to_original: "http://opinionator.blogs.nytimes.com/2011/09/18/great-aunt-hatties-little-book/"
   publication: "The New York Times"
@@ -198,14 +199,14 @@
 
 - 
   title: "Naipaul’s Comments Reflective Of ‘Hubris"
-  content: "Sunday Weekend Edition; June 5, 2011"
+  content: "Sunday Weekend Edition"
   date: 2011-06-05 
   link_to_original: "http://www.npr.org/2011/06/05/136972490/naipauls-comments-reflective-of-hubris"
   publication: NPR
   category: Essays
 
 - 
-  title: "Book review: Francisco Goldman’s ‘Say Her Name’"
+  title: "Francisco Goldman’s *Say Her Name*"
   content: "How much of our own lives should writers use as material? What should we reveal and what hold back? What, for a writer, is privacy? Do writers even have private lives? These are questions raised by Francisco Goldman’s newest book, *Say Her Name.*"
   date: 2011-04-14 
   link_to_original: http://www.washingtonpost.com/entertainment/books/book-review-francisco-goldmans-say-her-name/2011/03/22/AFGTz5eD_story.html 
@@ -229,7 +230,7 @@
   category: "Book Reviews"
   
 - 
-  title: "On Philip Roth's 'Nemesis'"
+  title: "Philip Roth's *Nemesis*"
   content: "For decades, Philip Roth has written the long narrative of the Jewish American experience, shining on it the light of his considerable intelligence. His latest book, *Nemesis*, addresses a biological threat to his community in the 1940s."
   date: 2010-10-05 
   link_to_original: http://www.washingtonpost.com/wp-dyn/content/article/2010/10/04/AR2010100406372.html
@@ -246,14 +247,12 @@
 
 - 
   title: "Vanishing Point"
-  content: "July 2010"
   date: 2010-07-01 
   link_to_original: "http://www.more.com/relationships/attitudes/vanishing-point"
   publication: "More magazine"
   category: Essays
   
 - 
-  content: "summer 2010"
   date: 2010-05-01 
   link_to_original: 
   publication: "The American Scholar"
@@ -261,7 +260,7 @@
   title: Honey
 
 - 
-  content: "on Kindle, April 1, 2010"
+  content: "on Kindle"
   date: 2010-04-01 
   link_to_original: 
   publication: "The Atlantic"
@@ -269,7 +268,6 @@
   title: "This Is America"
 
 - 
-  content: "spring 2010"
   date: 2010-04-01 
   link_to_original: "http://www.howjournal.com/issues-current.html#roxana"
   publication: "H.O.W. Journal"
@@ -277,7 +275,7 @@
   title: "The Bureau"
 
 - 
-  content: "*The New York Times Book Review*, January 12, 2010; Jonathan Dee, *The Privileges*"
+  content: "Jonathan Dee's *The Privileges*"
   date: 2010-01-12 
   link_to_original: 
   publication: "The New York Times Book Review"
@@ -285,7 +283,7 @@
   title: "The Privileges"
 
 - 
-  content: "recipes from today’s best-selling authors, edited by Judy Gelman and Vicki Levy Krupp (Adams Media, 2010)"
+  content: "Recipes from today’s best-selling authors, edited by Judy Gelman and Vicki Levy Krupp (Adams Media, 2010)"
   date: 2010-01-01 
   link_to_original: 
   publication: "Adams Media"
@@ -293,7 +291,7 @@
   title: "Table of Contents"
 
 - 
-  content: "stories from *The New York Times* City Section, edited by Constance Rosenblum (NYU Press, 2010)"
+  content: "Stories from *The New York Times* City Section, edited by Constance Rosenblum (NYU Press, 2010)"
   date: 2010-01-01 
   link_to_original: 
   publication: "NYU Press"
@@ -301,7 +299,7 @@
   title: "More New York Stories"
 
 - 
-  content: "issue #11, “Make Believe,” winter 2009"
+  content: "issue #11, “Make Believe,” winter issue"
   date: 2009-12-01 
   link_to_original: 
   publication: "PEN Journal"
@@ -317,15 +315,13 @@
   title: "Kentucky Bread"
 
 - 
-  content: "*The New York Times Book Review*, August 16, 2009; Richard Russo, *That Old Cape Magic*"
   date: 2009-08-16 
   link_to_original: 
   publication: "The New York Times Book Review"
   category: "Book Reviews"
-  title: "That Old Cape Magic"
+  title: "Richard Russo's *That Old Cape Magic*"
 
 - 
-  content: "July 30, 2009"
   date: 2009-07-30 
   link_to_original: "http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/07/30/stopping_heroin_use_before_its_too_late/"
   publication: "The Boston Globe"
@@ -333,7 +329,7 @@
   title: "Stopping Heroin Before It’s Too Late"
 
 - 
-  content: "online, Paper Cuts, June 9, 2009"
+  content: "online, 'Paper Cuts' blog"
   date: 2009-06-09 
   link_to_original: 
   publication: "The New York Times"
@@ -341,7 +337,6 @@
   title: Unpacking
 
 - 
-  content: "June 9, 2009"
   date: 2009-06-09 
   link_to_original: "http://artsbeat.blogs.nytimes.com/2009/06/09/the-writers-notebook-roxana-robinson/"
   publication: "The New York Times"
@@ -349,7 +344,6 @@
   title: "The Writer’s Notebook"
 
 - 
-  content: "May 10, 2009"
   date: 2009-05-01 
   link_to_original: 
   publication: "The New York Times"
@@ -357,23 +351,20 @@
   title: "Soul Train"
 
 - 
-  content: "*The New York Times*, March 9, 2003; Nancy Clark, *The Hills at Home*"
+  title: "Nancy Clark's, *The Hills at Home*"
   date: 2009-03-09 
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: "The Hills at Home"
 
 - 
-  content: "March 6, 2009"
   date: 2009-03-06 
   link_to_original: "http://www.nytimes.com/2009/03/06/opinion/06iht-edrobinson.1.20644301.html?_r=0"
   publication: "International Herald Tribune"
   category: Essays
-  title: "A Mockingbird’s Cry of Desperation"
+  title: "And if that mockingbird don't sing"
 
 - 
-  content: "March 5, 2009"
   date: 2009-03-05 
   link_to_original: "http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/03/05/a_mockingbirds_cry_of_desperation/"
   publication: "The Boston Globe"
@@ -381,17 +372,14 @@
   title: "A Mockingbird’s Cry of Desperation"
 
 - 
-  content: "*The New York Times Book Review*, February 22, 2009 / *International Herald Tribune*, February 22, 2009   Joan London, *The Good Parents*"
+  title: "Joan London's *The Good Parents*"
   date: 2009-02-22 
-        *The New York Times Book Review*, February 22, 2009 / *International Herald Tribune*, February 22, 2009
-        Joan London, *The Good Parents*
   link_to_original: 
-  publication: ~
+  publication: "*The New York Times Book Review* / *International Herald Tribune*"
   category: "Book Reviews"
   title: "The Good Parents"
 
 - 
-  content: "January 29, 2009"
   date: 2009-01-29 
   link_to_original: "http://bookcritics.org/blog/archive/ro/"
   publication: NBCC
@@ -399,15 +387,13 @@
   title: "On John Updike"
 
 - 
-  content: "*The Washington Post Book World*, October 12, 2008; Carlos Fuentes, *Happy Families*"
+  title: "Carlos Fuentes' *Happy Families*"
   date: 2008-10-12 
   link_to_original: 
   publication: "The Washington Post"
   category: "Book Reviews"
-  title: "Happy Families"
 
 - 
-  content: "October 2008"
   date: 2008-10-01 
   link_to_original: 
   publication: "Good Housekeeping"
@@ -415,7 +401,6 @@
   title: "The Finish Line"
 
 - 
-  content: "*Chekhov’s Mistress*, a blog of literary enthusiasms, July 15, 2008"
   date: 2008-07-15 
   link_to_original: 
   publication: "Chekhov's Mistress"
@@ -423,7 +408,6 @@
   title: "Classics: On Edith Wharton"
 
 - 
-  content: "July 7, 2008"
   date: 2008-07-07 
   link_to_original: "http://americareads.blogspot.com/2008/07/pg-69-roxana-robinsons-cost.html"
   publication: "Campaign for the American Reader"
@@ -431,7 +415,6 @@
   title: "Campaign for the American Reader"
 
 - 
-  content: "June 27, 2008"
   date: 2008-06-27 
   link_to_original: "http://www.largeheartedboy.com/blog/archive/2008/06/book_notes_roxa.html"
   publication: "Largehearted Boy"
@@ -439,7 +422,6 @@
   title: "Book Notes: Cost"
 
 - 
-  content: "April 19, 2008"
   date: 2008-04-19 
   link_to_original: 
   publication: "Chicago Tribune"
@@ -447,7 +429,7 @@
   title: "A Literary Glass Ceiling"
 
 - 
-  content: "*N.Y./Region Opinions, *December 23, 2007"
+  content: "*N.Y./Region Opinions"
   date: 2007-12-23 
   link_to_original: 
   publication: "The New York Times"
@@ -455,7 +437,7 @@
   title: "My Mother’s Home"
 
 - 
-  content: "winter 2007"
+  content: "winter issue"
   date: 2007-12-01 
   link_to_original: 
   publication: "The American Scholar"
@@ -463,7 +445,7 @@
   title: "The Leap"
 
 - 
-  content: "October 2007"
+  content: "October issue"
   date: 2007-10-01 
   link_to_original: 
   publication: "More magazine"
@@ -487,7 +469,7 @@
   title: "Bad Girls: 26 Writers Misbehave"
 
 - 
-  content: "City Section, page 3, June 3, 2007"
+  content: "City Section, page 3"
   date: 2007-06-03 
   link_to_original: 
   publication: "The New York Times"
@@ -495,7 +477,7 @@
   title: "The Novelist and the Curious Cabbie"
 
 - 
-  content: "Op-Ed, January 14, 2007"
+  content: "Op-Ed"
   date: 2007-01-14 
   link_to_original: 
   publication: "The Philadelphia Inquirer"
@@ -519,7 +501,6 @@
   title: "Mr. Wrong"
 
 - 
-  content: "2007"
   date: 2007-01-01 
   link_to_original: 
   publication: "New York Review of Books"
@@ -527,7 +508,7 @@
   title: "Introduction to The New York Stories of Edith Wharton"
 
 - 
-  content: "winter 2006"
+  content: "winter issue"
   date: 2006-12-01 
   link_to_original: 
   publication: "The Southern Review"
@@ -535,15 +516,14 @@
   title: "Wild Duck"
 
 - 
-  content: "November 2006"
-  date: 2006-11-01 
+  content: "November issue"
+  date: 2006-11-01
   link_to_original: 
   publication: "More magazine"
   category: Essays
   title: "The Night Ride"
 
 - 
-  content: "September 7, 2006"
   date: 2006-09-07 
   link_to_original: 
   publication: "International Herald Tribune"
@@ -552,8 +532,7 @@
 
 - 
   content: "Op-Ed, September 6, 2006"
-  date: 2006-09-06 
-  link_to_original: 
+  date: 2006-09-06  
   publication: "The Boston Globe"
   category: Essays
   title: "The Monarch and the Milkweed"
@@ -567,7 +546,7 @@
   title: "Mother, Once Removed"
 
 - 
-  content: "sailing on the Sea Cloud, Turkey; *The New York Times*"
+  content: "Sailing on the Sea Cloud, Turkey"
   date: 2006-02-04 
   link_to_original: 
   publication: "The New York Times"
@@ -575,7 +554,6 @@
   title: "Sailing Through the Classics"
 
 - 
-  content: "January 1, 2006"
   date: 2006-01-01 
   link_to_original: 
   publication: "The Boston Globe"
@@ -599,7 +577,7 @@
   title: "My Father Married Your Mother"
 
 - 
-  content: "October/November 2005"
+  content: "October/November issue"
   date: 2005-10-01 
   link_to_original: 
   publication: "Women’s Health"
@@ -607,7 +585,6 @@
   title: "This Dog’s Life"
 
 - 
-  content: "August 21, 2005"
   date: 2005-08-21 
   link_to_original: 
   publication: "Chicago Tribune"
@@ -615,7 +592,7 @@
   title: "Gendered Genres"
 
 - 
-  content: "Pen on Fire: Writers on Writing, July 12, 2005"
+  content: "Pen on Fire: Writers on Writing"
   date: 2005-07-12 
   link_to_original: "http://penonfire.blogspot.com/2005/07/roxana-robinson-on-writing.html"
   publication: "Pen on Fire"
@@ -623,7 +600,6 @@
   title: "On Writing"
 
 - 
-  content: "summer 2005"
   date: 2005-07-01 
   link_to_original: 
   publication: "NRDC Action Blog"
@@ -631,7 +607,6 @@
   title: "NRDC Action Blog"
 
 - 
-  content: "April 27, 2005"
   date: 2005-04-27 
   link_to_original: "http://thehappybooker.blogs.com/the_happy_booker/2005/04/roxana_robinson.html"
   publication: "The Happy Booker"
@@ -639,7 +614,6 @@
   title: "Writing Spaces"
 
 - 
-  content: "April 2005"
   date: 2005-04-01 
   link_to_original: 
   publication: "One Story"
@@ -647,7 +621,7 @@
   title: "A Perfect Stranger"
 
 - 
-  content: "*The Wilson Quarterly*, 2005; John M. Marzluff and Tony Angell, *In the Company of Crows and Ravens*, Yale University Press"
+  content: "John M. Marzluff and Tony Angell's, *In the Company of Crows and Ravens*, Yale University Press"
   date: 2005-01-01 
   link_to_original: 
   publication: "The Wilson Quarterly"
@@ -663,7 +637,7 @@
   title: "Foreword to The Best Early Stories of F. Scott Fitzgerald"
 
 - 
-  content: "vol. 33, no. 3, 2005"
+  content: "vol. 33, no. 3"
   date: 2005-01-01 
   link_to_original: 
   publication: "Mississippi Review"
@@ -671,7 +645,7 @@
   title: Coyote
 
 - 
-  content: "Op-Ed, October 10, 2004"
+  content: "Op-Ed"
   date: 2004-10-10 
   link_to_original: 
   publication: "The Boston Globe"
@@ -679,7 +653,7 @@
   title: "Breathing Partners"
 
 - 
-  content: "fall 2004"
+  content: "Fall issue"
   date: 2004-09-01 
   link_to_original: 
   publication: "Ms. magazine"
@@ -695,7 +669,7 @@
   title: "New Zealand’s Natural Wonders"
 
 - 
-  content: "summer 2004"
+  content: "Summer issue"
   date: 2004-06-01 
   link_to_original: 
   publication: Daedalus
@@ -703,7 +677,7 @@
   title: "Blind Man"
 
 - 
-  content: "Travel Section, May 2, 2004"
+  content: "Travel Section"
   date: 2004-05-02 
   link_to_original: 
   publication: "The New York Times"
@@ -711,7 +685,7 @@
   title: "To Russia, With Books"
 
 - 
-  content: "Op-Ed, February 16, 2004"
+  content: "Op-Ed"
   date: 2004-02-16 
   link_to_original: 
   publication: "The Boston Globe"
@@ -719,7 +693,7 @@
   title: "A Hare Out of Season"
 
 - 
-  content: "St. Petersburg, *The New York Times*, December 14, 2003"
+  content: "St. Petersburg"
   date: 2003-12-14 
   link_to_original: 
   publication: "The New York Times"
@@ -727,7 +701,6 @@
   title: "The Lairs of the Russian Literary Lions"
 
 - 
-  content: "December 2003"
   date: 2003-12-01 
   link_to_original: 
   publication: "Adirondack Life"
@@ -735,7 +708,7 @@
   title: "The Setting of Sweetwater"
 
 - 
-  content: "fall 2003"
+  content: "fall issue"
   date: 2003-09-01 
   link_to_original: 
   publication: "The Bark"
@@ -743,7 +716,7 @@
   title: "My Dog Lacey"
 
 - 
-  content: "July/August 2003"
+  content: "July/August issue"
   date: 2003-07-01 
   link_to_original: 
   publication: "Fine Gardening"
@@ -751,7 +724,7 @@
   title: "The Fabric of Life in a Meadow"
 
 - 
-  content: "Taronga Zoo, Sydney, Australia; *The New York Times*, June 1, 2003"
+  content: "Taronga Zoo, Sydney, Australia"
   date: 2003-06-01 
   link_to_original: 
   publication: "The New York Times"
@@ -759,7 +732,6 @@
   title: "Wombats and Wallabies"
 
 - 
-  content: "June 2003"
   date: 2003-06-01 
   link_to_original: 
   publication: "House Beautiful"
@@ -767,7 +739,6 @@
   title: "A Calm, Quiet Place: Watermark"
 
 - 
-  content: "May 2003"
   date: 2003-05-01 
   link_to_original: 
   publication: "Good Housekeeping"
@@ -783,7 +754,7 @@
   title: "Introduction to The Old Maid: The Fifties"
 
 - 
-  content: "December 2002, p. 72"
+  content: "p. 72"
   date: 2002-12-01 
   link_to_original: 
   publication: "House and Garden"
@@ -791,7 +762,6 @@
   title: "Box Step"
 
 - 
-  content: "September 2002"
   date: 2002-09-01 
   link_to_original: 
   publication: "The Atlantic Monthly"
@@ -799,7 +769,7 @@
   title: Treatment
 
 - 
-  content: "City Section, p. 11, August 18, 2002"
+  content: "City Section, p. 11"
   date: 2002-08-18 
   link_to_original: 
   publication: "The New York Times"
@@ -807,7 +777,7 @@
   title: Chandelier
 
 - 
-  content: "*The Washington Post Book World*, July 28, 2002; John Hough, *The Last Summer*"
+  content: "John Hough's *The Last Summer*"
   date: 2002-07-28 
   link_to_original: 
   publication: "The Washington Post"
@@ -815,8 +785,7 @@
   title: "The Last Summer"
 
 - 
-  title: "Death and Nightingales"
-  content: "On Eugene McCabe's, *Death and Nightingales*"
+  title: "On Eugene McCabe's, *Death and Nightingales*"
   date: 2002-04-21
   link_to_original: 
   publication: "The Washington Post Book World"
@@ -839,7 +808,6 @@
   title: "110 Stories: New York Writes After September 11"
 
 - 
-  content: "August 2001"
   date: 2001-08-01 
   link_to_original: 
   publication: Vogue
@@ -847,7 +815,7 @@
   title: "Here Comes the Mother of the Bride"
 
 - 
-  content: "Lives column, June 17, 2001"
+  content: "Lives column"
   date: 2001-01-17 
   link_to_original: 
   publication: "The New York Times Magazine"
@@ -855,7 +823,6 @@
   title: "Great Expectations"
 
 - 
-  content: "January 7, 2001"
   date: 2001-01-07 
   link_to_original: 
   publication: "The New York Times Book Review"
@@ -887,7 +854,6 @@
   title: "Best American Mystery Stories of 2001"
 
 - 
-  content: "December 2000"
   date: 2000-12-01 
   link_to_original: 
   publication: "The Atlantic Monthly"
@@ -895,7 +861,7 @@
   title: "Family Christmas"
 
 - 
-  content: "October 20, 2000, p. W17"
+  content: "p. W17"
   date: 2000-10-20 
   link_to_original: 
   publication: "The Wall Street Journal"
@@ -903,7 +869,6 @@
   title: "Listening Silence"
 
 - 
-  content: "September 2000"
   date: 2000-09-01 
   link_to_original: 
   publication: "Victoria Magazine"
@@ -911,7 +876,6 @@
   title: "Dogs in My Life"
 
 - 
-  content: "August 2000"
   date: 2000-08-01 
   link_to_original: 
   publication: "The Atlantic Monthly"
@@ -919,7 +883,7 @@
   title: "The Face-Lift"
 
 - 
-  content: "Writers on Writing column, July 17, 2000"
+  content: "Writers on Writing column"
   date: 2000-07-17 
   link_to_original: 
   publication: "The New York Times"
@@ -927,7 +891,6 @@
   title: "If You Write the Story…"
 
 - 
-  content: "*Travel and Leisure*, March 2000"
   date: 2000-03-01 
   link_to_original: 
   publication: "Travel and Leisure"
@@ -935,15 +898,13 @@
   title: "A Walking Trip in the Sicilian Countryside"
 
 - 
-  content: "*The Washington Post Book World*, 2000; Karen Bender, *Like Normal People*"
+  title: "Karen Bender's *Like Normal People*"
   date: 2000-01-01 
   link_to_original: 
   publication: "The Washington Post"
   category: "Book Reviews"
-  title: "Like Normal People"
 
 - 
-  content: "December 1999"
   date: 1999-12-01 
   link_to_original: 
   publication: "The Atlantic Monthly"
@@ -951,7 +912,7 @@
   title: Assistance
 
 - 
-  content: "Lives column, April 4, 1999"
+  content: "Lives column"
   date: 1999-04-04 
   link_to_original: 
   publication: "The New York Times Magazine"
@@ -959,7 +920,7 @@
   title: "Instant Intimacy"
 
 - 
-  content: "Books Column: On Reading, November 1, 1998"
+  content: "Books Column: On Reading"
   date: 1998-11-01 
   link_to_original: 
   publication: "The Boston Globe"
@@ -967,7 +928,7 @@
   title: "When Tragedy in Literature Is a Family Affair"
 
 - 
-  content: "Op-Ed, October 19, 1998"
+  content: "Op-Ed"
   date: 1998-10-19 
   link_to_original: 
   publication: "The New York Times"
@@ -975,15 +936,13 @@
   title: "Censorship or Common Sense"
 
 - 
-  content: "*The New York Times*, October 11, 1998; Susan Minot, *Evening*"
+  title: "Susan Minot's *Evening*"
   date: 1998-10-11 
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: Evening
 
 - 
-  content: "May 1998"
   date: 1998-05-01 
   link_to_original: 
   publication: "House and Garden"
@@ -991,23 +950,21 @@
   title: "Personal Growth"
 
 - 
-  content: "*The Washington Post Book World*, April 5, 1998; Dorothy Allison, *Cavedweller*"
+  title: "Dorothy Allison's *Cavedweller*"
   date: 1998-04-05 
   link_to_original: 
   publication: "The Washington Post"
   category: "Book Reviews"
-  title: Cavedweller
 
 - 
-  content: "*The Washington Post Book World*, February 1, 1998; David Gates, *Preston Falls*"
+  title: "David Gates', *Preston Falls*"
   date: 1998-02-01 
   link_to_original: 
   publication: "The Washington Post"
   category: "Book Reviews"
-  title: "Preston Falls"
 
 - 
-  content: "edited by Susan Hill (Michael Joseph, London, 1998)"
+  content: "Edited by Susan Hill (Michael Joseph, London, 1998)"
   date: 1998-01-01 
   link_to_original: 
   publication: "Michael Joseph"
@@ -1015,23 +972,21 @@
   title: "The Second Penguin Book of Modern Women’s Short Stories"
 
 - 
-  content: "*The New York Times*, December 14, 1997; Thomas Caplan, *Grace and Favor*"
+  content: "Thomas Caplan's, *Grace and Favor*"
   date: 1997-12-14 
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: "Grace and Favor"
 
 - 
-  content: "*The New York Times*, March 30, 1997; Fernanda Eberstadt, *When the Sons of Heaven Meet the Daughters of the Earth*"
+  title: "Fernanda Eberstadt's *When the Sons of Heaven Meet the Daughters of the Earth*"
   date: 1997-03-30 
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: "When the Sons of Heaven Meet the Daughters of the Earth"
 
 - 
-  content: "February 1997"
+  # content: "February 1997"
   date: 1997-02-01 
   link_to_original: 
   publication: Vogue
@@ -1039,31 +994,30 @@
   title: "The Stepmother"
 
 - 
-  content: "*The Washington Post*, December 10, 1996; Janet Peery, *The River Beyond the World*"
+  title: "Janet Peery's *The River Beyond the World*"
   date: 1996-12-10
   link_to_original: 
   publication: "The Washington Post"
   category: "Book Reviews"
-  title: "The River Beyond the World"
 
 - 
-  content: "*The New York Times*, November 3, 1996; Shena Mackay, *The Orchard on Fire*"
+  # content: "*The New York Times*, November 3, 1996; "
   date: 1996-11-03
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: "The Orchard on Fire"
+  title: "Shena Mackay's *The Orchard on Fire*"
 
 - 
-  content: "*The Washington Post Book World*, October 6, 1996; Mona Simpson, *A Regular Guy*"
+  # content: "*The Washington Post Book World*, October 6, 1996; "
   date: 1996-10-06 
   link_to_original: 
-  publication: "The Washington Post"
+  publication: "The Washington Post Book World"
   category: "Book Reviews"
-  title: "A Regular Guy"
+  title: "Mona Simpson's *A Regular Guy*"
 
 - 
-  content: "Ireland, *The New York Times*, July 21, 1996"
+  content: "Ireland"
   date: 1996-07-21
   link_to_original: 
   publication: "The New York Times"
@@ -1071,12 +1025,12 @@
   title: "Horses of Another Color"
 
 - 
-  content: "*The Washington Post Book World*, April 21, 1996; Louise Erdrich, *Tales of Burning Love*"
+  # content: "*The Washington Post Book World*, April 21, 1996; "
   date: 1996-04-21
   link_to_original: 
   publication: "The Washington Post"
   category: "Book Reviews"
-  title: "Tales of Burning Love"
+  title: "Louise Erdrich's *Tales of Burning Love*"
 
 - 
   content: "January 1996"
@@ -1095,15 +1049,15 @@
   title: "Mothers: Twenty Stories of Contemporary Motherhood"
 
 - 
-  content: "*The Los Angeles Times*, May 7, 1995; Sue Miller, *The Distinguished Guest*"
+  # content: "*The Los Angeles Times*, May 7, 1995; "
   date: 1995-05-07
   link_to_original: 
   publication: "The Los Angeles Times"
   category: "Book Reviews"
-  title: "The Distinguished Guest"
+  title: "Sue Miller's *The Distinguished Guest*"
 
 - 
-  content: "November 1994"
+  # content: "November 1994"
   date: 1994-11-01
   link_to_original: 
   publication: Harper’s
@@ -1111,7 +1065,7 @@
   title: "King of the Sky"
 
 - 
-  content: "September 1994"
+  # content: "September 1994"
   date: 1994-09-01
   link_to_original: 
   publication: "The Atlantic Monthly"
@@ -1119,7 +1073,7 @@
   title: "Leaving Home"
 
 - 
-  content: "Sweden, *The New York Times*, May 29, 1994"
+  content: "Sweden"
   date: 1994-05-29
   link_to_original: 
   publication: "The New York Times"
@@ -1127,7 +1081,7 @@
   title: "Carl Larsson’s House"
 
 - 
-  content: "edited by Tobias Wolfe and Katrina Kenison (Houghton Mifflin, Boston, 1994)"
+  content: "Edited by Tobias Wolfe and Katrina Kenison (Houghton Mifflin, Boston, 1994)"
   date: 1994-01-01
   link_to_original: 
   publication: "Houghton Mifflin"
@@ -1135,15 +1089,15 @@
   title: "The Best American Short Stories 1994"
 
 - 
-  content: "*The New York Times*, October 26, 1993; Beatrice Kert, *Abby Aldrich Rockefeller*"
+  # content: "*The New York Times*, October 26, 1993;"
   date: 1993-10-26
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: "Abby Aldrich Rockefeller"
+  title: "Beatrice Kert's, *Abby Aldrich Rockefeller*"
 
 - 
-  content: "summer 1993"
+  content: "Summer issue"
   date: 1993-05-01
   link_to_original: 
   publication: "Glimmer Train"
@@ -1151,15 +1105,15 @@
   title: Sleepover
 
 - 
-  content: "*The New York Times*, April 25, 1993; Mary Morris, *A Mother’s Love*"
+  # content: "*The New York Times*, April 25, 1993; "
   date: 1993-04-25
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: "A Mother’s Love"
+  title: "Mary Morris's, *A Mother’s Love*"
 
 - 
-  content: "April 1993"
+  # content: "April 1993"
   date: 1993-04-01
   link_to_original: 
   publication: "The Atlantic Monthly"
@@ -1167,20 +1121,20 @@
   title: "Mr. Sumarsono"
 
 - 
-  content: "*The New York Times*, January 24, 1993; Diane Johnson, *Natural Opium*"
+  # content: "*The New York Times*, January 24, 1993; "
   date: 1993-01-24
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: "Natural Opium"
+  title: "Diane Johnson's *Natural Opium*"
 
 - 
-  content: "*The New York Times*, March 15, 1992; Louis Auchincloss, *False Gods*"
+  # content: "*The New York Times*, March 15, 1992; "
   date: 1992-03-15
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: "False Gods"
+  title: "Louis Auchincloss's *False Gods*"
 
 - 
   content: "edited by Doreen Bolger, Marc Simpson, and John Wilmerding. Essays by Roxana Robinson, et al. (New York, Metropolitan Museum of Art, Harry Abrams, 1992)"
@@ -1207,23 +1161,23 @@
   title: "Contemporary New England Stories"
 
 - 
-  content: "*The New York Times*, September 29, 1991; Peter Cameron, *Far-Flung*"
+  # content: "*The New York Times*, September 29, 1991; "
   date: 1991-09-29
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: Far-Flung
+  title: "Peter Cameron, *Far-Flung*"
 
 - 
-  content: "*The New York Times*, July 21, 1991; David Small, *Alone*"
+  # content: "*The New York Times*, July 21, 1991; "
   date: 1991-07-21
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: Alone
+  title: "On David Small's *Alone*"
 
 - 
-  content: "*Newsday*, June 30, 1991;   John Pope-Hennessy, *Learning to Look: My Life in Art   *Jed Perls*, Gallery Going: Four Seasons in the Art World*"
+  content: "On John Pope-Hennessy, *Learning to Look: My Life in Art   *Jed Perls*, Gallery Going: Four Seasons in the Art World*"
   date: 1991-06-30
   link_to_original: 
   publication: Newsday
@@ -1231,7 +1185,7 @@
   title: "Learning to Look and Gallery Going"
 
 - 
-  content: "February 1991"
+  # content: "February 1991"
   date: 1991-02-01
   link_to_original: 
   publication: "The Atlantic Monthly"
@@ -1239,7 +1193,7 @@
   title: "The Time for Kissing"
 
 - 
-  content: "September, 1990"
+  # content: "September, 1990"
   date: 1990-09-01
   link_to_original: 
   publication: "Wigwag magazine"
@@ -1247,7 +1201,7 @@
   title: "At the Heart of My Life (Graduation)"
 
 - 
-  content: "summer in Provence; *The New York Times*, May 27, 1990"
+  content: "Summer in Provence"
   date: 1990-05-27
   link_to_original: 
   publication: "The New York Times"
@@ -1255,7 +1209,7 @@
   title: "Bulls, Bravery, and Bounty in St.-Remy"
 
 - 
-  content: "*The New York Times*, April 1990; Avis Berman, *Rebels on 8th Street: Julianna Force and the Whitney Museum of American Art*"
+  content: "On Avis Berman, *Rebels on 8th Street: Julianna Force and the Whitney Museum of American Art*"
   date: 1990-04-01
   link_to_original: 
   publication: "The New York Times"
@@ -1263,7 +1217,7 @@
   title: "Rebels on 8th Street: Julianna Force and the Whitney Museum of American Art"
 
 - 
-  content: "March 1990"
+  # content: "March 1990"
   date: 1990-03-01
   link_to_original: 
   publication: "New York Woman"
@@ -1279,7 +1233,7 @@
   title: "The Resourceful Writer: Readings to Accompany the Harbrace College Handbook, Second Edition"
 
 - 
-  content: "*The New York Times*, October 29, 1989"
+  # content: "*The New York Times*, October 29, 1989"
   date: 1989-10-29
   link_to_original: 
   publication: "The New York Times"
@@ -1287,7 +1241,7 @@
   title: "On the Ancient Nile, a Modern Voyage"
 
 - 
-  content: "*The New York Times*, Sophisticated Traveler, March 12, 1989"
+  content: "*Sophisticated Traveler*"
   date: 1989-03-12
   link_to_original: 
   publication: "The New York Times"
@@ -1303,7 +1257,7 @@
   title: "Wives and Husbands: 20 Stories About Marriage"
 
 - 
-  content: "safari in Africa, *The New York Times*, December 4, 1988"
+  content: "Safari in Africa"
   date: 1988-12-04
   link_to_original: 
   publication: "The New York Times"
@@ -1311,15 +1265,15 @@
   title: "Investing in an Absence of Civilization"
 
 - 
-  content: "*The New York Times*, January 24, 1988; Jill Paton Walsh, *Lapsing*"
+  # content: "*The New York Times*, January 24, 1988; ""
   date: 1988-01-24
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: Lapsing
+  title: "Jill Paton Walsh, *Lapsing*"
 
 - 
-  content: "(LSU, Baton Rouge) Winter, 1987"
+  content: "(LSU, Baton Rouge) Winter issue"
   date: 1987-12-01
   link_to_original: 
   publication: "The Southern Review"
@@ -1327,7 +1281,7 @@
   title: "Charity Dance"
 
 - 
-  content: "London, July 1986"
+  # content: "London, July 1986"
   date: 1987-07-01
   link_to_original: 
   publication: "The Fiction Magazine"
@@ -1335,7 +1289,7 @@
   title: "Charity Dance"
 
 - 
-  content: "*The New York Times*, February 22, 1987"
+  # content: "*The New York Times*, February 22, 1987"
   date: 1987-02-22
   link_to_original: 
   publication: "The New York Times"
@@ -1343,15 +1297,15 @@
   title: "Total Immersion in a Flood of French"
 
 - 
-  content: "*The New York Times*, January 18, 1987; Dorie Friend, *Family Laundry*"
+  # content: "*The New York Times*, January 18, 1987; ""
   date: 1987-01-18
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: "Family Laundry"
+  title: "Dorie Friend, *Family Laundry*"
 
 - 
-  content: "*The New York Times*, November 23, 1986"
+  # content: "*The New York Times*, November 23, 1986"
   date: 1986-11-23
   link_to_original: 
   publication: "The New York Times"
@@ -1359,7 +1313,7 @@
   title: "John Gardner Tennis Ranch"
 
 - 
-  content: "*The New York Times*, August 10, 1986; J.I.M. Stewart, *Parlour 4 and Other Stories*"
+  content: "*The New York Times*; J.I.M. Stewart, *Parlour 4 and Other Stories*"
   date: 1986-08-10
   link_to_original: 
   publication: "The New York Times"
@@ -1367,7 +1321,7 @@
   title: "Parlour 4 and Other Stories"
 
 - 
-  content: "*The New York Times*, April 13, 1986"
+  # content: "*The New York Times*, April 13, 1986"
   date: 1986-04-13
   link_to_original: 
   publication: "The New York Times"
@@ -1375,15 +1329,15 @@
   title: "The Lure of London’s Chelsea Flower Show"
 
 - 
-  content: "*The New York Times*, March 2, 1986; Francis King, *One Is a Wanderer*"
+  title: "Francis King, *One Is a Wanderer*"
   date: 1986-03-02
   link_to_original: 
   publication: "The New York Times"
   category: "Book Reviews"
-  title: "One Is a Wanderer"
+  # title: "One Is a Wanderer"
 
 - 
-  content: "London, February 1986"
+  content: "London, February issue"
   date: 1986-02-01
   link_to_original: 
   publication: "The Fiction Magazine"
@@ -1391,7 +1345,7 @@
   title: Snowfall
 
 - 
-  content: "*The Philadelphia Inquirer,* December 29, 1985; Marina Warner, *Monuments and Maidens: The Allegory of the Female Form*"
+  content: "*The Philadelphia Inquirer*; Marina Warner, *Monuments and Maidens: The Allegory of the Female Form*"
   date: 1985-12-29
   link_to_original: 
   publication: "The Philadelphia Inquirer"
@@ -1399,7 +1353,7 @@
   title: "Monuments and Maidens: The Allegory of the Female Form"
 
 - 
-  content: "*The New York Times*, September 8, 1985; Penelope Fitzgerald, *At Freddie’s*"
+  content: "*The New York Times*; Penelope Fitzgerald, *At Freddie’s*"
   date: 1985-09-08
   link_to_original: 
   publication: "The New York Times"
@@ -1407,7 +1361,7 @@
   title: "At Freddie’s"
 
 - 
-  content: "London, August/September 1985"
+  content: "London, August/September issue"
   date: 1985-08-01
   link_to_original: 
   publication: "The Fiction Magazine"
@@ -1415,7 +1369,7 @@
   title: Layering
 
 - 
-  content: "*The New York Times*, April 14, 1985; Jill Tweedie, Jewels"
+  content: "*The New York Times*; Jill Tweedie, Jewels"
   date: 1985-04-14
   link_to_original: 
   publication: "The New York Times"
@@ -1423,7 +1377,7 @@
   title: Jewels
 
 - 
-  content: "*The New York Times*, November 25, 1984; Thomas Baird, *Villa Aphrodite*"
+  content: "*The New York Times*; Thomas Baird, *Villa Aphrodite*"
   date: 1984-11-25
   link_to_original: 
   publication: "The New York Times"
@@ -1431,7 +1385,7 @@
   title: "Villa Aphrodite"
 
 - 
-  content: "*The Philadelphia Inquirer*, March 25, 1984; Isabel Colegate, *Three Novels*"
+  content: "*The Philadelphia Inquirer*, Isabel Colegate, *Three Novels*"
   date: 1984-03-25
   link_to_original: 
   publication: "The Philadelphia Inquirer"
@@ -1439,7 +1393,7 @@
   title: "Three Novels"
 
 - 
-  content: "catalogue raisonne by Ann Lee Morgan (Newark, University of Delaware Press, 1984)"
+  content: "Catalogue raisonne by Ann Lee Morgan (Newark, University of Delaware Press)"
   date: 1984-01-01
   link_to_original: 
   publication: "University of Delaware Press"
@@ -1447,7 +1401,7 @@
   title: "Introduction to Arthur Dove"
 
 - 
-  content: "March 28, 1983"
+  # content: "March 28, 1983"
   date: 1983-03-28
   link_to_original: 
   publication: "The New Yorker"
@@ -1455,7 +1409,7 @@
   title: "Getting On"
 
 - 
-  content: "Jan/Feb 1983"
+  content: "Jan/Feb issue"
   date: 1983-01-01
   link_to_original: 
   publication: "Art & Antiques"
@@ -1463,7 +1417,7 @@
   title: "19th Century Picnic Paintings: An Arcadian Idyll"
 
 - 
-  content: "September 1981"
+  # content: "September 1981"
   date: 1981-09-01
   link_to_original: 
   publication: "Antiques World"
@@ -1471,7 +1425,7 @@
   title: "The Bathing Scene: People on the Beach in American Art, 1700–1900"
 
 - 
-  content: "Sep/Oct 1981"
+  content: "Sep/Oct issue"
   date: 1981-09-01
   link_to_original: 
   publication: "Art & Antiques"
@@ -1479,7 +1433,7 @@
   title: "Plane Truths"
 
 - 
-  content: "exhibition catalog, The Katonah Gallery, 1981"
+  content: "Exhibition catalog, The Katonah Gallery"
   date: 1981-01-01
   link_to_original: 
   publication: "The Katonah Gallery"
@@ -1495,7 +1449,7 @@
   title: "Where Are America’s Missing Masterpieces?"
 
 - 
-  content: "November, 1980"
+  # content: "November, 1980"
   date: 1980-11-01
   link_to_original: 
   publication: McCall’s
@@ -1503,7 +1457,7 @@
   title: Daughter
 
 - 
-  content: "exhibition catalog, The Katonah Gallery, 1980"
+  content: "exhibition catalog, The Katonah Gallery"
   date: 1980-01-01
   link_to_original: 
   publication: "The Katonah Gallery"
@@ -1511,14 +1465,14 @@
   title: "Plane Truths: 19th Century American Trompe l’Oeil Painting"
 
 - 
-  content: "October, 1979"
+  # content: "October, 1979"
   date: 1979-10-01
   link_to_original: 
   publication: Arts
   title: "The Age of Blood and Iron: Marsden Hartley in Berlin"
 
 - 
-  content: "exhibition catalog, Terry Dintenfass Gallery, New York, 1975"
+  content: "Exhibition catalog, Terry Dintenfass Gallery, New York"
   date: 1975-01-01
   link_to_original: 
   publication: "Terry Dintenfass Gallery"
@@ -1526,7 +1480,7 @@
   title: "Shapes of Industry: First Images in American Art"
 
 - 
-  content: "December, 1975 "
+  # content: "December, 1975 "
   date: 1975-01-01
   link_to_original: 
   publication: ARTnews
