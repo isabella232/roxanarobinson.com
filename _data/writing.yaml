@@ -1,5 +1,18 @@
 # Book Reviews: e.g. title: "Author's *BookTitle*" unless the article has its own title, use that, and put "On Author's *BookTitle*" in the content:
 # to make a word italicized, put an asterisk around it, like *this*
+# category: Essays
+# category: "Anthologies & Collections"
+# category: Book Reviews
+# category: Travel
+# category: Short Stories
+# category: Art History
+
+-
+  title: "On Philip Seymour Hoffman and Heroin"
+  link_to_original: "http://2paragraphs.com/2014/02/roxana-robinson-on-philip-seymour-hoffman-and-heroin/"
+  publication: "2 Paragraphs"
+  date: 2014-02-04
+  category: Essays
 
 -
   title: "Facing the Change: Personal Encounters with Global Warming"
