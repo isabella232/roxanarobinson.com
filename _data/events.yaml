@@ -7,31 +7,6 @@
   address: 
 
 -
-  start: 2014-05-01 19:00:00
-  city-state: New York, NY
-  title: War Lit Panel
-  venue: Wollman Auditorium
-  address: 65 West 12 Street
-  summary: "PEN World Voices Festival"
-
-
--
-  start: 2014-04-29
-  city-state: New York
-  allday: true
-  title: Adrian Bonbenberger - War Lit Panel
-  venue: Strand Bookstore
-  address: 828 Broadway, New York
-
--
-  start: 2014-03-21 19:30:00
-  city-state: Pittsfield Mass.
-  title: Berkshire Festival of Women Writers
-  venue: Lichtenstein Arts Center
-  address: Renne Avenue
-  summary: "Panel on transgendered writing at Berkshire Women Writers Festival."
-
--
   title: Wesleyan Writers Conference
   venue: 
   address: 
@@ -41,6 +16,31 @@
   allday: true
   start: 2014-06-11 18:00:00
   end: 2014-06-15 20:30:00
+  summary: Through the 15th
+
+-
+  start: 2014-05-01 19:00:00
+  city-state: New York, NY
+  title: War Lit Panel
+  venue: Wollman Auditorium
+  address: 65 West 12 Street
+  summary: "PEN World Voices Festival"
+
+-
+  start: 2014-04-29 19:00:00
+  city-state: New York
+  title: "Adrian Bonbenberger - War Lit Panel"
+  venue: Strand Bookstore
+  address: "828 Broadway, New York"
+  summary: "Panel with David Abrams, Matt Gallagher and Adrian Bonenberger, to celebrate his new book, Afghan Post."
+
+-
+  start: 2014-03-21 19:30:00
+  city-state: Pittsfield Mass.
+  title: Berkshire Festival of Women Writers
+  venue: Lichtenstein Arts Center
+  address: Renne Avenue
+  summary: "Panel on transgendered writing at Berkshire Women Writers Festival."
 
 -
   title: Tucson Festival of Books

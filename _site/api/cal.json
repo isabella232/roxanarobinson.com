@@ -479,23 +479,6 @@
     ,
     
   {
-    "name"    : "Wesleyan Writers Conference",
-    "allday"  : "true",
-    "start"   : "2014-06-11 14:00:00 -0400",
-    "end"     : "2014-06-15 16:30:00 -0400",
-    "starttime"   : "02:00 pm",
-    "endtime"     : "04:30 pm",
-    "venue"   : "",
-    "address" : "",
-    "citystate" : "Middletown, CT", 
-    "website" : "http://www.wesleyan.edu/writing/conference/index.html",
-    "url"     : "",
-    "summary" : ""
-  }
-
-    ,
-    
-  {
     "name"    : "Berkshire Festival of Women Writers",
     "allday"  : "",
     "start"   : "2014-03-21 15:30:00 -0400",
@@ -514,17 +497,17 @@
     
   {
     "name"    : "Adrian Bonbenberger - War Lit Panel",
-    "allday"  : "true",
-    "start"   : "2014-04-29",
+    "allday"  : "",
+    "start"   : "2014-04-29 15:00:00 -0400",
     "end"     : "",
-    "starttime"   : "12:00 am",
+    "starttime"   : "03:00 pm",
     "endtime"     : "",
     "venue"   : "Strand Bookstore",
     "address" : "828 Broadway, New York",
     "citystate" : "New York", 
     "website" : "",
     "url"     : "",
-    "summary" : ""
+    "summary" : "Panel with David Abrams, Matt Gallagher and Adrian Bonenberger, to celebrate his new book, Afghan Post."
   }
 
     ,
@@ -542,6 +525,23 @@
     "website" : "",
     "url"     : "",
     "summary" : "PEN World Voices Festival"
+  }
+
+    ,
+    
+  {
+    "name"    : "Wesleyan Writers Conference",
+    "allday"  : "true",
+    "start"   : "2014-06-11 14:00:00 -0400",
+    "end"     : "2014-06-15 16:30:00 -0400",
+    "starttime"   : "02:00 pm",
+    "endtime"     : "04:30 pm",
+    "venue"   : "",
+    "address" : "",
+    "citystate" : "Middletown, CT", 
+    "website" : "http://www.wesleyan.edu/writing/conference/index.html",
+    "url"     : "",
+    "summary" : "Through the 15th"
   }
 
     ,
