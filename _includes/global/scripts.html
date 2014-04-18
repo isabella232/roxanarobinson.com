@@ -1,47 +1,57 @@
 {% if site.use_jquery_cdn == true %}
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="{{site.baseurl}}/assets/js/jquery.min.js"><\/script>')</script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="{{site.baseurl}}/assets/js/jquery.min.js"><\/script>')</script>
 {% endif %}
-    <script src="{{site.baseurl}}/assets/js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-      // var doc = document.documentElement;
-      // doc.setAttribute('data-useragent', navigator.userAgent);
+ 
 
-
-$("h1.entry-title a, h1.page-title").each(function() {
-  //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
-  var wordArray = $(this).text().split(" ");
-  if (wordArray.length > 1) {
-    wordArray[wordArray.length-2] += "&nbsp;" + wordArray[wordArray.length-1];
-    wordArray.pop();
-    $(this).html(wordArray.join(" "));
-  }
-});
-
-
-
-
-    </script>
-{% if page.url == "/sitemap/" %}
-  {% include scripts/list.js.html  %}
-{% endif %}
+ {% comment %}Scripts for events display{% endcomment %}   
 <script src="{{site.baseurl}}/assets/js/underscore-min.js"></script>
 <script src="{{site.baseurl}}/assets/js/moment.min.js"></script>
 {% include scripts/events-list.js.html  %}
+{% comment %}// END Scripts for events display{% endcomment %}   
+
+
+
+<script>
+  $(function() {
+    var menu = $('#navigation-menu');
+    var menuToggle = $('#js-mobile-menu');
+
+    $(menuToggle).on('click', function(e) {
+      e.preventDefault();
+      menu.slideToggle(function(){
+        if(menu.is(':hidden')) {
+          menu.removeAttr('style');
+        }
+      });
+    });
+  });
+</script>
+
+
+
+{% if page.url == "/sitemap/" %}
+  {% include scripts/list.js.html  %}
+{% endif %}
+
 {% if page.url == "/writing/" or page.url == '/media/' %}
   {% include scripts/list.js.html  %}
 {% endif %}
 
-<script type="text/javascript">{% include scripts/super-quotes.js  %}</script>
-{% if page.url contains "/books/" %}
-<script type="text/javascript">
-    function unhide(divID) {
-        var item = document.getElementById(divID);
-        if (item) {
 
-            item.style.display=(item.style.display=='none')?'block':'none';
-        }
-    }
-</script>
+{% if page.url contains "/books/" %}
+  <script type="text/javascript">
+      function unhide(divID) {
+          var item = document.getElementById(divID);
+          if (item) {
+
+              item.style.display=(item.style.display=='none')?'block':'none';
+          }
+      }
+  </script>
 {% endif %}
+
+
+
+
+<script type="text/javascript">{% include scripts/super-quotes.js  %}</script>

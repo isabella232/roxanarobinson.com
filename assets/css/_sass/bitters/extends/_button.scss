@@ -1,0 +1,7 @@
+%button {
+  @include button(simple, $navigation-background-color);
+  -webkit-font-smoothing: antialiased;
+  font-size: $base-font-size;
+  font-weight: light;
+  line-height: 1em;
+}

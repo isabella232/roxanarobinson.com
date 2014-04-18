@@ -2,10 +2,10 @@
 
 <div class="item-wrapper">
 <div class="column-date">
-	<small>{{item.date | date: "%Y-%b-%d" }}</small> 
+	<small>{{item.date | date: "%B %d, %Y" }}</small> 
 </div>
 <div class="column-item">
-	<h2 class="h6" style="display:inline;">
+	<h3>
 		{% if item.link_to_original %}
 			<a href="{{item.link_to_original}}" target="_blank">{{title}}</a>
 		{% elsif item.file %}
@@ -13,8 +13,8 @@
 		{% else %}
 			{{title}}
 		{% endif %} {% comment %}<small>({{item.language}})</small>{% endcomment %}
- 	</h2>
-		<div class="item">
+ 
+		<span class="item">
 		{% if item.link_to_original %}
 			<small>
 				<a href="{{item.link_to_original}}">
@@ -29,8 +29,9 @@
 				</a>
 			</small>
 		{% endif %}
-	</div>
-<br />
+	</span>
+	</h3>
+
 	<small>
 	{% if item.summary %}
 		{{item.summary | markdownify }}

@@ -14,7 +14,7 @@
 
         <link rel="icon" href="/favicon.ico" type="image/x-icon">
         
-        <link href='/assets/css/app.css' rel='stylesheet' />
+        <link href='/assets/css/screen.css' rel='stylesheet' />
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">        
 
         <link rel="canonical" href="//books/sweetwater/" />
@@ -42,88 +42,57 @@
 
 
     </head>
-<body class="books">
-	<header class="row">
-		<div class="small-12 medium-12 large-12 columns">
-			<h1>
-				<a href="/">
-					Roxana Robinson
-				</a>
-			</h1>
-		</div>
-	</header>
-	<div class="row">
-<nav class="top-bar contain-to-grid" data-topbar>
-  <ul class="title-area">
-    <li class="name">
-    </li>
-    <li class="toggle-topbar button tiny">Menu</li>
-  </ul>
+	<body class="books">
+		<div class="wrapper">
+			<header class="banner"><h1><a href="/">Roxana Robinson</a></h1></header>
+			<header class="navigation">
+  <div class="menu-wrapper">
+    <p class="navigation-menu-button" id="js-mobile-menu">MENU</p>
+    <div class="nav">  
+      <ul id="navigation-menu" class="nav-sidebar">
+	<li class="nav-sidebar-item"><a href="/">home</a></li>
+			
+		<li id="books" class="nav-sidebar-item active">
+			<a href="/books/">Books</a>
+		</li>
+			
+		<li id="writing" class="nav-sidebar-item">
+			<a href="/writing/">Writings</a>
+		</li>
+			
+		<li id="media" class="nav-sidebar-item">
+			<a href="/media/">Media</a>
+		</li>
+			
+		<li id="events" class="nav-sidebar-item">
+			<a href="/events/">Appearances</a>
+		</li>
+			
+		<li id="about-the-author" class="nav-sidebar-item">
+			<a href="/about-the-author/">Bio</a>
+		</li>
+			
+		<li id="contact" class="nav-sidebar-item">
+			<a href="/contact/">Contact</a>
+		</li>
+	
+	</ul>
 
-  <section class="top-bar-section">
-    <!-- Right Nav Section -->
-    <ul class="">
-      <li class="menu-item">
-        <a href="/">Home</a>
-      </li>
-
-
-      
-      <li class="menu-item active">
-        <a href="/books/">Books</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/writing/">Writings</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/media/">Media</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/events/">Appearances</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/about-the-author/">Bio</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/contact/">Contact</a>
-      </li>
-      
-      
-
-
-      </ul>
-
-  </section>
-</nav>
-</div>
-
-
-	<section class="main-section row">
-		<article class="page-layout">
-	<header>
-	  <h1 class="entry-title">    	   
-	   	Sweetwater
-	  </h1>
-	</header>
-	<div class="row" style="margin-bottom:8rem;">
-		<div class="large-11 large-centered columns">
-			<div class="small-12 medium-12 large-12">
-        
+    </div>
+  </div>
+</header>
+			<section class="main-section content">
+				<article class="page-content">
+  
+    <header>
+      <h1 class="page-title">
+        Sweetwater 
+      </h1>
+    </header>
+  
+	<section class="books">
+	  <div class="row">
+	    
 
     
     
@@ -270,48 +239,60 @@
     
   
 
-      </div>
-			<div class="small-12 medium-4 large-4 columns">
-				
-	<img src="/assets/img/9780812967340-220x339.jpg" style="max-width:220px;" class="cover image-shadow">
+	  </div>
+	  <aside>
+	    
+<a href="/books/sweetwater/" title="Sweetwater">
+	<img src="/assets/img/9780812967340-220x339.jpg" style="" class="book-cover" alt="cover Sweetwater">
+</a>	
 
 
-<ul class="no-bullet" style="max-width:220px;margin-left:.25rem;margin-top:.5rem;">
+	    <ul class="no-bullet meta-data">
 	
-		<li>
+		<li class="publisher">
 			<small>
-			 Random House
+			 Publisher: Random House
 			</small>
 		</li>
 	
 	
     <li class='date'>
       <small>
-        May 13, 2003
+        Publication Date: May 13, 2003
       </small>
     </li>
   
 	
-		<li>
+		<li class="isbn">
 			<small>
 			ISBN: 9780812967340
 			</small>
 		</li>
 	
 	
-		<li>
+		<li class="isbn_digital">
 			<small>
 				ISBN Digital: 9780307431882
 			</small>
 		<li>
 	
+
+
+<li class="meta_data">
+			<small>
+				
+			</small>
+		<li>
+
+
+
 </ul>
 
-				
+	    
 
 
 
-<button class="pure-buttonTK button tiny radius" onclick="javascript:unhide('buy-9780812967340');">Buy <em>Sweetwater</em></button>
+<button class="pure-buttonTK button tiny radius" onclick="javascript:unhide('buy-9780812967340');">Buy</button>
 
   <div id="buy-9780812967340" class="buy-buttons list-block hiddenTK" style="display:none;">
     <ul class="buy-retailers no-bullet">
@@ -381,13 +362,14 @@ document.getElementById("isbn10_9780812967340").innerHTML='<li><a href="http://w
 
 
 </script>
-			</div>
-			<div class="small-12 medium-8 large-8 columns">
-				<p>Isabel Green&#8217;s marriage to Paul Simmons, after the death of her first husband, marks her reconnection to life &#8212; a venture she&#8217;s determined will succeed. But this proves to be harder than she&#8217;d anticipated, and the challenges of starting afresh seem more complicated in adulthood. Staying at the Simmons lodge for their annual summer visit, Isabel finds herself entering into a set of familial complexities. She struggles to understand her new husband, his elderly, difficult parents and his brother, whose relationship with Paul seems oddly fraught. Furthermore, her second marriage begins to cast into sharp relief the troubling echoes of her first. Isabel&#8217;s professional life plays a part as well: a passionate environmental advocate, she is aware of the tensions within the mountain landscape itself during a summer of spectacular beauty and ominous drought.</p>
+	  </aside>
+	  <article>
+	   <p>Isabel Green&#8217;s marriage to Paul Simmons, after the death of her first husband, marks her reconnection to life &#8212; a venture she&#8217;s determined will succeed. But this proves to be harder than she&#8217;d anticipated, and the challenges of starting afresh seem more complicated in adulthood. Staying at the Simmons lodge for their annual summer visit, Isabel finds herself entering into a set of familial complexities. She struggles to understand her new husband, his elderly, difficult parents and his brother, whose relationship with Paul seems oddly fraught. Furthermore, her second marriage begins to cast into sharp relief the troubling echoes of her first. Isabel&#8217;s professional life plays a part as well: a passionate environmental advocate, she is aware of the tensions within the mountain landscape itself during a summer of spectacular beauty and ominous drought.</p>
 
-			</div>
-			<div class="small-12 medium-12 large-12 columns" id="reviews">
-				    
+	  </article>
+	</section>
+  <div id="reviews" class="row">
+        
     
     
     
@@ -568,213 +550,129 @@ document.getElementById("isbn10_9780812967340").innerHTML='<li><a href="http://w
     
     
   
-			</div>
-		</div>
-	</div>
+  </div>
 </article>
 
-	</section>
-	<footer class="row">
-  <div class="large-7 columns">
+			</section>
+			<footer class="row">
     <ul class="no-bullet">
       <li class="source-org vcarfd copyright"><a href="/">&copy; 2014 <span class="fn">Roxana Robinson</span></a></li>
-    </ul>  
-  </div>
-  <div class="large-5 columns">
-    <ul class="no-bullet right">
       <li><a href="http://sonnetmedia.net">site by sonnet media</a></li>
     </ul>
-  </div>
 </footer>
 
+		</div>
+		
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
 
-	
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
+ 
 
-    <script src="/assets/js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-      // var doc = document.documentElement;
-      // doc.setAttribute('data-useragent', navigator.userAgent);
-
-
-$("h1.entry-title a, h1.page-title").each(function() {
-  //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
-  var wordArray = $(this).text().split(" ");
-  if (wordArray.length > 1) {
-    wordArray[wordArray.length-2] += "&nbsp;" + wordArray[wordArray.length-1];
-    wordArray.pop();
-    $(this).html(wordArray.join(" "));
-  }
-});
-
-
-
-
-    </script>
-
+    
 <script src="/assets/js/underscore-min.js"></script>
 <script src="/assets/js/moment.min.js"></script>
 <script>
-// TODO: [X]Times show an extra 0 <-- going to leave this
-// TODO: [X]reverse ordering for past events (can fix with json file, but rather not)
-// TODO: [X]conditionals to not show missing content
-// TODO: [X]Links - taking out - put all info in the main post
-
-
 // REQUIRES MOMENT.JS AND UNDERSCORE.JS
 var timing = function(start, end) {
-  // this can be improved another time <--seattlehacks
   return moment(start).format('MM/DD/YYYY h:mma') + ' - ' + moment(end).format('MM/DD/YYYY h:mma');
 };
-
 $(document).ready(function() {
-
-
   $.getJSON('/api/cal.json', null, function(response) {
-
-
-
-
-
     var groups = _.groupBy(response.events, function(event) { return moment(event.start).format('YYYY-MM-DD'); });
-
-
-
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
       days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
-
-
-
-
-
-
-
-
     days.forEach(function(day) {
-
       if (moment(day).isAfter(moment().subtract('days', 1))) {
-
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar');
-
-
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5>').appendTo('#calendar');
         groups[day].forEach(function(event) {
-
-
-
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
-
-if(event.name) {
+      if(event.name) {
             $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar');
           }
-
-
-
-
-         if(event.allday != 'true') {
+       if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');
           }
-
           if(event.venue) {
             $('<br /><span class="p-location location h-card vcard"><span>' + event.venue + '</span> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar');
           }
-
           if(event.summary) {
             $('<br /><span class="p-name summary">' + event.summary + '</span>').appendTo('#calendar');
             }
-
           if(event.website) {
             $('<a href="' + event.website + '" class="ml small"> <i class="fa fa-external-link"></i> website</a>').appendTo('#calendar');
           }
-
         $('</div>').appendTo('#calendar');
-
         });
-
-
-
       }
-
-
   });
-
-
-
-
-
-
-
-
 days_desc.forEach(function(day) {
-
-
-
-      if (moment(day).isBefore(moment().subtract('days', 1))) {
-
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar-past');
-
-
+ if (moment(day).isBefore(moment().subtract('days', 1))) {
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5>').appendTo('#calendar-past');
         groups[day].forEach(function(event) {
-
-
-
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar-past');
-
-if(event.name) {
+      if(event.name) {
             $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar-past');
           }
-
-
-
-
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar-past');
           }
-
           if(event.venue) {
             $('<br /><span class="p-location location h-card vcard"><span>' + event.venue + '</span> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar-past');
           }
-
           if(event.summary) {
             $('<br /><span class="p-name summary">' + event.summary + '</span>').appendTo('#calendar-past');
             }
-
           if(event.website) {
             $('<a href="' + event.website + '" class="ml small"><i class="fa fa-external-link"></i> website</a>').appendTo('#calendar-past');
           }
-
         $('</div>').appendTo('#calendar-past');
-
         });
-
-
-
         }
-
-
   });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   });
 });
-    </script>
+</script>
+
+   
+
+
+
+<script>
+  $(function() {
+    var menu = $('#navigation-menu');
+    var menuToggle = $('#js-mobile-menu');
+
+    $(menuToggle).on('click', function(e) {
+      e.preventDefault();
+      menu.slideToggle(function(){
+        if(menu.is(':hidden')) {
+          menu.removeAttr('style');
+        }
+      });
+    });
+  });
+</script>
+
+
+
+
+
+
+
+
+
+  <script type="text/javascript">
+      function unhide(divID) {
+          var item = document.getElementById(divID);
+          if (item) {
+
+              item.style.display=(item.style.display=='none')?'block':'none';
+          }
+      }
+  </script>
+
+
 
 
 
@@ -783,16 +681,5 @@ if(event.name) {
  * http://github.com/kellym/smartquotesjs
  */
 (typeof("jQuery")=="function"?jQuery:function(d){var b=document.addEventListener||document.attachEvent,c=document.removeEventListener?"removeEventListener":"detachEvent",a=document.addEventListener?"DOMContentLoaded":"onreadystatechange";b.call(document,a,function(){document[c](a,arguments.callee,false);d()},false)})(function(){var a=document.body;var b=a.childNodes[0];while(b!=null){if(b.nodeType==3){b.nodeValue=b.nodeValue.replace(/(\W|^)"(\S)/g,"$1\u201c$2").replace(/(\u201c[^"]*)"([^"]*$|[^\u201c"]*\u201c)/g,"$1\u201d$2").replace(/([^0-9])"/g,"$1\u201d").replace(/(\W|^)'(\S)/g,"$1\u2018$2").replace(/([a-z])'([a-z])/ig,"$1\u2019$2").replace(/((\u2018[^']*)|[a-z])'([^0-9]|$)/ig,"$1\u2019$3").replace(/(\u2018)([0-9]{2}[^\u2019]*)(\u2018([^0-9]|$)|$|\u2019[a-z])/ig,"\u2019$2$3").replace(/(\B|^)\u2018(?=([^\u2019]*\u2019\b)*([^\u2019\u2018]*\W[\u2019\u2018]\b|[^\u2019\u2018]*$))/ig,"$1\u2019").replace(/'''/g,"\u2034").replace(/("|'')/g,"\u2033").replace(/'/g,"\u2032")}if(b.hasChildNodes()&&b.firstChild.nodeName!="CODE"){b=b.firstChild}else{do{while(b.nextSibling==null&&b!=a){b=b.parentNode}b=b.nextSibling}while(b&&(b.nodeName=="CODE"||b.nodeName=="SCRIPT"||b.nodeName=="STYLE"))}}});</script>
-
-<script type="text/javascript">
-    function unhide(divID) {
-        var item = document.getElementById(divID);
-        if (item) {
-
-            item.style.display=(item.style.display=='none')?'block':'none';
-        }
-    }
-</script>
-
-</body>
+	</body>
 </html>

@@ -14,7 +14,7 @@
 
         <link rel="icon" href="/favicon.ico" type="image/x-icon">
         
-        <link href='/assets/css/app.css' rel='stylesheet' />
+        <link href='/assets/css/screen.css' rel='stylesheet' />
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">        
 
         <link rel="canonical" href="//biography/" />
@@ -42,79 +42,47 @@
 
 
     </head>
-<body class="">
-	<header class="row">
-		<div class="small-12 medium-12 large-12 columns">
-			<h1>
-				<a href="/">
-					Roxana Robinson
-				</a>
-			</h1>
-		</div>
-	</header>
-	<div class="row">
-<nav class="top-bar contain-to-grid" data-topbar>
-  <ul class="title-area">
-    <li class="name">
-    </li>
-    <li class="toggle-topbar button tiny">Menu</li>
-  </ul>
+	<body class="">
+		<div class="wrapper">
+			<header class="banner"><h1><a href="/">Roxana Robinson</a></h1></header>
+			<header class="navigation">
+  <div class="menu-wrapper">
+    <p class="navigation-menu-button" id="js-mobile-menu">MENU</p>
+    <div class="nav">  
+      <ul id="navigation-menu" class="nav-sidebar">
+	<li class="nav-sidebar-item"><a href="/">home</a></li>
+			
+		<li id="books" class="nav-sidebar-item">
+			<a href="/books/">Books</a>
+		</li>
+			
+		<li id="writing" class="nav-sidebar-item">
+			<a href="/writing/">Writings</a>
+		</li>
+			
+		<li id="media" class="nav-sidebar-item">
+			<a href="/media/">Media</a>
+		</li>
+			
+		<li id="events" class="nav-sidebar-item">
+			<a href="/events/">Appearances</a>
+		</li>
+			
+		<li id="about-the-author" class="nav-sidebar-item">
+			<a href="/about-the-author/">Bio</a>
+		</li>
+			
+		<li id="contact" class="nav-sidebar-item">
+			<a href="/contact/">Contact</a>
+		</li>
+	
+	</ul>
 
-  <section class="top-bar-section">
-    <!-- Right Nav Section -->
-    <ul class="">
-      <li class="menu-item">
-        <a href="/">Home</a>
-      </li>
-
-
-      
-      <li class="menu-item">
-        <a href="/books/">Books</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/writing/">Writings</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/media/">Media</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/events/">Appearances</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/about-the-author/">Bio</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/contact/">Contact</a>
-      </li>
-      
-      
-
-
-      </ul>
-
-  </section>
-</nav>
-</div>
-
-
-	<section class="main-section row">
-		<div class="small-12 medium-8 large-8 large-centered columns page-layout">
+    </div>
+  </div>
+</header>
+			<section class="main-section content">
+				<div class="small-12 medium-8 large-8 large-centered columns page-layout">
   <article class="hentry">
   <header>
    
@@ -124,7 +92,7 @@
     
   </header>
   <div class="entry-content prose">
-    <p><a href="/wp-content/uploads/2013/06/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG.jpg"><img class="alignleft" style="margin-left: 5px; margin-right: 5px;" alt="Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG" src="/assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG.jpg" width="225" height="300" hspace="5" /></a>Born in Pine Mountain, Kentucky, Roxana Robinson grew up in New Hope, Pennsylvania. She graduated from Buckingham Friends School, in Lahaska, and from The Shipley School, in Bryn Mawr. She attended Bennington College and studied with Bernard Malamud and Howard Nemerov. She received a B.A. degree in English Literature from the University of Michigan</p>
+    <p><img src="/assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG.jpg" alt=""> Born in Pine Mountain, Kentucky, Roxana Robinson grew up in New Hope, Pennsylvania. She graduated from Buckingham Friends School, in Lahaska, and from The Shipley School, in Bryn Mawr. She attended Bennington College and studied with Bernard Malamud and Howard Nemerov. She received a B.A. degree in English Literature from the University of Michigan</p>
 
 <p>Ms. Robinson has received fellowships from the Guggenheim Foundation, the National Endowment for the Arts, and The MacDowell Colony. She is a critically acclaimed fiction writer and the author of five novels and three collections of short stories. Her work has been compared to John Cheever’s by <em>The New York Times</em>and to Edith Wharton’s by <em>Time </em>magazine. It has appeared in <em>The New Yorker</em>, <em>The Atlantic</em>, <em>Harper’s</em>, <em>One Story</em>, <em>Best American Short Stories</em>, and elsewhere. Her work has been widely anthologized and broadcast on National Public Radio. Four of her works have been chosen Notable Books of the Year by <em>The New York Times</em>, and she was named a Literary Lion by The New York Public Library.</p>
 
@@ -146,208 +114,116 @@
 </div>
 
 
-	</section>
-	<footer class="row">
-  <div class="large-7 columns">
+			</section>
+			<footer class="row">
     <ul class="no-bullet">
       <li class="source-org vcarfd copyright"><a href="/">&copy; 2014 <span class="fn">Roxana Robinson</span></a></li>
-    </ul>  
-  </div>
-  <div class="large-5 columns">
-    <ul class="no-bullet right">
       <li><a href="http://sonnetmedia.net">site by sonnet media</a></li>
     </ul>
-  </div>
 </footer>
 
+		</div>
+		
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
 
-	
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
+ 
 
-    <script src="/assets/js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-      // var doc = document.documentElement;
-      // doc.setAttribute('data-useragent', navigator.userAgent);
-
-
-$("h1.entry-title a, h1.page-title").each(function() {
-  //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
-  var wordArray = $(this).text().split(" ");
-  if (wordArray.length > 1) {
-    wordArray[wordArray.length-2] += "&nbsp;" + wordArray[wordArray.length-1];
-    wordArray.pop();
-    $(this).html(wordArray.join(" "));
-  }
-});
-
-
-
-
-    </script>
-
+    
 <script src="/assets/js/underscore-min.js"></script>
 <script src="/assets/js/moment.min.js"></script>
 <script>
-// TODO: [X]Times show an extra 0 <-- going to leave this
-// TODO: [X]reverse ordering for past events (can fix with json file, but rather not)
-// TODO: [X]conditionals to not show missing content
-// TODO: [X]Links - taking out - put all info in the main post
-
-
 // REQUIRES MOMENT.JS AND UNDERSCORE.JS
 var timing = function(start, end) {
-  // this can be improved another time <--seattlehacks
   return moment(start).format('MM/DD/YYYY h:mma') + ' - ' + moment(end).format('MM/DD/YYYY h:mma');
 };
-
 $(document).ready(function() {
-
-
   $.getJSON('/api/cal.json', null, function(response) {
-
-
-
-
-
     var groups = _.groupBy(response.events, function(event) { return moment(event.start).format('YYYY-MM-DD'); });
-
-
-
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
       days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
-
-
-
-
-
-
-
-
     days.forEach(function(day) {
-
       if (moment(day).isAfter(moment().subtract('days', 1))) {
-
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar');
-
-
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5>').appendTo('#calendar');
         groups[day].forEach(function(event) {
-
-
-
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
-
-if(event.name) {
+      if(event.name) {
             $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar');
           }
-
-
-
-
-         if(event.allday != 'true') {
+       if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');
           }
-
           if(event.venue) {
             $('<br /><span class="p-location location h-card vcard"><span>' + event.venue + '</span> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar');
           }
-
           if(event.summary) {
             $('<br /><span class="p-name summary">' + event.summary + '</span>').appendTo('#calendar');
             }
-
           if(event.website) {
             $('<a href="' + event.website + '" class="ml small"> <i class="fa fa-external-link"></i> website</a>').appendTo('#calendar');
           }
-
         $('</div>').appendTo('#calendar');
-
         });
-
-
-
       }
-
-
   });
-
-
-
-
-
-
-
-
 days_desc.forEach(function(day) {
-
-
-
-      if (moment(day).isBefore(moment().subtract('days', 1))) {
-
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar-past');
-
-
+ if (moment(day).isBefore(moment().subtract('days', 1))) {
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5>').appendTo('#calendar-past');
         groups[day].forEach(function(event) {
-
-
-
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar-past');
-
-if(event.name) {
+      if(event.name) {
             $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar-past');
           }
-
-
-
-
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar-past');
           }
-
           if(event.venue) {
             $('<br /><span class="p-location location h-card vcard"><span>' + event.venue + '</span> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar-past');
           }
-
           if(event.summary) {
             $('<br /><span class="p-name summary">' + event.summary + '</span>').appendTo('#calendar-past');
             }
-
           if(event.website) {
             $('<a href="' + event.website + '" class="ml small"><i class="fa fa-external-link"></i> website</a>').appendTo('#calendar-past');
           }
-
         $('</div>').appendTo('#calendar-past');
-
         });
-
-
-
         }
-
-
   });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   });
 });
-    </script>
+</script>
+
+   
+
+
+
+<script>
+  $(function() {
+    var menu = $('#navigation-menu');
+    var menuToggle = $('#js-mobile-menu');
+
+    $(menuToggle).on('click', function(e) {
+      e.preventDefault();
+      menu.slideToggle(function(){
+        if(menu.is(':hidden')) {
+          menu.removeAttr('style');
+        }
+      });
+    });
+  });
+</script>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -356,6 +232,5 @@ if(event.name) {
  * http://github.com/kellym/smartquotesjs
  */
 (typeof("jQuery")=="function"?jQuery:function(d){var b=document.addEventListener||document.attachEvent,c=document.removeEventListener?"removeEventListener":"detachEvent",a=document.addEventListener?"DOMContentLoaded":"onreadystatechange";b.call(document,a,function(){document[c](a,arguments.callee,false);d()},false)})(function(){var a=document.body;var b=a.childNodes[0];while(b!=null){if(b.nodeType==3){b.nodeValue=b.nodeValue.replace(/(\W|^)"(\S)/g,"$1\u201c$2").replace(/(\u201c[^"]*)"([^"]*$|[^\u201c"]*\u201c)/g,"$1\u201d$2").replace(/([^0-9])"/g,"$1\u201d").replace(/(\W|^)'(\S)/g,"$1\u2018$2").replace(/([a-z])'([a-z])/ig,"$1\u2019$2").replace(/((\u2018[^']*)|[a-z])'([^0-9]|$)/ig,"$1\u2019$3").replace(/(\u2018)([0-9]{2}[^\u2019]*)(\u2018([^0-9]|$)|$|\u2019[a-z])/ig,"\u2019$2$3").replace(/(\B|^)\u2018(?=([^\u2019]*\u2019\b)*([^\u2019\u2018]*\W[\u2019\u2018]\b|[^\u2019\u2018]*$))/ig,"$1\u2019").replace(/'''/g,"\u2034").replace(/("|'')/g,"\u2033").replace(/'/g,"\u2032")}if(b.hasChildNodes()&&b.firstChild.nodeName!="CODE"){b=b.firstChild}else{do{while(b.nextSibling==null&&b!=a){b=b.parentNode}b=b.nextSibling}while(b&&(b.nodeName=="CODE"||b.nodeName=="SCRIPT"||b.nodeName=="STYLE"))}}});</script>
-
-</body>
+	</body>
 </html>

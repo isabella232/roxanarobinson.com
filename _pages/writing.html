@@ -11,9 +11,9 @@ td.title p {
 </style>
 <div class="entry">
 	<div class="row">
-		<div class="large-12 columns">
+		
 			<ul class="button-group radius">
-				<li class="button button-filter tiny not-active">Filters: </li>
+				<!-- <li class="button button-filter tiny not-active">Filters: </li> -->
 				{% for link in site.data.writingCats %}
 					<li class="button tiny" id="filter-{{link.catName}}">
 						{{link.name}}
@@ -23,28 +23,23 @@ td.title p {
 					none
 				</li>
 			</ul>
-		</div>
 	</div>
 	<div id="entry-list" style="margin-top:.25em;">
-		<div class="row">
-		<div class="large-3 columns">
-	    	<input type="text" class="search" placeholder="Search Writings" />
-	    </div>
-	</div>
+		  	<input type="text" class="search" placeholder="Search Writings" />
 		<table>
 			<thead>
 	    	<tr>
 	      	<th class="sort" data-sort="category">Category <i class="fa fa-sort"></i></th>
 	      	<th class="sort" data-sort="title">Title <i class="fa fa-sort"></i></th>
-	      	<th class="sort" data-sort="date">date <i class="fa fa-sort"></i></th>
+	      	<th class="sort date" data-sort="date">date <i class="fa fa-sort"></i></th>
 	      	<th class="sort" data-sort="publication">publication <i class="fa fa-sort"></i></th>
 	    	</tr>
 	  	</thead>
 	  	<tbody class="list">
-				{% for writing in site.data.writing limit:250 %}
+				{% for writing in site.data.writing limit:1250 %}
 					<tr>
 						<td class="category" width="15%">{{ writing.category }}</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"{{ writing.title }}"
 							{% if writing.content %}
 								<small>{{writing.content | markdownify }}</small>

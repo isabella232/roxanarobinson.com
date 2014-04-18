@@ -1,27 +1,29 @@
 ---
 layout: default
-section: book
+section: books
 ---
-<article class="page-layout">
+{% assign books = site.categories.books %}
+<article class="page-content">
+  {% if page.title %}
     <header>
-        <h1 class="page-title">
-            {% if page.title %} {{page.title}}  {% endif %}
-        </h1>
+      <h1 class="page-title">
+        {{page.title}} 
+      </h1>
     </header>
-    {% for page in site.posts %} {% if page.isbn %}
-    <div class="row" style="margin-bottom:8rem;">
-        <div class="small-12 medium-11 large-11 large-centered columns">
-            <div class="small-12 medium-12 large-12">
-                {% include books/related-review.html show="1" %}
-            </div>
-            <div class="small-12 medium-4 large-4 columns">
-                {% include books/cover-meta.html %}
-                {% include books/buy_links.html %}
-            </div>
-            <div class="small-12 medium-8 large-8 columns">
-                {% include books/title.html %}
-            </div>
-        </div>
-    </div>
-    {% endif %} {% endfor %}
+  {% endif %}
+  {% for page in books %} 
+    <section class="books">
+      <div class="row">
+        {% include books/related-review.html show="1" %}
+      </div>
+      <aside>
+        {% include books/cover.html %}
+        {% include books/meta.html %}
+        {% include books/buy_links.html %}
+      </aside>
+      <article>
+        {% include books/title.html %}
+      </article>
+    </section>
+  {% endfor %}
 </article>
