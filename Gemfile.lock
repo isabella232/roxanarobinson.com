@@ -85,7 +85,7 @@ GEM
     rdiscount (2.1.7)
     redcarpet (2.3.0)
     safe_yaml (1.0.2)
-    sass (3.2.9)
+    sass (3.3.5)
     sass-globbing (1.1.0)
       sass (>= 3.1)
     thread_safe (0.3.3)
@@ -101,5 +101,5 @@ PLATFORMS
 DEPENDENCIES
   compass (= 0.12.2)
   github-pages
-  sass (= 3.2.9)
+  sass
   sass-globbing (>= 1.1.0)

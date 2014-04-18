@@ -1,0 +1,30 @@
+// getting started
+// gem install bourbon neat bitters
+// cd _sass
+// bitters install 
+// cd _sass/libs
+// bourbon install
+// neat install
+// uncomment and change neat directory in bitters/_bitters
+// refills and add-ons (modules) are installed manually
+
+// sass --watch --style compressed screen.scss:screen.css
+// sass --watch --style expanded screen.scss:screen.css
+
+
+@import url(http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700);
+
+@import "_sass/libs/_normalize";
+@import "_sass/libs/bourbon/bourbon";
+@import "_sass/bitters/bitters";
+@import "_sass/libs/neat/neat";
+
+// BASIC MODULES
+@import "_sass/modules/article";
+@import "_sass/modules/refills/nav-top";
+@import "_sass/modules/page-splash";
+@import "_sass/modules/footer";
+@import "_sass/modules/quotes";
+@import "_sass/modules/font-icons";
+// SITE
+@import "_sass/site-specific";

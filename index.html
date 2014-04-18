@@ -2,57 +2,61 @@
 layout: default
 category: home
 ---
-<div class="row page-layout">
-	<div class="small-12 medium-12 large-12 large-centered columns">
-		<div class="small-12 medium-8 large-8 large-centered columns page-layout">
-			
-
+<div class="page-content">
+	
+<div class="row padded padded-right">
 	<a href="{{site.baseurl}}/books/sparta/">
 		<img src="{{site.baseurl}}/assets/img/9780374267704_p0_v1_s600-220x330.jpg" style="max-width:200px;margin-top:10px;float:left;margin-right:18px;" class="image-shadow">
 	</a>
-<h2><a href="/books/sparta/">SPARTA</a></h2>
-<p><strong>Winner, James Webb Award for Distinguished Fiction</strong></p>
+	<h2>
+		<a href="/books/sparta/">SPARTA</a>
+	</h2>
+	<p>
+		<strong>Winner, James Webb Award for Distinguished Fiction</strong>
+	</p>
+	<p class="large">"One of the many strengths of this engaging story is that Robinson doesn’t treat post-traumatic stress disorder with that nifty abbreviation, PTSD, neatly buttoning it in place. Instead, she shows us a more insidious, layered and complex mix of debilitating psychological wounds..."<br />
+		<small>— Ron Carlson, <em>The New York Times Book Review</em></small></p>
+		<small><a href="{{site.baseurl}}/books/sparta/"><strong>Read more about <em>Sparta</em> and see reviews</strong></a></small>
+</div>
+	
+<div class="row">
+	<div class="bio">
 
-<p class="large">"One of the many strengths of this engaging story is that Robinson doesn’t treat post-traumatic stress disorder with that nifty abbreviation, PTSD, neatly buttoning it in place. Instead, she shows us a more insidious, layered and complex mix of debilitating psychological wounds..."<br />
-<small>— Ron Carlson, <em>The New York Times Book Review</em></small></p>
+		{% include snippets/news-list.html %}
 
-<small><a href="{{site.baseurl}}/books/sparta/"><strong>Read more about <em>Sparta</em> and see reviews</strong></a></small>
+		<p><img src="{{site.baseurl}}/assets/img/Robinson2_JoyceRavid_300x400.jpg" style="max-width:200px;"></p>
+		<p>
+			
+			Roxana Robinson is the author of five novels, including <em>Cost</em>; three collections of short stories; and the biography <em>Georgia O’Keeffe: A Life</em>. Her work has appeared in <em>The New Yorker</em>, <em>The Atlantic</em>, <em>Harper’s</em> Magazine, <em>The New York Times</em>, <em>The Washington Post</em>, <em>The Wall Street Journal</em>, <em>Travel and Leisure</em>, <em>More</em>, and <em>Vogue</em>, among other publications. She divides her time between New York, Connecticut, and Maine. <br /><br /><br />
+		</p>
+		<hr />
+		<div class="row">
+			{% include books/books-list.html %}
 		</div>
-		
+
+
+	</div>
+	<div class="events">
+		<aside>
+			<h4 style="margin-bottom:-30px;">Upcoming Events</h4>
+			<div id="calendar" ></div>
+		</aside>
 	</div>
 </div>
 
-<div class="row page-layout">
 
-	<div class="small-12 medium-10 large-10 large-centered columns">
-		<div class="small-12 medium-8 large-8 columns page-layout">
-<p><img src="{{site.baseurl}}/assets/img/Robinson2_JoyceRavid_300x400.jpg" class="image-shadow" style="max-width:200px;float:left;margin-right:18px;margin-top:10px;">
-			Roxana Robinson is the author of five novels, including <em>Cost</em>; three collections of short stories; and the biography <em>Georgia O’Keeffe: A Life</em>. Her work has appeared in <em>The New Yorker</em>, <em>The Atlantic</em>, <em>Harper’s</em> Magazine, <em>The New York Times</em>, <em>The Washington Post</em>, <em>The Wall Street Journal</em>, <em>Travel and Leisure</em>, <em>More</em>, and <em>Vogue</em>, among other publications. She divides her time between New York, Connecticut, and Maine. </p>
+		
+		
 
-
-
-<hr class="spacer" />
-
-{% for book in site.categories.books offset:1  %}
+	
 	
 
-      <a href="{{book.url}}" style="height:180px;float:left;margin-right:22px;">
-<img src="{{site.baseurl}}/assets/img/{{book.cover_image}}" style="max-width:100px;height:152px;" class="image-shadow">
-</a>
 
 
- {% endfor  %}
 
 
-		</div>
-		
-		
-			<div class="small-12 medium-4 large-4 columns page-layout whiteTK" style="border-left:1px solid #ddd;padding-bottom:5em;">
-            <aside>
-            	<h4 style="margin-bottom:-30px;">Upcoming Events</h4>
-            <div id="calendar" ></div>
-          </aside>
-			
-		</div>
-	</div>
+
+
+
+
 </div>

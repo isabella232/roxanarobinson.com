@@ -8,7 +8,7 @@ permalink: /media/
 		<div class="large-8 columns">
 		<!-- button-groupTK TKradius large-8f large-centeredtk columnsf -->
 			<ul class="button-group radius">
-				<li class="button button-filter tiny not-active">Filters: </li>
+				<!-- <li class="button button-filter tiny not-active">Filters: </li> -->
 				{% for link in site.data.mediaCats %}
 					<li class="button button-filter tiny" id="filter-{{link.catName}}">{{link.name}}</li>
 				{% endfor %}
@@ -30,7 +30,7 @@ permalink: /media/
 	    	<tr>
 	      	<th class="sort" data-sort="category">Category <i class="fa fa-sort"></i></th>
 	      	<th class="sort" data-sort="title">Title <i class="fa fa-sort"></i></th>
-	      	<th class="sort" data-sort="date">date <i class="fa fa-sort"></i></th>
+	      	<th class="sort date" data-sort="date">date <i class="fa fa-sort"></i></th>
 	      	<th class="sort" data-sort="publication">publication <i class="fa fa-sort"></i></th>
 	    	</tr>
 	  	</thead>

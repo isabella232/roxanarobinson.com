@@ -14,7 +14,7 @@
 
         <link rel="icon" href="/favicon.ico" type="image/x-icon">
         
-        <link href='/assets/css/app.css' rel='stylesheet' />
+        <link href='/assets/css/screen.css' rel='stylesheet' />
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">        
 
         <link rel="canonical" href="//writing/" />
@@ -42,80 +42,48 @@
 
 
     </head>
-<body class="">
-	<header class="row">
-		<div class="small-12 medium-12 large-12 columns">
-			<h1>
-				<a href="/">
-					Roxana Robinson
-				</a>
-			</h1>
-		</div>
-	</header>
-	<div class="row">
-<nav class="top-bar contain-to-grid" data-topbar>
-  <ul class="title-area">
-    <li class="name">
-    </li>
-    <li class="toggle-topbar button tiny">Menu</li>
-  </ul>
+	<body class="">
+		<div class="wrapper">
+			<header class="banner"><h1><a href="/">Roxana Robinson</a></h1></header>
+			<header class="navigation">
+  <div class="menu-wrapper">
+    <p class="navigation-menu-button" id="js-mobile-menu">MENU</p>
+    <div class="nav">  
+      <ul id="navigation-menu" class="nav-sidebar">
+	<li class="nav-sidebar-item"><a href="/">home</a></li>
+			
+		<li id="books" class="nav-sidebar-item">
+			<a href="/books/">Books</a>
+		</li>
+			
+		<li id="writing" class="nav-sidebar-item active">
+			<a href="/writing/">Writings</a>
+		</li>
+			
+		<li id="media" class="nav-sidebar-item">
+			<a href="/media/">Media</a>
+		</li>
+			
+		<li id="events" class="nav-sidebar-item">
+			<a href="/events/">Appearances</a>
+		</li>
+			
+		<li id="about-the-author" class="nav-sidebar-item">
+			<a href="/about-the-author/">Bio</a>
+		</li>
+			
+		<li id="contact" class="nav-sidebar-item">
+			<a href="/contact/">Contact</a>
+		</li>
+	
+	</ul>
 
-  <section class="top-bar-section">
-    <!-- Right Nav Section -->
-    <ul class="">
-      <li class="menu-item">
-        <a href="/">Home</a>
-      </li>
-
-
-      
-      <li class="menu-item">
-        <a href="/books/">Books</a>
-      </li>
-      
- 
-      
-      <li class="menu-item active">
-        <a href="/writing/">Writings</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/media/">Media</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/events/">Appearances</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/about-the-author/">Bio</a>
-      </li>
-      
- 
-      
-      <li class="menu-item">
-        <a href="/contact/">Contact</a>
-      </li>
-      
-      
-
-
-      </ul>
-
-  </section>
-</nav>
-</div>
-
-
-	<section class="main-section row">
-		<div class="large-12 large-centered columns page-layout">
-  <article class="hentry">
+    </div>
+  </div>
+</header>
+			<section class="main-section content">
+				<div class="page-layout">
+  <div class="page-content">
   <header>
    
       <h1 class="page-title">Writings</h1>
@@ -131,9 +99,9 @@ td.title p {
 </style>
 <div class="entry">
 	<div class="row">
-		<div class="large-12 columns">
+		
 			<ul class="button-group radius">
-				<li class="button button-filter tiny not-active">Filters: </li>
+				<!-- <li class="button button-filter tiny not-active">Filters: </li> -->
 				
 					<li class="button tiny" id="filter-essays">
 						Essays
@@ -163,20 +131,15 @@ td.title p {
 					none
 				</li>
 			</ul>
-		</div>
 	</div>
 	<div id="entry-list" style="margin-top:.25em;">
-		<div class="row">
-		<div class="large-3 columns">
-	    	<input type="text" class="search" placeholder="Search Writings" />
-	    </div>
-	</div>
+		  	<input type="text" class="search" placeholder="Search Writings" />
 		<table>
 			<thead>
 	    	<tr>
 	      	<th class="sort" data-sort="category">Category <i class="fa fa-sort"></i></th>
 	      	<th class="sort" data-sort="title">Title <i class="fa fa-sort"></i></th>
-	      	<th class="sort" data-sort="date">date <i class="fa fa-sort"></i></th>
+	      	<th class="sort date" data-sort="date">date <i class="fa fa-sort"></i></th>
 	      	<th class="sort" data-sort="publication">publication <i class="fa fa-sort"></i></th>
 	    	</tr>
 	  	</thead>
@@ -184,7 +147,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Facing the Change: Personal Encounters with Global Warming"
 							
 								<small><p>edited by Steven Pavlos Holmes</p>
@@ -205,7 +168,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Reading to Write"
 							
 								<small><p>I like to read before I write.</p>
@@ -229,7 +192,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"A Tribute to Alice Munro"
 							
 								<small><p>“I think I started reading Alice Munro in the early 1980s. I think the first book was <em>The Lives of Girls and Women</em>. It was an odd title, but I was drawn to it, because, if you’re a woman, that title reminds you that your own experience is different from others – by others I mean men, whose experience dominates the literary world—and suggests that your experience merits its own book.”</p>
@@ -253,7 +216,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Writers on Munro"
 							
 								<small><p>“Like Chekhov, Alice Munro never sets out to make a political point. She isn’t sexist, she has no axe to grind. She’s simply bearing witness to the human experience…”</p>
@@ -277,7 +240,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Love Story Electrifies Beneath The Silhouette 'Of Venus'"
 							
 								<small><p>On <em>Transit of Venus</em> by Shirley Hazzard</p>
@@ -301,7 +264,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Review of 'Someone', latest novel by Alice McDermott"
 							
 						</td>
@@ -322,7 +285,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Dark Heart of James Salter"
 							
 								<small><p>“We no longer require compassion from the literature we admire. We admire writers who celebrate irony, disdain, contempt.”</p>
@@ -346,7 +309,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Burn Your Letters?"
 							
 								<small><p>Page-Turner, May 23, 2013</p>
@@ -370,7 +333,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"God Calls"
 							
 								<small><p>Culture Blog</p>
@@ -394,7 +357,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Heart’s Desire"
 							
 								<small><p>Story of the Week</p>
@@ -418,7 +381,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Opera on HD"
 							
 								<small><p>Culture Blog</p>
@@ -442,7 +405,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"New York’s Phantom Bookstores"
 							
 								<small><p>Culture Blog</p>
@@ -466,7 +429,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"How I Get to ‘Write’"
 							
 								<small><p>Culture Blog</p>
@@ -490,7 +453,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"What My Mother Gave Me"
 							
 								<small><p>Edited by Elizabeth Benedict (Algonquin, 2013)</p>
@@ -511,7 +474,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"A Different Sort of Nature: The Gardens of Kyoto"
 							
 								<small><p>Appeared as <em>A Different Nature</em> in T+L Magazine, October 2012</p>
@@ -535,7 +498,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Response to Jonathan Franzen on Edith Wharton"
 							
 								<small><p>Center for Fiction, August, 2012</p>
@@ -559,7 +522,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Marilynne Robinson’s ‘When I Was a Child I Read Books’: Essays on faith, reading"
 							
 								<small><p>Review of <em>When I Was a Child I Read Books</em> by Marilynne Robinson</p>
@@ -583,7 +546,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Edith Wharton, a Writer’s Reflections"
 							
 								<small><p>April 11, 2012</p>
@@ -607,7 +570,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Strange Career of Frank Dawson"
 							
 								<small><p>Opinionator Blog, State of Our Disunion</p>
@@ -631,7 +594,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Lethal Consequences of Fracking"
 							
 								<small><p>February 23, 2012</p>
@@ -655,7 +618,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Anne Enright’s ‘The Forgotten Waltz’"
 							
 								<small><p>Anne Enright’s new novel, <em>The Forgotten Waltz,</em> is the luxury sedan. Everything in it is perfectly engineered, and it’s so beautifully written that you could read it once just for the dazzle of the prose, then start over for the content.</p>
@@ -679,7 +642,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"My Wooden Deer Carving"
 							
 								<small><p>p. 216, November 3, 2011</p>
@@ -703,7 +666,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Great-Aunt Hattie’s ‘Little Book’"
 							
 								<small><p>Opinionator Blog, State of our Disunion, September 18, 2011. Harriet Beecher Stowe was my great-great-great aunt.</p>
@@ -727,7 +690,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"In the North Tower"
 							
 						</td>
@@ -748,7 +711,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"VS Naipaul and Women’s Tosh"
 							
 								<small><p>Center for Fiction, June 5, 2011</p>
@@ -772,7 +735,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Naipaul’s Comments Reflective Of ‘Hubris"
 							
 								<small><p>Sunday Weekend Edition; June 5, 2011</p>
@@ -796,7 +759,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Book review: Francisco Goldman’s ‘Say Her Name’"
 							
 								<small><p>How much of our own lives should writers use as material? What should we reveal and what hold back? What, for a writer, is privacy? Do writers even have private lives? These are questions raised by Francisco Goldman’s newest book, <em>Say Her Name.</em></p>
@@ -820,7 +783,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Up Front: Roxana Robinson"
 							
 								<small><p>by The Editors</p>
@@ -844,7 +807,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Stories of Dislocation and Relocation"
 							
 								<small><p>Review of Edith Pearlman&rsquo;s, <em>Binocular Vision</em></p>
@@ -868,7 +831,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"On Philip Roth's 'Nemesis'"
 							
 								<small><p>For decades, Philip Roth has written the long narrative of the Jewish American experience, shining on it the light of his considerable intelligence. His latest book, <em>Nemesis</em>, addresses a biological threat to his community in the 1940s.</p>
@@ -892,7 +855,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Paralyzed: Learning to Live in the Shadow of Polio"
 							
 								<small><p><em>Harper’s</em> Magazine</p>
@@ -916,7 +879,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Vanishing Point"
 							
 								<small><p>July 2010</p>
@@ -940,7 +903,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Honey"
 							
 								<small><p>summer 2010</p>
@@ -961,7 +924,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"This Is America"
 							
 								<small><p>on Kindle, April 1, 2010</p>
@@ -982,7 +945,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Bureau"
 							
 								<small><p>spring 2010</p>
@@ -1006,7 +969,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Privileges"
 							
 								<small><p><em>The New York Times Book Review</em>, January 12, 2010; Jonathan Dee, <em>The Privileges</em></p>
@@ -1027,7 +990,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Table of Contents"
 							
 								<small><p>recipes from today’s best-selling authors, edited by Judy Gelman and Vicki Levy Krupp (Adams Media, 2010)</p>
@@ -1048,7 +1011,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"More New York Stories"
 							
 								<small><p>stories from <em>The New York Times</em> City Section, edited by Constance Rosenblum (NYU Press, 2010)</p>
@@ -1069,7 +1032,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Trade"
 							
 								<small><p>issue #11, “Make Believe,” winter 2009</p>
@@ -1090,7 +1053,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Kentucky Bread"
 							
 								<small><p>Winter Reading, volume 11, number 2, winter 2009–2010</p>
@@ -1114,7 +1077,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"That Old Cape Magic"
 							
 								<small><p><em>The New York Times Book Review</em>, August 16, 2009; Richard Russo, <em>That Old Cape Magic</em></p>
@@ -1135,7 +1098,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Stopping Heroin Before It’s Too Late"
 							
 								<small><p>July 30, 2009</p>
@@ -1159,7 +1122,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Unpacking"
 							
 								<small><p>online, Paper Cuts, June 9, 2009</p>
@@ -1180,7 +1143,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Writer’s Notebook"
 							
 								<small><p>June 9, 2009</p>
@@ -1204,7 +1167,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Soul Train"
 							
 								<small><p>May 10, 2009</p>
@@ -1225,7 +1188,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Hills at Home"
 							
 								<small><p><em>The New York Times</em>, March 9, 2003; Nancy Clark, <em>The Hills at Home</em></p>
@@ -1246,7 +1209,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"A Mockingbird’s Cry of Desperation"
 							
 								<small><p>March 6, 2009</p>
@@ -1270,7 +1233,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"A Mockingbird’s Cry of Desperation"
 							
 								<small><p>March 5, 2009</p>
@@ -1294,7 +1257,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Good Parents"
 							
 								<small><p><em>The New York Times Book Review</em>, February 22, 2009 / <em>International Herald Tribune</em>, February 22, 2009   Joan London, <em>The Good Parents</em></p>
@@ -1315,7 +1278,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"On John Updike"
 							
 								<small><p>January 29, 2009</p>
@@ -1339,7 +1302,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Happy Families"
 							
 								<small><p><em>The Washington Post Book World</em>, October 12, 2008; Carlos Fuentes, <em>Happy Families</em></p>
@@ -1360,7 +1323,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Finish Line"
 							
 								<small><p>October 2008</p>
@@ -1381,7 +1344,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Classics: On Edith Wharton"
 							
 								<small><p><em>Chekhov’s Mistress</em>, a blog of literary enthusiasms, July 15, 2008</p>
@@ -1402,7 +1365,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Campaign for the American Reader"
 							
 								<small><p>July 7, 2008</p>
@@ -1426,7 +1389,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Book Notes: Cost"
 							
 								<small><p>June 27, 2008</p>
@@ -1450,7 +1413,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"A Literary Glass Ceiling"
 							
 								<small><p>April 19, 2008</p>
@@ -1471,7 +1434,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"My Mother’s Home"
 							
 								<small><p><em>N.Y./Region Opinions, </em>December 23, 2007</p>
@@ -1492,7 +1455,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Leap"
 							
 								<small><p>winter 2007</p>
@@ -1513,7 +1476,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Nan"
 							
 								<small><p>October 2007</p>
@@ -1534,7 +1497,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Natural Resources Defense Council"
 							
 								<small><p>on the natural world from July 18 through July 29.</p>
@@ -1555,7 +1518,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Bad Girls: 26 Writers Misbehave"
 							
 								<small><p>edited by Ellen Sussman (W. W. Norton July 9, 2007)</p>
@@ -1579,7 +1542,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Novelist and the Curious Cabbie"
 							
 								<small><p>City Section, page 3, June 3, 2007</p>
@@ -1600,7 +1563,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Drowning in Apathy"
 							
 								<small><p>Op-Ed, January 14, 2007</p>
@@ -1621,7 +1584,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Empty Nest"
 							
 								<small><p>edited by Karen Stabiner (Hyperion, 2007)</p>
@@ -1642,7 +1605,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Mr. Wrong"
 							
 								<small><p>edited by Harriet Brown (Ballantine Books, 2007)</p>
@@ -1663,7 +1626,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Introduction to The New York Stories of Edith Wharton"
 							
 								<small><p>2007</p>
@@ -1684,7 +1647,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Wild Duck"
 							
 								<small><p>winter 2006</p>
@@ -1705,7 +1668,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Night Ride"
 							
 								<small><p>November 2006</p>
@@ -1726,7 +1689,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Monarch and the Milkweed"
 							
 								<small><p>September 7, 2006</p>
@@ -1747,7 +1710,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Monarch and the Milkweed"
 							
 								<small><p>Op-Ed, September 6, 2006</p>
@@ -1768,7 +1731,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Mother, Once Removed"
 							
 								<small><p>June 2006</p>
@@ -1789,7 +1752,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Sailing Through the Classics"
 							
 								<small><p>sailing on the Sea Cloud, Turkey; <em>The New York Times</em></p>
@@ -1810,7 +1773,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Watching as the World Vanishes"
 							
 								<small><p>January 1, 2006</p>
@@ -1831,7 +1794,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"This Is Not Chick Lit: Original Stories by America’s Best Women Writers"
 							
 								<small><p>edited by Elizabeth Merrick (Random House, 2006)</p>
@@ -1852,7 +1815,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"My Father Married Your Mother"
 							
 								<small><p>edited by Anne Burt (W.W. Norton, 2006)</p>
@@ -1873,7 +1836,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"This Dog’s Life"
 							
 								<small><p>October/November 2005</p>
@@ -1894,7 +1857,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Gendered Genres"
 							
 								<small><p>August 21, 2005</p>
@@ -1915,7 +1878,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"On Writing"
 							
 								<small><p>Pen on Fire: Writers on Writing, July 12, 2005</p>
@@ -1939,7 +1902,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"NRDC Action Blog"
 							
 								<small><p>summer 2005</p>
@@ -1960,7 +1923,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Writing Spaces"
 							
 								<small><p>April 27, 2005</p>
@@ -1984,7 +1947,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"A Perfect Stranger"
 							
 								<small><p>April 2005</p>
@@ -2005,7 +1968,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"In the Company of Crows and Ravens"
 							
 								<small><p><em>The Wilson Quarterly</em>, 2005; John M. Marzluff and Tony Angell, <em>In the Company of Crows and Ravens</em>, Yale University Press</p>
@@ -2026,7 +1989,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Foreword to The Best Early Stories of F. Scott Fitzgerald"
 							
 								<small><p>edited by Bryant Mangum, published by Modern Library, 2005</p>
@@ -2047,7 +2010,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Coyote"
 							
 								<small><p>vol. 33, no. 3, 2005</p>
@@ -2068,7 +2031,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Breathing Partners"
 							
 								<small><p>Op-Ed, October 10, 2004</p>
@@ -2089,7 +2052,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Intersection"
 							
 								<small><p>fall 2004</p>
@@ -2110,7 +2073,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"New Zealand’s Natural Wonders"
 							
 								<small><p><em>Travel and Leisure</em>, July, 2004</p>
@@ -2131,7 +2094,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Blind Man"
 							
 								<small><p>summer 2004</p>
@@ -2152,7 +2115,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"To Russia, With Books"
 							
 								<small><p>Travel Section, May 2, 2004</p>
@@ -2173,7 +2136,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"A Hare Out of Season"
 							
 								<small><p>Op-Ed, February 16, 2004</p>
@@ -2194,7 +2157,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Lairs of the Russian Literary Lions"
 							
 								<small><p>St. Petersburg, <em>The New York Times</em>, December 14, 2003</p>
@@ -2215,7 +2178,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Setting of Sweetwater"
 							
 								<small><p>December 2003</p>
@@ -2236,7 +2199,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"My Dog Lacey"
 							
 								<small><p>fall 2003</p>
@@ -2257,7 +2220,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Fabric of Life in a Meadow"
 							
 								<small><p>July/August 2003</p>
@@ -2278,7 +2241,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Wombats and Wallabies"
 							
 								<small><p>Taronga Zoo, Sydney, Australia; <em>The New York Times</em>, June 1, 2003</p>
@@ -2299,7 +2262,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"A Calm, Quiet Place: Watermark"
 							
 								<small><p>June 2003</p>
@@ -2320,7 +2283,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"At the Beach"
 							
 								<small><p>May 2003</p>
@@ -2341,7 +2304,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Introduction to The Old Maid: The Fifties"
 							
 								<small><p><em>The Old Maid: The Fifties, </em>by Edith Wharton, Modern Library, 2003</p>
@@ -2362,7 +2325,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Box Step"
 							
 								<small><p>December 2002, p. 72</p>
@@ -2383,7 +2346,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Treatment"
 							
 								<small><p>September 2002</p>
@@ -2404,7 +2367,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Chandelier"
 							
 								<small><p>City Section, p. 11, August 18, 2002</p>
@@ -2425,7 +2388,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Last Summer"
 							
 								<small><p><em>The Washington Post Book World</em>, July 28, 2002; John Hough, <em>The Last Summer</em></p>
@@ -2446,7 +2409,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Death and Nightingales"
 							
 								<small><p>On Eugene McCabe&rsquo;s, <em>Death and Nightingales</em></p>
@@ -2467,7 +2430,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"City Secrets: New York City"
 							
 								<small><p>edited by Robert Kahn (The Little Bookroom, New York, 2002)</p>
@@ -2488,7 +2451,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"110 Stories: New York Writes After September 11"
 							
 								<small><p>edited by Ulrich Baer (NYU Press, 2002)</p>
@@ -2509,7 +2472,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Here Comes the Mother of the Bride"
 							
 								<small><p>August 2001</p>
@@ -2530,7 +2493,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Great Expectations"
 							
 								<small><p>Lives column, June 17, 2001</p>
@@ -2551,7 +2514,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Ice Age"
 							
 								<small><p>January 7, 2001</p>
@@ -2572,7 +2535,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Writing for a Lifetime: Contemporary Readings From Popular Sources"
 							
 								<small><p>edited by Jane Maher (Prentice-Hall, 2001)</p>
@@ -2593,7 +2556,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Writers on Writing: Collected Essays From the New York Times"
 							
 								<small><p>edited by John Darnton (Times Books, New York, 2001)</p>
@@ -2614,7 +2577,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Best American Mystery Stories of 2001"
 							
 								<small><p>edited by Otto Penzler (Houghton Mifflin, Boston, 2001)</p>
@@ -2635,7 +2598,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Family Christmas"
 							
 								<small><p>December 2000</p>
@@ -2656,7 +2619,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Listening Silence"
 							
 								<small><p>October 20, 2000, p. W17</p>
@@ -2677,7 +2640,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Dogs in My Life"
 							
 								<small><p>September 2000</p>
@@ -2698,7 +2661,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Face-Lift"
 							
 								<small><p>August 2000</p>
@@ -2719,7 +2682,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"If You Write the Story…"
 							
 								<small><p>Writers on Writing column, July 17, 2000</p>
@@ -2740,7 +2703,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"A Walking Trip in the Sicilian Countryside"
 							
 								<small><p><em>Travel and Leisure</em>, March 2000</p>
@@ -2761,7 +2724,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Like Normal People"
 							
 								<small><p><em>The Washington Post Book World</em>, 2000; Karen Bender, <em>Like Normal People</em></p>
@@ -2782,7 +2745,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Assistance"
 							
 								<small><p>December 1999</p>
@@ -2803,7 +2766,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Instant Intimacy"
 							
 								<small><p>Lives column, April 4, 1999</p>
@@ -2824,7 +2787,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"When Tragedy in Literature Is a Family Affair"
 							
 								<small><p>Books Column: On Reading, November 1, 1998</p>
@@ -2845,7 +2808,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Censorship or Common Sense"
 							
 								<small><p>Op-Ed, October 19, 1998</p>
@@ -2866,7 +2829,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Evening"
 							
 								<small><p><em>The New York Times</em>, October 11, 1998; Susan Minot, <em>Evening</em></p>
@@ -2887,7 +2850,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Personal Growth"
 							
 								<small><p>May 1998</p>
@@ -2908,7 +2871,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Cavedweller"
 							
 								<small><p><em>The Washington Post Book World</em>, April 5, 1998; Dorothy Allison, <em>Cavedweller</em></p>
@@ -2929,7 +2892,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Preston Falls"
 							
 								<small><p><em>The Washington Post Book World</em>, February 1, 1998; David Gates, <em>Preston Falls</em></p>
@@ -2950,7 +2913,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Second Penguin Book of Modern Women’s Short Stories"
 							
 								<small><p>edited by Susan Hill (Michael Joseph, London, 1998)</p>
@@ -2971,7 +2934,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Grace and Favor"
 							
 								<small><p><em>The New York Times</em>, December 14, 1997; Thomas Caplan, <em>Grace and Favor</em></p>
@@ -2992,7 +2955,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"When the Sons of Heaven Meet the Daughters of the Earth"
 							
 								<small><p><em>The New York Times</em>, March 30, 1997; Fernanda Eberstadt, <em>When the Sons of Heaven Meet the Daughters of the Earth</em></p>
@@ -3013,7 +2976,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Essays</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Stepmother"
 							
 								<small><p>February 1997</p>
@@ -3034,7 +2997,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The River Beyond the World"
 							
 								<small><p><em>The Washington Post</em>, December 10, 1996; Janet Peery, <em>The River Beyond the World</em></p>
@@ -3055,7 +3018,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Orchard on Fire"
 							
 								<small><p><em>The New York Times</em>, November 3, 1996; Shena Mackay, <em>The Orchard on Fire</em></p>
@@ -3076,7 +3039,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"A Regular Guy"
 							
 								<small><p><em>The Washington Post Book World</em>, October 6, 1996; Mona Simpson, <em>A Regular Guy</em></p>
@@ -3097,7 +3060,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Horses of Another Color"
 							
 								<small><p>Ireland, <em>The New York Times</em>, July 21, 1996</p>
@@ -3118,7 +3081,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Tales of Burning Love"
 							
 								<small><p><em>The Washington Post Book World</em>, April 21, 1996; Louise Erdrich, <em>Tales of Burning Love</em></p>
@@ -3139,7 +3102,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Favor"
 							
 								<small><p>January 1996</p>
@@ -3160,7 +3123,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Mothers: Twenty Stories of Contemporary Motherhood"
 							
 								<small><p>edited by Katrina Kenison and Kathleen Hirsch (Farrar Straus, New York 1996)</p>
@@ -3181,7 +3144,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Distinguished Guest"
 							
 								<small><p><em>The Los Angeles Times</em>, May 7, 1995; Sue Miller, <em>The Distinguished Guest</em></p>
@@ -3202,7 +3165,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"King of the Sky"
 							
 								<small><p>November 1994</p>
@@ -3223,7 +3186,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Leaving Home"
 							
 								<small><p>September 1994</p>
@@ -3244,7 +3207,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Carl Larsson’s House"
 							
 								<small><p>Sweden, <em>The New York Times</em>, May 29, 1994</p>
@@ -3265,7 +3228,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Best American Short Stories 1994"
 							
 								<small><p>edited by Tobias Wolfe and Katrina Kenison (Houghton Mifflin, Boston, 1994)</p>
@@ -3286,7 +3249,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Abby Aldrich Rockefeller"
 							
 								<small><p><em>The New York Times</em>, October 26, 1993; Beatrice Kert, <em>Abby Aldrich Rockefeller</em></p>
@@ -3307,7 +3270,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Sleepover"
 							
 								<small><p>summer 1993</p>
@@ -3328,7 +3291,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"A Mother’s Love"
 							
 								<small><p><em>The New York Times</em>, April 25, 1993; Mary Morris, <em>A Mother’s Love</em></p>
@@ -3349,7 +3312,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Mr. Sumarsono"
 							
 								<small><p>April 1993</p>
@@ -3370,7 +3333,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Natural Opium"
 							
 								<small><p><em>The New York Times</em>, January 24, 1993; Diane Johnson, <em>Natural Opium</em></p>
@@ -3391,7 +3354,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"False Gods"
 							
 								<small><p><em>The New York Times</em>, March 15, 1992; Louis Auchincloss, <em>False Gods</em></p>
@@ -3412,7 +3375,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Art History</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"William M. Harnett"
 							
 								<small><p>edited by Doreen Bolger, Marc Simpson, and John Wilmerding. Essays by Roxana Robinson, et al. (New York, Metropolitan Museum of Art, Harry Abrams, 1992)</p>
@@ -3433,7 +3396,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Introduction to A Matter of Prejudice"
 							
 								<small><p><em>A Matter of Prejudice,</em> by Kate Chopin (Bantam 1992)</p>
@@ -3454,7 +3417,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Contemporary New England Stories"
 							
 								<small><p>edited by C. Michael Curtis (Boston, Globe Pequot Press, 1992)</p>
@@ -3475,7 +3438,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Far-Flung"
 							
 								<small><p><em>The New York Times</em>, September 29, 1991; Peter Cameron, <em>Far-Flung</em></p>
@@ -3496,7 +3459,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Alone"
 							
 								<small><p><em>The New York Times</em>, July 21, 1991; David Small, <em>Alone</em></p>
@@ -3517,7 +3480,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Learning to Look and Gallery Going"
 							
 								<small><p><em>Newsday</em>, June 30, 1991;   John Pope-Hennessy, <em>Learning to Look: My Life in Art   *Jed Perls</em>, Gallery Going: Four Seasons in the Art World*</p>
@@ -3538,7 +3501,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Time for Kissing"
 							
 								<small><p>February 1991</p>
@@ -3559,7 +3522,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"At the Heart of My Life (Graduation)"
 							
 								<small><p>September, 1990</p>
@@ -3580,7 +3543,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Bulls, Bravery, and Bounty in St.-Remy"
 							
 								<small><p>summer in Provence; <em>The New York Times</em>, May 27, 1990</p>
@@ -3601,7 +3564,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Rebels on 8th Street: Julianna Force and the Whitney Museum of American Art"
 							
 								<small><p><em>The New York Times</em>, April 1990; Avis Berman, <em>Rebels on 8th Street: Julianna Force and the Whitney Museum of American Art</em></p>
@@ -3622,7 +3585,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"A Glimpse of Scarlet"
 							
 								<small><p>March 1990</p>
@@ -3643,7 +3606,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Resourceful Writer: Readings to Accompany the Harbrace College Handbook, Second Edition"
 							
 								<small><p>edited by Suzanne S. Webb (Harcourt, Brace, Jovanovich, 1990)</p>
@@ -3664,7 +3627,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"On the Ancient Nile, a Modern Voyage"
 							
 								<small><p><em>The New York Times</em>, October 29, 1989</p>
@@ -3685,7 +3648,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"A Puritan at the Helm"
 							
 								<small><p><em>The New York Times</em>, Sophisticated Traveler, March 12, 1989</p>
@@ -3706,7 +3669,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Anthologies & Collections</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Wives and Husbands: 20 Stories About Marriage"
 							
 								<small><p>edited by Michael Nagler and William Swanson (New York, Mentor Books, 1989)</p>
@@ -3727,7 +3690,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Investing in an Absence of Civilization"
 							
 								<small><p>safari in Africa, <em>The New York Times</em>, December 4, 1988</p>
@@ -3748,7 +3711,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Lapsing"
 							
 								<small><p><em>The New York Times</em>, January 24, 1988; Jill Paton Walsh, <em>Lapsing</em></p>
@@ -3769,7 +3732,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Charity Dance"
 							
 								<small><p>(LSU, Baton Rouge) Winter, 1987</p>
@@ -3790,7 +3753,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Charity Dance"
 							
 								<small><p>London, July 1986</p>
@@ -3811,7 +3774,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Total Immersion in a Flood of French"
 							
 								<small><p><em>The New York Times</em>, February 22, 1987</p>
@@ -3832,7 +3795,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Family Laundry"
 							
 								<small><p><em>The New York Times</em>, January 18, 1987; Dorie Friend, <em>Family Laundry</em></p>
@@ -3853,7 +3816,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"John Gardner Tennis Ranch"
 							
 								<small><p><em>The New York Times</em>, November 23, 1986</p>
@@ -3874,7 +3837,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Parlour 4 and Other Stories"
 							
 								<small><p><em>The New York Times</em>, August 10, 1986; J.I.M. Stewart, <em>Parlour 4 and Other Stories</em></p>
@@ -3895,7 +3858,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Travel</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Lure of London’s Chelsea Flower Show"
 							
 								<small><p><em>The New York Times</em>, April 13, 1986</p>
@@ -3916,7 +3879,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"One Is a Wanderer"
 							
 								<small><p><em>The New York Times</em>, March 2, 1986; Francis King, <em>One Is a Wanderer</em></p>
@@ -3937,7 +3900,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Snowfall"
 							
 								<small><p>London, February 1986</p>
@@ -3958,7 +3921,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Monuments and Maidens: The Allegory of the Female Form"
 							
 								<small><p><em>The Philadelphia Inquirer,</em> December 29, 1985; Marina Warner, <em>Monuments and Maidens: The Allegory of the Female Form</em></p>
@@ -3979,7 +3942,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"At Freddie’s"
 							
 								<small><p><em>The New York Times</em>, September 8, 1985; Penelope Fitzgerald, <em>At Freddie’s</em></p>
@@ -4000,7 +3963,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Layering"
 							
 								<small><p>London, August/September 1985</p>
@@ -4021,7 +3984,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Jewels"
 							
 								<small><p><em>The New York Times</em>, April 14, 1985; Jill Tweedie, Jewels</p>
@@ -4042,7 +4005,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Villa Aphrodite"
 							
 								<small><p><em>The New York Times</em>, November 25, 1984; Thomas Baird, <em>Villa Aphrodite</em></p>
@@ -4063,7 +4026,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Book Reviews</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Three Novels"
 							
 								<small><p><em>The Philadelphia Inquirer</em>, March 25, 1984; Isabel Colegate, <em>Three Novels</em></p>
@@ -4084,7 +4047,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Art History</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Introduction to Arthur Dove"
 							
 								<small><p>catalogue raisonne by Ann Lee Morgan (Newark, University of Delaware Press, 1984)</p>
@@ -4105,7 +4068,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Getting On"
 							
 								<small><p>March 28, 1983</p>
@@ -4126,7 +4089,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Art History</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"19th Century Picnic Paintings: An Arcadian Idyll"
 							
 								<small><p>Jan/Feb 1983</p>
@@ -4147,7 +4110,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Art History</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Bathing Scene: People on the Beach in American Art, 1700–1900"
 							
 								<small><p>September 1981</p>
@@ -4168,7 +4131,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Art History</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Plane Truths"
 							
 								<small><p>Sep/Oct 1981</p>
@@ -4189,7 +4152,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Art History</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Land of Plenty: 19th Century American Picnic and Harvest Scenes"
 							
 								<small><p>exhibition catalog, The Katonah Gallery, 1981</p>
@@ -4210,7 +4173,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Art History</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Where Are America’s Missing Masterpieces?"
 							
 								<small><p>December, 1980</p>
@@ -4231,7 +4194,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Short Stories</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Daughter"
 							
 								<small><p>November, 1980</p>
@@ -4252,7 +4215,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Art History</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Plane Truths: 19th Century American Trompe l’Oeil Painting"
 							
 								<small><p>exhibition catalog, The Katonah Gallery, 1980</p>
@@ -4273,7 +4236,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%"></td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"The Age of Blood and Iron: Marsden Hartley in Berlin"
 							
 								<small><p>October, 1979</p>
@@ -4294,7 +4257,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Art History</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Shapes of Industry: First Images in American Art"
 							
 								<small><p>exhibition catalog, Terry Dintenfass Gallery, New York, 1975</p>
@@ -4315,7 +4278,7 @@ td.title p {
 				
 					<tr>
 						<td class="category" width="15%">Art History</td>
-						<td class="title" width="50%">
+						<td class="title" width="65%">
 							"Rousseau, Buffalo Bill, and the European Image of the American Indian"
 							
 								<small><p>December, 1975 </p>
@@ -4341,214 +4304,117 @@ td.title p {
     
     
   </div>
-</article>
+</div>
+
 
 	
 </div>
 
 
-	</section>
-	<footer class="row">
-  <div class="large-7 columns">
+			</section>
+			<footer class="row">
     <ul class="no-bullet">
       <li class="source-org vcarfd copyright"><a href="/">&copy; 2014 <span class="fn">Roxana Robinson</span></a></li>
-    </ul>  
-  </div>
-  <div class="large-5 columns">
-    <ul class="no-bullet right">
       <li><a href="http://sonnetmedia.net">site by sonnet media</a></li>
     </ul>
-  </div>
 </footer>
 
+		</div>
+		
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
 
-	
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
+ 
 
-    <script src="/assets/js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-      // var doc = document.documentElement;
-      // doc.setAttribute('data-useragent', navigator.userAgent);
-
-
-$("h1.entry-title a, h1.page-title").each(function() {
-  //control widows, ala www.css-tricks.com/preventing-widows-in-post-titles/
-  var wordArray = $(this).text().split(" ");
-  if (wordArray.length > 1) {
-    wordArray[wordArray.length-2] += "&nbsp;" + wordArray[wordArray.length-1];
-    wordArray.pop();
-    $(this).html(wordArray.join(" "));
-  }
-});
-
-
-
-
-    </script>
-
+    
 <script src="/assets/js/underscore-min.js"></script>
 <script src="/assets/js/moment.min.js"></script>
 <script>
-// TODO: [X]Times show an extra 0 <-- going to leave this
-// TODO: [X]reverse ordering for past events (can fix with json file, but rather not)
-// TODO: [X]conditionals to not show missing content
-// TODO: [X]Links - taking out - put all info in the main post
-
-
 // REQUIRES MOMENT.JS AND UNDERSCORE.JS
 var timing = function(start, end) {
-  // this can be improved another time <--seattlehacks
   return moment(start).format('MM/DD/YYYY h:mma') + ' - ' + moment(end).format('MM/DD/YYYY h:mma');
 };
-
 $(document).ready(function() {
-
-
   $.getJSON('/api/cal.json', null, function(response) {
-
-
-
-
-
     var groups = _.groupBy(response.events, function(event) { return moment(event.start).format('YYYY-MM-DD'); });
-
-
-
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
       days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
-
-
-
-
-
-
-
-
     days.forEach(function(day) {
-
       if (moment(day).isAfter(moment().subtract('days', 1))) {
-
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar');
-
-
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5>').appendTo('#calendar');
         groups[day].forEach(function(event) {
-
-
-
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
-
-if(event.name) {
+      if(event.name) {
             $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar');
           }
-
-
-
-
-         if(event.allday != 'true') {
+       if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');
           }
-
           if(event.venue) {
             $('<br /><span class="p-location location h-card vcard"><span>' + event.venue + '</span> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar');
           }
-
           if(event.summary) {
             $('<br /><span class="p-name summary">' + event.summary + '</span>').appendTo('#calendar');
             }
-
           if(event.website) {
             $('<a href="' + event.website + '" class="ml small"> <i class="fa fa-external-link"></i> website</a>').appendTo('#calendar');
           }
-
         $('</div>').appendTo('#calendar');
-
         });
-
-
-
       }
-
-
   });
-
-
-
-
-
-
-
-
 days_desc.forEach(function(day) {
-
-
-
-      if (moment(day).isBefore(moment().subtract('days', 1))) {
-
-        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5><hr class="divider" />').appendTo('#calendar-past');
-
-
+ if (moment(day).isBefore(moment().subtract('days', 1))) {
+        $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5>').appendTo('#calendar-past');
         groups[day].forEach(function(event) {
-
-
-
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar-past');
-
-if(event.name) {
+      if(event.name) {
             $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar-past');
           }
-
-
-
-
          if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar-past');
           }
-
           if(event.venue) {
             $('<br /><span class="p-location location h-card vcard"><span>' + event.venue + '</span> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar-past');
           }
-
           if(event.summary) {
             $('<br /><span class="p-name summary">' + event.summary + '</span>').appendTo('#calendar-past');
             }
-
           if(event.website) {
             $('<a href="' + event.website + '" class="ml small"><i class="fa fa-external-link"></i> website</a>').appendTo('#calendar-past');
           }
-
         $('</div>').appendTo('#calendar-past');
-
         });
-
-
-
         }
-
-
   });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   });
 });
-    </script>
+</script>
+
+   
+
+
+
+<script>
+  $(function() {
+    var menu = $('#navigation-menu');
+    var menuToggle = $('#js-mobile-menu');
+
+    $(menuToggle).on('click', function(e) {
+      e.preventDefault();
+      menu.slideToggle(function(){
+        if(menu.is(':hidden')) {
+          menu.removeAttr('style');
+        }
+      });
+    });
+  });
+</script>
+
+
+
+
 
 
   <script src="/assets/js/lists.min.js"></script>
@@ -4650,11 +4516,16 @@ if(event.name) {
 
 
 
+
+
+
+
+
+
 <script type="text/javascript">/*!
  * smartquotes.js v0.1.4
  * http://github.com/kellym/smartquotesjs
  */
 (typeof("jQuery")=="function"?jQuery:function(d){var b=document.addEventListener||document.attachEvent,c=document.removeEventListener?"removeEventListener":"detachEvent",a=document.addEventListener?"DOMContentLoaded":"onreadystatechange";b.call(document,a,function(){document[c](a,arguments.callee,false);d()},false)})(function(){var a=document.body;var b=a.childNodes[0];while(b!=null){if(b.nodeType==3){b.nodeValue=b.nodeValue.replace(/(\W|^)"(\S)/g,"$1\u201c$2").replace(/(\u201c[^"]*)"([^"]*$|[^\u201c"]*\u201c)/g,"$1\u201d$2").replace(/([^0-9])"/g,"$1\u201d").replace(/(\W|^)'(\S)/g,"$1\u2018$2").replace(/([a-z])'([a-z])/ig,"$1\u2019$2").replace(/((\u2018[^']*)|[a-z])'([^0-9]|$)/ig,"$1\u2019$3").replace(/(\u2018)([0-9]{2}[^\u2019]*)(\u2018([^0-9]|$)|$|\u2019[a-z])/ig,"\u2019$2$3").replace(/(\B|^)\u2018(?=([^\u2019]*\u2019\b)*([^\u2019\u2018]*\W[\u2019\u2018]\b|[^\u2019\u2018]*$))/ig,"$1\u2019").replace(/'''/g,"\u2034").replace(/("|'')/g,"\u2033").replace(/'/g,"\u2032")}if(b.hasChildNodes()&&b.firstChild.nodeName!="CODE"){b=b.firstChild}else{do{while(b.nextSibling==null&&b!=a){b=b.parentNode}b=b.nextSibling}while(b&&(b.nodeName=="CODE"||b.nodeName=="SCRIPT"||b.nodeName=="STYLE"))}}});</script>
-
-</body>
+	</body>
 </html>

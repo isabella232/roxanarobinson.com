@@ -1,0 +1,5 @@
+{% for book in site.categories.books offset:1 %}
+	<a href="{{book.url}}" style="height:180px;float:left;margin-right:22px;">
+		<img src="{{site.baseurl}}/assets/img/{{book.cover_image}}" style="max-width:100px;height:152px;" class="image-shadow">
+	</a>
+{% endfor  %}
