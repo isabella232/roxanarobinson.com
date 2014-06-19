@@ -1,0 +1,20 @@
+ul.data-list li {
+	margin-bottom: .75em;
+	font-weight: bold;
+	margin-left: 0;
+	padding-left: 1.25em;
+ text-indent: -1.25em;
+
+}
+
+ul.data-list li {
+	margin-bottom: 1em;
+	
+}
+ul.data-list li ul li {
+	margin-bottom: .5em;
+	font-weight: normal;
+	//text-indent: .5em;
+	
+}
+ul.data-list li ul li:before {content:"— ";}

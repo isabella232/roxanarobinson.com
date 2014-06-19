@@ -1,0 +1,14 @@
+{% assign awards = site.data.awards %}
+<ul class="data-list">
+	{% for years in awards %}
+	  <li>
+	    	{{ years[0] }}
+	      {% assign year = years[1] %}
+	    <ul class="submenu">
+	      {% for award in year %}
+	        <li>{{award.award | markdownify | remove: '<p>' | remove: '</p>'  }}</li>
+	      {% endfor %}
+	    </ul>
+	  </li>
+	{% endfor %}
+</ul>

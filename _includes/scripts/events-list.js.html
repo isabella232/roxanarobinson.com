@@ -4,7 +4,7 @@ var timing = function(start, end) {
   return moment(start).format('MM/DD/YYYY h:mma') + ' - ' + moment(end).format('MM/DD/YYYY h:mma');
 };
 $(document).ready(function() {
-  $.getJSON('{{site.baseurl}}/api/cal.json', null, function(response) {
+  $.getJSON('/api/cal.json', null, function(response) {
     var groups = _.groupBy(response.events, function(event) { return moment(event.start).format('YYYY-MM-DD'); });
     days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order

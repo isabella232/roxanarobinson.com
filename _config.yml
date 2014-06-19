@@ -1,4 +1,4 @@
-baseurl: http://rrobinson.pubspringdev1.com
+url: http://rrobinson.pubspringdev1.com
 sitename: Roxana Robinson
 future: true   # This will tell jekyll to not display future posts
 # do not include  https://github.com/...

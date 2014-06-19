@@ -22,16 +22,16 @@
       
       <title>{% if page.title %} {{page.title}} - {% endif %} {{site.sitename}}</title>
       {% if page.url %}
-        <link rel="canonical" href="{{site.baseurl}}{{ page.url }}" />    
+        <link rel="canonical" href="{{ page.url }}" />    
       {% endif %}
       
-      <link rel="icon" href="{{site.baseurl}}/favicon.ico" type="image/x-icon">
+      <link rel="icon" href="/favicon.ico" type="image/x-icon">
           <!-- Stylesheets -->
 
       {% if site.use_pure_css == true %}
         <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.4.2/pure-min.css">    
         {% else %} {% comment %}?generated time stamps the css file for cachebusting - it can be turned off in config{% endcomment %}
-        <link href='{{site.baseurl}}/assets/css/screen.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
+        <link href='/assets/css/screen.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
       {% endif %}
 
       {% if site.include_font_awesome %}
@@ -52,8 +52,8 @@
           document.createElement('aside');
           document.createElement('footer');
         </script>
-        <script src="{{site.baseurl}}/assets/js/html5shiv.js"></script>
-        <script src="{{site.baseurl}}/assets/js/respond.js"></script>
+        <script src="/assets/js/html5shiv.js"></script>
+        <script src="/assets/js/respond.js"></script>
       <![endif]-->
 
       <!--[if lte IE 7]>
