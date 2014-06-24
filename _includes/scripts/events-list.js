@@ -1,13 +1,18 @@
 // REQUIRES MOMENT.JS AND UNDERSCORE.JS
 var timing = function(start, end) {
-  return moment(start).format('MM/DD/YYYY h:mma') + ' - ' + moment(end).format('MM/DD/YYYY h:mma');
+
+  return moment(start).format() + ' - ' + moment(end).format();
 };
+
+
 $(document).ready(function() {
   $.getJSON('/api/cal.json', null, function(response) {
     var groups = _.groupBy(response.events, function(event) { return moment(event.start).format('YYYY-MM-DD'); });
-    days = _.sortBy(Object.keys(groups), function(day) { return day});
+   
+       days = _.sortBy(Object.keys(groups), function(day) { return day});
     //sort past event groups in descending order
-      days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
+  days_desc = _.sortBy(Object.keys(groups), function(day) { return day}) .reverse();
+
     days.forEach(function(day) {
       if (moment(day).isAfter(moment().subtract('days', 1))) {
         $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5>').appendTo('#calendar');
@@ -32,6 +37,7 @@ $(document).ready(function() {
         });
       }
   });
+
 days_desc.forEach(function(day) {
  if (moment(day).isBefore(moment().subtract('days', 1))) {
         $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5>').appendTo('#calendar-past');
@@ -52,7 +58,7 @@ days_desc.forEach(function(day) {
           if(event.website) {
             $('<a href="' + event.website + '" class="ml small"><i class="icon-link-ext"></i> website</a>').appendTo('#calendar-past');
           }
-        $('</div>').appendTo('#calendar-past');
+        $('</div>').appendTo('#calendar');
         });
         }
   });
