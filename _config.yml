@@ -1,23 +1,19 @@
-url: http://rrobinson.pubspringdev1.com
+url: http://roxanarobinson.com
 sitename: Roxana Robinson
 future: true   # This will tell jekyll to not display future posts
 # do not include  https://github.com/...
 repo: 'budparr/jekyll-starter'
 branch: master
-default_author: "Bud Parr"
+source: src
 
 #Jekyll Options
 # if using more than one Jekyll instance on your local machine
 port: 3575
-# paginate tells Jekyll how many posts per page
-# paginate: 1
-# Permalinks
 permalink:  pretty
+
 # Dependencies
-markdown: redcarpet
-redcarpet:
- extensions: ['autolink', 'smart']
-pygments: true
+markdown: kramdown
+# pygments: true
 #Pages - store all pages in the _pages directory
 include: ['_pages']
 relative_permalinks: false # won't need this as of 2.0: Deprecation: Starting in 2.0, permalinks for pages in subfolders must be relative to the site source directory, not the parent directory. Also will change exclude directory
@@ -27,14 +23,13 @@ exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNA
 
 # dev options (true/false)
 # if site is in production, 'production: true'
-production: false
+production: true
 use_jquery_cdn: true
 include_font_awesome: false
 include_addthis_sharing: false
 bust_css_cache: true
 
 # options (data)
-google_analytics_id: UA-XXXXXXX-X
 addthis_id:
 # CONTACT FORM http://getsimpleform.com/
 simple_form_api_token:
