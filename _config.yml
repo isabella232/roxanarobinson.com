@@ -4,7 +4,7 @@ future: true   # This will tell jekyll to not display future posts
 # do not include  https://github.com/...
 repo: 'budparr/jekyll-starter'
 branch: master
-source: src
+source: content
 
 #Jekyll Options
 # if using more than one Jekyll instance on your local machine
