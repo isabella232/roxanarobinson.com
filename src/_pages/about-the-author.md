@@ -11,7 +11,7 @@ _hi-res images below_
 
 ### Awards
 
-{% include snippets/awards.html %}
+
 
 ---
 
