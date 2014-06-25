@@ -14,11 +14,9 @@ Lynn Nesbit, Janklow Nesbit <lynn@janklow.com>
 #### Speaking Engagements 
 Alison Granucci, Blue Flower Arts <alison@blueflowerarts.com>
 
----
 
 {% include book-the-writer.html %}
 
----
 
 
 ### Get in Touch
