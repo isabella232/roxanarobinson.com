@@ -16,15 +16,7 @@ Alison Granucci, Blue Flower Arts <alison@blueflowerarts.com>
 
 ---
 
-<div class="btw-link">
-	<p style="text-align: center; margin: 14px 0 0;"><a href="http://bookthewriter.com/writers/robinson/">
-		<a href="http://bookthewriter.com/writers/robinson/">
-			Invite Me To Your Book Club<br />
-			<img alt="" src="http://bookthewriter.com/wp-content/uploads/2013/12/books.png" /><br />
-			bookthewriter.com
-		</a>
-	</p>
-</div>
+{% include book-the-writer.html %}
 
 ---
 
