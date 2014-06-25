@@ -25,7 +25,9 @@ Alison Granucci, Blue Flower Arts <alison@blueflowerarts.com>
 		</a>
 	</p>
 </div>
+
 ---
+
 
 ### Get in Touch
 
