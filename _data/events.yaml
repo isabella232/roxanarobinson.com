@@ -1,30 +1,4 @@
 -
- start: 2014-11-18
- city-state: 'Newark, NJ'
- title: "Rutgers MFA Program"
- summary: "Through the 11th"
-
--
- start: 2014-10-07
- city-state: New York, NY
- title: 'Distinguished Writers Series'
- venue: Hunter College
-
--
- start: 2014-09-12
- city-state: 'Fairfax, VA'
- title: '"Fall for the Book,” Book Festival'
- venue: 'George Mason University'
- summary: "Through Sept. 14th"
-
--
- start: 2014-09-08
- city-state: 'Colorado'
- title: 'US Air Force Academy'
- summary: 'Through Sept. 11th'
-
-
--
   start: 2014-07-10
   allday: true
   city-state: Bar Harbor, Maine
