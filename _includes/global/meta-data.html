@@ -18,18 +18,20 @@
 
 <!-- Here’s the final snippet of code with the appropriate meta data: -->
 
-<meta content="{{ site.title }}" property="og:site_name">
+<meta content="{{ site.sitename }}" property="og:site_name">
 {% if page.title %}
   <meta content="{{ page.title }}" property="og:title">
 {% else %}
-  <meta content="{{ site.title }}" property="og:title">
+  <meta content="Home - {{ site.sitename }}" property="og:title">
 {% endif %}
 {% if page.title %}
   <meta content="article" property="og:type">
 {% else %}
   <meta content="website" property="og:type">
 {% endif %}
-{% if page.description %}
+{% if page.short_description %}
+<meta content="{{ page.short_description }}" property="og:description">
+{% elsif page.description %}
   <meta content="{{ page.description }}" property="og:description">
 {% else %}
   <meta content="{{ site.description }}" property="og:description">
@@ -41,10 +43,13 @@
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
   <meta content="{{site.url}}/about/" property="article:author">
 {% endif %}
-{% if page.image %}
-  <meta content="/assets/img/posts/{{ page.image }}" property="og:image">
+
+{% if page.cover_image %}
+<meta content="/assets/img/{{ page.coverimage }}" property="og:image">
+{% elsif page.image %}
+  <meta content="/assets/img/{{ page.image }}" property="og:image">
 {% else %}
-  <meta content="/assets/img/logo-high-resolution.png" property="og:image">
+  <meta content="{{site.primary_image}}" property="og:image">
 {% endif %}
 {% if page.categories %}
   {% for category in page.categories limit:1 %}

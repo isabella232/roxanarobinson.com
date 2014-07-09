@@ -1,5 +1,7 @@
 url: http://www.roxanarobinson.com
 sitename: Roxana Robinson
+description: "The official website of author Roxana Robinson"
+primary_image: "/assets/img/Robinson2_JoyceRavid_300x400.jpg"
 future: true   # This will tell jekyll to not display future posts
 # do not include  https://github.com/...
 repo: 'budparr/jekyll-starter'
