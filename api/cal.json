@@ -2,12 +2,15 @@
 layout: none
 ---
 {"events": [{% assign first = true %}{% for post in site.data.events reversed %}{% if first == false %},{% endif %}{% if first == true %}{% assign first = false %}{% endif %}
+{% if post.title %}	
+	{% capture post_title %}{{post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
+{% endif %}
 
-{"name":"{{ post.title }}",
-"allday":"{{ post.allday }}",
-"start":"{{ post.start | date: "%x"  | downcase }}",
+
+{"name":"{{ post_title }}","allday":"{{ post.allday }}",
+"start":"{{ post.date | date: "%x"  | downcase }}",
 "end":"{{ post.end }}",
-"starttime":"{{ post.start | date: "%I:%M %p"  | downcase }}",
+"starttime":"{{ post.start | downcase }}",
 "endtime":"{{ post.end | date: "%I:%M %p" | downcase }}",
 "venue":"{{ post.venue }}",
 "address":"{{ post.address }}",
