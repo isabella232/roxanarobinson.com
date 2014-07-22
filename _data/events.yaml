@@ -328,6 +328,7 @@
   title: Reading/Signing
   allday: false
   date: 2013-06-16 19:00:00
+  start: 7:00 p.m.
   end: 2013-06-16 20:00:00
   venue: Book Court
   address: 163 Court Street
@@ -342,7 +343,7 @@
   end: 2013-06-30 20:30:00
   venue: New York University
   address: 
-  city-state: New York, NY
+  city-state: "New York, NY"
   zip:
   website:  
   summary: Two-week Summer Intensive Program in Creative Writing.
@@ -355,7 +356,7 @@
   end: 2013-06-14 20:30:00
   venue: 
   address: 
-  city-state: Middletown, MA
+  city-state: "Middletown, MA"
   zip:
   website:  
 
