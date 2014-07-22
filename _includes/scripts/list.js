@@ -1,4 +1,4 @@
-<script  type="text/javascript">
+<script  type="text/javascript" async>
 document.addEventListener('DOMContentLoaded', function(){
     var options = {
       valueNames: ['category', 'title', 'date', 'publication']
