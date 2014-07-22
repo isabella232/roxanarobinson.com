@@ -25,8 +25,13 @@ $(document).ready(function() {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');
           }
           if(event.venue) {
-            $('<br /><span class="p-location location h-card vcard"><span>' + event.venue + '</span> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar');
+            $('<br /><span class="p-location location h-card vcard">' + event.venue + '</span> ').appendTo('#calendar');
           }
+
+          if(event.address) {
+            $('<span class="address">&nbsp;&bull; ' + event.address + '</span>').appendTo('#calendar');
+          }
+
           if(event.summary) {
             $('<br /><span class="p-name summary">' + event.summary + '</span>').appendTo('#calendar');
             }
@@ -46,17 +51,17 @@ days_desc.forEach(function(day) {
       if(event.name) {
             $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar-past');
           }
-         if(event.allday != 'true') {
-            $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar-past');
-          }
+         
           if(event.venue) {
-            $('<br /><span class="p-location location h-card vcard"><span>' + event.venue + '</span> ' + '<span class="address">' + event.address + '</span>' + '</span>').appendTo('#calendar-past');
+            $('<br /><span class="p-location location h-card vcard">' + event.venue + '</span> ').appendTo('#calendar-past');
           }
+
+          
           if(event.summary) {
             $('<br /><span class="p-name summary">' + event.summary + '</span>').appendTo('#calendar-past');
             }
           if(event.website) {
-            $('<a href="' + event.website + '" class="ml small"><i class="icon-link-ext"></i> website</a>').appendTo('#calendar-past');
+            $(' <a href="' + event.website + '" class="ml small"> <i class="icon-link-ext"></i> website</a>').appendTo('#calendar-past');
           }
         $('</div>').appendTo('#calendar');
         });
