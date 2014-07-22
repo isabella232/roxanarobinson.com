@@ -54,7 +54,7 @@ td.title p {
 							<td class="publication" width="20%">
 								<a href="{{writing.link_to_original}}">
 									<em>
-										{{ writing.publication | sort}}
+										{{ writing.publication}} <!-- | sort -->
 									</em>
 								</a>
 								<a href="{{writing.link_to_original}}" class="ss-redirect"><i class="icon-link-ext"></i></a>
@@ -62,7 +62,7 @@ td.title p {
 	   				{% else %}
 							<td class="publication" width="20%">
 								<em>
-									{{ writing.publication | sort}}
+									{{ writing.publication}}<!-- | sort -->
 								</em>
 							</td>
 						{% endif %}

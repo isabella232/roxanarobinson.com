@@ -51,7 +51,7 @@ permalink: /media/
 							<td class="publication" width="20%">
 								<a href="{{media.link_to_original}}">
 									<em>
-										{{ media.source | sort}}
+										{{ media.source}}  <!-- | sort -->
 									</em>
 								</a>
 								<a href="{{media.link_to_original}}" class="ss-redirect"><i class="icon-link-ext"></i></a>
@@ -59,7 +59,7 @@ permalink: /media/
 	   				{% else %}
 							<td class="publication" width="20%">
 								<em>
-									{{ media.source | sort}}
+									{{ media.source }}<!-- | sort -->
 								</em>
 							</td>
 						{% endif %}

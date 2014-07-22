@@ -1,19 +1,39 @@
 -
- start: 2014-11-18 12:00:00
+ title: "Panel on Edith Wharton’s *The House of Mirth*"
+ start: 2014-08-28 18:00:00 -0400
+ venue: "The Mount"
+ address: "2 Plunkett Street"
+ city-state: 'Lenox, MA'
+ title: "Rutgers MFA Program"
+ summary: "Through the 11th"
+
+-
+ title: "An Evening with Ann Beattie and Roxana Robinson"
+ start: 2014-08-20 18:30:00 -0400
+ venue: "Space Gallery"
+ address: "538 Congress Street"
+ city-state: 'Portland, ME'
+ summary: "Through the 11th"
+ website: "http://hosted.verticalresponse.com/770769/5df8637813/1479237975/4004c4bc7b/"
+ summary: "Doors at 6:30 PM, Show at 7:00 PM"
+
+
+-
+ start: 2014-11-18 12:00:00 -0400
  allday: true
  city-state: 'Newark, NJ'
  title: "Rutgers MFA Program"
  summary: "Through the 11th"
 
 -
- start: 2014-10-07 12:00:00
+ start: 2014-10-07 12:00:00 -0400
  allday: true
  city-state: New York, NY
  title: 'Distinguished Writers Series'
  venue: Hunter College
 
 -
- start: 2014-09-12 12:00:00
+ start: 2014-09-12 12:00:00 -0400
  allday: true
  city-state: 'Fairfax, VA'
  title: '<em>Fall for the Book</em> Book Festival '
@@ -21,14 +41,14 @@
  summary: "Through Sept. 14th"
 
 -
- start: 2014-09-08 12:00:00
+ start: 2014-09-08 12:00:00 -0400
  allday: true
  city-state: 'Colorado Springs, CO'
  title: 'US Air Force Academy'
  summary: 'Through Sept. 11th'
 
 -
-  start: 2014-07-10 12:00:00
+  start: 2014-07-10 12:00:00 -0400
   allday: true
   city-state: Bar Harbor, Maine
   title: Reading
@@ -43,12 +63,12 @@
   zip:
   website: http://www.wesleyan.edu/writing/conference/index.html
   allday: true
-  start: 2014-06-11 18:00:00
-  end: 2014-06-15 20:30:00
+  start: 2014-06-11 18:00:00 -0400
+  end: 2014-06-15 20:30:00 -0400
   summary: Through the 15th
 
 -
-  start: 2014-05-01 19:00:00
+  start: 2014-05-01 19:00:00 -0400
   city-state: New York, NY
   title: War Lit Panel
   venue: Wollman Auditorium
@@ -56,7 +76,7 @@
   summary: "PEN World Voices Festival"
 
 -
-  start: 2014-04-29 19:00:00
+  start: 2014-04-29 19:00:00 -0400
   city-state: New York
   title: "Adrian Bonbenberger - War Lit Panel"
   venue: Strand Bookstore
@@ -64,7 +84,7 @@
   summary: "Panel with David Abrams, Matt Gallagher and Adrian Bonenberger, to celebrate his new book, Afghan Post."
 
 -
-  start: 2014-03-21 19:30:00
+  start: 2014-03-21 19:30:00 -0400
   city-state: Pittsfield Mass.
   title: Berkshire Festival of Women Writers
   venue: Lichtenstein Arts Center
@@ -79,15 +99,15 @@
   zip:
   website: http://tucsonfestivalofbooks.org/ 
   allday: true
-  start: 2014-03-14 18:00:00
-  end: 2014-03-16 20:30:00
+  start: 2014-03-14 18:00:00 -0400
+  end: 2014-03-16 20:30:00 -0400
   summary: "Novelists on Loss and Love (Saturday, 11:30am); Fiction: Worlds In Transition (Sunday, 11:30am); Fiction: The Wreckage of War (Sunday, 2:30pm)"
   
 -
   title: Brown Bag Luncheon Reading
   allday: false
-  start: 2013-07-31 12:00:00
-  end: 2013-07-31 13:00:00
+  start: 2013-07-31 12:00:00 -0400
+  end: 2013-07-31 13:00:00 -0400
   venue: Portland Library
   address: 5 Monument Square
   city-state: Portland, Maine
@@ -97,7 +117,7 @@
 -
   title: Book Signing
   allday: true
-  start: 2013-08-02 19:00:00
+  start: 2013-08-02 19:00:00 -0400
   end:
   venue: Hotchkiss Library
   address: 
@@ -108,8 +128,8 @@
 -
   title: Book-signing
   allday: false
-  start: 2013-08-03 14:00:00
-  end: 2013-08-03 16:00:00
+  start: 2013-08-03 14:00:00 -0400
+  end: 2013-08-03 16:00:00 -0400
   venue: House of Books
   address: Main Street 
   city-state: Kent, Connecticut
@@ -119,7 +139,7 @@
 -
   title: Reading/Signing
   allday: false
-  start: 2013-08-10 16:00:00
+  start: 2013-08-10 16:00:00 -0400
   end: 
   venue: Cornwall Library
   address: 30 Pine Street
@@ -130,7 +150,7 @@
 -
   title: Gala for Maine Writers and Publishers Alliance
   allday: false
-  start: 2013-08-17 02:00:00
+  start: 2013-08-17 02:00:00 -0400
   end: 2013-08-17 07:30:00
   venue: Tess Gerritsen House, Camden Hills State Park
   address: 280 Belfast Road
@@ -141,7 +161,7 @@
 -
   title: Reading
   allday: false
-  start: 2013-08-19 19:00:00
+  start: 2013-08-19 19:00:00 -0400
   end:
   venue: Witherle Library
   address: 
@@ -152,7 +172,7 @@
 -
   title: Reading and Signing
   allday: false
-  start: 2013-08-24 11:00:00
+  start: 2013-08-24 11:00:00 -0400
   end: 
   venue: Toadstool Books
   address: 12 Depot Sq.
@@ -163,8 +183,8 @@
 -
   title: "Conversations on Practice: A Series run by Glenn Kurtz."
   allday: false
-  start: 2013-09-12 20:00:00
-  end: 2013-09-12 21:00:00
+  start: 2013-09-12 20:00:00 -0400
+  end: 2013-09-12 21:00:00 -0400
   venue: McNally-Jackson Bookstore
   address: 52 Prince Street
   city-state: New York, NY
@@ -174,8 +194,8 @@
 -
   title: Brattleboro Literary Festival
   allday: false
-  start: 2013-10-14 18:00:00
-  end: 2013-10-14 20:30:00
+  start: 2013-10-14 18:00:00 -0400
+  end: 2013-10-14 20:30:00 -0400
   venue: 
   address: 
   city-state:  
@@ -186,8 +206,8 @@
 -
   title: Conversation with Davyne Verstandig
   allday: true
-  start: 2013-11-01 18:00:00
-  end: 2013-11-01 20:30:00
+  start: 2013-11-01 18:00:00 -0400
+  end: 2013-11-01 20:30:00 -0400
   venue: Warner Theatre
   address: 
   city-state: "Torrington, Connecticut"
@@ -197,7 +217,7 @@
 -
   title: Interview on the Digital Age with Jim Zirin
   allday: false
-  start: 2013-11-26 17:00:00
+  start: 2013-11-26 17:00:00 -0400
   end:
   venue: 
   address: 
@@ -207,8 +227,8 @@
 -
   title: Discussion with David Finkel, moderated by Noreen Tomassi.
   allday: false
-  start: 2014-01-22 18:00:00
-  end: 2014-01-22 18:00:00
+  start: 2014-01-22 18:00:00 -0400
+  end: 2014-01-22 18:00:00 -0400
   venue: Center for Fiction
   address: 17 East 47th Street
   city-state: New York, NY  
@@ -219,8 +239,8 @@
 -
   title: Reading
   allday: true
-  start: 2014-02-06 18:00:00
-  end: 2014-02-06 20:30:00
+  start: 2014-02-06 18:00:00 -0400
+  end: 2014-02-06 20:30:00 -0400
   venue: 
   address: 
   city-state: Boca Grande, FL
@@ -235,14 +255,14 @@
   zip:
   website:  
   allday: true
-  start: 2014-04-05 18:00:00
+  start: 2014-04-05 18:00:00 -0400
   end:
 
 -
   title: Reading from “Sparta”
   allday: false
-  start: 2013-07-24 18:00:00
-  end: 2013-07-24 19:00:00
+  start: 2013-07-24 18:00:00 -0400
+  end: 2013-07-24 19:00:00 -0400
   venue: Northeast Harbor Library
   address: Joy Street Northeast 
   city-state: Northeast Harbor, ME
@@ -252,8 +272,8 @@
 -
   title: Reading from “Sparta”
   allday: false
-  start: 2013-07-22 17:00:00
-  end: 2013-07-22 18:00:00
+  start: 2013-07-22 17:00:00 -0400
+  end: 2013-07-22 18:00:00 -0400
   venue: College of the Atlantic, Gates Auditorium
   address: 
   city-state: Bar Harbor, ME
@@ -263,8 +283,8 @@
 -
   title: Reading from “Sparta”
   allday: false
-  start: 2013-07-16 17:30:00
-  end: 2013-07-16 18:30:00
+  start: 2013-07-16 17:30:00 -0400
+  end: 2013-07-16 18:30:00 -0400
   venue: Ocean View Grange
   address: 
   city-state: Tenants Harbor, ME 
@@ -274,8 +294,8 @@
 -
   title: Reading
   allday: false
-  start: 2013-06-29 18:00:00
-  end: 2013-06-29 19:00:00
+  start: 2013-06-29 18:00:00 -0400
+  end: 2013-06-29 19:00:00 -0400
   venue: Politics and Prose Bookstore
   address: 5015 Connecticut Ave.
   city-state: Washington, D.C.
@@ -285,8 +305,8 @@
 -
   title: Reading/signing
   allday: false
-  start: 2013-06-23 15:00:00
-  end: 2013-06-23 16:00:00
+  start: 2013-06-23 15:00:00 -0400
+  end: 2013-06-23 16:00:00 -0400
   venue: Hickory Stick Books
   address: 2 Green Hill Road
   city-state: Washington, CT 
@@ -296,8 +316,8 @@
 -
   title: Reading/Signing
   allday: false
-  start: 2013-06-16 19:00:00
-  end: 2013-06-16 20:00:00
+  start: 2013-06-16 19:00:00 -0400
+  end: 2013-06-16 20:00:00 -0400
   venue: Book Court
   address: 163 Court Street
   city-state: Brooklyn, NY
@@ -307,8 +327,8 @@
 -
   title: NYU Summer Writing Intensive
   allday: true
-  start: 2013-06-16 18:00:00
-  end: 2013-06-30 20:30:00
+  start: 2013-06-16 18:00:00 -0400
+  end: 2013-06-30 20:30:00 -0400
   venue: New York University
   address: 
   city-state: New York, NY
@@ -319,8 +339,8 @@
 -
   title: Wesleyan Writers Conference
   allday: true
-  start: 2013-06-14 18:00:00
-  end: 2013-06-14 20:30:00
+  start: 2013-06-14 18:00:00 -0400
+  end: 2013-06-14 20:30:00 -0400
   venue: 
   address: 
   city-state: Middletown, MA
@@ -330,8 +350,8 @@
 -
   title: Reading from “Sparta”
   allday: false
-  start: 2013-06-13 19:00:00
-  end: 2013-06-13 20:00:00
+  start: 2013-06-13 19:00:00 -0400
+  end: 2013-06-13 20:00:00 -0400
   venue: Porter Square Books
   address: 25 White Street
   city-state: Cambridge, MA
@@ -341,8 +361,8 @@
 -
   title: Reading/signing
   allday: false
-  start: 2013-06-13 12:00:00
-  end: 2013-06-13 13:00:00
+  start: 2013-06-13 12:00:00 -0400
+  end: 2013-06-13 13:00:00 -0400
   venue: Boston Atheneum
   address: 10 1/2 Beacon Street
   city-state: Boston, MA
@@ -352,8 +372,8 @@
 -
   title:
   allday: false
-  start: 2013-06-12 19:00:00
-  end: 2013-06-12 20:00:00
+  start: 2013-06-12 19:00:00 -0400
+  end: 2013-06-12 20:00:00 -0400
   venue: Newtonville Books
   address: 10 Langley Road
   city-state: Newton, MA
@@ -363,7 +383,7 @@
 -
   title: Printers Row Book Festival
   allday: false
-  start: 2013-06-08 11:45:00
+  start: 2013-06-08 11:45:00 -0400
   end:
   venue: University Center/Loop Room
   address: 
@@ -375,8 +395,8 @@
 -
   title:
   allday: false
-  start: 2013-06-04 19:00:00
-  end: 2013-06-04 20:00:00
+  start: 2013-06-04 19:00:00 -0400
+  end: 2013-06-04 20:00:00 -0400
   venue: Center for Fiction
   address: 17 East 47th Street
   city-state: New York, NY
