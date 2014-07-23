@@ -4,11 +4,8 @@
 	{% endif %}
 	{% capture todays_date %}{{ 'now' | date: "%Y-%m-%d" }}{% endcapture %}
 	{% capture post_date %}{{ post.date | date: "%Y-%m-%d" }}{% endcapture %}
-
-	{% if post_date > todays_date %}
-
-		<h5><time class="dt-start dtstart">{{ post.date | date: "%B %d, %Y" }}</time></h5>
-
-		{% include snippets/events-formatting.html %}
-	{% endif %}
+		{% if post_date > todays_date %}
+			<h5><time class="dt-start dtstart">{{ post.date | date: "%B %d, %Y" }}</time></h5>
+			{% include snippets/events-formatting.html %}
+		{% endif %}
 {% endfor %}
