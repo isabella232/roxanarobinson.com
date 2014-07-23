@@ -1,0 +1,14 @@
+{% for post in site.data.events reversed | group_by: 'date' %}
+	{% if post.title %}	
+		{% capture post_title %}{{post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
+	{% endif %}
+	{% capture todays_date %}{{ 'now' | date: "%Y-%m-%d" }}{% endcapture %}
+	{% capture post_date %}{{ post.date | date: "%Y-%m-%d" }}{% endcapture %}
+
+	{% if post_date > todays_date %}
+
+		<h5><time class="dt-start dtstart">{{ post.date | date: "%B %d, %Y" }}</time></h5>
+
+		{% include snippets/events-formatting.html %}
+	{% endif %}
+{% endfor %}

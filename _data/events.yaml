@@ -1,24 +1,4 @@
 -
- title: "Panel on Edith Wharton’s *The House of Mirth*"
- date: 2014-08-28
- start: 6:00p.m.
- venue: "The Mount"
- address: "2 Plunkett Street"
- city-state: 'Lenox, MA'
-
--
- title: "An Evening with Ann Beattie and Roxana Robinson"
- date: 2014-08-20
- start: 6:30p.m.
- venue: "Space Gallery"
- address: "538 Congress Street"
- city-state: 'Portland, ME'
- summary: "Through the 11th"
- website: "http://hosted.verticalresponse.com/770769/5df8637813/1479237975/4004c4bc7b/"
- summary: "Doors at 6:30 p.m., Show at 7:00 p.m."
-
-
--
  date: 2014-11-18
  allday: true
  city-state: 'Newark, NJ'
@@ -27,7 +7,7 @@
 
 -
  date: 2014-10-07
- start: 12:00
+ start: 12:00 p.m.
  allday: true
  city-state: New York, NY
  title: 'Distinguished Writers Series'
@@ -35,7 +15,7 @@
 
 -
  date: 2014-09-12
- start: 12:00
+ start: 12:00 p.m.
  allday: true
  city-state: 'Fairfax, VA'
  title: '<em>Fall for the Book</em> Book Festival '
@@ -44,15 +24,34 @@
 
 -
  date: 2014-09-08
- start: 12:00
+ start: 12:00 p.m.
  allday: true
  city-state: 'Colorado Springs, CO'
  title: 'US Air Force Academy'
  summary: 'Through Sept. 11th'
 
 -
+ title: "Panel on Edith Wharton’s *The House of Mirth*"
+ date: 2014-08-28
+ start: 6:00 p.m.
+ venue: "The Mount"
+ address: "2 Plunkett Street"
+ city-state: 'Lenox, MA'
+
+-
+ title: "An Evening with Ann Beattie and Roxana Robinson"
+ date: 2014-08-20
+ start: 6:30 p.m.
+ venue: "Space Gallery"
+ address: "538 Congress Street"
+ city-state: 'Portland, ME'
+ summary: "Through the 11th"
+ website: "http://hosted.verticalresponse.com/770769/5df8637813/1479237975/4004c4bc7b/"
+ summary: "Doors at 6:30 p.m., Show at 7:00 p.m."
+
+-
   date: 2014-07-10
-  start: 12:00
+  start: 12:00 p.m.
   allday: true
   city-state: Bar Harbor, Maine
   title: Reading
