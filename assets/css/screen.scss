@@ -1,8 +1,6 @@
 ---
 layout: null
 ---
-
-
 @import "libs/_normalize";
 @import "libs/bourbon/bourbon";
 @import "bitters/bitters";
@@ -18,15 +16,9 @@ layout: null
 // SITE
 @import "modules/lists";
 @import "site-specific";
-
 .entry-content {
 	margin-bottom:5em;
 }
-
 body.about-the-author .entry-content {
 	margin-bottom:15em;
 }
-
-// body.past-events .entry-content {
-// 	min-height:3000px;
-// }
