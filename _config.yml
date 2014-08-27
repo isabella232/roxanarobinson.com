@@ -20,15 +20,13 @@ markdown: kramdown
 include: ['_pages']
 relative_permalinks: false # won't need this as of 2.0: Deprecation: Starting in 2.0, permalinks for pages in subfolders must be relative to the site source directory, not the parent directory. Also will change exclude directory
 exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'README.md', 'prose.yaml']
-
-
+sass:
+    style: :compressed
+    sass_dir: assets/css/_sass
 
 # dev options (true/false)
 # if site is in production, 'production: true'
 production: true
-use_jquery_cdn: true
-include_font_awesome: false
-include_addthis_sharing: false
 bust_css_cache: true
 
 # options (data)

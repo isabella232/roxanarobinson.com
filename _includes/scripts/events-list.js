@@ -4,8 +4,6 @@ var timing = function(start, end) {
   return moment(start).format() + ' - ' + moment(end).format();
 };
 
-
-$(document).ready(function() {
   $.getJSON('/api/cal.json', null, function(response) {
     var groups = _.groupBy(response.events, function(event) { return moment(event.start).format('YYYY-MM-DD'); });
    
@@ -61,11 +59,10 @@ days_desc.forEach(function(day) {
             $('<br /><span class="p-name summary">' + event.summary + '</span>').appendTo('#calendar-past');
             }
           if(event.website) {
-            $(' <a href="' + event.website + '" class="ml small"> <i class="icon-link-ext"></i> website</a>').appendTo('#calendar-past');
+            $('<a href="' + event.website + '" class="ml small"> <i class="icon-link-ext"></i> website</a>').appendTo('#calendar');
           }
         $('</div>').appendTo('#calendar');
         });
         }
   });
   });
-});

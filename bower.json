@@ -19,12 +19,12 @@
     "tests"
   ],
   "dependencies": {
-        "jquery": "latest",
-        "jquery-backstretch": "latest",
-        "html5shiv": "latest",
-        "listjs": "latest",
-        "moment": "latest",
-        "modernizr": "latest",
-        "underscore": "latest"
-    }
+    "jquery": "latest",
+    "jquery-backstretch": "latest",
+    "html5shiv": "latest",
+    "listjs": "latest",
+    "moment": "*",
+    "modernizr": "latest",
+    "underscore": "latest"
+  }
 }

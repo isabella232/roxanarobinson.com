@@ -2,10 +2,13 @@
 title: About Roxana
 permalink: /about-the-author/
 layout: page
+class: about-the-author
 ---
-![Roxana](../assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG-200x200.jpg) Roxana Robinson is the author of five novels, including *Cost*; three collections of short stories; and the biography *Georgia O’Keeffe: A Life*. Her work has appeared in *The New Yorker*, *The Atlantic*, *Harper’s* Magazine, *The New York Times*, *The Washington Post*, *The Wall Street Journal*, *Travel and Leisure*, *More*, and *Vogue*, among other publications. She divides her time between New York, Connecticut, and Maine.  [Full Bio](/biography/) 
+![Roxana](../assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG-200x200.jpg) Roxana Robinson is the author of five novels, including *Cost*; three collections of short stories; and the biography *Georgia O’Keeffe: A Life*. Her work has appeared in *The New Yorker*, *The Atlantic*, *Harper’s* Magazine, *The New York Times*, *The Washington Post*, *The Wall Street Journal*, *Travel and Leisure*, *More*, and *Vogue*, among other publications. She divides her time between New York, Connecticut, and Maine.  
 
-_hi-res images below_
+[Full Bio](/biography/) 
+
+[**Click here for hi-res images**](#downloads)
 
 --- 
 
@@ -30,8 +33,10 @@ _hi-res images below_
 [![](../assets/img/Robinson2_thmb_JoyceRavid.jpg)](../assets/img/Robinson2_JoyceRavid.jpg)
 
 
-### Sources
+<div style="width:100%;clear:both;margin:2em 0;">&nbsp;</div>
 
+
+### Sources
 
 
 --- SPARTA Cover (6"X10" 72 ppi)
