@@ -39,8 +39,6 @@ class: about-the-author
 
 --- SPARTA Cover (6"X10" 72 ppi)
 
---- Roxana Robinson, credit ©2010 David Ignaszewski/Koboy (6"X9" 300ppi)
-
 --- Roxana Robinson, credit ©2010 David Ignaszewski/Koboy (4"X6" 300ppi)
 
 --- Roxana Robinson, credit ©2008 JoyceRavid (5X6.5 @ 300ppi)
