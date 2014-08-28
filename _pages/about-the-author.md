@@ -26,8 +26,6 @@ class: about-the-author
 
 [*![Roxana Robinson Portrait](../assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy.jpg)*](../assets/img/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG.jpg "Cost Jacket Cover Roxana Robinson")
 
-[*![Roxana Robinson Portrait](../assets/img/Roxana-ROBINSON-11-David-Ignaszewski-koboy_thumb.jpg)*](../assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG.jpg "Cost  Jacket Cover Roxana Robinson")
-
 [![](../assets/img/Robinson_thmb_JoyceRavid.jpg)](../assets/img/Robinson_JoyceRavid.jpg)
 
 [![](../assets/img/Robinson2_thmb_JoyceRavid.jpg)](../assets/img/Robinson2_JoyceRavid.jpg)
