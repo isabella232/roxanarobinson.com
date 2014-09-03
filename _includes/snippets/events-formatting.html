@@ -6,7 +6,7 @@
 			{{ post.city-state }}
 		</span>
 	</h4>
-	
+
 	<span>
 		<strong>
 			{{ post_title }}
@@ -18,23 +18,23 @@
 		<strong>
 			{{event_time}}
 		</strong>
-	{% endif %}	
+	{% endif %}
 	</span>
-	
+
 	{% if post.venue %}
 	<br />
 		<span class="p-location location h-card vcard">
 			{{ post.venue }}
-		</span> 
+		</span>
 	{% endif %}
 	{% if post.address %}
 		<span class="address">&nbsp;&bull; {{ post.address }}</span>
 	{% endif %}
-	
+
 	{% if post.summary %}
 	<br />
 		<span class="p-name summary">
-			{{ post.summary | strip_html }}
+			{{ post.summary | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
 		</span>
 	{% endif %}
 
