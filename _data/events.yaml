@@ -5,7 +5,7 @@
  title: "Rutgers MFA Program"
  summary: "Through Dec. 11th"
 
-- 
+-
  date: 2014-10-28
  start: 7:30 p.m.
  venue: Hunter College
@@ -13,13 +13,13 @@
  city-state: "New York, NY"
  summary: "Faculty Dining Room, Hunter College, West Building, 8th floor (Southwest corner of Lexington Avenue and East 68th Street)"
 
-- 
+-
   title: "On Elena Ferrante"
   date: 2014-09-16
   start: 7:00 p.m.
   venue: "The Center for Fiction"
   city-state: "New York, NY"
-  summary: "Elena Ferrante's translator Ann Goldstein and novelists Stacey D'Erasmo and Roxana Robinson will talk about their passion for the acclaimed Italian writer and about her newest book, <em>Those Who Leave and Those Who Stay</em>." 
+  summary: "Elena Ferrante's translator Ann Goldstein and novelists Stacey D'Erasmo and Roxana Robinson will talk about their passion for the acclaimed Italian writer and about her newest book, *Those Who Leave and Those Who Stay*." 
 
 -
  date: 2014-09-12
@@ -68,8 +68,8 @@
 
 -
   title: Wesleyan Writers Conference
-  venue: 
-  address: 
+  venue:
+  address:
   city-state: "Middletown, CT"
   zip:
   website: http://www.wesleyan.edu/writing/conference/index.html
@@ -109,16 +109,16 @@
 -
   title: Tucson Festival of Books
   venue:
-  address: 
+  address:
   city-state: "Tucson, AZ"
   zip:
-  website: http://tucsonfestivalofbooks.org/ 
+  website: http://tucsonfestivalofbooks.org/
   allday: true
   date: 2014-03-14
   start: 6:00 p.m.
   end: 2014-03-16 20:30:00
   summary: "Novelists on Loss and Love (Saturday, 11:30am); Fiction: Worlds In Transition (Sunday, 11:30am); Fiction: The Wreckage of War (Sunday, 2:30p.m.)"
-  
+
 -
   title: Brown Bag Luncheon Reading
   allday: false
@@ -129,7 +129,7 @@
   address: 5 Monument Square
   city-state: "Portland, ME"
   zip:
-  website:  
+  website:
 
 -
   title: Book Signing
@@ -138,10 +138,10 @@
   start: 7:00 p.m.
   end:
   venue: Hotchkiss Library
-  address: 
+  address:
   city-state: "Sharon, CT"
   zip:
-  website:  
+  website:
 
 -
   title: Book-signing
@@ -149,21 +149,21 @@
   date: 2013-08-03 14:00:00
   end: 2013-08-03 16:00:00
   venue: House of Books
-  address: Main Street 
+  address: Main Street
   city-state: "Kent, CT"
   zip:
-  website:  
+  website:
 
 -
   title: Reading/Signing
   allday: false
   date: 2013-08-10 16:00:00
-  end: 
+  end:
   venue: Cornwall Library
   address: 30 Pine Street
   city-state: "Cornwall, CT"
   zip: 06796
-  website:  
+  website:
 
 -
   title: Gala for Maine Writers and Publishers Alliance
@@ -174,7 +174,7 @@
   address: 280 Belfast Road
   city-state: "Camden, ME"
   zip: 04843
-  website:  
+  website:
 
 -
   title: Reading
@@ -182,21 +182,21 @@
   date: 2013-08-19 19:00:00
   end:
   venue: Witherle Library
-  address: 
+  address:
   city-state: "Castine, ME"
   zip: 04421
-  website:  
+  website:
 
 -
   title: Reading and Signing
   allday: false
   date: 2013-08-24 11:00:00
-  end: 
+  end:
   venue: Toadstool Books
   address: 12 Depot Sq.
   city-state: "Peterborough, NH"
   zip:
-  website: http://www.toadbooks.com/ 
+  website: http://www.toadbooks.com/
 
 -
   title: "Conversations on Practice: A Series run by Glenn Kurtz."
@@ -207,19 +207,19 @@
   address: 52 Prince Street
   city-state: "New York, NY"
   zip: 10012
-  website: http://mcnallyjackson.com/ 
+  website: http://mcnallyjackson.com/
 
 -
   title: Brattleboro Literary Festival
   allday: false
   date: 2013-10-14 18:00:00
   end: 2013-10-14 20:30:00
-  venue: 
-  address: 
-  city-state:  
+  venue:
+  address:
+  city-state:
   city-state: "Brattleboro, VT"
   zip:
-  website:  
+  website:
 
 -
   title: Conversation with Davyne Verstandig
@@ -227,21 +227,21 @@
   date: 2013-11-01 18:00:00
   end: 2013-11-01 20:30:00
   venue: Warner Theatre
-  address: 
+  address:
   city-state: "Torrington, Connecticut"
   zip:
-  website:  
+  website:
 
 -
   title: Interview on the Digital Age with Jim Zirin
   allday: false
   date: 2013-11-26 17:00:00
   end:
-  venue: 
-  address: 
-  city-state:  
+  venue:
+  address:
+  city-state:
   zip:
-  website:  
+  website:
 -
   title: "Discussion with David Finkel, moderated by Noreen Tomassi."
   allday: false
@@ -259,19 +259,19 @@
   allday: true
   date: 2014-02-06 18:00:00
   end: 2014-02-06 20:30:00
-  venue: 
-  address: 
+  venue:
+  address:
   city-state: "Boca Grande, FL"
   zip:
-  website:  
+  website:
 
 -
   title: Literary Festival
-  venue: 
-  address: 
+  venue:
+  address:
   city-state: "San Antonio, TX"
   zip:
-  website:  
+  website:
   allday: true
   date: 2014-04-05 18:00:00
   end:
@@ -282,10 +282,10 @@
   date: 2013-07-24 18:00:00
   end: 2013-07-24 19:00:00
   venue: Northeast Harbor Library
-  address: Joy Street Northeast 
+  address: Joy Street Northeast
   city-state: "Northeast Harbor, ME"
   zip:
-  website:  
+  website:
 
 -
   title: Reading from “Sparta”
@@ -293,10 +293,10 @@
   date: 2013-07-22 17:00:00
   end: 2013-07-22 18:00:00
   venue: "College of the Atlantic, Gates Auditorium"
-  address: 
+  address:
   city-state: "Bar Harbor, ME"
   zip:
-  website:  
+  website:
 
 -
   title: Reading from “Sparta”
@@ -304,10 +304,10 @@
   date: 2013-07-16 17:30:00
   end: 2013-07-16 18:30:00
   venue: Ocean View Grange
-  address: 
+  address:
   city-state: "Tenants Harbor, ME"
   zip:
-  website:  
+  website:
 
 -
   title: Reading
@@ -318,7 +318,7 @@
   address: 5015 Connecticut Ave.
   city-state: "Washington, D.C."
   zip:
-  website:  
+  website:
 
 -
   title: Reading/signing
@@ -329,7 +329,7 @@
   address: 2 Green Hill Road
   city-state: "Washington, CT"
   zip: 06793
-  website:  
+  website:
 
 -
   title: Reading/Signing
@@ -341,7 +341,7 @@
   address: 163 Court Street
   city-state: "Brooklyn, NY"
   zip: 11201
-  website:  
+  website:
 
 -
   title: NYU Summer Writing Intensive
@@ -349,10 +349,10 @@
   date: 2013-06-16 18:00:00
   end: 2013-06-30 20:30:00
   venue: New York University
-  address: 
+  address:
   city-state: "New York, NY"
   zip:
-  website:  
+  website:
   summary: Two-week Summer Intensive Program in Creative Writing.
 
 -
@@ -361,11 +361,11 @@
   date: 2013-06-14 18:00:00
   start: 6:00 p.m.
   end: 2013-06-14 20:30:00
-  venue: 
-  address: 
+  venue:
+  address:
   city-state: "Middletown, MA"
   zip:
-  website:  
+  website:
 
 -
   title: Reading from “Sparta”
@@ -377,7 +377,7 @@
   address: 25 White Street
   city-state: "Cambridge, MA"
   zip: 02140
-  website:  
+  website:
 
 -
   title: Reading/signing
@@ -388,7 +388,7 @@
   address: 10 1/2 Beacon Street
   city-state: "Boston, MA"
   zip: 02108
-  website:  
+  website:
 
 -
   title:
@@ -399,7 +399,7 @@
   address: 10 Langley Road
   city-state: "Newton, MA"
   zip: 02459
-  website:  
+  website:
 
 -
   title: Printers Row Book Festival
@@ -408,11 +408,11 @@
   start: 11:45 a.m.
   end:
   venue: University Center/Loop Room
-  address: 
+  address:
   city-state: "Chicago, IL"
   zip:
-  website: 
-  summary: "Conversation with Elizabeth Taylor, Literary Editor of the 'Chicago Tribune'." 
+  website:
+  summary: "Conversation with Elizabeth Taylor, Literary Editor of the 'Chicago Tribune'."
 
 -
   title:
@@ -424,5 +424,5 @@
   address: 17 East 47th Street
   city-state: "New York, NY"
   zip: 10017
-  website: http://centerforfiction.org/ 
+  website: http://centerforfiction.org/
   summary: Reading and Signing; Launch for novel <em>Sparta</em>
