@@ -3,8 +3,18 @@
  allday: true
  city-state: 'Newark, NJ'
  title: "Rutgers MFA Program"
- summary: "Through Dec. 11th"
  website: "http://www.ncas.rutgers.edu/mfa-creative-writing/writers-newark-reading-series"
+
+-
+ date: 2014-11-17
+ allday: true
+ venue: "Southbury Library"
+ city-state: 'Southbury, CT'
+ title: "Lu Burke Reading Series"
+ summary: "talk and signing"
+ address: "100 Poverty Rd."
+ website: "http://www.southbury-ct.org/controls/NewsFeed.aspx?FeedID=1657"
+
 
 -
  date: 2014-10-28
@@ -18,10 +28,11 @@
 -
  date: 2014-10-24
  allday: true
- city-state: Tulsa, OK
+ city-state: "Tulsa, OK"
+ venue: "The University of Tulsa"
+ address: "800 South Tucker Drive"
  title: "Nimrod Conference for Readers and Writers"
  website: "http://www.utulsa.edu/nimrod/conference.html"
- summary: "through the 28th"
 
 -
  title: "On Elena Ferrante"

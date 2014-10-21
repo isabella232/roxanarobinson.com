@@ -6,6 +6,7 @@
 # category: Travel
 # category: Short Stories
 # category: Art History
+
 -
  category: "Essays"
  date: 2014-09-25
@@ -13,6 +14,13 @@
  title: "Sparta"
  link_to_original: http://wlajournal.com/archive.aspx?issue=26
  related_book: sparta
+
+-
+ category: "Book Reviews"
+ date: 2014-09-15
+ publication: "Washington Post"
+ title: "‘My Life as a Foreign Country’ by Brian Turner"
+ link_to_original: http://www.washingtonpost.com/entertainment/books/review-my-life-as-a-foreign-country-by-brian-turner/2014/09/15/be6c7e6c-353d-11e4-9e92-0899b306bbea_story.html
 
 -
  title: "Between Women"
