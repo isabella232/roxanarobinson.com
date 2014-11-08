@@ -4,7 +4,7 @@ permalink: /about-the-author/
 layout: page
 class: about-the-author
 ---
-![Roxana](../assets/img/robinson1_si-303x335.jpg) {{ site.bio }} bio
+![Roxana](../assets/img/robinson1_si-303x335.jpg) {{ site.bio }}
 
 
 [Full Bio](/biography/)
