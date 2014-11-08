@@ -25,7 +25,7 @@ class: about-the-author
 
 [![SPARTA Cover](../assets/img/sparta_robinson_95x140.jpg)](../assets/img/sparta_robinson_275x400.jpg)
 
-[*![Roxana Robinson Portrait](../assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy.jpg)*](../assets/img/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG.jpg "Cost Jacket Cover Roxana Robinson")
+[*![Roxana Robinson Portrait](../assets/img/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop.jpg)*](../assets/img/robinson1_si-303x335.jpg "Cost Jacket Cover Roxana Robinson")
 
 [![](../assets/img/Robinson_thmb_JoyceRavid.jpg)](../assets/img/Robinson_JoyceRavid.jpg)
 
