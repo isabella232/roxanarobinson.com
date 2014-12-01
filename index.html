@@ -19,51 +19,25 @@ category: home
 		<small><a href="/books/sparta/"><strong>Read more about <em>Sparta</em> and see reviews</strong></a></small>
 </div>
 
-
-<style type="text/css">
-	.item-wrapper {
-		width: 44%;
-		float: left;
-		margin-right: 5%;
-	}
-
-</style>
 {% include snippets/news-list.html limit="2" %}
 
-
-<div class="row">
-
-
-
-	<div class="events">
-		<aside style="border-left:1px solid #ddd;padding-left:1em;paddin-bottom:4em;">
-			<h4 style="margin-bottom:-30px;">Upcoming Events</h4>
-			<div id="calendarTK" ></div>
-			{% include snippets/events-static.html %}
-		</aside>
+	<div class="row">
+		<!-- <div class="events">
+			<aside style="border-left:1px solid #ddd;padding-left:1em;paddin-bottom:4em;">
+				<h4 style="margin-bottom:-30px;">Upcoming Events</h4>
+				<div id="calendarTK" ></div>
+				{% include snippets/events-static.html %}
+			</aside>
+		</div> -->
 	</div>
-
-
-</div>
-
-
-
-<div class="row">
-
-	<div class="bio-fulfl" style="padding-right:3em;">
-
-		<p style="margin-top:12px;"><img src="/assets/img/robinson1_si-303x335.jpg" style="max-width:195px;"></p>
-		<p>{{ site.bio }}<br /><br /></p>
-
-
-	</div>
-</div>
-
-
-
-<div class="row">
-<hr />
-			{% include books/books-list.html %}
+	<div class="row">
+		<div class="bio-fulfl" style="padding-right:3em;">
+			<p style="margin-top:12px;"><img src="/assets/img/robinson1_si-303x335.jpg" style="max-width:195px;"></p>
+			<p>{{ site.bio }}<br /><br /></p>
 		</div>
-
+	</div>
+	<div class="row">
+		<hr />
+		{% include books/books-list.html %}
+	</div>
 </div>

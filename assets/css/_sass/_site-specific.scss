@@ -128,3 +128,9 @@ section.books article, section.books aside, .bio, .events{
 	  @include span-columns(2 of 6);
 	}
 }
+
+body.home .item-wrapper {
+		width: 44%;
+		float: left;
+		margin-right: 5%;
+	}
