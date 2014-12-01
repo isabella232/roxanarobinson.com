@@ -1,8 +1,8 @@
 ---
-layout: none
+layout: null
 ---
 {"events": [{% assign first = true %}{% for post in site.data.events reversed %}{% if first == false %},{% endif %}{% if first == true %}{% assign first = false %}{% endif %}
-{% if post.title %}	
+{% if post.title %}
 	{% capture post_title %}{{post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
 {% endif %}
 

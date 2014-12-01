@@ -19,7 +19,7 @@ html {
 }
 
 header {
-	text-align: center;	
+	text-align: center;
 }
 
 header.banner {
@@ -112,16 +112,16 @@ section.books {
 	margin-bottom: 7em;
 }
 
-section.books article, section.books aside, .bio, .events{ 
+section.books article, section.books aside, .bio, .events{
 	@include span-columns(6 of 6);
 }
- 
+
 @include media($medium-screen-up) {
 
 	section.books h1.entry-title {
 		margin-top: -13px;
 	}
-	section.books article, .bio{ 
+	section.books article, .bio{
   	@include span-columns(4 of 6);
 	}
 	section.books aside, .events {

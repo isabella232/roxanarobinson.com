@@ -1,6 +1,6 @@
 <div class="row">
 	<div class="column-wrapper">
-	{% for item in site.data.news | limit:1 %}
+	{% for item in site.data.news | limit:{{include:limit}} %}
 			{% include snippets/news-list-formatting.html %}
 	{% endfor %}
 	</div>
