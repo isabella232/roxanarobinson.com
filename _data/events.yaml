@@ -1,4 +1,23 @@
 -
+ date: 2015-05-02
+ start: 9:00 a.m.
+ venue: "Boston Park Plaza Hotel"
+ city-state: 'Boston, MA'
+ title: "The Muse and the Marketplace"
+ address: "50 Park Plaza"
+ summary: "What is Great Fiction"
+ website: "http://museandthemarketplace2015.com/"
+
+-
+ date: 2015-04-22
+ allday: true
+ venue: "Stony Brook Southampton"
+ city-state: 'Southampton, NY'
+ title: "Writers Speak Wednesdays"
+ address: "239 Montauk Highway"
+ website: "http://www.stonybrook.edu/southampton/mfa/special_programs/writers_speak.html"
+
+-
  date: 2014-11-18
  allday: true
  city-state: 'Newark, NJ'
