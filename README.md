@@ -1,1 +1,1 @@
-Personal site for Roxana Robinson, designed and developed by Bud Parr/Sonnet Media
+Personal site for Roxana Robinson, designed and developed by Bud Parr/Sonnet Media.
