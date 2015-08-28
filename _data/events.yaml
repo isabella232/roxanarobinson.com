@@ -1,4 +1,54 @@
 -
+  date: 2016-01-1
+  allday: true
+  city-state: "Fredericksburg, VA"
+  title: "January 2016 - Roxana Robinson on Georgia O’Keeffe"
+  venue: "University of Mary Washington"
+  website: "http://www.umw.edu/"
+
+- 
+  date: 2015-10-23
+  allday: true
+  city-state: "Kennebunkport, ME"
+  summary: "October 23-25, 2015 - Fiction Workshop at the Harvest Writers Retreat"
+  venue: "The Colony Hotel in Kennebunkport"
+  address: "140 Ocean Ave"
+  website: "http://mainewriters.org/2014-harvest-writers-retreat/"
+
+- 
+  date: 2015-10-09
+  allday: true
+  city-state: "Bar Harbor, ME"
+  title: "Roxana Robinson on Georgia O’Keeffe"
+  venue: "College of the Atlantic"
+  website: "http://www.coa.edu/index.htm"
+
+- 
+  date: "2015-09-20"
+  city-state: "Brooklyn, NY"
+  title: "Brooklyn Book Festival"
+  venue: "Brooklyn Borough Hall and Plaza"
+  address: "209 Joralemon Street"
+  website: "http://www.brooklynbookfestival.org/"
+
+- 
+  date: 2015-09-10
+  city-state: "Spartanburg, SC"
+  title: "The Novel Experience Convocation"
+  venue: "Wofford College"
+  summary: "Early September, 2015 - Roxana Robinson will discuss her novel Sparta with first year students and the Wofford community at large."
+  website: "http://www.wofford.edu/orientation/novelExperience/"
+
+-
+ date: 2015-09-5 
+ city-state: "Washington D.C."
+ title: "Roxana Robinson on the Human Side of War 6:10-6:55 pm"
+ venue: "Walter E. Washington Convention Center"
+ address: "801 Mt Vernon Pl NW"
+ summary: "Roxana Robinson will speak at the National Book Festival as part of The Human Side of War: A Tribute to the American War Experience, 1942-2015."
+ website: "http://www.loc.gov/bookfest/author/roxana_robinson"
+
+-
  date: 2015-05-02
  start: 9:00 a.m.
  venue: "Boston Park Plaza Hotel"
