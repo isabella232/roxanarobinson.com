@@ -31,14 +31,6 @@
   address: "209 Joralemon Street"
   website: "http://www.brooklynbookfestival.org/"
 
-- 
-  date: 2015-09-10
-  city-state: "Spartanburg, SC"
-  title: "The Novel Experience Convocation"
-  venue: "Wofford College"
-  summary: "Early September, 2015 - Roxana Robinson will discuss her novel Sparta with first year students and the Wofford community at large."
-  website: "http://www.wofford.edu/orientation/novelExperience/"
-
 -
  date: 2015-09-5 
  city-state: "Washington D.C."
@@ -47,6 +39,15 @@
  address: "801 Mt Vernon Pl NW"
  summary: "Roxana Robinson will speak at the National Book Festival as part of The Human Side of War: A Tribute to the American War Experience, 1942-2015."
  website: "http://www.loc.gov/bookfest/author/roxana_robinson"
+
+- 
+  date: 2015-09-01
+  city-state: "Spartanburg, SC"
+  title: "Early September, 2015 - The Novel Experience Convocation"
+  venue: "Wofford College"
+  summary: "Roxana Robinson will discuss her novel Sparta with first year students and the Wofford community at large."
+  website: "http://www.wofford.edu/orientation/novelExperience/"
+
 
 -
  date: 2015-05-02
