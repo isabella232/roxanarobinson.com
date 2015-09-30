@@ -8,6 +8,20 @@
 # category: Art History
 
 -
+ category: "Book Reviews"
+ date: 2015-09-18
+ publication: "New York Times Sunday Book Review"
+ title: "_Sweet Caress_, by William Boyd"
+ link_to_original: "http://lithub.com/against-lolita/"
+
+-
+ category: "Essays"
+ date: 2015-09-16
+ publication: "Literary Hub"
+ title: "Against Lolita"
+ link_to_original: "http://lithub.com/against-lolita/"
+
+-
  category: "Essays"
  date: 2015-06-02
  publication: "New York Review Books via Lithub"
@@ -39,7 +53,7 @@
  category: "Book Reviews"
  date: 2014-09-15
  publication: "Washington Post"
- title: "‘My Life as a Foreign Country’ by Brian Turner"
+ title: "_My Life as a Foreign Country_ by Brian Turner"
  link_to_original: http://www.washingtonpost.com/entertainment/books/review-my-life-as-a-foreign-country-by-brian-turner/2014/09/15/be6c7e6c-353d-11e4-9e92-0899b306bbea_story.html
 
 -
