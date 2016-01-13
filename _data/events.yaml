@@ -1,4 +1,14 @@
 -
+  date: 2016-02-02
+  start: 4:00 p.m.
+  city-state: "Durham, N.C."
+  title: "Reading by Roxana Robinson, Rosati fellow"
+  venue: "Duke University"
+  address: "Holsti-Anderson Family Assembly Room, 153 Rubenstein Library"
+  summary: "Q&A, book signing and reception following. Free and open to the public."
+  website: "http://calendar.duke.edu/events/show?fq=id%3ACAL-8a0870ef-521c47f0-0152-22d12e5a-00004a8fdemobedework%40mysite.edu"
+
+-
   date: 2016-01-21
   allday: true
   city-state: "Fredericksburg, VA"
@@ -6,7 +16,7 @@
   venue: "University of Mary Washington"
   website: "http://www.umw.edu/"
 
-- 
+-
   date: 2015-10-23
   allday: true
   city-state: "Kennebunkport, ME"
@@ -15,7 +25,7 @@
   address: "140 Ocean Ave"
   website: "http://mainewriters.org/2014-harvest-writers-retreat"
 
-- 
+-
   date: 2015-10-09
   allday: true
   city-state: "Bar Harbor, ME"
@@ -23,7 +33,7 @@
   venue: "College of the Atlantic"
   website: "http://www.coa.edu/index.htm"
 
-- 
+-
   date: "2015-09-20"
   city-state: "Brooklyn, NY"
   title: "Brooklyn Book Festival"
@@ -32,7 +42,7 @@
   website: "http://www.brooklynbookfestival.org/"
 
 -
- date: 2015-09-5 
+ date: 2015-09-5
  city-state: "Washington D.C."
  title: "Roxana Robinson on the Human Side of War 6:10-6:55 pm"
  venue: "Walter E. Washington Convention Center"
@@ -40,7 +50,7 @@
  summary: "Roxana Robinson will speak at the National Book Festival as part of The Human Side of War: A Tribute to the American War Experience, 1942-2015."
  website: "http://www.loc.gov/bookfest/author/roxana_robinson"
 
-- 
+-
   date: 2015-09-01
   city-state: "Spartanburg, SC"
   title: "Early September, 2015 - The Novel Experience Convocation"
