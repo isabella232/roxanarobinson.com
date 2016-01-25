@@ -32,7 +32,10 @@ category: home
 
 	<div class="row">
 
-	
+	{% assign news = site.data.news | where: 'test', true %}
+
+	<h1>count: {{ news.size }}</h1>
+
 	</div>
 	<div class="row">
 		<div class="bio-fulfl" style="padding-right:3em;float:left;width:68%;">
