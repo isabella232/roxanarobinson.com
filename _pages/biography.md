@@ -12,7 +12,7 @@ Roxana Robinson has taught creative writing workshops at Bennington College, the
 
 Ms. Robinson is also a biographer and scholar of nineteenth and early twentieth century American art. Her articles have appeared in *Arts*, *ARTnews*, and *Art & Antiques* as well as in exhibition catalogs for the Metropolitan Museum of Art, the Katonah Museum of Art, and other institutions. Her biography of Georgia O’Keeffe was short-listed for the National Book Critics Circle Award and was named one of *The New York Times* Most Notable Books of the Year. Ms. Robinson lectures frequently on Georgia O’Keeffe and appeared in the BBC documentary on the artist. Her biography is considered the definitive work, called by Calvin Tomkins, of *The New Yorker*, “without question the best book written about O’Keeffe.”
 
-She is a frequent contributor to *The New York Times Book Review* and Travel Section. She reviews books for *The Washington Post*, and her essays have appeared in *The Wall Street Journal*, *The Boston Globe*, *Vogue*, *House and Garden*, *Tin House*, *Harper’s,* and other publications.
+She reviews books for *The New York Times* and the *Washington Post*, and her work has appeared in *The Wall Street Journal*, *The Boston Globe*, *Slate*, *The Nation*, *Harper’s*, *Bookforum*, *Tin House*, *LitHub* and elsewhere.
 
 Ms. Robinson is also a gardener and garden writer, and her essays in this field have appeared in *Horticulture*, *House and Garden*, *House Beautiful*, and *Fine Gardening*. For years, her garden was listed in the Garden Conservancy Open Days, and it has been written about in *The* *New York Times*, *House and Garden*, *Traditional Homes*, *The Atlantic*, *Gardens Illustrated*, and other publications.
 
