@@ -1,5 +1,5 @@
 ---
-title: 'Helping: A Tribute to Robert Stone'
+title: 'AWP: Helping: A Tribute to Robert Stone'
 published: true
 category: event
 date: 2016-04-02T12:00:00.000Z
@@ -14,5 +14,3 @@ slug: 2013-06-04-event
 
 
 On his passing in January 2015, Robert Stone was hailed as one of the most significant American novelists of the last half-century—a chronicler of disillusionment and moral disorder in post-Vietnam America, and of the often disastrous consequences of American idealism abroad. This panel gathers friends, colleagues, and former students of Stone to read excerpts of his work and share stories and tributes to his legacy.
-
-&nbsp;
