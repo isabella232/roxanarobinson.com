@@ -2,7 +2,7 @@
 title: "Conversations on Practice: A Series run by Glenn Kurtz."
 published: true
 category: event
-start_at: 2013-09-12T00:00:00.000Z
+date: 2013-09-12T00:00:00.000Z
 allday: false
 venue: "McNally-Jackson Bookstore"
 address: "52 Prince Street"

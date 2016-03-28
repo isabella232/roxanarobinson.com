@@ -2,7 +2,7 @@
 title: "Wesleyan Writers Conference"
 published: true
 category: event
-start_at: 2014-06-11T18:00:00.000Z
+date: 2014-06-11T18:00:00.000Z
 allday: true
 venue:
 address:

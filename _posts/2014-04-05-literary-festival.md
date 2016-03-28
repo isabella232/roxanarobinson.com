@@ -2,7 +2,7 @@
 title: "Literary Festival"
 published: true
 category: event
-start_at: 2014-04-05T00:00:00.000Z
+date: 2014-04-05T00:00:00.000Z
 allday: true
 venue:
 address:

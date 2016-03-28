@@ -2,7 +2,7 @@
 title: "PEN World Voices Festival - Elena Ferrante: Frantumaglia"
 published: true
 category: event
-start_at: 2016-04-28T19:00:00.000Z
+date: 2016-04-28T19:00:00.000Z
 allday: false
 venue: "The Greene Space"
 address: "44 Charlton St"

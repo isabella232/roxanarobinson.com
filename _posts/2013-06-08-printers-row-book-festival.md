@@ -2,7 +2,7 @@
 title: "Printers Row Book Festival"
 published: true
 category: event
-start_at: 2013-06-08T11:45:00.000Z
+date: 2013-06-08T11:45:00.000Z
 allday: false
 venue: "University Center/Loop Room"
 address:

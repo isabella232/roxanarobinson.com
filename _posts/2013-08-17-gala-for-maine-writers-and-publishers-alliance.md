@@ -2,7 +2,7 @@
 title: "Gala for Maine Writers and Publishers Alliance"
 published: true
 category: event
-start_at: 2013-08-17T00:00:00.000Z
+date: 2013-08-17T00:00:00.000Z
 allday: false
 venue: "Tess Gerritsen House, Camden Hills State Park"
 address: "280 Belfast Road"

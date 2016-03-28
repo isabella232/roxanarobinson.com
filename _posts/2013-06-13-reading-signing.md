@@ -2,7 +2,7 @@
 title: "Reading/signing"
 published: true
 category: event
-start_at: 2013-06-13T00:00:00.000Z
+date: 2013-06-13T00:00:00.000Z
 allday: false
 venue: "Boston Atheneum"
 address: "10 1/2 Beacon Street"

@@ -2,7 +2,7 @@
 title: "An Evening with Ann Beattie and Roxana Robinson"
 published: true
 category: event
-start_at: 2014-08-20T18:30:00.000Z
+date: 2014-08-20T18:30:00.000Z
 allday: false
 venue: "Space Gallery"
 address: "538 Congress Street"

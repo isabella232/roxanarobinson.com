@@ -2,7 +2,7 @@
 title: "Berkshire Festival of Women Writers"
 published: true
 category: event
-start_at: 2014-03-21T19:30:00.000Z
+date: 2014-03-21T19:30:00.000Z
 allday: false
 venue: "Lichtenstein Arts Center"
 address: "Renne Avenue"

@@ -2,7 +2,7 @@
 title: "Interview on the Digital Age with Jim Zirin"
 published: true
 category: event
-start_at: 2013-11-26T00:00:00.000Z
+date: 2013-11-26T00:00:00.000Z
 allday: false
 venue:
 address:

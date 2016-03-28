@@ -2,7 +2,7 @@
 title: "Writers Read NYC"
 published: true
 category: event
-start_at: 2015-03-29T18:00:00.000Z
+date: 2015-03-29T18:00:00.000Z
 allday: false
 venue: "The Sidewalk CafÃ©"
 address: "94 Avenue A (corner of 6th St.)"

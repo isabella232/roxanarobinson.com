@@ -2,7 +2,7 @@
 title: "The Muse and the Marketplace"
 published: true
 category: event
-start_at: 2015-05-02T 9:00:00.000Z
+date: 2015-05-02T 9:00:00.000Z
 allday: false
 venue: "Boston Park Plaza Hotel"
 address: "50 Park Plaza"

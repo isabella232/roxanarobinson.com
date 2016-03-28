@@ -2,7 +2,7 @@
 title: "Reading/signing"
 published: true
 category: event
-start_at: 2013-06-23T00:00:00.000Z
+date: 2013-06-23T00:00:00.000Z
 allday: false
 venue: "Hickory Stick Books"
 address: "2 Green Hill Road"

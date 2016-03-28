@@ -2,7 +2,7 @@
 title: "Roxana Robinson on the Human Side of War 6:10-6:55 pm"
 published: true
 category: event
-start_at: 2015-09-05T00:00:00.000Z
+date: 2015-09-05T00:00:00.000Z
 allday: false
 venue: "Walter E. Washington Convention Center"
 address: "801 Mt Vernon Pl NW"

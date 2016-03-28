@@ -2,7 +2,7 @@
 title: "Fall 2014 Distinguished Writers Series â€“ Hunter College"
 published: true
 category: event
-start_at: 2014-10-28T19:30:00.000Z
+date: 2014-10-28T19:30:00.000Z
 allday: false
 venue: "Hunter College"
 address:

@@ -2,7 +2,7 @@
 title: "Book Signing"
 published: true
 category: event
-start_at: 2013-08-02T19:00:00.000Z
+date: 2013-08-02T19:00:00.000Z
 allday: true
 venue: "Hotchkiss Library"
 address:

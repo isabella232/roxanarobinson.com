@@ -2,7 +2,7 @@
 title: "Early September, 2015 - The Novel Experience Convocation"
 published: true
 category: event
-start_at: 2015-09-01T00:00:00.000Z
+date: 2015-09-01T00:00:00.000Z
 allday: false
 venue: "Wofford College"
 address:

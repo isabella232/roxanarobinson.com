@@ -2,7 +2,7 @@
 title: "Brooklyn Book Festival"
 published: true
 category: event
-start_at: 2015-09-20T00:00:00.000Z
+date: 2015-09-20T00:00:00.000Z
 allday: false
 venue: "Brooklyn Borough Hall and Plaza"
 address: "209 Joralemon Street"

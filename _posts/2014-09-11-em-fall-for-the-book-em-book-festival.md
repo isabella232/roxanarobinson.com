@@ -2,7 +2,7 @@
 title: "_Fall for the Book_ Book Festival "
 published: true
 category: event
-start_at: 2014-09-11T19:30:00.000Z
+date: 2014-09-11T19:30:00.000Z
 allday: false
 venue: "George Mason University"
 address: "Grand Tier III, Center for the Arts (4400 University Drive)"

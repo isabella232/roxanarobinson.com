@@ -2,7 +2,7 @@
 title: "US Air Force Academy"
 published: true
 category: event
-start_at: 2014-09-08T12:00:00.000Z
+date: 2014-09-08T12:00:00.000Z
 allday: true
 venue:
 address:

@@ -2,7 +2,7 @@
 title: "Reading and Signing"
 published: true
 category: event
-start_at: 2013-08-24T00:00:00.000Z
+date: 2013-08-24T00:00:00.000Z
 allday: false
 venue: "Toadstool Books"
 address: "12 Depot Sq."

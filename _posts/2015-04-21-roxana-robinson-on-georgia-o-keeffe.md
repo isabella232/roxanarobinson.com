@@ -2,7 +2,7 @@
 title: "Roxana Robinson on Georgia O'Keeffe"
 published: true
 category: event
-start_at: 2015-04-21T18:00:00.000Z
+date: 2015-04-21T18:00:00.000Z
 allday: false
 venue: "The Center for the Study of Transformative Lives"
 address: "53 Washington Square South"

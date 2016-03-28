@@ -2,7 +2,7 @@
 title: "War Lit Panel"
 published: true
 category: event
-start_at: 2014-05-01T19:00:00.000Z
+date: 2014-05-01T19:00:00.000Z
 allday: false
 venue: "Wollman Auditorium"
 address: "65 West 12 Street"

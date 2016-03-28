@@ -2,7 +2,7 @@
 title: "Tucson Festival of Books"
 published: true
 category: event
-start_at: 2014-03-14T18:00:00.000Z
+date: 2014-03-14T18:00:00.000Z
 allday: true
 venue:
 address:

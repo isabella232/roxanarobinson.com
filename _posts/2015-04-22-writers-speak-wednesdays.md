@@ -2,7 +2,7 @@
 title: "Writers Speak Wednesdays"
 published: true
 category: event
-start_at: 2015-04-22T00:00:00.000Z
+date: 2015-04-22T00:00:00.000Z
 allday: true
 venue: "Stony Brook Southampton"
 address: "239 Montauk Highway"

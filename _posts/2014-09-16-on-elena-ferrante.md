@@ -2,7 +2,7 @@
 title: "On Elena Ferrante"
 published: true
 category: event
-start_at: 2014-09-16T19:00:00.000Z
+date: 2014-09-16T19:00:00.000Z
 allday: false
 venue: "The Center for Fiction"
 address: "17 E. 47th St"

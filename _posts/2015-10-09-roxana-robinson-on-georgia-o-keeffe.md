@@ -2,7 +2,7 @@
 title: "Roxana Robinson on Georgia O'Keeffe"
 published: true
 category: event
-start_at: 2015-10-09T00:00:00.000Z
+date: 2015-10-09T00:00:00.000Z
 allday: true
 venue: "College of the Atlantic"
 address:

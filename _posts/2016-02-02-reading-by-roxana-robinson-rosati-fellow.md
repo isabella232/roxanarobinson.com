@@ -2,7 +2,7 @@
 title: "Reading by Roxana Robinson, Rosati fellow"
 published: true
 category: event
-start_at: 2016-02-02T16:00:00.000Z
+date: 2016-02-02T16:00:00.000Z
 allday: false
 venue: "Duke University"
 address: "Holsti-Anderson Family Assembly Room, 153 Rubenstein Library"

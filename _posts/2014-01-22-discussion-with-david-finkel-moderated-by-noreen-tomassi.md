@@ -2,7 +2,7 @@
 title: "Discussion with David Finkel, moderated by Noreen Tomassi."
 published: true
 category: event
-start_at: 2014-01-22T00:00:00.000Z
+date: 2014-01-22T00:00:00.000Z
 allday: false
 venue: "Center for Fiction"
 address: "17 East 47th Street"
