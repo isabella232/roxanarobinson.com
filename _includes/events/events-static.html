@@ -1,4 +1,5 @@
-{% for post in site.posts | where: 'category', 'event' | group_by: 'date' %}
+{% assign events = site.posts | where: 'category', 'event' | sort: 'date' %}
+{% for post in events %}
 	{% if post.title %}
 		{% capture post_title %}{{post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
 	{% endif %}
