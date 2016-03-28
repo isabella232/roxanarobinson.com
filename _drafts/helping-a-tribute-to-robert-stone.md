@@ -2,12 +2,17 @@
 title: 'Helping: A Tribute to Robert Stone'
 published: true
 category: event
-start_at: 2013-06-04T19:00:00.000Z
+start_at: 2013-04-02T12:00:00.000Z
 allday: false
-venue: Center for Fiction
-address: 17 East 47th Street
-city-state: 'New York, NY'
-zip: '10017'
-website: 'http://centerforfiction.org/'
+venue: 'Diamond Salon 6&7, JW Marriott LA, 3rd Floor'
+address:
+city-state:
+zip:
+website: 'https://www.awpwriter.org/awp_conference/event_detail/5073'
 slug: 2013-06-04-event
 ---
+
+
+On his passing in January 2015, Robert Stone was hailed as one of the most significant American novelists of the last half-century—a chronicler of disillusionment and moral disorder in post-Vietnam America, and of the often disastrous consequences of American idealism abroad. This panel gathers friends, colleagues, and former students of Stone to read excerpts of his work and share stories and tributes to his legacy.
+
+&nbsp;
