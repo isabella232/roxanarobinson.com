@@ -25,6 +25,29 @@ sass:
 production: true
 bust_css_cache: false
 
+collections:
+  landing_pages:
+    output: true
+    permalink: '/:path/'
+  books:
+    output: true
+    permalink: '/:collection/:path/'
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: 'books'
+    values:
+      layout: "book"
+      collectionName: "Books"
+
+
 # options (data)
 addthis_id:
 # CONTACT FORM http://getsimpleform.com/
