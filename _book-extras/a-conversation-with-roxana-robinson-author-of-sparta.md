@@ -1,8 +1,8 @@
 ---
 title: "A Conversation with Roxana Robinson, author of Sparta"
 date: 2013-06-23T00:00:00.000Z
-link_to_original:
 book: sparta
+link_to_original:
 ---
 **Why did you choose the title Sparta?**
 
