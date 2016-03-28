@@ -1,10 +1,7 @@
 ---
 title: A Conversation with Roxana Robinson, author of Sparta
-layout: page
-publication_date: 2013-06-23
-permalink: /book-extras/a-conversation-with-roxana-robinson-author-of-sparta/
+date: 2013-06-23T00:00:00.000Z
 link_to_original:
-  -
 related_book:
   - sparta
 ---
