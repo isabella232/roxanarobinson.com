@@ -4,7 +4,7 @@ description: "The official website of author Roxana Robinson, president of the A
 primary_image: "/assets/img/Robinson2_JoyceRavid_300x400.jpg"
 future: true   # This will tell jekyll to not display future posts
 
-category:
+categories:
   - event
   - news
 
