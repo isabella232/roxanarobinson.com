@@ -2,7 +2,7 @@
 title: 'AWP: Peter Ho Davies, Joyce Carol Oates, and Roxana Robinson: A Reading and Conversation'
 published: true
 category: event
-date: 2016-04-02T00:00:00.000Z
+date: 2016-04-02T20:30:00.000Z
 allday: false
 venue: 'Concourse Hall, LA Convention Center, Exhibit Hall Level One'
 address:
