@@ -1,0 +1,45 @@
+{% assign event_time = post.start_at | date: "%I:%M  %p" | downcase  %}
+
+<div class="event" id="{{ post.city-state }}">
+	<h4>
+		<span class="title">
+			{{ post.city-state }}
+		</span>
+	</h4>
+
+	<span>
+		<strong>
+			{{ post_title }}
+		</strong>
+	</span>
+
+	<span>
+	{% if post.start %}
+		<strong>
+			{{event_time}}
+		</strong>
+	{% endif %}
+	</span>
+
+	{% if post.venue %}
+	<br />
+		<span class="p-location location h-card vcard">
+			{{ post.venue }}
+		</span>
+	{% endif %}
+	{% if post.address %}
+		<span class="address">&nbsp;&bull; {{ post.address }}</span>
+	{% endif %}
+
+	{% if post.content %}
+	<br />
+		<span class="p-name summary">
+			{{ post.content | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
+		</span>
+	{% endif %}
+
+{% if post.website %}
+<a href="{{ post.website }}" class="ml small"> <i class="icon-link-ext"></i> website</a>
+{% endif %}
+
+</div>

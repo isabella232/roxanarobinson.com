@@ -1,0 +1,11 @@
+{% for post in site.posts | where: 'category', 'event' | group_by: 'date' %}
+	{% if post.title %}
+		{% capture post_title %}{{post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
+	{% endif %}
+	{% assign todays_date = site.time | date: "%Y%m%d" %}
+	{% assign post_date = post.start_at | date: "%Y%m%d" %}
+		{% if post_date > todays_date %}
+			<h5><time class="dt-start dtstart">{{ post.start_at | date: "%B %d, %Y" }}{% unless post.allday == true %} {{ post.start_at | date: "%I:%M %p" }}{% endunless %}</time></h5>
+			{% include events/events-formatting.html %}
+		{% endif %}
+{% endfor %}
