@@ -4,6 +4,10 @@ description: "The official website of author Roxana Robinson, president of the A
 primary_image: "/assets/img/Robinson2_JoyceRavid_300x400.jpg"
 future: true   # This will tell jekyll to not display future posts
 
+category:
+  - event
+  - news
+
 #Jekyll Options
 # if using more than one Jekyll instance on your local machine
 port: 3575
@@ -24,12 +28,18 @@ sass:
 # if site is in production, 'production: true'
 production: true
 bust_css_cache: false
-
+timezone: Etc/Zulu
 collections:
   landing_pages:
     output: true
     permalink: '/:path/'
   books:
+    output: true
+    permalink: '/:collection/:path/'
+  book_extras:
+    output: true
+    permalink: '/:collection/:path/'
+  events:
     output: true
     permalink: '/:collection/:path/'
 
@@ -46,6 +56,7 @@ defaults:
     values:
       layout: "book"
       collectionName: "Books"
+      author: Roxana Robinson
 
 
 # options (data)

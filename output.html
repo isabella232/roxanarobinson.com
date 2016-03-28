@@ -1,0 +1,24 @@
+---
+layout: empty
+---
+{% assign data = site.data.events  %}
+{% for object in data %}
+@@@<br />
+title:{% if object.title %} "{{ object.title }}"{% endif %}<br />
+published: true<br />
+category: event<br />
+start_at:{% if object.date %} {{ object.date | date: '%Y-%m-%d' }}T{% if object.start %}{{ object.start | date: '%k:%M' }}{% else %}00:00{% endif %}:00.000Z{% endif %}<br />
+allday:{% if object.allday %} true{% else %} false{% endif %}<br />
+venue:{% if object.venue %} "{{ object.venue }}"{% endif %}<br />
+address:{% if object.address %} "{{ object.address }}"{% endif %}<br />
+city-state:{% if object.city-state %} "{{ object.city-state }}"{% endif %}<br />
+zip:{% if object.zip %} "{{ object.zip }}"{% endif %}<br />
+website:{% if object.website %} "{{ object.website }}"{% endif %}<br />
+slug: {% if object.date %}{{ object.date | date: '%Y-%m-%d' }}{% if object.title %}-{{ object.title | slugify  }}{% else %}-event{% endif %}{% endif %}<br />
+---<br />
+{% if object.summary %}
+  {{ object.summary }}<br /><br />
+{% endif %}
+<br />
+{% endfor %}
+<br />
