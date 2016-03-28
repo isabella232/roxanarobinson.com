@@ -2,7 +2,7 @@
 title: 'Helping: A Tribute to Robert Stone'
 published: true
 category: event
-start_at: 2013-04-02T12:00:00.000Z
+start_at: 2016-04-02T12:00:00.000Z
 allday: false
 venue: 'Diamond Salon 6&7, JW Marriott LA, 3rd Floor'
 address:
