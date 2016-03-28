@@ -39,9 +39,6 @@ collections:
   book_extras:
     output: true
     permalink: '/:collection/:path/'
-  events:
-    output: true
-    permalink: '/:collection/:path/'
 
 defaults:
   -
