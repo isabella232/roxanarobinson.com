@@ -4,7 +4,7 @@ published: true
 category: event
 date: 2016-04-02T12:00:00.000Z
 allday: false
-venue: 'Diamond Salon 6&7, JW Marriott LA, 3rd Floor'
+venue: 'Diamond Salon 6&7, JW Marriott LA, 3rd F'
 address:
 city-state:
 zip:
