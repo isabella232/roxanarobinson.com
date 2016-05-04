@@ -33,8 +33,10 @@
 	</h3>
 
 	<small>
-	{% if item.summary %}
-		{{item.summary | markdownify }}
+	{% if item.description %}
+		{{ item.description | markdownify }}
+		{% else %}
+		{{ item.content | markdownify }}
 	{% endif %}
 	</small>
 </div>
