@@ -62,12 +62,18 @@ header.navigation {
     width: 100%;
     z-index: 9999;
 
+
     @include media ($large-screen) {
       display: inline;
       margin: 0;
       padding: 0;
     }
   }
+  ul#navigation-menu.show {
+  display: block;
+  width:100%;
+}
+
 
   ul li {
     background: $navigation-background;
