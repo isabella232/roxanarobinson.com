@@ -1,6 +1,16 @@
-url: http://www.roxanarobinson.com
-sitename: Roxana Robinson
+# jekyll-seo-tag
+title: Roxana Robinson
 description: "The official website of author Roxana Robinson, president of the Authors Guild"
+url: http://www.roxanarobinson.com
+author: []
+twitter:
+  username: budparr
+facebook:
+  app_id: 
+  publisher: 
+  admins: 
+logo: /assets/img/Robinson2_JoyceRavid_300x400.jpg
+sitename: Roxana Robinson
 primary_image: "/assets/img/Robinson2_JoyceRavid_300x400.jpg"
 future: true   # This will tell jekyll to not display future posts
 
@@ -13,12 +23,6 @@ categories:
 port: 3575
 permalink:  pretty
 
-# Dependencies
-markdown: kramdown
-# pygments: true
-#Pages - store all pages in the _pages directory
-include: ['_pages']
-relative_permalinks: false # won't need this as of 2.0: Deprecation: Starting in 2.0, permalinks for pages in subfolders must be relative to the site source directory, not the parent directory. Also will change exclude directory
 exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'README.md', 'prose.yaml']
 sass:
     style: :compressed
@@ -29,6 +33,21 @@ sass:
 production: true
 bust_css_cache: false
 timezone: Etc/Zulu
+timezone: Etc/Zulu
+compress_html:
+  ignore:
+    envs: [development]
+  profile: false
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+plugins_dir:  ./_app/_plugins
+layouts_dir:  ./_app/_layouts
+includes_dir: ./_app/_includes
+
+
+
+
 collections:
   landing_pages:
     output: true
@@ -61,6 +80,4 @@ defaults:
 
 # options (data)
 addthis_id:
-# CONTACT FORM http://getsimpleform.com/
-simple_form_api_token:
 bio: "Roxana Robinson is the author of nine books: five novels, including <em>Cost</em>; three collections of short stories; and the biography <em>Georgia O’Keeffe: A Life</em>. Her work has appeared in <em>The New Yorker</em>, <em>The Atlantic</em>, <em>Harper’s Magazine</em>, <em>The New York Times</em>, <em>The Washington Post</em>, <em>BookForum</em>, <em>Best American Short Stories</em>, <em>Tin House</em> and elsewhere. She teaches in the Hunter MFA Program and divides her time between New York, Connecticut, and Maine. She has received fellowships from the NEA and the Guggenheim Foundation and is the President of the Authors’ Guild."
