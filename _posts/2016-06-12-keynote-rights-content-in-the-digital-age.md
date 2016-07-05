@@ -1,7 +1,7 @@
 ---
 title: 'Keynote: Rights & Content in the Digital Age'
 published: true
-category: news
+category: event
 date: 2016-06-13T00:00:00.000Z
 allday: false
 venue: 'Grand Hall, NYU Kimmel Center'
