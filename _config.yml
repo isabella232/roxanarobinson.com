@@ -20,9 +20,9 @@ categories:
 
 #Jekyll Options
 # if using more than one Jekyll instance on your local machine
-port: 3575
-permalink:  pretty
 
+permalink:  pretty
+version: 3.0.3
 exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'README.md', 'prose.yaml']
 sass:
     style: :compressed
