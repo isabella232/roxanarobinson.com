@@ -1,6 +1,7 @@
 ---
 title: "Elena Ferrante: Frantumaglia"
 date: 2016-04-29T00:00:00.000Z
+category: news
 ---
 <div class="embed-container">
 
