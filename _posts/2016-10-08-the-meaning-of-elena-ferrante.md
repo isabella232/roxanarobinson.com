@@ -16,4 +16,4 @@ website:
 
 **(Whoever She May Be).&nbsp;**
 
-Italian writer Elena Ferrante is in the headlines after her true identity was revealed. But we’ll look at the bigger story: How she speaks so powerfully to women's journeys. Podcast with Elissa Schappell, and Ann Goldstein on WBUR's On Point&nbsp;
+Italian writer Elena Ferrante is in the headlines after her true identity was revealed. But we’ll look at the bigger story: How she speaks so powerfully to women's journeys. Podcast with Elissa Schappell, and Ann Goldstein on WBUR's “On Point.”&nbsp;
