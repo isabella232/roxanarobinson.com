@@ -32,13 +32,13 @@
 	</span>
 	</h3>
 
-	<small>
+
 	{% if item.description %}
 		{{ item.description | markdownify }}
 		{% else %}
 		{{ item.content | markdownify }}
 	{% endif %}
-	</small>
+	
 </div>
 <hr />
 </div>
