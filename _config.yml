@@ -6,9 +6,9 @@ author: []
 twitter:
   username: budparr
 facebook:
-  app_id: 
-  publisher: 
-  admins: 
+  app_id:
+  publisher:
+  admins:
 logo: /assets/img/Robinson2_JoyceRavid_300x400.jpg
 sitename: Roxana Robinson
 primary_image: "/assets/img/Robinson2_JoyceRavid_300x400.jpg"
@@ -30,6 +30,7 @@ sass:
 
 # dev options (true/false)
 # if site is in production, 'production: true'
+port: 4001
 production: true
 bust_css_cache: false
 timezone: Etc/Zulu
