@@ -14,4 +14,4 @@ website: 'http://www.mcnallyjackson.com/event/ferrante-night-fever'
 ---
 
 
-The publication of Frantumaglia and The Beach at Night on November 1 is going to be the publishing event of the season. Over 70 stores nationwide will be holding #FerranteNightFever events during the week of October 31. We are delighted to be hosting a panel assembled by Europa Editions.
+The publication of&nbsp;*Frantumaglia*&nbsp;and&nbsp;*The Beach at Night*&nbsp;on November 1 is going to be the publishing event of the season. Over 70 stores nationwide will be holding #FerranteNightFever events during the week of October 31. We are delighted to be hosting a panel assembled by Europa Editions.
