@@ -30,7 +30,7 @@ sass:
 
 # dev options (true/false)
 # if site is in production, 'production: true'
-port: 4001
+port: 4003
 production: true
 bust_css_cache: false
 timezone: Etc/Zulu
