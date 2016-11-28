@@ -10,7 +10,7 @@ Ms. Robinson has received fellowships from the Guggenheim Foundation, the Nation
 
 Roxana Robinson has taught at Wesleyan University and the University of Houston. She teaches in the MFA Program at Hunter College, CUNY.
 
-Roxana Robinson has been a Trustee at PEN, &nbsp;the National Center for the Humanities, the Northeast Harbor Library, the Maine Coast Heritage Trust and at the Authors Guild. She is currently the President of the Authors Guild.
+Roxana Robinson is currently the President of the Authors Guild. She has been a Trustee at PEN, the National Center for the Humanities, the Northeast Harbor Library, the Maine Coast Heritage Trust and at the Authors Guild.
 
 Ms. Robinson is also a biographer and scholar of nineteenth and early twentieth century American art. Her articles have appeared in&nbsp;*Arts*,&nbsp;*ARTnews*, and&nbsp;*Art & Antiques*&nbsp;as well as in exhibition catalogs for the Metropolitan Museum of Art, the Katonah Museum of Art, and other institutions. Her biography of Georgia O’Keeffe was short-listed for the National Book Critics Circle Award and was named one of&nbsp;*The New York Times*&nbsp;Most Notable Books of the Year. Ms. Robinson lectures frequently on Georgia O’Keeffe and appeared in the BBC documentary on the artist. Her biography is considered the definitive work, called by Calvin Tomkins, of&nbsp;*The New Yorker*, “without question the best book written about O’Keeffe.”
 
