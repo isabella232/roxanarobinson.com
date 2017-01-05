@@ -9,7 +9,7 @@ venue: Brooklyn Historical Society
 address: 128 Pierrepont St
 city-state: 'Brooklyn, NY'
 zip: '11201'
-website:
+website: 'https://www.eventbrite.com/e/fiction-by-black-writers-who-are-the-readers-tickets-29534291862'
 ---
 
 
