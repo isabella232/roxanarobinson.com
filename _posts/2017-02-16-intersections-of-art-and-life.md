@@ -2,7 +2,7 @@
 title: Intersections of Art and Life
 published: true
 category: event
-date: 2016-04-01 19:00:00
+date: 2017-02-16 19:00:00
 link_to_original:
 allday: false
 venue: The Center for Fiction
