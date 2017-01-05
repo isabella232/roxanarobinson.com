@@ -13,4 +13,4 @@ website: 'http://www.centerforfiction.org/for-readers/join-reading-groups/noveli
 ---
 
 
-**Volume 1, January 25 led by Roxana Robinson**&nbsp;Since the first volume of Karl Ove Knausgaard’s sprawling work appeared in English in 2012, the series has garnered wide acclaim from critics and attracted a passionate following among readers. “My Struggle” has also been notably embraced and celebrated by Knausgaard’s fellow novelists. We invite you to join a special reading group devoted to this unique work.&nbsp;
+**Volume 1, January 25 led by Roxana Robinson:&nbsp;**Since the first volume of Karl Ove Knausgaard’s sprawling work appeared in English in 2012, the series has garnered wide acclaim from critics and attracted a passionate following among readers. “My Struggle” has also been notably embraced and celebrated by Knausgaard’s fellow novelists. We invite you to join a special reading group devoted to this unique work.&nbsp;
