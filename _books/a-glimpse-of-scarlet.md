@@ -1,5 +1,6 @@
 ---
 title: A Glimpse of Scarlet
+date: 1992-06-01T00:00:00.000Z
 publication_date: 1992-06-01T00:00:00.000Z
 permalink: /books/a-glimpse-of-scarlet/
 name: a-glimpse-of-scarlet
