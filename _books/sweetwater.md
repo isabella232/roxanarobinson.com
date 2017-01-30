@@ -1,6 +1,6 @@
 ---
 title: Sweetwater
-date: 2003-05-13T00:00:00.000Z
+date: '2003-05-13 00:00:00'
 permalink: /books/sweetwater/
 name: sweetwater
 cover_image: /uploads/9780812967340-220x339.jpg

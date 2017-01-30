@@ -1,6 +1,6 @@
 ---
 title: "Georgia O’Keeffe: A Life"
-date: 1989-10-01T00:00:00.000Z
+date: '1989-10-01 00:00:00'
 permalink: /books/georgia-okeefe/
 name: georgia-okeefe
 cover_image: /uploads/9780874519068_p0_v1_s600.jpg

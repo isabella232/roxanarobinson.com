@@ -1,6 +1,6 @@
 ---
 title: Cost
-date: 2008-06-10T00:00:00.000Z
+date: '2008-06-10 00:00:00'
 permalink: /books/cost/
 name: cost
 cover_image: /uploads/9780312428464-220x329.jpg
