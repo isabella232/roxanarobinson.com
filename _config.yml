@@ -57,6 +57,9 @@ collections:
   book-extras:
     output: true
     permalink: '/:collection/:path/'
+  events:
+    output: false
+    permalink: '/:collection/:path/'
 
 defaults:
   -
@@ -78,6 +81,17 @@ defaults:
     values:
       layout: page
       permalink: /:basename/ #<- this tells jekyll to use the filename for the output path, and not the folder.
+  - scope:
+      path: ''
+      type: events
+    values:
+      published: true
+      allday: false
+      venue: ''
+      address:
+      city-state: ""
+      zip:
+      website:
 
 
 # options (data)
