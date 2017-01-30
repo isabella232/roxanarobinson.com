@@ -1,28 +1,29 @@
 ---
 title: Sparta
-date: 2013-06-04 00:00:00
+date: '2013-06-04 00:00:00'
 name: sparta
 publisher:
-  - Sarah Crichton Books
+- Sarah Crichton Books
 isbn:
-  - 9780374267704
-cover_image: /uploads/9780374267704_p0_v1_s600-220x330.jpg
+- 9780374267704
+cover_image: "/uploads/9780374267704_p0_v1_s600-220x330.jpg"
 sm_show_books_buy_button:
-  - 0
+- 0
 isbn_digital:
-  - 9780374267704
-isbn_kindle:
-  -
-meta_data:
-  -
-subtitle:
-  -
+- 9780374267704
+isbn_kindle: []
+meta_data: []
+subtitle: []
 short_description:
-  - Going from peace to war can make a young man into a warrior. Going from war to peace can destroy him.
+- Going from peace to war can make a young man into a warrior. Going from war to peace
+  can destroy him.
 synopsis:
-  - "Conrad Farrell has no family military heritage, but as a classics major at Williams College, he has encountered the powerful appeal of the Marine Corps ethic. “Semper Fidelis” comes straight from the ancient world, from Sparta, where every citizen doubled as a full-time soldier. When Conrad graduates, he joins the Marines to continue a long tradition of honor, courage, and commitment.\n\nAs Roxana Robinson’s new novel,\_<i>Sparta</i>, begins, Conrad has just returned home to Katonah, New York, after four years in Iraq, and he’s beginning to learn that something has changed in his landscape. Something has gone wrong, though things should be fine: he hasn’t been shot or wounded; he’s never had psychological troubles. But as he attempts...\n"
-category:
-  - Fiction
+- |
+  Conrad Farrell has no family military heritage, but as a classics major at Williams College, he has encountered the powerful appeal of the Marine Corps ethic. “Semper Fidelis” comes straight from the ancient world, from Sparta, where every citizen doubled as a full-time soldier. When Conrad graduates, he joins the Marines to continue a long tradition of honor, courage, and commitment.
+
+  As Roxana Robinson’s new novel, <i>Sparta</i>, begins, Conrad has just returned home to Katonah, New York, after four years in Iraq, and he’s beginning to learn that something has changed in his landscape. Something has gone wrong, though things should be fine: he hasn’t been shot or wounded; he’s never had psychological troubles. But as he attempts...
+categories:
+- Fiction
 ---
 
 
