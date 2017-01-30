@@ -1,23 +1,17 @@
 ---
 title: This Is My Daughter
+subtitle: ""
 date: '1999-09-16 00:00:00'
-permalink: /books/this-is-my-daughter/
-name: this-is-my-daughter
-# cover_image: 9780684864365-220x342.jpg
 cover_image: /uploads/my_daughter.jpg
 publisher:
   - Touchstone
 isbn:
   - 9780684864365
-sm_show_books_buy_button:
-  - 0
 isbn_digital:
   - 0684864363
 isbn_kindle:
   -
 meta_data:
-  -
-subtitle:
   -
 short_description:
   - Robinson delivers a beautifully moving and compassionate account of a marriage in peril, proving once more that class and privilege provide no protection from the passion of opposing desires.

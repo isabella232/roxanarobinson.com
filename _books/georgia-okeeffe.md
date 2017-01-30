@@ -1,15 +1,12 @@
 ---
 title: "Georgia O’Keeffe: A Life"
+subtitle: ""
 date: '1989-10-01 00:00:00'
-permalink: /books/georgia-okeefe/
-name: georgia-okeefe
 cover_image: /uploads/9780874519068_p0_v1_s600.jpg
 publisher:
   - University Press of New England
 isbn:
   - 9780874519068
-sm_show_books_buy_button:
-  - 0
 isbn_digital:
   - 0874519063
 isbn_kindle:

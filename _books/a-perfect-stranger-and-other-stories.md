@@ -1,25 +1,20 @@
 ---
 title: A Perfect Stranger and Other Stories
+subtitle: ""
 date: '2006-03-14 00:00:00'
 excerpt:
   -
 layout: book
-permalink: /books/a-perfect-stranger-and-other-stories/
-name: a-perfect-stranger-and-other-stories
 cover_image: /uploads/9780812967357-220x339.jpg
 publisher:
   - Random House
 isbn:
   - 9780812967357
-sm_show_books_buy_button:
-  - 0
 isbn_digital:
   - 0812967356
 isbn_kindle:
   - B000XUDGD0
 meta_data:
-  -
-subtitle:
   -
 short_description:
   - '<em>A Perfect Stranger</em> examines the complex, intricate network of experiences that binds us to one another.'

@@ -1,22 +1,17 @@
 ---
 title: Cost
+subtitle: ""
 date: '2008-06-10 00:00:00'
-permalink: /books/cost/
-name: cost
 cover_image: /uploads/9780312428464-220x329.jpg
 publisher:
   - Farrar, Straus and Giroux
 isbn:
   - 9780374271879
-sm_show_books_buy_button:
-  - 0
 isbn_digital:
   - 0374271879
 isbn_kindle:
   - B001ANYCGY
 meta_data:
-  -
-subtitle:
   -
 short_description:
   - A fragile family confronts the tragedy of addiction.

@@ -1,22 +1,17 @@
 ---
 title: Asking for Love
+subtitle: ""
 date: '1996-03-12 00:00:00'
-permalink: /books/asking-for-love/
-name: asking-for-love
 cover_image: /uploads/9780679439028_p0_v1_s260x420-220x336.jpg
 publisher:
   - Random House
 isbn:
   - 9780679439028
-sm_show_books_buy_button:
-  - 0
 isbn_digital:
   - 0679439021
 isbn_kindle:
   -
 meta_data:
-  -
-subtitle:
   -
 short_description:
   - "The 15 stories in Robinson's second collection (after <em>A Glimpse of Scarlet</em>) serve as clear windows into the posh world of East Coast WASPs."

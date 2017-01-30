@@ -1,5 +1,5 @@
-  {% for review in site.data.reviews %}  
-    {% if page.name == review.book %}
+  {% for review in site.data.reviews %}
+    {% if page.slug == review.book %}
       {% if  review.featured != true %}
         {% include books/format-reviews.html %}
       {% endif %}

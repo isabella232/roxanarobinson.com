@@ -1,22 +1,17 @@
 ---
 title: Sweetwater
+subtitle: ""
 date: '2003-05-13 00:00:00'
-permalink: /books/sweetwater/
-name: sweetwater
 cover_image: /uploads/9780812967340-220x339.jpg
 publisher:
   - Random House
 isbn:
   - 9780812967340
-sm_show_books_buy_button:
-  - 0
 isbn_digital:
   - 9780307431882
 isbn_kindle:
   - B000XUBE2K
 meta_data:
-  -
-subtitle:
   -
 short_description:
   - "Isabel Green's second marriage proves to be more difficult than she anticipated, complicated by family secrets and troubling echoes of her first."

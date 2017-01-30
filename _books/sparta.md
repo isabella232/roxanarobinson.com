@@ -1,19 +1,16 @@
 ---
 title: Sparta
+subtitle: ""
 date: '2013-06-04 00:00:00'
-name: sparta
 publisher:
 - Sarah Crichton Books
 isbn:
 - 9780374267704
 cover_image: "/uploads/9780374267704_p0_v1_s600-220x330.jpg"
-sm_show_books_buy_button:
-- 0
 isbn_digital:
 - 9780374267704
 isbn_kindle: []
 meta_data: []
-subtitle: []
 short_description:
 - Going from peace to war can make a young man into a warrior. Going from war to peace
   can destroy him.

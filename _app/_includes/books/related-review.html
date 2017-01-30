@@ -1,7 +1,7 @@
 {% assign count = '0' %}
 {% assign show_count = {{include.show}} %}
-  {% for review in site.data.reviews %}  
-    {% if page.name == review.book %}
+  {% for review in site.data.reviews %}
+    {% if page.slug == review.book %}
     {% if  review.featured == true %}
       {% capture count %}{{ count | plus: '1' }}{% endcapture %}
       <div {% if count > show_count %}style="display:none;"{% endif %}>

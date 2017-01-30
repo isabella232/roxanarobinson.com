@@ -1,8 +1,7 @@
 ---
 title: Summer Light
+subtitle: ""
 date: '1987-06-25 00:00:00'
-permalink: /books/summer-light/
-name: summer-light
 cover_image: /uploads/summer_light.jpg
 publisher:
   - University Press of New England

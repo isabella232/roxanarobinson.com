@@ -1,23 +1,18 @@
 ---
 title: A Glimpse of Scarlet
+subtitle: "And Other Stories"
 date: '1992-06-01 00:00:00'
-permalink: /books/a-glimpse-of-scarlet/
-name: a-glimpse-of-scarlet
 cover_image: /uploads/glimpse_scarlet_lg.jpg
 publisher:
   - Harper Perennial
 isbn:
   - 9780060981167
-sm_show_books_buy_button:
-  - 0
 isbn_digital:
   - 0060981164
 isbn_kindle:
   -
 meta_data:
   -
-subtitle:
-  - And Other Stories
 short_description:
   - In the tradition of John Cheever, Roxana Robinson charts the hidden realities beneath the serene and gleaming surface of old-guard WASP family life.
 synopsis:
