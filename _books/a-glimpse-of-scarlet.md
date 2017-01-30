@@ -3,7 +3,7 @@ title: A Glimpse of Scarlet
 publication_date: 1992-06-01T00:00:00.000Z
 permalink: /books/a-glimpse-of-scarlet/
 name: a-glimpse-of-scarlet
-cover_image: glimpse_scarlet_lg.jpg
+cover_image: /uploads/glimpse_scarlet_lg.jpg
 publisher:
   - Harper Perennial
 isbn:

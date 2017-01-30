@@ -3,7 +3,7 @@ title: Summer Light
 publication_date: 1987-06-25T00:00:00.000Z
 permalink: /books/summer-light/
 name: summer-light
-cover_image: summer_light.jpg
+cover_image: /uploads/summer_light.jpg
 publisher:
   - University Press of New England
 isbn:

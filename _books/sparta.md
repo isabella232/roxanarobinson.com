@@ -6,7 +6,7 @@ publisher:
   - Sarah Crichton Books
 isbn:
   - 9780374267704
-cover_image: 9780374267704_p0_v1_s600-220x330.jpg
+cover_image: /uploads/9780374267704_p0_v1_s600-220x330.jpg
 sm_show_books_buy_button:
   - 0
 isbn_digital:

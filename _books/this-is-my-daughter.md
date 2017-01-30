@@ -4,7 +4,7 @@ publication_date: 1999-09-16T00:00:00.000Z
 permalink: /books/this-is-my-daughter/
 name: this-is-my-daughter
 # cover_image: 9780684864365-220x342.jpg
-cover_image: my_daughter.jpg
+cover_image: /uploads/my_daughter.jpg
 publisher:
   - Touchstone
 isbn:

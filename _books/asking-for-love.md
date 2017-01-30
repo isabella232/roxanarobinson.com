@@ -3,7 +3,7 @@ title: Asking for Love
 publication_date: 1996-03-12T00:00:00.000Z
 permalink: /books/asking-for-love/
 name: asking-for-love
-cover_image: 9780679439028_p0_v1_s260x420-220x336.jpg
+cover_image: /uploads/9780679439028_p0_v1_s260x420-220x336.jpg
 publisher:
   - Random House
 isbn:
