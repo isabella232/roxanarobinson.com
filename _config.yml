@@ -24,7 +24,7 @@ categories:
 permalink:  pretty
 version: 3.0.3
 exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'README.md']
-include: '_landing_pages'
+include: ['_landing_pages']
 sass:
     style: :compressed
     sass_dir: assets/css/_sass
