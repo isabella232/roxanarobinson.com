@@ -1,6 +1,7 @@
 {% assign awards = site.data.awards %}
+{% assign awards = awards %}
 <ul class="data-list">
-	{% for years in awards %}
+	{% for years in awards reversed %}
 	  <li>
 	    	{{ years[0] }}
 	      {% assign year = years[1] %}
