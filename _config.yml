@@ -76,7 +76,7 @@ defaults:
       collectionName: "Books"
       author: Roxana Robinson
       subtitle: ""
-      cover_image: /uploads/9780874519068_p0_v1_s600.jpg
+      cover_image: 
       publisher: ""
       isbn: ""
       isbn_digital: ""

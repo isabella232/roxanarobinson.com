@@ -1,7 +1,6 @@
 ---
 title: The Road Ahead
 date: '2017-01-30 13:49:46'
-layout: ''
 collectionName: Books
 author: Roxana Robinson
 subtitle:
@@ -26,3 +25,6 @@ synopsis:
   From debut writers to experienced contributors whose work has been featured in the New York Times, the Atlantic, and the New Yorker, this exceptional collection promises to be the definitive fictional look at the aftereffects of the Iraq and Afghan Wars, and will resonate with the reader long after the final page.
 books_category: []
 ---
+These masterfully crafted stories from writers who have served reflect the entire breadth of human emotion―loss, anger, joy, love, fear, and courage―and the evolving nature of what has become America’s “Forever War.”
+
+From debut writers to experienced contributors whose work has been featured in the New York Times, the Atlantic, and the New Yorker, this exceptional collection promises to be the definitive fictional look at the aftereffects of the Iraq and Afghan Wars, and will resonate with the reader long after the final page.
