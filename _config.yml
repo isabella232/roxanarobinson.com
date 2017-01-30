@@ -34,8 +34,7 @@ sass:
 port: 4003
 production: true
 bust_css_cache: false
-timezone: Etc/Zulu
-timezone: Etc/Zulu
+#timezone: Etc/Zulu
 compress_html:
   ignore:
     envs: [development]
