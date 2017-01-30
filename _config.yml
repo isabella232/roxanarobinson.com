@@ -59,9 +59,6 @@ collections:
   book-extras:
     output: true
     permalink: '/:collection/:path/'
-  news:
-    output: false
-    permalink: '/:collection/:path/'
 
 defaults:
   -
