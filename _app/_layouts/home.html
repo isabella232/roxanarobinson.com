@@ -30,14 +30,6 @@ layout: default
 
 {% include snippets/news-list.html limit="2" %}
 
-  <div class="row">
-
-  {% assign news = site.data.news | where: 'test', true %}
-
-
-
-  </div>
-
 <div class="row">
     <div class="bio-fulfl" style="padding-right:7em;">
       <p style="margin-top:12px;"><img src="/uploads/robinson1_si-303x335.jpg" style="max-width:195px;"></p>
@@ -58,7 +50,7 @@ layout: default
 <div class="events">
       <aside style="border-left:1px solid #ddd;padding-left:1em;paddin-bottom:4em;">
         <h4 style="margin-bottom:-30px;">Upcoming Events</h4>
-        
+
         {% include events/events-static.html %}
       </aside>
     </div>
