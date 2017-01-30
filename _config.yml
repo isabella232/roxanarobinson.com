@@ -23,7 +23,8 @@ categories:
 
 permalink:  pretty
 version: 3.0.3
-exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'README.md', 'prose.yaml']
+exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'README.md']
+include: '_landing_pages'
 sass:
     style: :compressed
     sass_dir: assets/css/_sass
@@ -50,9 +51,6 @@ includes_dir: ./_app/_includes
 
 
 collections:
-  landing_pages:
-    output: true
-    permalink: '/:path/'
   books:
     output: true
     permalink: '/:collection/:path/'
@@ -74,6 +72,12 @@ defaults:
       layout: "book"
       collectionName: "Books"
       author: Roxana Robinson
+  - scope:
+      path: '_landing_pages'
+      type: pages
+    values:
+      layout: page
+      permalink: /:basename/ #<- this tells jekyll to use the filename for the output path, and not the folder.
 
 
 # options (data)
