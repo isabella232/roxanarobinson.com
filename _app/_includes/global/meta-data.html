@@ -45,9 +45,9 @@
 {% endif %}
 
 {% if page.cover_image %}
-<meta content="/assets/img/{{ page.coverimage }}" property="og:image">
+<meta content="/uploads/{{ page.coverimage }}" property="og:image">
 {% elsif page.image %}
-  <meta content="/assets/img/{{ page.image }}" property="og:image">
+  <meta content="/uploads/{{ page.image }}" property="og:image">
 {% else %}
   <meta content="{{site.primary_image}}" property="og:image">
 {% endif %}

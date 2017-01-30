@@ -4,7 +4,7 @@ published: true
 ---
 
 
-![](/assets/img/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG.jpg) Born in Pine Mountain, Kentucky, Roxana Robinson grew up in New Hope, Pennsylvania. She graduated from Buckingham Friends School, in Lahaska, and from The Shipley School, in Bryn Mawr. She attended Bennington College and studied with Bernard Malamud and Howard Nemerov. She received a B.A. degree in English Literature from the University of Michigan
+![](/uploads/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG.jpg) Born in Pine Mountain, Kentucky, Roxana Robinson grew up in New Hope, Pennsylvania. She graduated from Buckingham Friends School, in Lahaska, and from The Shipley School, in Bryn Mawr. She attended Bennington College and studied with Bernard Malamud and Howard Nemerov. She received a B.A. degree in English Literature from the University of Michigan
 
 Ms. Robinson has received fellowships from the Guggenheim Foundation, the National Endowment for the Arts, and The MacDowell Colony. She is a critically acclaimed fiction writer and the author of five novels and three collections of short stories. Her work has been compared to John Cheever’s by&nbsp;*The New York Times*and to Edith Wharton’s by&nbsp;*Time&nbsp;*magazine. It has appeared in&nbsp;*The New Yorker*,&nbsp;*The Atlantic*,&nbsp;*Harper’s*,&nbsp;*One Story*,&nbsp;*Best American Short Stories*, and elsewhere. Her work has been widely anthologized and broadcast on National Public Radio. Four of her works have been chosen Notable Books of the Year by&nbsp;*The New York Times*, and she was named a Literary Lion by The New York Public Library.
 

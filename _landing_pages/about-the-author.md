@@ -2,7 +2,7 @@
 title: About Roxana
 class: about-the-author
 ---
-![Roxana](../assets/img/robinson1_si-303x335.jpg) {{ site.bio }}
+![Roxana](/uploads/robinson1_si-303x335.jpg) Roxana Robinson is the author of nine books: five novels, including _Cost_; three collections of short stories; and the biography _Georgia O’Keeffe: A Life_. Her work has appeared in _The New Yorker_, _The Atlantic_, _Harper’s Magazine_, _The New York Times_, _The Washington Post_, _BookForum_, _Best American Short Stories_, _Tin House_ and elsewhere. She teaches in the Hunter MFA Program and divides her time between New York, Connecticut, and Maine. She has received fellowships from the NEA and the Guggenheim Foundation and is the President of the Authors’ Guild.
 
 
 [Full Bio](/biography/)
@@ -21,13 +21,13 @@ class: about-the-author
 
 ---
 
-[![SPARTA Cover](../assets/img/sparta_robinson_95x140.jpg)](../assets/img/sparta_robinson_275x400.jpg)
+[![SPARTA Cover](/uploads/sparta_robinson_95x140.jpg)](/uploads/sparta_robinson_275x400.jpg)
 
-[*![Roxana Robinson Portrait](../assets/img/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop136x144.jpg)*](../assets/img/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop.jpg "from the Sparta Jacket Cover Roxana Robinson")
+[*![Roxana Robinson Portrait](/uploads/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop136x144.jpg)*](/uploads/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop.jpg "from the Sparta Jacket Cover Roxana Robinson")
 
-[![](../assets/img/Robinson_thmb_JoyceRavid.jpg)](../assets/img/Robinson_JoyceRavid.jpg)
+[![](/uploads/Robinson_thmb_JoyceRavid.jpg)](/uploads/Robinson_JoyceRavid.jpg)
 
-[![](../assets/img/Robinson2_thmb_JoyceRavid.jpg)](../assets/img/Robinson2_JoyceRavid.jpg)
+[![](/uploads/Robinson2_thmb_JoyceRavid.jpg)](/uploads/Robinson2_JoyceRavid.jpg)
 
 
 <div style="width:100%;clear:both;margin:2em 0;">&nbsp;</div>

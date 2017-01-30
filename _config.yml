@@ -9,9 +9,9 @@ facebook:
   app_id:
   publisher:
   admins:
-logo: /assets/img/Robinson2_JoyceRavid_300x400.jpg
+logo: /uploads/Robinson2_JoyceRavid_300x400.jpg
 sitename: Roxana Robinson
-primary_image: "/assets/img/Robinson2_JoyceRavid_300x400.jpg"
+primary_image: "/uploads/Robinson2_JoyceRavid_300x400.jpg"
 future: true   # This will tell jekyll to not display future posts
 
 categories:
