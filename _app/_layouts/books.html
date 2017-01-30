@@ -2,7 +2,7 @@
 layout: default
 section: books
 ---
-{% assign books = site.books | sort: 'publication_date', 'last' | reverse %}
+{% assign books = site.books | sort: 'date', 'last' | reverse %}
 <article class="page-content">
   {% if page.title %}
     <header>

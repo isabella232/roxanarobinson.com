@@ -1,6 +1,6 @@
 ---
 title: Asking for Love
-publication_date: 1996-03-12T00:00:00.000Z
+date: 1996-03-12T00:00:00.000Z
 permalink: /books/asking-for-love/
 name: asking-for-love
 cover_image: /uploads/9780679439028_p0_v1_s260x420-220x336.jpg
@@ -13,7 +13,7 @@ sm_show_books_buy_button:
 isbn_digital:
   - 0679439021
 isbn_kindle:
-  -
+  - 
 meta_data:
   -
 subtitle:

@@ -1,6 +1,6 @@
 ---
 title: Sparta
-publication_date: 2013-06-04 00:00:00
+date: 2013-06-04 00:00:00
 name: sparta
 publisher:
   - Sarah Crichton Books
