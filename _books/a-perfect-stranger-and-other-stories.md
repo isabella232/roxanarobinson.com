@@ -6,7 +6,7 @@ excerpt:
 layout: book
 permalink: /books/a-perfect-stranger-and-other-stories/
 name: a-perfect-stranger-and-other-stories
-cover_image: 9780812967357-220x339.jpg
+cover_image: /uploads/9780812967357-220x339.jpg
 publisher:
   - Random House
 isbn:
