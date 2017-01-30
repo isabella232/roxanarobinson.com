@@ -1,0 +1,70 @@
+---
+layout: page-full
+section: media
+---
+<div class="entry">
+	<div class="row">
+		<div class="large-8 columns">
+		<!-- button-groupTK TKradius large-8f large-centeredtk columnsf -->
+			<ul class="button-group radius">
+				<!-- <li class="button button-filter tiny not-active">Filters: </li> -->
+				{% for link in site.data.mediaCats %}
+					<li class="button button-filter tiny" id="filter-{{link.catName}}">{{link.name}}</li>
+				{% endfor %}
+				<li class="button button-filter active tiny button-active" id="filter-none">
+					clear
+				</li>
+			</ul>
+		</div>
+
+	</div>
+	<div id="entry-list">
+			<div class="row" style="margin-top:.25em;">
+			<div class="large-3 columns">
+	    	<input type="text" class="search" placeholder="Search Media" />
+	    </div>
+		</div>
+	  <table>
+			<thead>
+	    	<tr>
+	      	<th class="sort" data-sort="category">Category <i class="fa fa-sort"></i></th>
+	      	<th class="sort" data-sort="title">Title <i class="fa fa-sort"></i></th>
+	      	<th class="sort date" data-sort="date">date <i class="fa fa-sort"></i></th>
+	      	<th class="sort" data-sort="publication">publication <i class="fa fa-sort"></i></th>
+	    	</tr>
+	  	</thead>
+	  	<tbody class="list">
+				{% for media in site.data.media limit:250 %}
+					<tr>
+						<td class="category" width="15%">{{ media.category }}</td>
+						<td class="title" width="50%">
+
+							{% if media.description %}
+								{{media.description}}
+							{% endif %}
+						</td>
+						<td class="date" width="15%">
+							{{ media.date | date: "%Y-%b-%d" }}
+						</td>
+						{% if media.link_to_original %}
+							<td class="publication" width="20%">
+								<a href="{{media.link_to_original}}">
+									<em>
+										{{ media.source}}  <!-- | sort -->
+									</em>
+								</a>
+								<a href="{{media.link_to_original}}" class="ss-redirect"><i class="icon-link-ext"></i></a>
+							</td>
+	   				{% else %}
+							<td class="publication" width="20%">
+								<em>
+									{{ media.source }}<!-- | sort -->
+								</em>
+							</td>
+						{% endif %}
+				  </tr>
+				{% endfor %}
+			</tbody>
+		</table>
+	</div><!--  /entry-list  -->
+</div><!--  /entry  -->
