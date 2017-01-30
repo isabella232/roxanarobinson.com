@@ -92,6 +92,7 @@ defaults:
       city-state: ""
       zip:
       website:
+      layout: event
 
 
 # options (data)
