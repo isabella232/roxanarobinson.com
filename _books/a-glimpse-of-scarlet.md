@@ -1,6 +1,6 @@
 ---
 title: A Glimpse of Scarlet
-date: '1992-06-01 20:00:00'
+date: '1992-06-01 00:00:00'
 subtitle:
 - And Other Stories
 cover_image: "/uploads/glimpse_scarlet_lg.jpg"
