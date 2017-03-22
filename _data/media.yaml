@@ -1,315 +1,325 @@
 ---
--
- category: Interview
- date: 2014-09-25
- source: "War, Literature, and the Arts"
- description: "Kathleen Harrington / <em>Sparta</em>: A Conversation with Roxana Robinson"
- link_to_original: http://wlajournal.com/archive.aspx?issue=26
- related_book: sparta
-
--
- category: Commentary
- date: 2014-07-14
- source: "NPR"
- description: "The Indispensability of Writers Forgotten in Amazon-Hachette Battle"
- link_to_original: "http://wshu.org/post/commentary-indispensability-writers-forgotten-amazon-hachette-battle"
-
--
- category: Interview
- date: 2014-06-05
- source: "WBUR's On Point with Tom Ashbrook"
- description: "Amazon Versus The Book Publishers"
- link_to_original: "http://onpoint.wbur.org/2014/06/05/amazon-prices-ebooks-hachette"
--
- category: Interview
- date: 2014-05-27
- source: "BloombergBusinessweek"
- description: "How Amazon Is Tony Soprano"
- link_to_original: "http://www.businessweek.com/videos/2014-05-27/amazon-re-writes-book-sale-rules-in-hachette-battle"
--
-  category: Interview
-  date: 2014-05-12
-  description: "The PEN Ten with Roxana Robinson, interviewed by Lauren Cerand"
-  link_to_original: "http://www.pen.org/interview/pen-ten-roxana-robinson"
-  source: PEN America
--
-  category: Reading
-  date: 2014-01-22
-  description: "Fact & Fiction: David Finkel and Roxana Robinson - Part One"
-  link_to_original: "http://youtu.be/lpAR_zFg-sE"
-  source: Center for Fiction
--
-  category: Reading
-  date: 2014-01-22
-  description: "Fact & Fiction: David Finkel and Roxana Robinson - Part Two"
-  link_to_original: "http://youtu.be/o6SH1CIymXw"
-  source: Center for Fiction
--
-  category: Interview
-  date: 2013-12-15
-  description: "“Accuracy of the Moment,” interview by Mariette Kalinowski"
-  link_to_original: "http://www.brooklynrail.org/2013/12/books/accuracy-of-the-moment-roxana-robinson-with-mariette-kalinowski"
+- category: []
+  date: '2017-03-16T00:00:00-04:00'
+  source: CBC Radio
+  description: 'Expletive Repeated: Why Swearing Matters'
+  link_to_original: http://www.cbc.ca/radio/ideas/expletive-repeated-why-swearing-matters-1.4026089
+  related_book: ''
+- category:
+  - Interview
+  date: '2014-09-25T00:00:00+00:00'
+  source: War, Literature, and the Arts
+  description: 'Kathleen Harrington / <em>Sparta</em>: A Conversation with Roxana
+    Robinson'
+  link_to_original: http://wlajournal.com/archive.aspx?issue=26
   related_book: sparta
-  source: "Brooklyn Rail"
--
-  category: Interview
-  date: 2013-11-14
-  description: "The Beecher Legacy, Part II"
-  link_to_original: "http://www.litkicks.com/BeecherLegacyTwo"
+- category:
+  - Commentary
+  date: '2014-07-14T00:00:00+00:00'
+  source: NPR
+  description: The Indispensability of Writers Forgotten in Amazon-Hachette Battle
+  link_to_original: http://wshu.org/post/commentary-indispensability-writers-forgotten-amazon-hachette-battle
+- category:
+  - Interview
+  date: '2014-06-05T00:00:00+00:00'
+  source: WBUR's On Point with Tom Ashbrook
+  description: Amazon Versus The Book Publishers
+  link_to_original: http://onpoint.wbur.org/2014/06/05/amazon-prices-ebooks-hachette
+- category:
+  - Interview
+  date: '2014-05-27T00:00:00+00:00'
+  source: BloombergBusinessweek
+  description: How Amazon Is Tony Soprano
+  link_to_original: http://www.businessweek.com/videos/2014-05-27/amazon-re-writes-book-sale-rules-in-hachette-battle
+- category:
+  - Interview
+  date: '2014-05-12T00:00:00+00:00'
+  description: The PEN Ten with Roxana Robinson, interviewed by Lauren Cerand
+  link_to_original: http://www.pen.org/interview/pen-ten-roxana-robinson
+  source: PEN America
+- category:
+  - Reading
+  date: '2014-01-22T00:00:00+00:00'
+  description: 'Fact & Fiction: David Finkel and Roxana Robinson - Part One'
+  link_to_original: http://youtu.be/lpAR_zFg-sE
+  source: Center for Fiction
+- category:
+  - Reading
+  date: '2014-01-22T00:00:00+00:00'
+  description: 'Fact & Fiction: David Finkel and Roxana Robinson - Part Two'
+  link_to_original: http://youtu.be/o6SH1CIymXw
+  source: Center for Fiction
+- category:
+  - Interview
+  date: '2013-12-15T00:00:00+00:00'
+  description: "“Accuracy of the Moment,” interview by Mariette Kalinowski"
+  link_to_original: http://www.brooklynrail.org/2013/12/books/accuracy-of-the-moment-roxana-robinson-with-mariette-kalinowski
+  related_book: sparta
+  source: Brooklyn Rail
+- category:
+  - Interview
+  date: '2013-11-14T00:00:00+00:00'
+  description: The Beecher Legacy, Part II
+  link_to_original: http://www.litkicks.com/BeecherLegacyTwo
   source: Levi Asher, Interview
-
--
-  category: Interview
-  date: 2013-11-11
-  description: "The Beecher Legacy, Part I"
-  link_to_original: "http://www.litkicks.com/BeecherLegacyOne"
+- category:
+  - Interview
+  date: '2013-11-11T00:00:00+00:00'
+  description: The Beecher Legacy, Part I
+  link_to_original: http://www.litkicks.com/BeecherLegacyOne
   source: Levi Asher, Interview
-
--
-  category: Interview
-  date: 2013-08-02
-  description: "With Mark Herz, WSHU"
-  link_to_original: "http://wshu.org/news/story.php?ID=11409"
+- category:
+  - Interview
+  date: '2013-08-02T00:00:00+00:00'
+  description: With Mark Herz, WSHU
+  link_to_original: http://wshu.org/news/story.php?ID=11409
   related_book: sparta
   source: NPR
--
-  category: Interview
-  date: 2013-07-26
-  description: "Host, Ron Beard, University of Maine Cooperative Extension"
-  link_to_original: "http://archives.weru.org/talk-of-the-towns/2013/07/talk-of-the-towns-72613/"
+- category:
+  - Interview
+  date: '2013-07-26T00:00:00+00:00'
+  description: Host, Ron Beard, University of Maine Cooperative Extension
+  link_to_original: http://archives.weru.org/talk-of-the-towns/2013/07/talk-of-the-towns-72613/
   related_book: sparta
-  source: "Talk of the Towns, WERU"
--
-  category: Interview
-  date: 2013-07-16
-  description: "Q&A with Pricilla Gilman."
-  link_to_original: "http://priscillagilman.com/2013/07/a-q-a-with-writer-roxana-robinson/"
+  source: Talk of the Towns, WERU
+- category:
+  - Interview
+  date: '2013-07-16T00:00:00+00:00'
+  description: Q&A with Pricilla Gilman.
+  link_to_original: http://priscillagilman.com/2013/07/a-q-a-with-writer-roxana-robinson/
   related_book: sparta
   source: priscillagilman.com
--
-  category: Interview
-  date: 2013-06-25
-  description: "On Point: Roxanne Robinson and <em>Sparta</em>, with Tom Ashbrook, WBUR"
-  link_to_original: "http://onpoint.wbur.org/2013/06/25/roxana-robinsons-sparta"
+- category:
+  - Interview
+  date: '2013-06-25T00:00:00+00:00'
+  description: On Point: Roxanne Robinson and <em>Sparta</em>, with Tom Ashbrook,
+    WBUR
+  link_to_original: http://onpoint.wbur.org/2013/06/25/roxana-robinsons-sparta
   related_book: sparta
-  source: "On Point, WBUR"
--
-  category: Interview
-  # category: Article
-  date: 2013-06-13
-  description: "David Abrams discusses <em>Sparta</em>."
-  link_to_original: "http://davidabramsbooks.blogspot.com/2013/06/the-quiet-outrage-of-war-sparta-by.html"
+  source: On Point, WBUR
+- category:
+  - Interview
+  date: '2013-06-13T00:00:00+00:00'
+  description: David Abrams discusses <em>Sparta</em>.
+  link_to_original: http://davidabramsbooks.blogspot.com/2013/06/the-quiet-outrage-of-war-sparta-by.html
   related_book: sparta
-  source: "The Quivering Pen"
--
-  category: Interview
-  date: 2013-06-11
-  description: "Interview by Edward Champion"
-  link_to_original: "http://www.edrants.com/roxana-robinson-the-bat-segundo-show-503/"
+  source: The Quivering Pen
+- category:
+  - Interview
+  date: '2013-06-11T00:00:00+00:00'
+  description: Interview by Edward Champion
+  link_to_original: http://www.edrants.com/roxana-robinson-the-bat-segundo-show-503/
   related_book: sparta
-  source: "The Bat Segundo Show"
--
-  category: Interview
-  date: 2013-06-06
-  description: "The Radiator: Write The Book, Shelagh Shapiro, Radio 105.9 FM, Burlington, VT"
-  link_to_original: "http://writethebook.podbean.com/2013/06/11/roxana-robinson-interview-247-61013/"
+  source: The Bat Segundo Show
+- category:
+  - Interview
+  date: '2013-06-06T00:00:00+00:00'
+  description: 'The Radiator: Write The Book, Shelagh Shapiro, Radio 105.9 FM, Burlington,
+    VT'
+  link_to_original: http://writethebook.podbean.com/2013/06/11/roxana-robinson-interview-247-61013/
   related_book: sparta
-  source: "Radio 105.9 FM"
--
-  category: Reading
-  date: 2013-06-04
-  description: "Roxana Robinson reads from <em>Sparta</em> at the Center for Fiction in New York City"
-  link_to_original: "http://www.youtube.com/watch?v=xBauyXd3xXA"
+  source: Radio 105.9 FM
+- category:
+  - Reading
+  date: '2013-06-04T00:00:00+00:00'
+  description: Roxana Robinson reads from <em>Sparta</em> at the Center for Fiction
+    in New York City
+  link_to_original: http://www.youtube.com/watch?v=xBauyXd3xXA
   related_book: sparta
-  source: "Center for Fiction"
--
-  category: Interview
-  date: 2013-06-03
-  description: "A Troubled Iraq War Vet Returns Home in Roxana Robinson’s Sparta, Jane Ciabattari, <em>The Daily Beast, Newsweek</em>"
-  link_to_original: "http://www.thedailybeast.com/articles/2013/06/03/a-troubled-iraq-war-vet-returns-home-in-roxana-robinson-s-sparta.html"
+  source: Center for Fiction
+- category:
+  - Interview
+  date: '2013-06-03T00:00:00+00:00'
+  description: A Troubled Iraq War Vet Returns Home in Roxana Robinson’s Sparta, Jane
+    Ciabattari, <em>The Daily Beast, Newsweek</em>
+  link_to_original: http://www.thedailybeast.com/articles/2013/06/03/a-troubled-iraq-war-vet-returns-home-in-roxana-robinson-s-sparta.html
   related_book: sparta
-  source: "The Daily Beast, Newsweek"
--
-  category: Interview
-  date: 2013-06-03
-  description: "Roxana Robinson on Sparta, Killing People, Iraq, and Writing, MaryAnne Kolton, <em>LA Review of Books</em>"
-  link_to_original: "http://lareviewofbooks.org/interview/roxana-robinson-on-sparta-killing-people-iraq-and-writing"
+  source: The Daily Beast, Newsweek
+- category:
+  - Interview
+  date: '2013-06-03T00:00:00+00:00'
+  description: Roxana Robinson on Sparta, Killing People, Iraq, and Writing, MaryAnne
+    Kolton, <em>LA Review of Books</em>
+  link_to_original: http://lareviewofbooks.org/interview/roxana-robinson-on-sparta-killing-people-iraq-and-writing
   related_book: sparta
-  source: "LA Review of Books"
--
-  category: Interview
-  date: 2013-05-27
-  description: "Under False Pretences: PW Interviews Roxana Robinson, Alexis Burling, <em>Publishers Weekly</em>"
-  link_to_original: "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/57338-under-false-pretenses-pw-talks-with-roxana-robinson.html"
+  source: LA Review of Books
+- category:
+  - Interview
+  date: '2013-05-27T00:00:00+00:00'
+  description: 'Under False Pretences: PW Interviews Roxana Robinson, Alexis Burling,
+    <em>Publishers Weekly</em>'
+  link_to_original: http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/57338-under-false-pretenses-pw-talks-with-roxana-robinson.html
   related_book: sparta
-  source: "Publishers Weekly"
--
-  category: Interview
-  date: 2012-12-24
-  description: "Christmas Commentary, NPR, <em>All Things Considered</em>, WSHU"
-  link_to_original: "http://wshu.org/news/story.php?ID=10666"
-  related_book: ~
-  source: "All Things Considered"
--
-  category: Interview
-  date: 2012-11-19
-  description: "In a Brooklyn Cafe, It’s Write! Camera! Action! Jennifer Schuessler, <em>The New York Times</em>"
-  link_to_original: "http://artsbeat.blogs.nytimes.com/2012/11/19/in-a-brooklyn-cafe-its-write-camera-action/?ref=roxanarobinson&_r=0"
-  related_book: ~
-  source: "The New York Times"
-# -
-#  category: Interview
-#   date: 2012-08-09
-#   description: "WGBH Forum Network—live and archived webcasts of free public lectures in partnership with Boston’s leading cultural and educational organizations"
-#   link_to_original: "http://www.wgbh.org/search/?q=roxana%20robinson"
-#   related_book: cost
-#   source: "WGBH Forum Network"
--
-  category: Interview
-  # category: Article
-  date: 2012-08-09
-  description: "\"The Cry of the Loon\", <em>NPR, All Things Considered</em>"
-  link_to_original: "http://www.npr.org/2012/08/09/158202053/wish-you-were-here-listening-to-loons-in-maine"
+  source: Publishers Weekly
+- category:
+  - Interview
+  date: '2012-12-24T00:00:00+00:00'
+  description: Christmas Commentary, NPR, <em>All Things Considered</em>, WSHU
+  link_to_original: http://wshu.org/news/story.php?ID=10666
+  related_book: 
+  source: All Things Considered
+- category:
+  - Interview
+  date: '2012-11-19T00:00:00+00:00'
+  description: In a Brooklyn Cafe, It’s Write! Camera! Action! Jennifer Schuessler,
+    <em>The New York Times</em>
+  link_to_original: http://artsbeat.blogs.nytimes.com/2012/11/19/in-a-brooklyn-cafe-its-write-camera-action/?ref=roxanarobinson&_r=0
+  related_book: 
+  source: The New York Times
+- category:
+  - Interview
+  date: '2012-08-09T00:00:00+00:00'
+  description: '"The Cry of the Loon", <em>NPR, All Things Considered</em>'
+  link_to_original: http://www.npr.org/2012/08/09/158202053/wish-you-were-here-listening-to-loons-in-maine
   related_book: cost
-  source: "All Things Considered"
--
-  category: Interview
-  date: 2012-07-12
-  description: "\"Edith Wharton on Mount Desert Island,\" talk at College of the Atlantic, Bar Harbor, Maine"
-  link_to_original: "http://www.youtube.com/watch?v=UHbb-POhj2A"
-  related_book: ~
-  source: "College of the Atlantic"
--
-  category: Interview
-  date: 2012-03-27
+  source: All Things Considered
+- category:
+  - Interview
+  date: '2012-07-12T00:00:00+00:00'
+  description: '"Edith Wharton on Mount Desert Island," talk at College of the Atlantic,
+    Bar Harbor, Maine'
+  link_to_original: http://www.youtube.com/watch?v=UHbb-POhj2A
+  related_book: 
+  source: College of the Atlantic
+- category:
+  - Interview
+  date: '2012-03-27T00:00:00+00:00'
   description: "<em>The Leonard Lopate Show</em>, Honoring Edith Wharton, NPR, WNYC"
-  link_to_original: "http://www.wnyc.org/shows/lopate/2012/mar/27/celebrating-edith-wharton/"
-  related_book: ~
-  source: "The Leonard Lopate Show"
--
-  category: Interview
-  date: 2012-01-24
-  description: "Edith Wharton, NPR, WSHU"
-  link_to_original: "http://wshu.org/news/story.php?ID=9433"
-  related_book: ~
+  link_to_original: http://www.wnyc.org/shows/lopate/2012/mar/27/celebrating-edith-wharton/
+  related_book: 
+  source: The Leonard Lopate Show
+- category:
+  - Interview
+  date: '2012-01-24T00:00:00+00:00'
+  description: Edith Wharton, NPR, WSHU
+  link_to_original: http://wshu.org/news/story.php?ID=9433
+  related_book: 
   source: NPR
--
-  category: Interview
-  date: 2011-11-11
-  description: "Roxana Robinson on Edith Wharton’s House of Mirth, NPR, on the WNYC series, American Icons,"
-  link_to_original: "http://www.studio360.org/2011/nov/11/american-icons/"
-  related_book: ~
-  source: "American Icons"
--
-  category: Interview
-  date: 2011-11-02
-  description: "\"The Mountain Lion,\" <em>All Things Considered</em>, NPR, WSHU"
-  link_to_original: "http://wshu.org/news/story.php?ID=9232"
-  related_book: ~
-  source: "All Things Considered"
--
-  category: Interview
-  date: 2011-09-07
-  description: "A Reflection on a 9/11 Loss, NPR, WSHU"
-  link_to_original: "http://wshu.org/news/story.php?ID=9085"
-  related_book: ~
+- category:
+  - Interview
+  date: '2011-11-11T00:00:00+00:00'
+  description: Roxana Robinson on Edith Wharton’s House of Mirth, NPR, on the WNYC
+    series, American Icons,
+  link_to_original: http://www.studio360.org/2011/nov/11/american-icons/
+  related_book: 
+  source: American Icons
+- category:
+  - Interview
+  date: '2011-11-02T00:00:00+00:00'
+  description: '"The Mountain Lion," <em>All Things Considered</em>, NPR, WSHU'
+  link_to_original: http://wshu.org/news/story.php?ID=9232
+  related_book: 
+  source: All Things Considered
+- category:
+  - Interview
+  date: '2011-09-07T00:00:00+00:00'
+  description: A Reflection on a 9/11 Loss, NPR, WSHU
+  link_to_original: http://wshu.org/news/story.php?ID=9085
+  related_book: 
   source: NPR
--
-  category: Interview
-  date: 2011-06-13
-  description: "Reconsidering Uncle Tom’s Cabin on the 200th birthday of Harriet Beecher Stowe, NPR, WSHU"
-  link_to_original: "http://wshu.org/news/story.php?ID=8841"
-  related_book: ~
+- category:
+  - Interview
+  date: '2011-06-13T00:00:00+00:00'
+  description: Reconsidering Uncle Tom’s Cabin on the 200th birthday of Harriet Beecher
+    Stowe, NPR, WSHU
+  link_to_original: http://wshu.org/news/story.php?ID=8841
+  related_book: 
   source: NPR
--
-  category: Interview
-  date: 2011-01-14
-  description: "\"Up Front: Roxana Robinson,\" The Editors, <em>The New York Times</em>"
-  link_to_original: "http://www.nytimes.com/2011/01/16/books/review/Upfront-t.html?_r=0&adxnnl=1&ref=roxanarobinson&adxnnlx=1371905411-hjviPQqYARPaSCshDLdzaQ"
-  related_book: ~
-  source: "The New York Times"
--
-  category: Interview
-  date: 2010-11-22
-  description: "Poets and Writers 40th Anniversary"
-  link_to_original: "http://www.pw.org/content/roxana_robinson?cmnt_all=1"
-  related_book: ~
-  source: "Poets and Writers"
--
-  category: Interview
-  date: 2010-10-29
-  description: "Studio 360, Roxana Robinson on American Idol: Edith Wharton, The House of Mirth"
-  link_to_original: "http://www.studio360.org/people/roxana-robinson/"
-  related_book: ~
-  source: "Studio 360"
--
-  category: Interview
-  date: 2010-09-26
-  description: "Roxana Robinson—coffee and conversation with Karen Waldron, College of the Atlantic, Bar Harbor, Maine"
-  link_to_original: "http://www.youtube.com/watch?v=1od_XUa0Xdk"
-  related_book: ~
-  source: "College of the Atlantic"
--
-  category: Interview
-  date: 2010-01-01
-  description: "\"At the Beach,\" story by Roxana Robinson, read by William Hope (33 min.)"
-  link_to_original: "http://www.spokenink.co.uk/Roxana+Robinson/library/1/?author=96"
+- category:
+  - Interview
+  date: '2011-01-14T00:00:00+00:00'
+  description: '"Up Front: Roxana Robinson," The Editors, <em>The New York Times</em>'
+  link_to_original: http://www.nytimes.com/2011/01/16/books/review/Upfront-t.html?_r=0&adxnnl=1&ref=roxanarobinson&adxnnlx=1371905411-hjviPQqYARPaSCshDLdzaQ
+  related_book: 
+  source: The New York Times
+- category:
+  - Interview
+  date: '2010-11-22T00:00:00+00:00'
+  description: Poets and Writers 40th Anniversary
+  link_to_original: http://www.pw.org/content/roxana_robinson?cmnt_all=1
+  related_book: 
+  source: Poets and Writers
+- category:
+  - Interview
+  date: '2010-10-29T00:00:00+00:00'
+  description: 'Studio 360, Roxana Robinson on American Idol: Edith Wharton, The House
+    of Mirth'
+  link_to_original: http://www.studio360.org/people/roxana-robinson/
+  related_book: 
+  source: Studio 360
+- category:
+  - Interview
+  date: '2010-09-26T00:00:00+00:00'
+  description: Roxana Robinson—coffee and conversation with Karen Waldron, College
+    of the Atlantic, Bar Harbor, Maine
+  link_to_original: http://www.youtube.com/watch?v=1od_XUa0Xdk
+  related_book: 
+  source: College of the Atlantic
+- category:
+  - Interview
+  date: '2010-01-01T00:00:00+00:00'
+  description: '"At the Beach," story by Roxana Robinson, read by William Hope (33
+    min.)'
+  link_to_original: http://www.spokenink.co.uk/Roxana+Robinson/library/1/?author=96
   related_book: a-perfect-stranger-and-other-stories
-  source: "Spoken Ink"
--
-  category: Interview
-  date: 2009-07-10
-  description: "\"For a Writer, a Home With a Hideout,\" Constance Rosenblum, <em>The New York Times</em>"
-  link_to_original: "http://www.nytimes.com/2009/07/12/realestate/12habi.html?adxnnl=1&ref=roxanarobinson&adxnnlx=1371905578-JuMoXQrP0nxTEyNuJ/esbA"
+  source: Spoken Ink
+- category:
+  - Interview
+  date: '2009-07-10T00:00:00+00:00'
+  description: '"For a Writer, a Home With a Hideout," Constance Rosenblum, <em>The
+    New York Times</em>'
+  link_to_original: http://www.nytimes.com/2009/07/12/realestate/12habi.html?adxnnl=1&ref=roxanarobinson&adxnnlx=1371905578-JuMoXQrP0nxTEyNuJ/esbA
   related_book: cost
-  source: "The New York Times"
--
-  category: Interview
-  date: 2009-01-09
-  description: "\"Beyond Team of Rivals: Books to Stock on Air Force One,\" Margo Hammond and Ellen Heltzel, <em>Huffington Post</em>"
-  link_to_original: "http://www.huffingtonpost.com/margo-hammond-and-ellen-heltzel/beyond-team-of-rivals-boo_b_156464.html"
+  source: The New York Times
+- category:
+  - Interview
+  date: '2009-01-09T00:00:00+00:00'
+  description: '"Beyond Team of Rivals: Books to Stock on Air Force One," Margo Hammond
+    and Ellen Heltzel, <em>Huffington Post</em>'
+  link_to_original: http://www.huffingtonpost.com/margo-hammond-and-ellen-heltzel/beyond-team-of-rivals-boo_b_156464.html
   related_book: cost
-  source: "Huffington Post"
--
-  category: Interview
-  date: 2008-08-27
-  description: "Maine Public Broadcasting Network, Maine Things Considered"
-  link_to_original: ~
-  related_book: ~
-  source: "Maine Things Considered"
--
-  category: Interview
-  date: 2008-07-31
-  description: "Interview with Leonard Lopate at WNYC"
-  link_to_original: "http://www.wnyc.org/shows/lopate/2008/jul/31/a-summer-of-family-traumas/"
+  source: Huffington Post
+- category:
+  - Interview
+  date: '2008-08-27T00:00:00+00:00'
+  description: Maine Public Broadcasting Network, Maine Things Considered
+  link_to_original: 
+  related_book: 
+  source: Maine Things Considered
+- category:
+  - Interview
+  date: '2008-07-31T00:00:00+00:00'
+  description: Interview with Leonard Lopate at WNYC
+  link_to_original: http://www.wnyc.org/shows/lopate/2008/jul/31/a-summer-of-family-traumas/
   related_book: cost
-  source: "Leonard Lopate"
--
-  category: Interview
-  date: 2008-07-14
+  source: Leonard Lopate
+- category:
+  - Interview
+  date: '2008-07-14T00:00:00+00:00'
   description: "<em>The Book Show</em>, WAMC"
-  link_to_original: "http://wamc.org/post/book-show-1043"
+  link_to_original: http://wamc.org/post/book-show-1043
   related_book: cost
   source: WAMC
--
-  category: Interview
-  date: 2008-06-25
+- category:
+  - Interview
+  date: '2008-06-25T00:00:00+00:00'
   description: "<em>On Point</em> with Tom Ashbrook, WBUR"
-  link_to_original: ~
-  related_book: ~
+  link_to_original: 
+  related_book: 
   source: WBUR
--
-  category: Interview
-  # category: Article
-  date: 2008-06-01
-  description: "\"A Novel’s Twists Immerse a Writer in the World of Addiction,\" Cynthia Magriel Wetzler, <em>The New York Times,</em>"
-  link_to_original: "http://www.nytimes.com/2008/06/01/nyregion/nyregionspecial2/01roxanact.html?_r=1&oref=slogin"
+- category:
+  - Interview
+  date: '2008-06-01T00:00:00+00:00'
+  description: '"A Novel’s Twists Immerse a Writer in the World of Addiction," Cynthia
+    Magriel Wetzler, <em>The New York Times,</em>'
+  link_to_original: http://www.nytimes.com/2008/06/01/nyregion/nyregionspecial2/01roxanact.html?_r=1&oref=slogin
   related_book: cost
-  source: "The New York Times"
--
-  category: Interview
-  date: 2007-01-24
-  description: "Reading by novelist Roxana Robinson at the College of the Atlantic, Bar Harbor, Maine"
-  link_to_original:
-  related_book:
-  source: "College of the Atlantic"
+  source: The New York Times
+- category:
+  - Interview
+  date: '2007-01-24T00:00:00+00:00'
+  description: Reading by novelist Roxana Robinson at the College of the Atlantic,
+    Bar Harbor, Maine
+  link_to_original: 
+  related_book: 
+  source: College of the Atlantic
