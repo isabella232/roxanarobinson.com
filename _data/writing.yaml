@@ -7,20 +7,20 @@
   link_to_original: http://lithub.com/writers-veterans-citizens-take-to-the-halls-of-congress/
   related_book: ''
   content: ''
-- date: '2017-01-25T00:00:00-05:00'
-  category:
-  - Essays
-  publication: Literary Hub
-  title: 'Donald Trump: Making the Word ''Pussy'' Great Again, Bigly'
-  link_to_original: http://lithub.com/donald-trump-making-the-word-pussy-great-again-bigly/
-  related_book: ''
-  content: ''
 - date: '2017-01-27T00:00:00-05:00'
   category:
   - Book Reviews
   publication: The New York Times Book Review
   title: For Two Small-Town Families, War Is the Tie That Binds
   link_to_original: https://www.nytimes.com/2017/01/27/books/review/signal-flame-andrew-krivak.html
+  related_book: ''
+  content: ''
+- date: '2017-01-25T00:00:00-05:00'
+  category:
+  - Essays
+  publication: Literary Hub
+  title: 'Donald Trump: Making the Word ''Pussy'' Great Again, Bigly'
+  link_to_original: http://lithub.com/donald-trump-making-the-word-pussy-great-again-bigly/
   related_book: ''
   content: ''
 - date: '2016-11-09T00:00:00+00:00'
