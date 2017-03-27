@@ -1,7 +1,7 @@
 ---
 title: "The Writer's Zone"
 published: true
-category:
+categories:
   - news
 date: 2016-10-26 00:00:00
 link_to_original: 'http://www.myspectrumsports.com/videos/2016/10/26/me-the-writer-s-zone--episode-4'

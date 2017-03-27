@@ -3,7 +3,7 @@ layout: page
 title: 2017 PEN+NE LITERARY AWARDS
 date: 2017-03-27 10:11
 categories:
-- News
+- news
 link_to_original: http://www.pen-ne.org/event-details/2017/4/2/2017-penne-literary-awards
 published: true
 ---

@@ -1,7 +1,8 @@
 ---
 title: “Where Does All the Money Go?”
 published: false
-category: news
+categories:
+- news
 date: 2016-06-23T00:00:00.000Z
 allday: false
 venue:

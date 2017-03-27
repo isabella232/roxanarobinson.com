@@ -1,7 +1,7 @@
 ---
 title: The Meaning Of Elena Ferrante
 published: true
-category:
+categories:
   - news
 date: 2016-10-05 00:00:00
 link_to_original: 'http://www.wbur.org/onpoint/2016/10/05/elena-ferrante-real-name'
