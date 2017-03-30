@@ -1,6 +1,13 @@
 ---
 - category:
   - Interview
+  date: '2017-03-28T00:00:00-04:00'
+  source: Writerly
+  description: How the Authors Guild Helps Working Writers
+  link_to_original: http://writerly.libsyn.com/how-the-authors-guild-helps-working-writers?tdest_id=476605
+  related_book: ''
+- category:
+  - Interview
   date: '2017-03-16T00:00:00-04:00'
   source: CBC Radio
   description: 'Expletive Repeated: Why Swearing Matters'
