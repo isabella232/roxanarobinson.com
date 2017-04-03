@@ -1,0 +1,15 @@
+---
+layout: default
+section: news
+---
+<div class="small-12 medium-8 large-8 large-centered columns page-layout">
+
+<article class="hentry">
+  <header>
+   {% if page.title %}
+      <h1 class="page-title">{{page.title}}</h1>
+   {% endif %}
+ </header>
+  {% include snippets/news-list.html limit="1000" %}
+</article>
+</div>
