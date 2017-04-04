@@ -8,17 +8,17 @@
   related_book: ''
 - category:
   - Interview
-  date: '2017-03-16T00:00:00-04:00'
-  source: CBC Radio
-  description: 'Expletive Repeated: Why Swearing Matters'
-  link_to_original: http://www.cbc.ca/radio/ideas/expletive-repeated-why-swearing-matters-1.4026089
-  related_book: ''
-- category:
-  - Interview
   date: '2016-10-25T00:00:00-04:00'
   source: The Writer’s Zone
   description: On an episode of The Writer’s Zone with host Genevieve Morgan.
   link_to_original: http://www.myspectrumsports.com/videos/2016/10/26/me-the-writer-s-zone--episode-4
+  related_book: ''
+- category:
+  - Interview
+  date: '2017-03-16T00:00:00-04:00'
+  source: CBC Radio
+  description: 'Expletive Repeated: Why Swearing Matters'
+  link_to_original: http://www.cbc.ca/radio/ideas/expletive-repeated-why-swearing-matters-1.4026089
   related_book: ''
 - category:
   - Interview
