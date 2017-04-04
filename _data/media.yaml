@@ -35,6 +35,13 @@
   link_to_original: https://www.youtube.com/watch?v=P3jvIQePWto
   related_book: ''
 - category:
+  - Reading
+  date: '2016-06-20T00:00:00-04:00'
+  source: The Center for the Study of Transformative Lives
+  description: 'Georgia O''Keeffe: The Life We Want'
+  link_to_original: https://www.youtube.com/watch?v=EKag91oyCD4
+  related_book: ''
+- category:
   - Interview
   date: '2014-09-25T00:00:00+00:00'
   source: War, Literature, and the Arts
