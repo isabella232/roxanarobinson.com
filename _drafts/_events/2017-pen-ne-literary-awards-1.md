@@ -1,15 +1,19 @@
 ---
 published: true
 allday: false
-venue: Center for Fiction
-address: 17 East 47th Street
-city-state: New York, NY
-zip: 10017
-website: http://centerforfiction.org/
+venue: John F. Kennedy Library
+address: ''
+city-state: Columbia Point Boston, MA
+zip: '02125'
+website: http://www.pen-ne.org/event-details/2017/4/2/2017-penne-literary-awards
 layout: event
 title: 2017 PEN+NE LITERARY AWARDS
-date: 2017-04-04 09:09
-slug: 2013-06-04 00:00
+date: 2017-04-02 14:00
+slug: 
 categories:
 - event
+link_to_original: http://www.pen-ne.org/event-details/2017/4/2/2017-penne-literary-awards
 ---
+
+
+Roxana Robinson will keynote the 2017 PEN New England Literary Awards celebrating the PEN/Hemingway Award for Debut Fiction and the PEN/New England Awards for Fiction, Poetry, and Nonfiction. Free and open to the public. Reservations recommended.
