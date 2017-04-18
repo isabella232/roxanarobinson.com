@@ -1,11 +1,11 @@
 ---
 published: true
 allday: true
-venue: Center for Fiction
-address: 17 East 47th Street
+venue: The Writers Hotel
+address: ''
 city-state: New York, NY
-zip: 10017
-website: http://centerforfiction.org/
+zip: ''
+website: http://www.writershotel.com/
 layout: event
 title: The Writer's Hotel
 date: 2017-06-01 17:36
