@@ -8,7 +8,7 @@ zip: ''
 website: https://www.facebook.com/events/1894381690842622/
 layout: event
 title: Cornwall Historical Society
-date: 2017-04-17 21:47
+date: 2017-04-23 15:00
 slug: ''
 categories:
 - event
