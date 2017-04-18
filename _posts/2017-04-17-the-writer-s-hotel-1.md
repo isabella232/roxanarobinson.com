@@ -3,7 +3,8 @@ title: The Writer’s Hotel
 date: 2017-04-17 21:54
 link_to_original: https://www.facebook.com/TheWritersHotel/posts/667257483445275
 published: true
-categories: 
+categories:
+- news
 ---
 
 
