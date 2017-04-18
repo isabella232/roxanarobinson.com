@@ -2,7 +2,7 @@
 published: true
 allday: true
 venue: The Writers Hotel
-address: ''
+address: Various Locations
 city-state: New York, NY
 zip: ''
 website: http://www.writershotel.com/
