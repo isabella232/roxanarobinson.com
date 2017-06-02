@@ -10,13 +10,9 @@ isbn:
 isbn_digital:
   - 9781681370156
 isbn_kindle:
-  -
 meta_data:
-  -
 short_description:
-
 synopsis:
-
 books_category:
   - Fiction
 ---
