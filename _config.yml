@@ -36,10 +36,10 @@ production: true
 bust_css_cache: false
 #timezone: Etc/Zulu
 timezone: America/New_York
-compress_html:
-  ignore:
-    envs: [development]
-  profile: false
+# compress_html:
+#   ignore:
+#     envs: [development]
+#   profile: false
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap
