@@ -2,13 +2,6 @@
 title: Roxana Robinson
 description: "The official website of author Roxana Robinson, president of the Authors Guild"
 url: http://www.roxanarobinson.com
-author: []
-twitter:
-  username: budparr
-facebook:
-  app_id:
-  publisher:
-  admins:
 logo: /uploads/Robinson2_JoyceRavid_300x400.jpg
 sitename: Roxana Robinson
 primary_image: "/uploads/Robinson2_JoyceRavid_300x400.jpg"
@@ -41,7 +34,7 @@ timezone: America/New_York
 #     envs: [development]
 #   profile: false
 gems:
-  # - jekyll-seo-tag
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-menus
 plugins_dir:  ./_app/_plugins
