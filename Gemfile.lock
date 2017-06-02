@@ -198,7 +198,6 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-menus (~> 0.3.0)
-  jekyll-seo-tag
   jekyll-sitemap
 
 BUNDLED WITH

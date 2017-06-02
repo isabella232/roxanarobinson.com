@@ -41,7 +41,7 @@ timezone: America/New_York
 #     envs: [development]
 #   profile: false
 gems:
-  - jekyll-seo-tag
+  # - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-menus
 plugins_dir:  ./_app/_plugins
