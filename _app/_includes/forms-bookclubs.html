@@ -1,7 +1,9 @@
-<form accept-charset="UTF-8" name="book-club-contact" action="thank-you" role="form" netlify>
-
+<form accept-charset="UTF-8" netlify-honeypot="bot-field" data-netlify="true" name="book-club-contact" action="thank-you" role="form">
 <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
 <input type='hidden' name='redirect_to' value='/thank-you' />
+<p class="hidden">
+    <label>Don’t fill this out: <input name="bot-field"></label>
+  </p>
 
 <div class="row">
     <div class="large-6 columns">
@@ -35,3 +37,6 @@
 
 
 </form>
+<style>
+.hidden {display: none;}
+</style>
