@@ -5,6 +5,9 @@
 <form accept-charset="UTF-8" name="website-contact" action="thank-you" role="form" netlify>
 <input type="hidden" name="utf8" value="✓">
 <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+<p class="hidden">
+    <label>Don’t fill this out: <input name="bot-field"></label>
+  </p>
 <div class="row">
     <div class="large-6 columns">
       <label>Name</label>
@@ -39,3 +42,6 @@
 </form>
 <hr />
 </article>
+<style>
+.hidden {display: none;}
+</style>
