@@ -1,0 +1,68 @@
+---
+pages:
+- _landing_pages/news.html
+- _landing_pages/about-the-author.md
+- _landing_pages/home.html
+- _landing_pages/books.md
+- _landing_pages/writing.html
+- _landing_pages
+- _landing_pages/biography.md
+- _landing_pages/book-clubs.md
+- _landing_pages/contact.md
+- _landing_pages/events.html
+- _landing_pages/media.html
+- _landing_pages/thank-you.md
+hide_body: false
+fields:
+- name: title
+  default: About Roxana
+  label: Title
+  type: text
+  hidden: false
+- name: class
+  default: about-the-author
+  label: Class
+  type: text
+  hidden: false
+- name: published
+  default: true
+  label: Published
+  type: boolean
+  hidden: false
+- name: form
+  default: forms-contact.html
+  label: Form
+  type: text
+  hidden: false
+- name: layout
+  default: books
+  label: Layout
+  type: text
+  hidden: false
+- name: categories
+  default:
+  - books
+  label: Categories
+  type: list
+  hidden: false
+- name: event-name
+  default: Appearances
+  label: Event name
+  type: text
+  hidden: false
+- name: permalink
+  default: "/"
+  label: Permalink
+  type: text
+  hidden: false
+- name: description
+  default: The official website of author Roxana Robinson, president of the Authors
+    Guild
+  label: Description
+  type: text
+  hidden: false
+- name: featured_image_path
+  default: "/uploads/Robinson2_JoyceRavid_300x400.jpg"
+  label: Featured image path
+  type: file
+  hidden: false

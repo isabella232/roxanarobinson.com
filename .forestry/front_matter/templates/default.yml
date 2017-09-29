@@ -1,0 +1,8 @@
+---
+hide_body: false
+fields:
+- name: layout
+  default: page
+  label: Layout
+  type: text
+  hidden: false

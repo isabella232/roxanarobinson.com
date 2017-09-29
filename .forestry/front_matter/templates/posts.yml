@@ -1,0 +1,32 @@
+---
+pages:
+- _posts/2017-03-27-2017-pen-ne-literary-awards.md
+- _posts/2017-04-17-the-writer-s-hotel-1.md
+hide_body: false
+fields:
+- name: title
+  default: National Book Critics Circle nominates Roxana Robinson as finalist for
+    the Nona Balakian Citation for Excellence in Reviewing
+  label: Title
+  type: textarea
+  hidden: false
+- name: date
+  default: 2016-01-19 00:00:00 +0000
+  label: Date
+  type: datetime
+  hidden: false
+- name: categories
+  default: 
+  label: Categories
+  type: list
+  hidden: false
+- name: link_to_original
+  default: http://www.wsj.com/articles/how-google-stole-the-work-of-millions-of-authors-1454880410
+  label: Link to original
+  type: text
+  hidden: false
+- name: published
+  default: true
+  label: Published
+  type: boolean
+  hidden: false
