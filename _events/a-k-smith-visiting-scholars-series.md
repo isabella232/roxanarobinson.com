@@ -15,4 +15,4 @@ link_to_original: ''
 ---
 
 
-The readings in this series take place at 4.30 p.m. in the Smith House’s Reese Room. All readings are free and open to the public. A reception and book-signing will follow each event.
+All readings are free and open to the public. A reception and book-signing will follow each event.
