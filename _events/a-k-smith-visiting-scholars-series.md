@@ -2,7 +2,7 @@
 published: true
 allday: false
 venue: Trinity College
-address: ''
+address: Smith House’s Reese Room
 city-state: Hartford, CT
 zip: ''
 website: http://www.trincoll.edu/NewsEvents/NewsArticles/pages/AKSmithScheduleFall2017.aspx
