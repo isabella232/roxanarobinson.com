@@ -2,14 +2,9 @@
 title: Biography
 published: true
 class: about-the-author
-form: forms-contact.html
-layout: books
-categories: []
-event-name: Appearances
 #permalink: "/"
 description: The official website of author Roxana Robinson, president of the Authors
   Guild
-featured_image_path: "/uploads/Robinson2_JoyceRavid_300x400.jpg"
 ---
 
 
@@ -27,4 +22,4 @@ She reviews books for *The New York Times* and the *Washington Post*, and her wo
 
 Ms. Robinson is also a gardener and garden writer, and her essays in this field have appeared in *Horticulture*, *House and Garden*, *House Beautiful*, and *Fine Gardening*. For years, her garden was listed in the Garden Conservancy Open Days, and it has been written about in *The* *New York Times*, *House and Garden*, *Traditional Homes*, *The Atlantic*, *Gardens Illustrated*, and other publications.
 
-She was President of the Authors Guild from 2014-2017
+She was President of the Authors Guild from 2014-2017.
