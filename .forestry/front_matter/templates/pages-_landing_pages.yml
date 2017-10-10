@@ -1,12 +1,12 @@
 ---
 pages:
+- _landing_pages/biography.md
 - _landing_pages/about-the-author.md
 - _landing_pages/news.html
 - _landing_pages/home.html
 - _landing_pages/books.md
 - _landing_pages/writing.html
 - _landing_pages
-- _landing_pages/biography.md
 - _landing_pages/book-clubs.md
 - _landing_pages/contact.md
 - _landing_pages/events.html
