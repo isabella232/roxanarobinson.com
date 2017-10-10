@@ -24,7 +24,7 @@ sass:
 
 # dev options (true/false)
 # if site is in production, 'production: true'
-port: 4003
+#port: 4003
 production: true
 bust_css_cache: false
 #timezone: Etc/Zulu
@@ -33,7 +33,7 @@ timezone: America/New_York
 #   ignore:
 #     envs: [development]
 #   profile: false
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-menus
