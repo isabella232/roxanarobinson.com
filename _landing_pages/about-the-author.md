@@ -1,15 +1,11 @@
 ---
 title: About Roxana
 class: about-the-author
-published: false
+published: true
 form: forms-contact.html
-layout: books
-categories: []
-event-name: Appearances
-permalink: "/"
+#permalink: "/about-the-author/"
 description: The official website of author Roxana Robinson, president of the Authors
   Guild
-featured_image_path: "/uploads/Robinson2_JoyceRavid_300x400.jpg"
 ---
 
 
