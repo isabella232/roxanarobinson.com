@@ -27,18 +27,26 @@ description: The official website of author Roxana Robinson, president of the Au
 
 <hr>
 
-[](/uploads/sparta_robinson_275x400.jpg)
-[](/uploads/sparta_robinson_275x400.jpg)[](/uploads/sparta_robinson_275x400.jpg)
 
-[](/uploads/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop.jpg "from the Sparta Jacket Cover Roxana Robinson")
-[](/uploads/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop.jpg "from the Sparta Jacket Cover Roxana Robinson")[](/uploads/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop.jpg "from the Sparta Jacket Cover Roxana Robinson")
 
-[](/uploads/Robinson_JoyceRavid.jpg)
-[](/uploads/Robinson_JoyceRavid.jpg)[](/uploads/Robinson_JoyceRavid.jpg)
 
-[](/uploads/Robinson2_JoyceRavid.jpg)
-[](/uploads/Robinson2_JoyceRavid.jpg)[](/uploads/Robinson2_JoyceRavid.jpg)
 
+
+[![](/uploads/sparta_robinson_275x400.jpg)](/uploads/sparta_robinson_275x400.jpg)[![](/uploads/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop.jpg)](/uploads/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop.jpg)[![](/uploads/Robinson_JoyceRavid.jpg)](/uploads/Robinson_JoyceRavid.jpg)
+
+
+
+
+<style>
+.about-the-author p a img {
+  flex-basis:32%;
+  margin-right: 1%;
+  max-width: 200px;
+  flex-wrap: wrap;
+  display: flex;
+
+}
+</style>
 <div style="width:100%;clear:both;margin:2em 0;">&nbsp;</div>
 
 ### Sources
