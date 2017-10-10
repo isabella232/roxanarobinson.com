@@ -9,7 +9,7 @@ description: The official website of author Roxana Robinson, president of the Au
 ---
 
 
-![Roxana](/uploads/robinson1_si-303x335.jpg) Roxana Robinson is the author of nine books: five novels, including *Cost*; three collections of short stories; and the biography *Georgia O’Keeffe: A Life*. Her work has appeared in *The New Yorker*, *The Atlantic*, *Harper’s Magazine*, *The New York Times*, *The Washington Post*, *BookForum*, *Best American Short Stories*, *Tin House* and elsewhere. She teaches in the Hunter MFA Program and divides her time between New York, Connecticut, and Maine. She has received fellowships from the NEA and the Guggenheim Foundation and is the President of the Authors Guild. She was President of the Authors Guild from 2014-2017
+![Roxana](/uploads/robinson1_si-303x335.jpg) Roxana Robinson is the author of nine books: five novels, including *Cost*; three collections of short stories; and the biography *Georgia O’Keeffe: A Life*. Her work has appeared in *The New Yorker*, *The Atlantic*, *Harper’s Magazine*, *The New York Times*, *The Washington Post*, *BookForum*, *Best American Short Stories*, *Tin House* and elsewhere. She teaches in the Hunter MFA Program and divides her time between New York, Connecticut, and Maine. She has received fellowships from the NEA and the Guggenheim Foundation. She was President of the Authors Guild from 2014-2017
 
 [Full Bio](/biography/)
 
