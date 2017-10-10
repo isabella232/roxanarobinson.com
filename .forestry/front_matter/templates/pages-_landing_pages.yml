@@ -1,7 +1,7 @@
 ---
 pages:
-- _landing_pages/news.html
 - _landing_pages/about-the-author.md
+- _landing_pages/news.html
 - _landing_pages/home.html
 - _landing_pages/books.md
 - _landing_pages/writing.html
