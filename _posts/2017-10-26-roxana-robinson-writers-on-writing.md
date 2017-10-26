@@ -6,4 +6,6 @@ published: true
 categories:
 - news
 ---
-"Empathy is the true engine of writing; without it, conflict is empty."
+**What is the most important thing you’ve learned about writing?**
+
+ The need for empathy. Empathy enlarges the writer’s understanding, engages the reader, and widens the story.
