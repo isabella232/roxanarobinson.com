@@ -8,4 +8,4 @@ categories:
 ---
 **What is the most important thing you’ve learned about writing?**
 
- The need for empathy. Empathy enlarges the writer’s understanding, engages the reader, and widens the story.
+ The need for empathy. Empathy enlarges the writer’s understanding, engages the reader, and widens the story…
