@@ -1,4 +1,12 @@
 ---
+- date: '2017-11-05T00:00:00-05:00'
+  category:
+  - Essays
+  publication: The New Yorker
+  title: "Teaching “Madam Bovary”"
+  link_to_original: https://www.newyorker.com/culture/culture-desk/teaching-madame-bovary
+  related_book: ''
+  content: ''
 - date: '2017-02-21T00:00:00-05:00'
   category:
   - Essays
