@@ -1,5 +1,12 @@
 ---
 - category:
+  - Reading
+  date: '2017-12-29T00:00:00-04:00'
+  source: Selected Shorts
+  description: In Naples
+  link_to_original: http://www.selectedshorts.org/2017/12/i-do-i-do-with-guest-host-jane-curtin/
+  related_book: ''
+- category:
   - Interview
   date: '2017-03-28T00:00:00-04:00'
   source: Writerly
@@ -192,7 +199,7 @@
   date: '2012-12-24T00:00:00+00:00'
   description: Christmas Commentary, NPR, <em>All Things Considered</em>, WSHU
   link_to_original: http://wshu.org/news/story.php?ID=10666
-  related_book: 
+  related_book:
   source: All Things Considered
 - category:
   - Interview
@@ -200,7 +207,7 @@
   description: In a Brooklyn Cafe, It’s Write! Camera! Action! Jennifer Schuessler,
     <em>The New York Times</em>
   link_to_original: http://artsbeat.blogs.nytimes.com/2012/11/19/in-a-brooklyn-cafe-its-write-camera-action/?ref=roxanarobinson&_r=0
-  related_book: 
+  related_book:
   source: The New York Times
 - category:
   - Interview
@@ -215,21 +222,21 @@
   description: '"Edith Wharton on Mount Desert Island," talk at College of the Atlantic,
     Bar Harbor, Maine'
   link_to_original: http://www.youtube.com/watch?v=UHbb-POhj2A
-  related_book: 
+  related_book:
   source: College of the Atlantic
 - category:
   - Interview
   date: '2012-03-27T00:00:00+00:00'
   description: "<em>The Leonard Lopate Show</em>, Honoring Edith Wharton, NPR, WNYC"
   link_to_original: http://www.wnyc.org/shows/lopate/2012/mar/27/celebrating-edith-wharton/
-  related_book: 
+  related_book:
   source: The Leonard Lopate Show
 - category:
   - Interview
   date: '2012-01-24T00:00:00+00:00'
   description: Edith Wharton, NPR, WSHU
   link_to_original: http://wshu.org/news/story.php?ID=9433
-  related_book: 
+  related_book:
   source: NPR
 - category:
   - Interview
@@ -237,21 +244,21 @@
   description: Roxana Robinson on Edith Wharton’s House of Mirth, NPR, on the WNYC
     series, American Icons,
   link_to_original: http://www.studio360.org/2011/nov/11/american-icons/
-  related_book: 
+  related_book:
   source: American Icons
 - category:
   - Interview
   date: '2011-11-02T00:00:00+00:00'
   description: '"The Mountain Lion," <em>All Things Considered</em>, NPR, WSHU'
   link_to_original: http://wshu.org/news/story.php?ID=9232
-  related_book: 
+  related_book:
   source: All Things Considered
 - category:
   - Interview
   date: '2011-09-07T00:00:00+00:00'
   description: A Reflection on a 9/11 Loss, NPR, WSHU
   link_to_original: http://wshu.org/news/story.php?ID=9085
-  related_book: 
+  related_book:
   source: NPR
 - category:
   - Interview
@@ -259,21 +266,21 @@
   description: Reconsidering Uncle Tom’s Cabin on the 200th birthday of Harriet Beecher
     Stowe, NPR, WSHU
   link_to_original: http://wshu.org/news/story.php?ID=8841
-  related_book: 
+  related_book:
   source: NPR
 - category:
   - Interview
   date: '2011-01-14T00:00:00+00:00'
   description: '"Up Front: Roxana Robinson," The Editors, <em>The New York Times</em>'
   link_to_original: http://www.nytimes.com/2011/01/16/books/review/Upfront-t.html?_r=0&adxnnl=1&ref=roxanarobinson&adxnnlx=1371905411-hjviPQqYARPaSCshDLdzaQ
-  related_book: 
+  related_book:
   source: The New York Times
 - category:
   - Interview
   date: '2010-11-22T00:00:00+00:00'
   description: Poets and Writers 40th Anniversary
   link_to_original: http://www.pw.org/content/roxana_robinson?cmnt_all=1
-  related_book: 
+  related_book:
   source: Poets and Writers
 - category:
   - Interview
@@ -281,7 +288,7 @@
   description: 'Studio 360, Roxana Robinson on American Idol: Edith Wharton, The House
     of Mirth'
   link_to_original: http://www.studio360.org/people/roxana-robinson/
-  related_book: 
+  related_book:
   source: Studio 360
 - category:
   - Interview
@@ -289,7 +296,7 @@
   description: Roxana Robinson—coffee and conversation with Karen Waldron, College
     of the Atlantic, Bar Harbor, Maine
   link_to_original: http://www.youtube.com/watch?v=1od_XUa0Xdk
-  related_book: 
+  related_book:
   source: College of the Atlantic
 - category:
   - Interview
@@ -319,8 +326,8 @@
   - Interview
   date: '2008-08-27T00:00:00+00:00'
   description: Maine Public Broadcasting Network, Maine Things Considered
-  link_to_original: 
-  related_book: 
+  link_to_original:
+  related_book:
   source: Maine Things Considered
 - category:
   - Interview
@@ -340,8 +347,8 @@
   - Interview
   date: '2008-06-25T00:00:00+00:00'
   description: "<em>On Point</em> with Tom Ashbrook, WBUR"
-  link_to_original: 
-  related_book: 
+  link_to_original:
+  related_book:
   source: WBUR
 - category:
   - Interview
@@ -356,6 +363,6 @@
   date: '2007-01-24T00:00:00+00:00'
   description: Reading by novelist Roxana Robinson at the College of the Atlantic,
     Bar Harbor, Maine
-  link_to_original: 
-  related_book: 
+  link_to_original:
+  related_book:
   source: College of the Atlantic
