@@ -1,4 +1,20 @@
 ---
+- date: '2018-07-05T00:00:00-05:00'
+  category:
+    - Book Reviews
+  publication: The New York Times
+  title: "Christie Watson Is a Lovely Writer — and, Judging From This Book, a Gifted Nurse"
+  link_to_original: "https://www.nytimes.com/2018/06/27/books/review/christie-watson-language-kindness.html"
+  related_book: ''
+  content: ''
+- date: '2018-07-05T00:00:00-05:00'
+  category:
+  - Essays
+  publication: The New Yorker
+  title: "Breathing"
+  link_to_original: https://www.newyorker.com/culture/personal-history/breathing
+  related_book: ''
+  content: ''
 - date: '2017-12-21T00:00:00-05:00'
   category:
   - Essays
