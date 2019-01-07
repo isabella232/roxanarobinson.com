@@ -1,4 +1,12 @@
 ---
+- date: '2019-01-04T00:00:00-05:00'
+  category:
+  - Essays
+  publication: The Washington Post
+  title: "Returned to the wild: A 3,500-acre estate outside London is ruled by nature"
+  link_to_original: https://www.washingtonpost.com/lifestyle/travel/returned-to-the-wild-a-3500-acre-estate-outside-london-is-ruled-by-nature/2019/01/03/5f88bb74-0241-11e9-b6a9-0aa5c2fcc9e4_story.html
+  related_book: ''
+  content: ''
 - date: '2018-07-05T00:00:00-05:00'
   category:
     - Book Reviews
