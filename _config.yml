@@ -6,7 +6,6 @@ logo: /uploads/Robinson2_JoyceRavid_300x400.jpg
 sitename: Roxana Robinson
 primary_image: "/uploads/Robinson2_JoyceRavid_300x400.jpg"
 future: true   # This will tell jekyll to not display future posts
-
 categories:
   - event
   - news
@@ -16,7 +15,7 @@ categories:
 
 permalink:  pretty
 version: 3.0.3
-exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'README.md']
+exclude: ['vendor','readme.md','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'README.md']
 include: ['_landing_pages']
 sass:
   style: :compressed
