@@ -6,4 +6,4 @@ published: true
 categories:
 - news
 ---
-Each year Poets & Writers invites writers, publishing professionals, and others in the literary community to submit nominations for these awards. Novelist Susan Isaacs, chairman of Poets & Writers’ Board of Directors, heads the committee charged with selecting the honorees. Of the 2019 honorees, Isaacs said: “This year’s award recipients are individuals who have done great things for the literary community. Each of them has a commitment to telling essential stories, to making sure a range of voices is heard, and to building up the literary community. I cannot think of a time when such efforts were more important than they are now, so we are delighted to honor them for their good work.”
+Poets & Writers today announced that the 2019 Barnes & Noble Writers for Writers Awards will be given to Reginald Dwayne Betts, Neil Gaiman, and Roxana Robinson. The Writers for Writers Award was established by Poets & Writers in 1996 to recognize authors who have given generously to other writers or to the broader literary community.
