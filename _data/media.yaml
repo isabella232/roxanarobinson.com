@@ -1,5 +1,20 @@
 ---
 - category:
+  - Interview
+  date: '2018-07-01T00:00:00-04:00'
+  source: Poets & Writers
+  description: Interview by Michael Bourne
+  link_to_original: https://www.pw.org/content/julyaugust_2018
+  related_book: ''
+
+- category:
+  - Interview
+  date: '2017-03-28T00:00:00-04:00'
+  source: Writerly
+  description: How the Authors Guild Helps Working Writers
+  link_to_original: http://writerly.libsyn.com/how-the-authors-guild-helps-working-writers?tdest_id=476605
+  related_book: ''
+- category:
   - Reading
   date: '2017-12-29T00:00:00-04:00'
   source: Selected Shorts
