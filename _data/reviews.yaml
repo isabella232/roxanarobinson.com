@@ -1,4 +1,9 @@
 ---
+- book: dawsons-fall
+  source: "*Kirkus*, Starred Review"
+  quote: "Robinson uses lynchings, duels, and sexual assaults to shed light on populism and toxic masculinity…A stylish and contemplative…novel, considerate of facts but not burdened by them."
+  link_to_original: http://www.openlettersmonthly.com/sparta-iraq/
+  featured: true
 - book: loving
   source: Dorian Stuber, Numero Cinq
   quote: "This new edition...is cause for celebration...[Green] wriggles free of categories, the true strangeness of his prose not always evident until we slow down to see it has been hiding in plain sight."
