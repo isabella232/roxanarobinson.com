@@ -1,6 +1,6 @@
 ---
 title: "Reading Myself Aloud"
-date: 2019-04-16 00:00:00 +0000
+date: 2019-04-16 01:00:00 +0000
 link_to_original: https://www.newyorker.com/books/page-turner/reading-myself-aloud
 published: true
 categories:
