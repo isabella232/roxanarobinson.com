@@ -1,0 +1,9 @@
+[submodule "components/layout_module-base"]
+	path = components/layout_module-base
+	url = https://github.com/theNewDynamic/hugo-layout_module-base-2019.git
+[submodule "components/layout_module-events"]
+	path = components/layout_module-events
+	url = https://github.com/theNewDynamic/hugo-layout_module-events.git
+[submodule "components/layout_module-books"]
+	path = components/layout_module-books
+	url = https://github.com/theNewDynamic/hugo-layout_module-books.git

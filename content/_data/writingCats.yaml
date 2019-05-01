@@ -1,0 +1,17 @@
+- catName: essays
+  name: Essays
+
+- catName: book-reviews
+  name: Book Reviews
+
+- catName: anthologies
+  name: "Anthologies &amp; Collections"
+
+- catName: travel
+  name: "Travel"
+
+- catName: short-stories
+  name: "Short Stories"
+
+- catName: art-history
+  name: "Art History"
