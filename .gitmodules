@@ -7,3 +7,9 @@
 [submodule "components/layout_module-books"]
 	path = components/layout_module-books
 	url = https://github.com/theNewDynamic/hugo-layout_module-books.git
+[submodule "components/seo"]
+	path = components/seo
+	url = https://github.com/theNewDynamic/hugo-component-tnd-seo.git
+[submodule "components/events"]
+	path = components/events
+	url = https://github.com/theNewDynamic/hugo-layout_module-events.git
