@@ -1,8 +1,0 @@
-{% assign news = site.posts | where: 'categories', 'news' %}
-<div class="row">
-	<div class="column-wrapper">
-	{% for item in news | limit:{{include:limit}} | sort: 'date' | reverse %}
-			{% include snippets/news-list-formatting.html %}
-	{% endfor %}
-	</div>
-</div>
