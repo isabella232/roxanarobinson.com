@@ -1,7 +1,7 @@
 // To use https://github.com/KyleAMathews/typefaces
-//require("typeface-vesper-libre")
+require("typeface-old-standard-tt")
 
-import "./css/styles.css";
+// import "./css/styles.css";
 
 import "./js/polyfills.js"; //MUST GO AT TOP
 import "./js/lazysizes.js"
