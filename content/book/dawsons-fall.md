@@ -1,24 +1,26 @@
 ---
 title: Dawson’s Fall
-subtitle: ""
+subtitle:
 date: 2019-05-14 00:00:00
-publisher:
-- Sarah Crichton Books
-isbn:
-- 9780374135218
-cover_image: "/uploads/9780374135218.jpg"
-isbn_digital:
-- 9780374719753
-isbn_kindle: []
-meta_data: []
-short_description:
-- A cinematic Reconstruction-era drama of violence and fraught moral reckoning.
+editions:
+- binding: Hardcover
+  isbn: 9780374135218
+  date: 2019-05-14 05:00:00 +0000
+  description: ''
+  cover_image: "/uploads/9780374135218.jpg"
+  publisher: Sarah Crichton Books
+- binding: ebook
+  isbn: 9780374719753
+  date: 
+  description: ''
+  cover_image: 
+  publisher: 
+description: A cinematic Reconstruction-era drama of violence and fraught moral reckoning.
 synopsis:
 - |
   In Dawson’s Fall, a novel based on the lives of Roxana Robinson’s great-grandparents, we see America at its most fragile, fraught, and malleable. Set in 1889, in Charleston, South Carolina, Robinson’s tale weaves her family’s journal entries and letters with a novelist’s narrative grace, and spans the life of her tragic hero, Frank Dawson, as he attempts to navigate the country’s new political, social, and moral landscape.
 categories:
 - Fiction
-slug: dawsons-fall
 ---
 In Dawson’s Fall, a novel based on the lives of Roxana Robinson’s great-grandparents, we see America at its most fragile, fraught, and malleable. Set in 1889, in Charleston, South Carolina, Robinson’s tale weaves her family’s journal entries and letters with a novelist’s narrative grace, and spans the life of her tragic hero, Frank Dawson, as he attempts to navigate the country’s new political, social, and moral landscape.
 

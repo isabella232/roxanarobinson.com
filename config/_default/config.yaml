@@ -7,9 +7,11 @@ googleAnalytics: ''
 languageCode: en-us
 themesDir: components
 theme:
-  - layout_module-base
+  - theme-library
   - layout_module-books
-  - layout_module-events
+  - events
+  - layout_module-base  
+
 preserveTaxonomyNames: true
 disableAliases: true
 blackfriday:

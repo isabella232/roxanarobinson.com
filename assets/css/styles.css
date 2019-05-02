@@ -4,17 +4,3 @@
 
 @import "tailwindcss/utilities";
 
-.bud {
-	color: red;
-}
-
-.test {
-	@apply border;
-}
-
-/* purgecss ignore */
-
-.hidethis {
-	color: yellow;
-}
-
