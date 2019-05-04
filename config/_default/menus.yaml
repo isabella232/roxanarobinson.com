@@ -17,7 +17,7 @@ main:
     weight: 30
   - identifier: events
     name: Appearances
-    url: /events/
+    url: /event/
     weight: 40
   - identifier: about-the-author
     name: Bio
