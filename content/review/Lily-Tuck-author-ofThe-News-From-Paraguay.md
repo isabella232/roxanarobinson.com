@@ -1,5 +1,5 @@
 ---
-title: 'Review'
+title: 'Lily Tuck on Cost'
 link_to_original:
 book: /book/cost.md
 attribution: Lily Tuck, author of *The News From Paraguay*
