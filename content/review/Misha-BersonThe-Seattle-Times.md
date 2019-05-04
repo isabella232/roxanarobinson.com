@@ -5,4 +5,4 @@ book: book/sparta.md
 attribution: Misha Berson, *The Seattle Times*
 
 ---
-"[I]ntricately observed portrait… unusual and individualized….. the effect is cumulative and, ultimately, shattering."
+[I]ntricately observed portrait… unusual and individualized….. the effect is cumulative and, ultimately, shattering.

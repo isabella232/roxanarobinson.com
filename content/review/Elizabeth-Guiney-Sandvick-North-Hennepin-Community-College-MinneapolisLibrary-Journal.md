@@ -6,4 +6,4 @@ attribution: Elizabeth Guiney Sandvick, North Hennepin Community College, Minnea
   Journal*
 
 ---
-“Dramatic, fast-paced, boasting both engaging characters and an optimistic resolution of its conflict, this well-written novel will make good summer reading."
+Dramatic, fast-paced, boasting both engaging characters and an optimistic resolution of its conflict, this well-written novel will make good summer reading.
