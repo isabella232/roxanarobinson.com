@@ -17,6 +17,10 @@ sections:
   label: Events
   create: all
   match: "**/*"
+- type: document
+  path: data/writing.yaml
+  label: Writing
+  match: "**/*"
 - type: heading
   label: Books
 - type: directory
