@@ -13,10 +13,13 @@ sections:
   templates:
   - news
 - type: directory
-  path: content/events
+  path: content/event
   label: Events
-  create: all
+  create: documents
   match: "**/*"
+  exclude: _index.md
+  templates:
+  - event
 - type: document
   path: data/writing.yaml
   label: Writing
