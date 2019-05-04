@@ -69,3 +69,5 @@ fields:
   label: Featured Image
   description: Optional (may not be in use)
   hidden: true
+pages:
+- content/book/a-glimpse-of-scarlet.md
