@@ -5,6 +5,16 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/news
+  label: News
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - news
+- type: heading
+  label: Book
+- type: directory
   path: content/book
   label: Books
   create: documents
@@ -21,20 +31,17 @@ sections:
   templates:
   - review
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/news
-  label: News
-  create: all
-  match: "**/*"
-- type: directory
   path: content/book-extras
   label: Book extras
   create: all
   match: "**/*"
+- type: heading
+  label: About
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
 - type: directory
   path: content/events
   label: Events
