@@ -8,7 +8,7 @@ zip: 10010
 website: https://www.eventbrite.com/e/wnba-centennial-celebration-tickets-37438057237
 layout: event
 title: WNBA Centennial Celebration
-date: 2017-10-28 18:00:52 -0400
+date: 2019-10-28 18:00:52 -0400
 categories:
 - event
 link_to_original: ''
