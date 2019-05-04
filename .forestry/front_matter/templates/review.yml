@@ -31,5 +31,3 @@ fields:
   label: weight
   template: partial-weight
   hidden: true
-pages:
-- content/event/test-event.md
