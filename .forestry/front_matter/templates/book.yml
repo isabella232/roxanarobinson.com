@@ -15,6 +15,18 @@ fields:
   name: date
   label: date
   template: partial-date
+- name: genre
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: simple
+    options:
+    - Fiction
+    - Nonfiction
+  label: Genre
 - type: field_group_list
   name: editions
   label: Editions
@@ -70,5 +82,5 @@ fields:
   description: Optional (may not be in use)
   hidden: true
 pages:
-- content/book/a-perfect-stranger-and-other-stories.md
 - content/book/a-glimpse-of-scarlet.md
+- content/book/a-perfect-stranger-and-other-stories.md
