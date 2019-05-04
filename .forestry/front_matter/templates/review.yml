@@ -30,3 +30,4 @@ fields:
   name: weight
   label: weight
   template: partial-weight
+  hidden: true
