@@ -13,6 +13,14 @@ sections:
   templates:
   - book
 - type: directory
+  path: content/review
+  label: Reviews
+  create: documents
+  match: "**/*"
+  exclude: index.md
+  templates:
+  - review
+- type: directory
   path: content
   label: Pages
   create: all
@@ -30,11 +38,6 @@ sections:
 - type: directory
   path: content/events
   label: Events
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/review
-  label: Review
   create: all
   match: "**/*"
 upload_dir: static/uploads
