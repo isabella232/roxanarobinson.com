@@ -20,7 +20,6 @@ sections:
 - type: document
   path: data/writing.yaml
   label: Writing
-  match: "**/*"
 - type: heading
   label: Books
 - type: directory
