@@ -17,7 +17,5 @@ editions:
   description: ''
   cover_image: 
   publisher: 
-synopsis:
-  - 'In Roxana Robinson’s lucid and elegant prose, her characters’ inner worlds open up to us, revealing private emotional cores that are familiar in their needs, their secrets, and their longings. These people tell us the truth–not only about themselves, their relationships, and their lives, but about ourselves as well. <em>A Perfect Stranger</em> powerfully and affectingly examines the complex, intricate network of experiences that binds us to one another. These stories are tender, raw, lovely, fine–and they reaffirm Roxana Robinson’s place at the forefront of modern literature.'
 ---
 In Roxana Robinson’s lucid and elegant prose, her characters’ inner worlds open up to us, revealing private emotional cores that are familiar in their needs, their secrets, and their longings. These people tell us the truth–not only about themselves, their relationships, and their lives, but about ourselves as well. *A Perfect Stranger* powerfully and affectingly examines the complex, intricate network of experiences that binds us to one another. These stories are tender, raw, lovely, fine–and they reaffirm Roxana Robinson’s place at the forefront of modern literature.
