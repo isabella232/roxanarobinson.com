@@ -5,7 +5,7 @@ date: 2016-10-18 00:00:00
 genre:
   - Fiction
 editions:
-- binding: Hardcover
+- binding: hardcover
   isbn: 9781681370149
   date: 2016-10-18 05:00:00 +0000
   description: ''

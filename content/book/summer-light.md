@@ -4,7 +4,7 @@ subtitle:
 date: 1987-06-25 00:00:00
 description: '*Summer Light* is the story of a young woman hovering between careers, between marriages, between lives—and of the summer that throws her off balance and onto her feet.'
 editions:
-- binding: Paperback
+- binding: paperback
   isbn: 9780874517385
   date: 1987-06-25 05:00:00 +0000  
   cover_image: /uploads/summer_light.jpg

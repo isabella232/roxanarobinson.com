@@ -6,7 +6,7 @@ genre:
   - Fiction
 description: "Isabel Green's second marriage proves to be more difficult than she anticipated, complicated by family secrets and troubling echoes of her first."
 editions:
-- binding: Paperback
+- binding: paperback
   isbn: 9780812967340
   date: 2003-05-13 05:00:00 +0000  
   cover_image: /uploads/9780812967340-220x339.jpg

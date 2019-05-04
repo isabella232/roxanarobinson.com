@@ -7,7 +7,7 @@ description: 'Going from peace to war can make a young man into a warrior. Going
 genre:
 - Fiction
 editions:
-- binding: Hardcover
+- binding: hardcover
   isbn: 9780374267704
   date: 2013-06-04 05:00:00 +0000  
   cover_image: "/uploads/9780374267704_p0_v1_s600-220x330.jpg"

@@ -8,7 +8,7 @@ description: 'A decade has passed since boots first hit the ground in Iraq and A
   the changing face of combat and reflect the haunting realities and truths only fiction
   can reveal.'
 editions:
-- binding: Hardcover
+- binding: hardcover
   isbn: 9781681773070
   date: 2017-01-30 05:00:00 +0000
   description: 

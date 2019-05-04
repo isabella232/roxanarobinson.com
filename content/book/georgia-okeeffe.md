@@ -6,7 +6,7 @@ genre:
   - Biography
 description: "*The New York Times Book Review* named this richly detailed and moving biography of the 20th century's leading woman artist a Notable Book of the Year."
 editions:
-- binding: Paperback
+- binding: paperback
   isbn: 9780874519068
   date: 1989-10-01 05:00:00 +0000  
   cover_image: /uploads/9780874519068_p0_v1_s600.jpg

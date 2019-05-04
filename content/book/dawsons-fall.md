@@ -3,7 +3,7 @@ title: Dawson’s Fall
 subtitle:
 date: 2019-05-14 00:00:00
 editions:
-- binding: Hardcover
+- binding: hardcover
   isbn: 9780374135218
   date: 2019-05-14 05:00:00 +0000
   description: 

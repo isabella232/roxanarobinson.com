@@ -6,7 +6,7 @@ genre:
   - Fiction
 description: 'Robinson delivers a beautifully moving and compassionate account of a marriage in peril, proving once more that class and privilege provide no protection from the passion of opposing desires.'
 editions:
-- binding: Paperback
+- binding: paperback
   isbn: 9780684864365
   date: 1999-09-16 05:00:00 +0000
   description: 

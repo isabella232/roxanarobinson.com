@@ -7,7 +7,7 @@ genre:
 description: 'In the tradition of John Cheever, Roxana Robinson charts the hidden realities beneath
   the serene and gleaming surface of old-guard WASP family life.'
 editions:
-- binding: Paperback
+- binding: paperback
   isbn: 9780060981167
   date: 1992-06-01 05:00:00 +0000  
   cover_image: "/uploads/glimpse_scarlet_lg.jpg"

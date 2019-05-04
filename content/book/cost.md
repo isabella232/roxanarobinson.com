@@ -5,7 +5,7 @@ date: 2008-06-10 00:00:00
 genre:
   - Fiction
 editions:
-- binding: Hardcover
+- binding: hardcover
   isbn: 9780374271879
   date: 2008-06-10 05:00:00 +0000
   description: 
