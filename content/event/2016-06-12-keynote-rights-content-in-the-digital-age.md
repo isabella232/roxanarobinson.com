@@ -4,11 +4,12 @@ published: true
 
 date: 2016-06-13T00:00:00.000Z
 allday: false
-venue: 'Grand Hall, NYU Kimmel Center'
-address: 60 Washington Sq. South
-city-state: 'New York, NY'
-zip:
-website: 'http://publishingperspectives.com/events/rights-content-digital-age/#.V3Z3sVccV-U'
+venue: 
+  name: 'Grand Hall, NYU Kimmel Center'
+  address: 60 Washington Sq. South
+  city-state: 'New York, NY'
+  zip:
+  link: 'http://publishingperspectives.com/events/rights-content-digital-age/#.V3Z3sVccV-U'
 ---
 
 

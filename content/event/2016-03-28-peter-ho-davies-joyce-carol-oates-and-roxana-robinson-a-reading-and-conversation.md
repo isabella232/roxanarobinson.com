@@ -4,11 +4,12 @@ published: true
 
 date: 2016-04-02T20:30:00.000Z
 allday: false
-venue: 'Concourse Hall, LA Convention Center, Exhibit Hall Level One'
-address:
-city-state:
-zip:
-website: 'https://www.awpwriter.org/awp_conference/event_detail/7798'
+venue: 
+  name: 'Concourse Hall, LA Convention Center, Exhibit Hall Level One'
+  address:
+  city-state:
+  zip:
+  link: 'https://www.awpwriter.org/awp_conference/event_detail/7798'
 ---
 
 

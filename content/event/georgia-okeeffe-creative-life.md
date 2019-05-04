@@ -1,11 +1,12 @@
 ---
 published: true
 allday: false
-venue: "New York Botanical Garden"
-address: 2900 Southern Boulevard 
-city-state: Bronx, NY
-zip: "10458"
-website: https://www.nybg.org/event/georgia-okeeffe-visions-hawaii/classes-talks/georgia-okeeffe-creative-life/
+venue: 
+  name: "New York Botanical Garden"
+  address: 2900 Southern Boulevard 
+  city-state: Bronx, NY
+  zip: "10458"
+  link: https://www.nybg.org/event/georgia-okeeffe-visions-hawaii/classes-talks/georgia-okeeffe-creative-life/
 layout: event
 title: "GEORGIA O’KEEFFE: A CREATIVE LIFE"
 date: 2018-06-13 18:30:00 -0400

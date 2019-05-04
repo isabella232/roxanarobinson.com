@@ -1,11 +1,12 @@
 ---
 published: true
 allday: false
-venue: John F. Kennedy Library
-address: ''
-city-state: Columbia Point Boston, MA
-zip: '02125'
-website: http://www.pen-ne.org/event-details/2017/4/2/2017-penne-literary-awards
+venue: 
+  name: John F. Kennedy Library
+  address: ''
+  city-state: Columbia Point Boston, MA
+  zip: '02125'
+  link: http://www.pen-ne.org/event-details/2017/4/2/2017-penne-literary-awards
 layout: event
 title: 2017 PEN+NE Literary Awards
 date: 2017-04-02 14:00

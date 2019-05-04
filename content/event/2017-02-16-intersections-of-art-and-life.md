@@ -4,11 +4,12 @@ date: '2017-02-16 19:00:00'
 published: true
 link_to_original: 
 allday: false
-venue: The Center for Fiction
-address: 17 E. 47th St
-city-state: New York, NY
-zip: 10017
-website: http://centerforfiction.org/calendar/intersections-of-art-and-life
+venue: 
+  name: The Center for Fiction
+  address: 17 E. 47th St
+  city-state: New York, NY
+  zip: 10017
+  link: http://centerforfiction.org/calendar/intersections-of-art-and-life
 ---
 
 

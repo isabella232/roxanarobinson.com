@@ -5,11 +5,12 @@ published: true
 date: 2017-01-25 18:00:00
 link_to_original:
 allday: false
-venue: Center for Fiction
-address: 17 E. 47th St
-city-state: 'New York, NY'
-zip: '10017'
-website: 'http://www.centerforfiction.org/for-readers/join-reading-groups/novelists-read-knausgaard/'
+venue: 
+  name: Center for Fiction
+  address: 17 E. 47th St
+  city-state: 'New York, NY'
+  zip: '10017'
+  link: 'http://www.centerforfiction.org/for-readers/join-reading-groups/novelists-read-knausgaard/'
 ---
 
 

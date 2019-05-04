@@ -1,11 +1,12 @@
 ---
 published: true
 allday: false
-venue: Pen+Brush
-address: 29 East 22nd Street
-city-state: New York, NY
-zip: 10010
-website: https://www.eventbrite.com/e/wnba-centennial-celebration-tickets-37438057237
+venue: 
+  name: Pen+Brush
+  address: 29 East 22nd Street
+  city-state: New York, NY
+  zip: 10010
+  link: https://www.eventbrite.com/e/wnba-centennial-celebration-tickets-37438057237
 layout: event
 title: WNBA Centennial Celebration
 date: 2019-10-28 18:00:52 -0400

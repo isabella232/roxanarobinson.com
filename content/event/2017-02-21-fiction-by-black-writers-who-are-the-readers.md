@@ -4,11 +4,12 @@ date: '2017-02-21 18:30:00'
 published: true
 link_to_original: https://www.eventbrite.com/e/fiction-by-black-writers-who-are-the-readers-tickets-29534291862
 allday: false
-venue: Brooklyn Historical Society
-address: 128 Pierrepont St
-city-state: Brooklyn, NY
-zip: 11201
-website: https://www.eventbrite.com/e/fiction-by-black-writers-who-are-the-readers-tickets-29534291862
+venue: 
+  name: Brooklyn Historical Society
+  address: 128 Pierrepont St
+  city-state: Brooklyn, NY
+  zip: 11201
+  link: https://www.eventbrite.com/e/fiction-by-black-writers-who-are-the-readers-tickets-29534291862
 ---
 
 

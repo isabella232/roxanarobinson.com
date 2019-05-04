@@ -5,11 +5,12 @@ published: true
 date: 2016-09-15T19:00:00.000Z
 link_to_original:
 allday: false
-venue: 'Humboldt & Jackson'
-address: 434 Humboldt Street
-city-state: 'Brooklyn, NY'
-zip: '11211'
-website: 'http://www.brooklynbookfestival.org/2016/bookend-events'
+venue: 
+  name: 'Humboldt & Jackson'
+  address: 434 Humboldt Street
+  city-state: 'Brooklyn, NY'
+  zip: '11211'
+  link: 'http://www.brooklynbookfestival.org/2016/bookend-events'
 ---
 
 

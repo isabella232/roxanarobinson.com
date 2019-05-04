@@ -4,11 +4,12 @@ published: true
 
 date: 2016-04-02T12:00:00.000Z
 allday: false
-venue: 'Diamond Salon 6&7, JW Marriott LA, 3rd F'
-address:
-city-state:
-zip:
-website: 'https://www.awpwriter.org/awp_conference/event_detail/5073'
+venue: 
+  name: 'Diamond Salon 6&7, JW Marriott LA, 3rd F'
+  address:
+  city-state:
+  zip:
+  link: 'https://www.awpwriter.org/awp_conference/event_detail/5073'
 slug: 2013-06-04-event
 ---
 

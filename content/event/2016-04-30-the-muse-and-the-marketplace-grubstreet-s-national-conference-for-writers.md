@@ -5,10 +5,10 @@ published: true
 date: 2016-04-30T14:45:00.000Z
 allday: false
 venue:
-address:
-city-state: 'Boston, MA'
-zip:
-website:
+  address:
+  city-state: 'Boston, MA'
+  zip:
+  link:
 ---
 
 

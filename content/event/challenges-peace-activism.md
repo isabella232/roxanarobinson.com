@@ -1,11 +1,12 @@
 ---
 published: true
 allday: false
-venue: "Left Forum"
-address: 
-city-state: New York, NY
-zip: 
-website: https://www.leftforum.org/events/challenges-peace-activism
+venue: 
+  name: "Left Forum"
+  address: 
+  city-state: New York, NY
+  zip: 
+  link: https://www.leftforum.org/events/challenges-peace-activism
 layout: event
 title: The Challenges of Peace Activism
 date: 2018-06-02 18:00:52 -0400
