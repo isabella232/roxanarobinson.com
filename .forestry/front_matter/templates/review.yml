@@ -2,10 +2,11 @@
 label: review
 hide_body: false
 fields:
-- type: include
-  name: defaults
-  label: defaults
-  template: partial-default
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - type: include
   name: date
   label: date
