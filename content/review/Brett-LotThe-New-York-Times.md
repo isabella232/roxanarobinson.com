@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 link_to_original:
 book: /book/a-glimpse-of-scarlet.md
 attribution: Brett Lot, *The New York Times*

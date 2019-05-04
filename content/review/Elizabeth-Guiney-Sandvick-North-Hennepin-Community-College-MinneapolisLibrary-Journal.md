@@ -1,5 +1,5 @@
 ---
-title: ''  
+title: 'Review'  
 link_to_original:
 book: /book/summer-light.md
 attribution: Elizabeth Guiney Sandvick, North Hennepin Community College, Minneapolis, *Library Journal*

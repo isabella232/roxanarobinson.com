@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 featured: true
 link_to_original:
 book: /book/a-perfect-stranger-and-other-stories.md

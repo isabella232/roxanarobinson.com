@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 link_to_original:
 book: /book/sparta.md
 attribution: Ben Fountain, author of *Billy Lynn’s Long Halftime Walk*, winner of the National Book Critics Circle Fiction Award

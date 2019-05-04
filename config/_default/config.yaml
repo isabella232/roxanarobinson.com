@@ -8,14 +8,13 @@ languageCode: en-us
 themesDir: components
 theme:
   - theme-library
-  - thenewdynamic-hugo-core-theme
   - layout_module-books
   - events
   - layout_module-base  
   
 
 preserveTaxonomyNames: true
-disableAliases: true
+#disableAliases: true
 blackfriday:
   extensionsmask:
     - noIntraEmphasis

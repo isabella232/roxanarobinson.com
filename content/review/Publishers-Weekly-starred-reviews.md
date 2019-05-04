@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 link_to_original:
 book: /book/a-perfect-stranger-and-other-stories.md
 attribution: "*Publishers Weekly*, starred reviews"

@@ -3,13 +3,13 @@ title: Contact
 form: forms-contact.html
 ---
 
-#### Publicist
+## Publicist
 Lottchen Shivers <Lottchen.Shivers@fsgbooks.com>
 
-#### Agent
+## Agent
 Lynn Nesbit, Janklow Nesbit <lynn@janklow.com>
 
-#### Speaking Engagements
+## Speaking Engagements
 Alison Granucci, Blue Flower Arts <alison@blueflowerarts.com>
 
 ---

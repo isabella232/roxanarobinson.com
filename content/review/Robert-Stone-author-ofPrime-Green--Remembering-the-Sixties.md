@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 link_to_original:
 book: /book/cost.md
 attribution: 'Robert Stone, author of *Prime Green: Remembering the Sixties*'

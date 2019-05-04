@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 link_to_original:
 book: /book/sparta.md
 attribution: "*The Wall Street Journal*, June 1, 2013"

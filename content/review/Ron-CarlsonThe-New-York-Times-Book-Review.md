@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 featured: true
 link_to_original: http://www.nytimes.com/2013/07/28/books/review/sparta-by-roxana-robinson.html?_r=1&
 book: /book/sparta.md

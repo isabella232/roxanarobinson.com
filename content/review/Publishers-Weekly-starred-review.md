@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 link_to_original:
 book: /book/sweetwater.md
 attribution: "*Publishers Weekly*, starred review"

@@ -1,5 +1,5 @@
 ---
-title: ''  
+title: 'Review'  
 book: /book/sparta.md
 attribution: Claire Messud, author of *The Emperor’s Children* and *The Woman Upstairs*
 ---

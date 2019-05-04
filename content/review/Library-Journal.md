@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 link_to_original:
 book: /book/asking-for-love.md
 attribution: "*Library Journal*"

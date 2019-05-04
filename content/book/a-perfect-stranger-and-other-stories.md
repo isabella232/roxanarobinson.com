@@ -4,11 +4,11 @@ subtitle:
 date: 2006-03-14 00:00:00
 genre:
   - Fiction
+description: '*A Perfect Stranger* examines the complex, intricate network of experiences that binds us to one another.'
 editions:
 - binding: Paperback
   isbn: 9780812967357
-  date: 2006-03-14 05:00:00 +0000
-  description: '*A Perfect Stranger* examines the complex, intricate network of experiences that binds us to one another.'
+  date: 2006-03-14 05:00:00 +0000  
   cover_image: /uploads/9780812967357-220x339.jpg
   publisher: Random House
 - binding: ebook

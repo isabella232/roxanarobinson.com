@@ -3,7 +3,27 @@ main:
     name: Home
     url: /
     weight: 1
-  - identifier: article
-    name: Updates
-    url: /article/
+  - identifier: books
+    name: Books
+    url: /book/
+    weight: 10
+  - identifier: writing
+    name: Writing
+    url: /writing/
+    weight: 20
+  - identifier: media
+    name: Media
+    url: /media/
+    weight: 30
+  - identifier: events
+    name: Appearances
+    url: /events/
+    weight: 40
+  - identifier: about-the-author
+    name: Bio
+    url: /about-the-author/
+    weight: 50
+  - identifier: contact
+    name: Contact
+    url: /contact/
     weight: 60

@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 link_to_original: http://www.openlettersmonthly.com/sparta-iraq/
 book: /book/sparta.md
 attribution: Anne Fernald, Editor, The Cambridge Edition of *Mrs. Dalloway,* for *Open Letters Monthly*

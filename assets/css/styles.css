@@ -2,5 +2,79 @@
 
 @import "tailwindcss/components";
 
+@import "tailwindcss/modules/_hugo-internal-templates";
+@import "tailwindcss/modules/_utilities";
+
 @import "tailwindcss/utilities";
 
+#content {
+	@apply font-serif text-gray-800 max-w-6xl text-lg mx-auto px-6;
+}
+
+body {
+	@apply border-solid border-primary-color-500 border-r-8 border-l-8;
+}
+.bordered {
+	@apply fixed w-full border-solid border-primary-color-500 border-b-8 z-10;
+}
+.bordered-b {
+	@apply top-0;
+}
+.bordered-t {
+	@apply bottom-0;
+}
+
+main {
+	@apply min-h-screen;
+}
+header {
+	@apply bg-white pt-6 px-6;
+}
+
+@screen lg {
+	header {
+		@apply sticky top-0;
+	}
+}
+
+header div {
+	@apply flex flex-wrap items-center justify-between max-w-6xl mx-auto;
+}
+
+header .site-title {
+	@apply font-brand text-4xl;
+}
+
+.tnd-Nav div {
+	@apply flex flex-wrap items-center inline-block mr-8;
+}
+.tnd-Nav__item a {
+	@apply text-orange-500;
+}
+
+.page-heading {
+	@apply font-brand font-bold text-5xl mt-16 mb-4;
+}
+blockquote.text-quotes {
+	@apply font-brand;
+}
+
+footer {
+	@apply flex flex-wrap items-center font-sans justify-between py-4;
+}
+
+footer a {
+	@apply text-gray-400 text-xs;
+}
+
+footer div a {
+	@apply text-gray-600 text-base;
+}
+
+.bg-primary-color {
+	@apply bg-primary-color-200;
+}
+
+.page-list_default {
+	@apply mt-24;
+}

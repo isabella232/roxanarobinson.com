@@ -4,11 +4,11 @@ subtitle: ""
 date: 1996-03-12 00:00:00
 genre:
   - Fiction
+description: "The 15 stories in Robinson's second collection (after *A Glimpse of Scarlet*) serve as clear windows into the posh world of East Coast WASPs."
 editions:
 - binding: Hardcover
   isbn: 9780679439028
-  date: 1996-03-12 05:00:00 +0000
-  description: "The 15 stories in Robinson's second collection (after *A Glimpse of Scarlet*) serve as clear windows into the posh world of East Coast WASPs."
+  date: 1996-03-12 05:00:00 +0000  
   cover_image: /uploads/9780679439028_p0_v1_s260x420-220x336.jpg
   publisher: Random House
 - binding: ebook

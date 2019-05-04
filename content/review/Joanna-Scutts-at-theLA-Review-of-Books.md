@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 
 link_to_original: http://lareviewofbooks.org/review/there-are-two-worlds-roxana-robinsons-sparta
 book: /book/sparta.md

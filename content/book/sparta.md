@@ -1,15 +1,15 @@
 ---
 title: Sparta
-subtitle: ""
+subtitle: 
 date: 2013-06-04 00:00:00
+description: 'Going from peace to war can make a young man into a warrior. Going from war to peace
+  can destroy him.'
 genre:
 - Fiction
 editions:
 - binding: Hardcover
   isbn: 9780374267704
-  date: 2013-06-04 05:00:00 +0000
-  description: 'Going from peace to war can make a young man into a warrior. Going from war to peace
-  can destroy him.'
+  date: 2013-06-04 05:00:00 +0000  
   cover_image: "/uploads/9780374267704_p0_v1_s600-220x330.jpg"
   publisher: Sarah Crichton Books
 - binding: ebook
@@ -18,13 +18,8 @@ editions:
   description: ''
   cover_image: 
   publisher: 
-synopsis:
-- |
-  Conrad Farrell has no family military heritage, but as a classics major at Williams College, he has encountered the powerful appeal of the Marine Corps ethic. “Semper Fidelis” comes straight from the ancient world, from Sparta, where every citizen doubled as a full-time soldier. When Conrad graduates, he joins the Marines to continue a long tradition of honor, courage, and commitment.
-
-  As Roxana Robinson’s new novel, <i>Sparta</i>, begins, Conrad has just returned home to Katonah, New York, after four years in Iraq, and he’s beginning to learn that something has changed in his landscape. Something has gone wrong, though things should be fine: he hasn’t been shot or wounded; he’s never had psychological troubles. But as he attempts...
 ---
-***Sparta* included on Short List for the 2015 International IMPAC Dublin Literary Award.**
+**_Sparta_ included on Short List for the 2015 International IMPAC Dublin Literary Award.**
 
 Conrad Farrell has no family military heritage, but as a classics major at Williams College, he has encountered the powerful appeal of the Marine Corps ethic. “Semper Fidelis” comes straight from the ancient world, from Sparta, where every citizen doubled as a full-time soldier. When Conrad graduates, he joins the Marines to continue a long tradition of honor, courage, and commitment.
 

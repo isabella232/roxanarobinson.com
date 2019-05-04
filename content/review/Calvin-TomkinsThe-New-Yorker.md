@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 link_to_original:
 book: /book/georgia-okeefe.md
 attribution: Calvin Tomkins, *The New Yorker*

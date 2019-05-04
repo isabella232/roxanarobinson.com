@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 link_to_original: http://bookpage.com/review/sparta/the-unquiet-on-the-internal-home-front
 book: /book/sparta.md
 attribution: Arlene McKanick, Bookpage

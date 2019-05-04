@@ -34,5 +34,5 @@ dt::after {
 }
 
 .btn {
-    @apply .font-bold .py-2 .px-4 .rounded .no-underline .border .inline-block .mb-2;
+    @apply font-bold py-2 px-4 rounded no-underline border inline-block mb-2 font-sans text-sm;
   }

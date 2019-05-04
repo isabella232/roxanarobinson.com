@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Review'
 featured: true
 link_to_original:
 book: /book/a-glimpse-of-scarlet.md
