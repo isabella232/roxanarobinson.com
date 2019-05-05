@@ -1,259 +1,253 @@
 {
-	"years": [
-		{
-			"year": 1984,
-			"awards": [
-				{
-					"award": "Getting On,” published in *The New Yorker*, listed in *Best American Short Stories*"
-				}
-			]
-		},
-		{
-			"year": 1987,
-			"awards": [
-				{
-					"award": "National Endowment for the Arts fellowship in creative writing"
-				}
-			]
-		},
-		{
-			"year": 1988,
-			"awards": [
-				{
-					"award": "*Summer Light*, Washington Irving Book Award, Westchester Library Association"
-				}
-			]
-		},
-		{
-			"year": 1989,
-			"awards": [
-				{
-					"award": "*Georgia O’Keeffe: A Life* named one of the Recommended Books of the Year by *The New York Times*, 1989, hardbound, and 1990, paperback"
-				},
-				{
-					"award": "*Summer Light* chosen for inclusion in the Pennsylvania Writers Collection"
-				}
-			]
-		},
-
-		{
-			"year": 1990,
-			"awards": [
-				{
-					"award": "*Georgia O’Keeffe: A Life*, nominated for the Charles Eldredge Award for Scholarship, Smithsonian Institution"
-				},
-				{
-					"award": "Nominated for the National Book Critics Circle Award"
-				},
-				{
-					"award": "Recipient of a Washington Irving Award"
-				}
-			]
-		},
-
-		{
-			"year": 1991,
-			"awards": [
-				{
-					"award": "*A Glimpse of Scarlet and Other Stories*, named a Notable Book of the Year by *The New York Times*"
-				},
-				{
-					"award": "*Georgia O’Keeffe: A Life* paperback, named one of the Recommended Books of the Year by *The New York Times*"
-				},
-				{
-					"award": "Honored as a Literary Lion by the New York Public Library, New York"
-				}
-			]
-		},
-
-		{
-			"year": 1992,
-			"awards": [
-				{
-					"award": "*A Glimpse of Scarlet and Other Stories*, paperback, named Notable Book of the Year by *The New York Times*"
-				},
-				{
-					"award": "\"The Time for Kissing,” story published in *The Atlantic*, finalist, National Magazine Awards for fiction"
-				},
-				{
-					"award": "\"The Time for Kissing,” listed in *Best American Short Stories*"
-				}
-			]
-		},
-
-		{
-			"year": 1994,
-			"awards": [
-				{
-					"award": "\"Mr. Sumarsono,” story published in *The Atlantic*, chosen for *Best American Short Stories*"
-				},
-				{
-					"award": "Founders’ Day Award for Literature, The Shipley School, Bryn Mawr, Pennsylvania, April 16, 1994"
-				}
-			]
-		},
-
-		{
-			"year": 1995,
-			"awards": [
-				{
-					"award": "\"King of the Sky” and “Leaving Home” listed in *Best American Short Stories*"
-				}
-			]
-		},
-		{
-			"year": 1997,
-			"awards": [
-				{
-					"award": "*Asking for Love* named one of the Notable Books of the Year by the American Library Association"
-				},
-				{
-					"award": "Washington Irving Award, Westchester Library Association"
-				}
-			]
-		},
-		{
-			"year": 1998,
-			"awards": [
-				{
-					"award": "*This Is My Daughter* named a Notable Book of the Year by *The New York Times*"
-				}
-			]
-		},
-		{
-			"year": 1999,
-			"awards": [
-				{
-					"award": "*This Is My Daughter* received the Washington Irving Award, Westchester Library Association"
-				},
-				{
-					"award": "Fellowship from The McDowell Colony, September/October"
-				}
-			]
-		},
-
-		{
-			"year": 2000,
-			"awards": [
-				{
-					"award": "Fellowship from the John S. Guggenheim Foundation"
-				},
-				{
-					"award": "\"Assistance,” published in *The Atlantic*, listed in *Best American Short Stories*"
-				}
-			]
-		},
-		{
-			"year": 2001,
-			"awards": [
-				{
-					"award": "\"Face-Lift” selected by Houghton Mifflin for inclusion in *Best American Mystery Stories*"
-				},
-				{
-					"award": "\"Family Christmas,” Finalist, National Magazine Awards for Fiction"
-				},
-				{
-					"award": "\"Face-Lift” and “Family Christmas” listed in *Best American Short Stories*"
-				}
-			]
-		},
-		{
-			"year": 2003,
-			"awards": [
-				{
-					"award": "*Sweetwater* named Barnes and Noble Best Books of 2003"
-				},
-				{
-					"award": "*Sweetwater* named a *New York Times* Notable Book of the Year"
-				},
-				{
-					"award": "*Sweetwater* named a Book Sense choice"
-				},
-				{
-					"award": "*Sweetwater* named a Literary Guild Featured Alternate Selection"
-				},
-				{
-					"award": "*Sweetwater* named *Chicago Tribune* Best Books of 2003"
-				}
-			]
-		},
-		{
-			"year": 2005,
-			"awards": [
-				{
-					"award": "Blind Man” was listed in *Best American Short Stories*"
-				}
-			]
-		},
-		{
-			"year": 2006,
-			"awards": [
-				{
-					"award": "\"A Perfect Stranger,” the story, listed in *Best American Short Stories*"
-				}
-			]
-		},
-		{
-			"year": 2008,
-			"awards": [
-				{
-					"award": "Fiction Award, Maine Writers and Publishers Alliance, for *Cost*"
-				},
-				{
-					"award": "*Cost* named One of the Best Five Fiction Books of the Year by *The Washington Post*"
-				},
-				{
-					"award": "*Cost* named *New York Times* Editors’ Choice"
-				},
-				{
-					"award": "*Cost* on the best books of the year lists at *The Wall Street Journal*, *The Seattle Times*, and the *Chicago Tribune*"
-				},
-				{
-					"award": "*Cost* named spring 2008 Recommended Reads choice of the National Book Critics Circle"
-				}
-			]
-		},
-		{
-			"year": 2013,
-			"awards": [
-				{
-					"award": "Finalist - Nona Balakian Citation for Excellence in Reviewing, NBCC"
-				},
-				{
-					"award": "BBC's “Ten best books of 2013”"
-				}
-			]
-		},
-		{
-			"year": 2014,
-			"awards": [
-				{
-					"award": "*Sparta* winner of the James Webb Award"
-				},
-				{
-					"award": "*Sparta* included on Short List for the 2015 International IMPAC Dublin Literary Award."
-				},
-				{
-					"award": "Fiction Award, Maine Writers and Publishers Alliance, for *Sparta*"
-				},
-				{
-					"award": "*Sparta* a Best Books of the Year at the Chicago Tribune"
-				},
-				{
-					"award": "*Sparta* a Best Books of the Year at the BBC"
-				},
-				{
-					"award": "*Sparta*, Publishers Weekly, The 10 Best Contemporary War Novels"
-				}
-			]
-		},
-		{
-			"year": 2015,
-			"awards": [
-				{
-					"award": "Finalist - Nona Balakian Citation for Excellence in Reviewing, NBCC"
-				}
-			]
-		}
-	]
+  "years": [
+    {
+      "year": 2015,
+      "awards": [
+        {
+          "award": "Finalist - Nona Balakian Citation for Excellence in Reviewing, NBCC"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "awards": [
+        {
+          "award": "*Sparta* winner of the James Webb Award"
+        },
+        {
+          "award": "*Sparta* included on Short List for the 2015 International IMPAC Dublin Literary Award."
+        },
+        {
+          "award": "Fiction Award, Maine Writers and Publishers Alliance, for *Sparta*"
+        },
+        {
+          "award": "*Sparta* a Best Books of the Year at the Chicago Tribune"
+        },
+        {
+          "award": "*Sparta* a Best Books of the Year at the BBC"
+        },
+        {
+          "award": "*Sparta*, Publishers Weekly, The 10 Best Contemporary War Novels"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "awards": [
+        {
+          "award": "Finalist - Nona Balakian Citation for Excellence in Reviewing, NBCC"
+        },
+        {
+          "award": "BBC's “Ten best books of 2013”"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "awards": [
+        {
+          "award": "Fiction Award, Maine Writers and Publishers Alliance, for *Cost*"
+        },
+        {
+          "award": "*Cost* named One of the Best Five Fiction Books of the Year by *The Washington Post*"
+        },
+        {
+          "award": "*Cost* named *New York Times* Editors’ Choice"
+        },
+        {
+          "award": "*Cost* on the best books of the year lists at *The Wall Street Journal*, *The Seattle Times*, and the *Chicago Tribune*"
+        },
+        {
+          "award": "*Cost* named spring 2008 Recommended Reads choice of the National Book Critics Circle"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "awards": [
+        {
+          "award": "\"A Perfect Stranger,” the story, listed in *Best American Short Stories*"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "awards": [
+        {
+          "award": "Blind Man” was listed in *Best American Short Stories*"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "awards": [
+        {
+          "award": "*Sweetwater* named Barnes and Noble Best Books of 2003"
+        },
+        {
+          "award": "*Sweetwater* named a *New York Times* Notable Book of the Year"
+        },
+        {
+          "award": "*Sweetwater* named a Book Sense choice"
+        },
+        {
+          "award": "*Sweetwater* named a Literary Guild Featured Alternate Selection"
+        },
+        {
+          "award": "*Sweetwater* named *Chicago Tribune* Best Books of 2003"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "awards": [
+        {
+          "award": "\"Face-Lift” selected by Houghton Mifflin for inclusion in *Best American Mystery Stories*"
+        },
+        {
+          "award": "\"Family Christmas,” Finalist, National Magazine Awards for Fiction"
+        },
+        {
+          "award": "\"Face-Lift” and “Family Christmas” listed in *Best American Short Stories*"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "awards": [
+        {
+          "award": "Fellowship from the John S. Guggenheim Foundation"
+        },
+        {
+          "award": "\"Assistance,” published in *The Atlantic*, listed in *Best American Short Stories*"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "awards": [
+        {
+          "award": "*This Is My Daughter* received the Washington Irving Award, Westchester Library Association"
+        },
+        {
+          "award": "Fellowship from The McDowell Colony, September/October"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "awards": [
+        {
+          "award": "*This Is My Daughter* named a Notable Book of the Year by *The New York Times*"
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "awards": [
+        {
+          "award": "*Asking for Love* named one of the Notable Books of the Year by the American Library Association"
+        },
+        {
+          "award": "Washington Irving Award, Westchester Library Association"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "awards": [
+        {
+          "award": "\"King of the Sky” and “Leaving Home” listed in *Best American Short Stories*"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "awards": [
+        {
+          "award": "\"Mr. Sumarsono,” story published in *The Atlantic*, chosen for *Best American Short Stories*"
+        },
+        {
+          "award": "Founders’ Day Award for Literature, The Shipley School, Bryn Mawr, Pennsylvania, April 16, 1994"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "awards": [
+        {
+          "award": "*A Glimpse of Scarlet and Other Stories*, paperback, named Notable Book of the Year by *The New York Times*"
+        },
+        {
+          "award": "\"The Time for Kissing,” story published in *The Atlantic*, finalist, National Magazine Awards for fiction"
+        },
+        {
+          "award": "\"The Time for Kissing,” listed in *Best American Short Stories*"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "awards": [
+        {
+          "award": "*A Glimpse of Scarlet and Other Stories*, named a Notable Book of the Year by *The New York Times*"
+        },
+        {
+          "award": "*Georgia O’Keeffe: A Life* paperback, named one of the Recommended Books of the Year by *The New York Times*"
+        },
+        {
+          "award": "Honored as a Literary Lion by the New York Public Library, New York"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "awards": [
+        {
+          "award": "*Georgia O’Keeffe: A Life*, nominated for the Charles Eldredge Award for Scholarship, Smithsonian Institution"
+        },
+        {
+          "award": "Nominated for the National Book Critics Circle Award"
+        },
+        {
+          "award": "Recipient of a Washington Irving Award"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "awards": [
+        {
+          "award": "*Georgia O’Keeffe: A Life* named one of the Recommended Books of the Year by *The New York Times*, 1989, hardbound, and 1990, paperback"
+        },
+        {
+          "award": "*Summer Light* chosen for inclusion in the Pennsylvania Writers Collection"
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "awards": [
+        {
+          "award": "*Summer Light*, Washington Irving Book Award, Westchester Library Association"
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "awards": [
+        {
+          "award": "National Endowment for the Arts fellowship in creative writing"
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "awards": [
+        {
+          "award": "Getting On,” published in *The New Yorker*, listed in *Best American Short Stories*"
+        }
+      ]
+    }
+  ]
 }
