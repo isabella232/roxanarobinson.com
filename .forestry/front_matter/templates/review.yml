@@ -16,6 +16,7 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: 'Put an asterisk (*) around any word to *italicize* it. '
 - type: select
   name: book
   config:
