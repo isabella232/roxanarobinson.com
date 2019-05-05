@@ -49,6 +49,9 @@ sections:
 - type: heading
   label: About
 - type: document
+  path: data/awards-data.yaml
+  label: Awards Data
+- type: document
   path: data/awards.yaml
   label: Awards
 - type: directory
