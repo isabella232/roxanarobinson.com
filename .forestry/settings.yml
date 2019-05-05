@@ -51,7 +51,6 @@ sections:
 - type: document
   path: data/awards-data.yaml
   label: Awards Data
-  match: "**/*"
 - type: document
   path: data/awards.yaml
   label: Awards
