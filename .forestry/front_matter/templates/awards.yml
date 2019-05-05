@@ -10,12 +10,12 @@ fields:
     name: year
     label: Year
   - type: field_group_list
-    name: events
-    label: Events
+    name: awards
+    label: Awards
     fields:
     - type: textarea
-      name: event
-      label: Event
+      name: award
+      label: Award
       config:
         wysiwyg: true
         schema:
