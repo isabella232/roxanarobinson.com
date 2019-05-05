@@ -13,3 +13,6 @@
 [submodule "components/events"]
 	path = components/events
 	url = https://github.com/theNewDynamic/hugo-layout_module-events.git
+[submodule "components/timeline"]
+	path = components/timeline
+	url = https://github.com/theNewDynamic/hugo-component-tnd-timeline.git

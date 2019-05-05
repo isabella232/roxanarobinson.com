@@ -78,3 +78,8 @@ footer div a {
 .page-list_default {
 	@apply mt-24;
 }
+
+
+.description {
+	@apply  text-2xl;
+}

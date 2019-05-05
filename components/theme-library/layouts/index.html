@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ $books := where .Data.Pages "Section" "book" }}
-  <main class="mx-auto md:pt-5 min-h-screen">
+  <main class="mx-auto md:pt-16">
     <section class="flex flex-wrap lg:flex-row flex-col-reverse mx-auto px-4 md:px-4 py-8">
       {{ range first 1 $books  }}
         <div class="w-full lg:w-3/4 flex flex-wrap lg:flex-row flex-col-reverse ">
@@ -11,5 +11,10 @@
         {{ partial "home/news-list.html" . }}
       </div>     
     </section>
+    {{/* {{ range first 1 $books  }}
+    <div class="center mb5 pa4 w-75-l">
+      {{- partial "books/praise.html" (dict "count" 100 "Page" . ) -}}
+    </div>
+    {{ end }} */}}
   </main>    
 {{ end }}

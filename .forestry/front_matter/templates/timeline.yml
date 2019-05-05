@@ -1,5 +1,5 @@
 ---
-label: awards
+label: timeline
 hide_body: false
 fields:
 - type: field_group_list
@@ -10,15 +10,15 @@ fields:
     name: year
     label: Year
   - type: field_group_list
-    name: awards
-    label: Awards
+    name: event
+    label: Events
     fields:
     - type: textarea
-      name: award
-      label: Award
+      name: event
+      label: Event
       config:
         wysiwyg: true
         schema:
           format: markdown
 pages:
-- data/awards.json
+- data/timeline.json

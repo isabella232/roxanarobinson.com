@@ -49,7 +49,7 @@ sections:
 - type: heading
   label: About
 - type: document
-  path: data/awards.json
+  path: data/timeline.json
   label: Awards
 - type: directory
   path: content

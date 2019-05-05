@@ -9,6 +9,7 @@ themesDir: components
 theme:
   - theme-library
   - layout_module-books
+  - timeline
   - events
   - layout_module-base  
   

@@ -1,5 +1,5 @@
 module.exports = {
-  theme: {    
+  theme: {
     extend: {
       colors: {
         'primary-color': {
@@ -12,7 +12,7 @@ module.exports = {
           700: '#3D6778',
           800: '#2E4D5A',
           900: '#1F343C',
-          },
+        },
       },
       fontFamily: {
         'brand': [
@@ -27,5 +27,21 @@ module.exports = {
 
     },
     variants: {},
-    plugins: []
-  }}
+    plugins: [
+      require("./plugins/hovers.js")({
+        variants: ["responsive"],
+      }),
+      require("tailwindcss-grid")({
+        grids: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+        gaps: {
+          0: "0",
+          4: "1rem",
+          6: "1.5rem",
+          8: "2rem",
+          16: "4rem",
+        },
+        variants: ["responsive"],
+      }),
+    ]
+  }
+}
