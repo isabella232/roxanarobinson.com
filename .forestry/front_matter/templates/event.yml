@@ -3,10 +3,11 @@ label: event
 hide_body: true
 display_field: title
 fields:
-- type: include
-  name: defaults
-  label: defaults
-  template: partial-default
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - type: include
   name: date
   label: date
@@ -20,6 +21,7 @@ fields:
   name: image
   label: image
   template: partial-images-w-credit
+  hidden: true
 - type: include
   name: venue
   label: venue
