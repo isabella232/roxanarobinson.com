@@ -10,7 +10,7 @@ venue:
   link: http://www.writershotel.com/
 layout: event
 title: The Writer's Hotel
-date: 2017-06-07 17:36
+date: 2017-06-07T17:30:00-04:00
 slug: ''
 categories:
 - event

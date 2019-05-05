@@ -1,6 +1,7 @@
 ---
 published: true
 allday: false
+date: 2014-04-02T14:00:00.000Z
 venue: 
   name: John F. Kennedy Library
   address: ''
@@ -9,7 +10,6 @@ venue:
   link: http://www.pen-ne.org/event-details/2017/4/2/2017-penne-literary-awards
 layout: event
 title: 2017 PEN+NE Literary Awards
-date: 2017-04-02 14:00
 slug: 
 categories:
 - event

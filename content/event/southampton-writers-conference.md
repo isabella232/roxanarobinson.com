@@ -9,7 +9,7 @@ venue:
   link: http://www.stonybrook.edu/southampton/mfa/summer/cwl_workshops1.html
 layout: event
 title: Southampton Writers Conference
-date: 2017-07-12 17:50
+date: 2017-07-12T17:50:00-04:00
 slug: ''
 categories:
 - event
