@@ -1,0 +1,151 @@
+---
+label: Awards
+hide_body: true
+fields:
+- type: field_group_list
+  name: '1984'
+  label: '1984'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '1987'
+  label: '1987'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '1988'
+  label: '1988'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '1989'
+  label: '1989'
+  fields:
+  - type: textarea
+    name: award
+    label: award
+- type: field_group_list
+  name: '1990'
+  label: '1990'
+  fields:
+  - type: textarea
+    name: award
+    label: award
+- type: field_group_list
+  name: '1991'
+  label: '1991'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '1992'
+  label: '1992'
+  fields:
+  - type: textarea
+    name: award
+    label: award
+- type: field_group_list
+  name: '1994'
+  label: '1994'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '1995'
+  label: '1995'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '1997'
+  label: '1997'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '1998'
+  label: '1998'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '1999'
+  label: '1999'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '2000'
+  label: '2000'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '2001'
+  label: '2001'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '2003'
+  label: '2003'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '2005'
+  label: '2005'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '2006'
+  label: '2006'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '2008'
+  label: '2008'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '2013'
+  label: '2013'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '2014'
+  label: '2014'
+  fields:
+  - type: text
+    name: award
+    label: award
+- type: field_group_list
+  name: '2015'
+  label: '2015'
+  fields:
+  - type: text
+    name: award
+    label: award
