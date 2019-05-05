@@ -23,5 +23,3 @@ fields:
     - type: file
       name: image
       label: Image
-pages:
-- data/awards.json
