@@ -17,9 +17,7 @@ description: The official website of author Roxana Robinson, president of the Au
 
 <hr>
 
-### Awards
-
-{% include snippets/awards.html %}
+{{< timeline "### Awards" >}}
 
 <hr>
 
