@@ -27,4 +27,5 @@ fields:
   label: venue
   template: partial-venue
 pages:
+- content/event/xtest.md
 - content/event/test-event.md
