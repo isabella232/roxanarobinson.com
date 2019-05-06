@@ -24,3 +24,4 @@ fields:
   - type: text
     name: related_book
     label: related_book
+    hidden: true
