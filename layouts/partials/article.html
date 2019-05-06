@@ -1,10 +1,15 @@
 <article class="h-entry">
+    
   {{- partial "_components/page-heading.html" . -}}
   <section>  
     {{ if eq .Type "news" }}
       {{ partial "_components/time.html" (dict "context" . "show_time" false) }}
     {{ end }}
+    {{ if eq .Type "event" }}
+    {{ partial "_components/time.html" (dict "context" . "show_time" true "classes" "text-xl block text-primary-color-500 font-sans tracked mb-2") }}
+  {{ end }}
     {{partial "_components/image-article.html" .}}        
     {{ .Content }}
+    <div class="border-t">{{- partial "_components/event-venue.html" . -}}</div>
   </section>
 </article>
