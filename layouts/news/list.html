@@ -1,0 +1,12 @@
+{{ define "main" }}
+  {{- partial "_components/page-heading.html" . -}}
+  <section class="flex flex-wrap justify-between">    
+    {{ range .Paginator.Pages }}
+      <div class="bg-gray-100 p-4 mb-4 ">
+          {{- partial "summary.html" . -}}
+      </div>
+    {{ end }}    
+  </section>
+
+{{- template "_internal/pagination.html" . -}}
+{{ end }}
