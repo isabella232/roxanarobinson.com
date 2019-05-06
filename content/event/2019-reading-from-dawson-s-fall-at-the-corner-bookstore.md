@@ -1,7 +1,7 @@
 ---
 date: 2019-05-22T18:00:00-04:00
 show_time: true
-title: Reading from *Dawson's Fall" at the Corner Bookstore
+title: Reading from *Dawson's Fall* at the Corner Bookstore
 images: []
 venue:
   name: The Corner Bookstore
