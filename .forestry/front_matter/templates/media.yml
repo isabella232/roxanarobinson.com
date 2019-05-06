@@ -1,0 +1,26 @@
+---
+label: Media
+hide_body: true
+fields:
+- type: field_group_list
+  name: Media
+  label: Media
+  fields:
+  - type: list
+    name: category
+    label: category
+  - type: datetime
+    name: date
+    label: date
+  - type: text
+    name: source
+    label: source
+  - type: text
+    name: description
+    label: description
+  - type: textarea
+    name: link_to_original
+    label: link_to_original
+  - type: text
+    name: related_book
+    label: related_book

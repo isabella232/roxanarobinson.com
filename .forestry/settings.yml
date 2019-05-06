@@ -20,9 +20,6 @@ sections:
   exclude: _index.md
   templates:
   - event
-- type: document
-  path: data/writing.yaml
-  label: Writing
 - type: heading
   label: Books
 - type: directory
@@ -57,7 +54,6 @@ sections:
 - type: document
   path: data/media.yaml
   label: Media
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
