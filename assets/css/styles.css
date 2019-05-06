@@ -75,7 +75,7 @@ header div {
 }
 
 header .site-title {
-	@apply font-brand text-5xl text-primary-color-600;
+	@apply font-brand text-5xl text-primary-color-600 leading-tight;
 }
 
 .tnd-Nav div {
