@@ -12,18 +12,18 @@
 }
 
 body.page #content,
-body.event #content,
-body.news #content {
+body.event #content {
 	@apply max-w-3xl mx-auto px-6;
 }
 
 body.home #content,
-body.page.book #content {
+body.page.book #content,
+body.news #content {
 	@apply max-w-5xl mx-auto  px-6;
 }
 
-body.page.datatable #content {
-	@apply max-w-6xl mx-auto;
+body.news #content {
+	@apply max-w-6xl mx-auto  px-6;
 }
 
 body {
@@ -135,7 +135,6 @@ footer div a {
 .dim:hover {
 	@apply text-black;
 }
-
 
 .event-summary {
 	@apply font-sans;
