@@ -20,9 +20,6 @@ sections:
   exclude: _index.md
   templates:
   - event
-- type: document
-  path: data/writing.yaml
-  label: Writing
 - type: heading
   label: Books
 - type: directory
@@ -51,6 +48,12 @@ sections:
 - type: document
   path: data/timeline.json
   label: Awards
+- type: document
+  path: data/writing.yaml
+  label: Writing
+- type: document
+  path: data/media.yaml
+  label: Media
 - type: directory
   path: content
   label: Pages

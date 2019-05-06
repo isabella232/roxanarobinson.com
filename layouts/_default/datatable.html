@@ -1,0 +1,86 @@
+{{ define "main" }}
+	{{/* DATA
+		---------------------
+
+		Defaults var values have to be defined at the root
+		We set default values for $entries and $cats */}}
+	{{ $entries := false }}
+	{{ $cats := false }}
+
+	{{/* Data files root name are stored in a page param "media" > "media.yaml, mediaCats.yaml" */}}
+	{{ with .Params.data }}
+		{{/* We grab the corresponding data files */}}
+		{{ $entries = index $.Site.Data . }}
+		{{ $cats = index $.Site.Data (printf "%sCats" .) }}
+	{{ else }}
+	{{/* In case the "data" Param is missing we throw and error and interrupt the build */}}
+	{{ errorf "Page with layout `datatable` must have a `data` parameters pointing to its corresponding data files" }}
+	{{ end }}
+
+
+	{{/* MARKUP
+		---------  */}}
+
+	<div class="page-heading text-3xl p-0">
+		{{ .Title }}
+	</div>
+	
+	{{/* The filter buttons using $cats */}}
+    {{ with $cats }}
+        <div class="flex justify-left mt-16">
+        	{{ range . }}
+        		<button id="filter-{{ .catName }}" class="border py-1 px-4 mr-3">
+        			{{ .name | safeHTML }}
+        		</button>
+        	{{ end }}
+        	<button id="filter-none" class="border hover p-1">Clear</button>
+        </div>
+    {{ end }}
+
+    {{/* The entries displayed with a <table> */}}
+	{{ with $entries }}
+	    <div id="entry-list" class="mt-8">
+	    	<input type="text" class="font-sans search border p-2 w-full mb-5 capitalize" placeholder="Search {{ $.Title }}">
+	    	<table class="mt-6 font-sans text-gray-700">
+	    		<thead>
+	    			<tr>
+	    				<th class="sort asc" data-sort="category">Category <i class="fa fa-sort"></i></th>
+	    				<th class="sort" data-sort="title">Title <i class="fa fa-sort"></i></th>
+	    				<th class="sort date" data-sort="date">Date <i class="fa fa-sort"></i></th>
+	    				<th class="sort" data-sort="publication">Publication <i class="fa fa-sort"></i></th>
+	    			</tr>
+	    		</thead> 
+	    		<tbody class="list text-base">
+	    			{{ range $index, $entry := . }}
+	    				<tr class="mb-2">
+	    					<td class="category w-full md:w-1/6">
+	    						{{ with .category }}
+	    							{{ delimit . ", " }}
+	    						{{ end }}
+	    					</td>
+	    					<td class="title w-full md:w-1/3">
+	    						{{ with .title }}
+	    							{{ . }}
+	    						{{ end }}
+	    					</td>
+	    					<td class="date w-full md:w-1/6">
+	    						{{ with .date }}
+	    							{{ . | dateFormat "2006-Jan-02" }}
+	    						{{ end }}
+	    					</td>
+	    					<td class="publication w-full md:w-2/6">
+	    						{{ with .source }}
+	    							{{ with $entry.link_to_original }}
+	    								<a class="ss-redirect text-primary-color-400 italic" href="{{ . }}">{{ $entry.source }}</a>
+	    							{{ else }}
+	    								<span class="italic">{{ . }}</span>
+	    							{{ end }}
+	    						{{ end }}
+	    					</td>
+	    				</tr>
+	    			{{ end }}
+	    		</tbody>
+	    	</table>
+	    </div>	
+	{{ end }}
+{{ end }}

@@ -62,7 +62,7 @@ header {
 
 @screen lg {
 	header {
-		@apply sticky top-0;
+		@apply sticky top-0 z-10;
 	}
 }
 

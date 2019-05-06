@@ -1,0 +1,30 @@
+---
+label: Writing - data
+hide_body: true
+fields:
+- type: field_group_list
+  name: Writing
+  label: Writing
+  fields:
+  - type: datetime
+    name: date
+    label: date
+  - type: list
+    name: category
+    label: category
+  - type: text
+    name: publication
+    label: publication
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: link_to_original
+    label: link_to_original
+  - type: text
+    name: related_book
+    label: related_book
+    hidden: true
+  - type: text
+    name: content
+    label: content

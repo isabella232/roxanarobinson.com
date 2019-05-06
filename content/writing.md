@@ -1,3 +1,5 @@
 ---
-title: writing
+title: Writings
+layout: datatable
+data: writing
 ---
