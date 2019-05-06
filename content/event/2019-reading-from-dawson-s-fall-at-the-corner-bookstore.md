@@ -10,6 +10,5 @@ venue:
   state: NY
   zip: 10128
   link: https://cornerbookstorenyc.com/event/roxana-robinson-reads-from-her-new-book-dawsons-fall/
-draft: true
 
 ---
