@@ -1,7 +1,7 @@
 ---
 date: 2019-06-05T18:00:55-04:00
 show_time: true
-title: '2019 The White Hart Speaker Series: Roxana Robinson'
+title: 'The White Hart Speaker Series: Roxana Robinson'
 images: []
 venue:
   name: The White Hart
