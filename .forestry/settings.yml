@@ -51,6 +51,10 @@ sections:
 - type: document
   path: data/timeline.json
   label: Awards
+- type: document
+  path: data/writing.yaml
+  label: Writing
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
