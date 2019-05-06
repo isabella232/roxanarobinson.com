@@ -21,3 +21,5 @@ fields:
 - type: tag_list
   label: Category
   name: categories
+pages:
+- content/news/dawson-s-fall-on-washington-post-s-the-10-books-to-read-in-may.md
