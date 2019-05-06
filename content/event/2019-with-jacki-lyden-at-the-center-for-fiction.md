@@ -1,5 +1,5 @@
 ---
-date: 2019-05-06T08:40:54-04:00
+date: 2019-05-14T19:00:00-04:00
 show_time: true
 title: With Jacki Lyden at the Center for Fiction
 images: []
