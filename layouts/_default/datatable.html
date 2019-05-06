@@ -6,22 +6,12 @@
 		We set default values for $entries and $cats */}}
 	{{ $entries := false }}
 	{{ $cats := false }}
-	{{/* Both existing data models uses different key mapping for what will be displayed as title and publication
-		default value below are for "Writing" 
 
-	TODO: If possible, we should update data files to bring consistency and remove this overhead. */}}
-	{{ $titleKey := "title" }}
-	{{ $sourceKey := "publication" }}
 	{{/* Data files root name are stored in a page param "media" > "media.yaml, mediaCats.yaml" */}}
 	{{ with .Params.data }}
 		{{/* We grab the corresponding data files */}}
 		{{ $entries = index $.Site.Data . }}
 		{{ $cats = index $.Site.Data (printf "%sCats" .) }}
-		{{/* If we're dealing with "Media" we update title and publisher's key accordingly */}}
-		{{ if eq . "media" }}
-			{{ $titleKey = "description" }}
-			{{ $sourceKey = "source" }}
-		{{ end }}
 	{{ else }}
 	{{/* In case the "data" Param is missing we throw and error and interrupt the build */}}
 	{{ errorf "Page with layout `datatable` must have a `data` parameters pointing to its corresponding data files" }}
@@ -69,7 +59,7 @@
 	    						{{ end }}
 	    					</td>
 	    					<td class="title" width="65%">
-	    						{{ with index . $titleKey }}
+	    						{{ with .title }}
 	    							{{ . }}
 	    						{{ end }}
 	    					</td>
@@ -79,9 +69,9 @@
 	    						{{ end }}
 	    					</td>
 	    					<td class="publication" width="20%">
-	    						{{ with index $sourceKey }}
+	    						{{ with .source }}
 	    							{{ with $entry.link_to_original }}
-	    								<a class="ss-redirect primary-color-300 italic" href="{{ . }}">{{ index $entry $sourceKey }}</a>
+	    								<a class="ss-redirect text-primary-color-400 italic" href="{{ . }}">{{ $entry.source }}</a>
 	    							{{ else }}
 	    								<span class="italic">{{ . }}</span>
 	    							{{ end }}

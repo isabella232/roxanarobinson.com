@@ -27,7 +27,7 @@ module.exports = {
 								
 							}
 						],
-						whitelist: ["fill-current", "grid"]
+						whitelist: ["fill-current", "grid", "datatable"]
 					})
 			  ]
 			: []) //If Development, do not use PurgeCSS
