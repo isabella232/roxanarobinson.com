@@ -27,4 +27,5 @@ fields:
   label: venue
   template: partial-venue
 pages:
+- content/event/reading-from-dawson-s-fall-at-the-corner-bookstore.md
 - content/event/2019-with-jacki-lyden-at-the-center-for-fiction.md
