@@ -2,7 +2,7 @@
   {{- partial "_components/page-heading.html" . -}}
   <section class="flex flex-wrap justify-between">    
     {{ range .Paginator.Pages }}
-      <div class="bg-gray-100 w-30 p-4 mb-4 ">
+      <div class="bg-gray-100 md:w-w-30 p-4 mb-4 ">
           {{- partial "summary.html" . -}}
       </div>
     {{ end }}    

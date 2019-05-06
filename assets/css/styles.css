@@ -64,6 +64,9 @@ header {
 	header {
 		@apply sticky top-0 z-10;
 	}
+	.h-entry p img:first-of-type {
+		@apply float-left mr-4;
+	}
 }
 
 header div {
@@ -71,14 +74,14 @@ header div {
 }
 
 header .site-title {
-	@apply font-brand text-5xl;
+	@apply font-brand text-5xl text-primary-color-600;
 }
 
 .tnd-Nav div {
 	@apply font-sans text-base flex flex-wrap items-center inline-block mr-8;
 }
 .tnd-Nav__item a {
-	@apply text-primary-color-500 lowercase;
+	@apply text-primary-color-400 lowercase;
 }
 
 .page-heading {
@@ -122,9 +125,7 @@ footer div a {
 	@apply text-2xl;
 }
 
-.h-entry p img:first-of-type {
-	@apply float-left mr-4;
-}
+
 /* h2 {
 	@apply font-sans text-4xl;
 } */
