@@ -1,0 +1,22 @@
+---
+label: awards
+hide_body: false
+fields:
+- type: field_group_list
+  name: years
+  label: Years
+  fields:
+  - type: text
+    name: year
+    label: Year
+  - type: field_group_list
+    name: awards
+    label: Awards
+    fields:
+    - type: textarea
+      name: award
+      label: Award
+      config:
+        wysiwyg: true
+        schema:
+          format: markdown

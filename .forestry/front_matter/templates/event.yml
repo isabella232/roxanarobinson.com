@@ -26,3 +26,5 @@ fields:
   name: venue
   label: venue
   template: partial-venue
+pages:
+- content/event/2019-with-jacki-lyden-at-the-center-for-fiction.md
