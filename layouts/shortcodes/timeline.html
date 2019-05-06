@@ -29,22 +29,18 @@
 {{ define "events" }}
   {{ range $index, $timeline := sort (.Site.Data.timeline.years) ".year" "desc" }}    
     {{ $year := .year }}        
-    <h2 id="year-{{ .year }}" class="mt-4 md:mt-0 text-primary-color-dark text-xl">
+    <h2 id="year-{{ .year }}" class="mt-2 md:mt-0 text-primary-color-dark text-xl">
       {{- .year -}}
     </h2>
     
-    <div class="md:grid grid-columns-2 grid-dense mb-8">
+    <ul class="list-reset md:grid grid-columns-2 grid-dense mb-8">
       {{ range $i, $events := $timeline.events }}      
-        <div class="py-2">
-          <div class="bg-grey-lightest md:mx-2">
-            <div class="text-base">
+            <li class="text-base font-sans">
             —&nbsp;{{ .event | markdownify }}
-            </div>
-            
-          </div>
-        </div>
+            </li>            
+        
       {{ end }}
-    </div>
+    </ul>
   {{ end }}
 {{ end }}
 

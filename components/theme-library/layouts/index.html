@@ -1,13 +1,13 @@
 {{ define "main" }}
   {{ $books := where .Data.Pages "Section" "book" }}
-  <main class="mx-auto md:pt-16">
+  <main class="max-w-6xl mx-auto md:pt-16">
     <section class="flex flex-wrap lg:flex-row flex-col-reverse mx-auto px-4 md:px-4 py-8">
       {{ range first 1 $books  }}
-        <div class="w-full lg:w-3/4 flex flex-wrap lg:flex-row flex-col-reverse ">
+        <div class="w-full lg:w-3/4 flex flex-wrap lg:flex-row flex-col-reverse">
           {{ partial "home/book-cover-center.html" . }}
         </div>
       {{ end }}
-      <div class="hidden md:block w-full lg:w-1/4">
+      <div class="hidden font-sans md:block w-full lg:w-1/4">
         {{ partial "home/news-list.html" . }}
       </div>     
     </section>

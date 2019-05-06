@@ -1,21 +1,17 @@
 ---
 title: About Roxana
 class: about-the-author
-published: true
 form: forms-contact.html
 #permalink: "/about-the-author/"
-description: The official website of author Roxana Robinson, president of the Authors
-  Guild
+description: The official website of author Roxana Robinson, president of the Authors Guild
 ---
-
-
-![Roxana](/uploads/robinson1_si-303x335.jpg) Roxana Robinson is the author of nine books: five novels, including *Cost*; three collections of short stories; and the biography *Georgia O’Keeffe: A Life*. Her work has appeared in *The New Yorker*, *The Atlantic*, *Harper’s Magazine*, *The New York Times*, *The Washington Post*, *BookForum*, *Best American Short Stories*, *Tin House* and elsewhere. She teaches in the Hunter MFA Program and divides her time between New York, Connecticut, and Maine. She has received fellowships from the NEA and the Guggenheim Foundation. She was President of the Authors Guild from 2014-2017
+![Roxana](/uploads/robinson1_si-303x335.jpg) Roxana Robinson is the author of nine books: five novels, including _Cost_; three collections of short stories; and the biography _Georgia O’Keeffe: A Life_. Her work has appeared in _The New Yorker_, _The Atlantic_, _Harper’s Magazine_, _The New York Times_, _The Washington Post_, _BookForum_, _Best American Short Stories_, _Tin House_ and elsewhere. She teaches in the Hunter MFA Program and divides her time between New York, Connecticut, and Maine. She has received fellowships from the NEA and the Guggenheim Foundation. She was President of the Authors Guild from 2014-2017
 
 [Full Bio](/biography/)
 
 [Click here for hi-res images](#downloads)
 
-<hr>
+---
 
 {{< timeline "### Awards" >}}
 
@@ -23,22 +19,15 @@ description: The official website of author Roxana Robinson, president of the Au
 
 ### Downloads
 
-<hr>
-
-
-
-
-
+---
 
 [![](/uploads/sparta_robinson_275x400.jpg)](/uploads/sparta_robinson_275x400.jpg)[![](/uploads/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop.jpg)](/uploads/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop.jpg)[![](/uploads/Robinson_JoyceRavid.jpg)](/uploads/Robinson_JoyceRavid.jpg)
 
-
-
-
 <style>
-.about-the-author p a img {
+p a img {
   flex-basis:32%;
-  margin-right: 1%;
+  margin: auto;
+  text-align:center;
   max-width: 200px;
   flex-wrap: wrap;
   display: flex;

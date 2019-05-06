@@ -1,6 +1,7 @@
 // To use https://github.com/KyleAMathews/typefaces
 require("typeface-old-standard-tt")
-
+require("typeface-pt-serif")
+require("typeface-work-sans")
 // import "./css/styles.css";
 
 import "./js/polyfills.js"; //MUST GO AT TOP

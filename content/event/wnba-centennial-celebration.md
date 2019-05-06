@@ -11,7 +11,7 @@ venue:
   state: NY
 layout: event
 title: WNBA Centennial Celebration
-date: 2019-10-28T22:00:52.000+00:00
+date: 2017-10-28T22:00:52.000+00:00
 categories:
 - event
 link_to_original: ''

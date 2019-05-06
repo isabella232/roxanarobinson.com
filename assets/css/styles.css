@@ -8,12 +8,37 @@
 @import "tailwindcss/utilities";
 
 #content {
-	@apply font-serif text-gray-800 max-w-6xl text-lg mx-auto px-6;
+	@apply font-serif text-lg;
+}
+
+body.page #content,
+body.event #content,
+body.news #content {
+	@apply max-w-3xl mx-auto px-6;
+}
+
+body.home #content,
+body.page.book #content {
+	@apply max-w-5xl mx-auto  px-6;
 }
 
 body {
-	@apply border-solid border-primary-color-500 border-r-8 border-l-8;
+	@apply border-solid border-primary-color-500 border-r-8 border-l-8 text-gray-800;
 }
+/* body.home {
+	@apply text-gray-100;
+	background: linear-gradient(
+		to bottom,
+		#ffffff 0%,
+		rgba(125, 185, 232, 0.98) 10%,
+		rgba(125, 185, 232, 1) 50%,
+		#247ba0 100%
+	);
+}
+
+body.home .site-title {
+	@apply text-gray-800;
+} */
 .bordered {
 	@apply fixed w-full border-solid border-primary-color-500 border-b-8 z-10;
 }
@@ -42,21 +67,29 @@ header div {
 }
 
 header .site-title {
-	@apply font-brand text-4xl;
+	@apply font-brand text-5xl;
 }
 
 .tnd-Nav div {
-	@apply flex flex-wrap items-center inline-block mr-8;
+	@apply font-sans text-base flex flex-wrap items-center inline-block mr-8;
 }
 .tnd-Nav__item a {
-	@apply text-orange-500;
+	@apply text-primary-color-500 lowercase;
 }
 
 .page-heading {
-	@apply font-brand font-bold text-5xl mt-16 mb-4;
+	@apply font-serif font-normal text-5xl mt-16 mb-4 leading-tight;
+}
+
+body.book .page-heading {
+	@apply font-serif;
+}
+
+body.book p {
+	@apply font-sans;
 }
 blockquote.text-quotes {
-	@apply font-brand;
+	@apply font-serif;
 }
 
 footer {
@@ -79,7 +112,27 @@ footer div a {
 	@apply mt-24;
 }
 
-
 .description {
-	@apply  text-2xl;
+	@apply text-2xl;
+}
+
+.h-entry p img:first-of-type {
+	@apply float-left mr-4;
+}
+/* h2 {
+	@apply font-sans text-4xl;
+} */
+.h-entry h3 {
+	@apply text-3xl;
+}
+.h-entry p {
+	@apply font-sans;
+}
+.dim:hover {
+	@apply text-black;
+}
+
+
+.event-summary {
+	@apply font-sans;
 }

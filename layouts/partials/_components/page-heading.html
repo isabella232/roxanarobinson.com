@@ -1,0 +1,11 @@
+{{/*
+For sections, requires $section being passed through: {{partial "_components/page-heading.html" $section}}
+*/}}
+<h1 class="page-heading text-3xl mt-16 mb-0 p-0">
+  {{- .Title | markdownify -}}
+</h1>
+{{/*  {{ with .Description }}
+  <p class="text-sm m-0 p-0">
+    {{- . | markdownify -}}
+  </p>
+{{ end }}  */}}

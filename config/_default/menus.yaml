@@ -1,8 +1,4 @@
-main:
-  - identifier: home
-    name: Home
-    url: /
-    weight: 1
+main:  
   - identifier: books
     name: Books
     url: /book/
@@ -15,15 +11,19 @@ main:
     name: Media
     url: /media/
     weight: 30
+  - identifier: news
+    name: News
+    url: /news/
+    weight: 50
   - identifier: events
     name: Appearances
     url: /event/
-    weight: 40
+    weight: 60
   - identifier: about-the-author
     name: Bio
     url: /about-the-author/
-    weight: 50
+    weight: 70
   - identifier: contact
     name: Contact
     url: /contact/
-    weight: 60
+    weight: 80
