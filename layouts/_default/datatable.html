@@ -27,9 +27,9 @@
 	
 	{{/* The filter buttons using $cats */}}
     {{ with $cats }}
-        <div class="flex justify-between mt-16">
+        <div class="flex justify-left mt-16">
         	{{ range . }}
-        		<button id="filter-{{ .catName }}" class="border py-1 px-4">
+        		<button id="filter-{{ .catName }}" class="border py-1 px-4 mr-3">
         			{{ .name | safeHTML }}
         		</button>
         	{{ end }}
@@ -40,8 +40,8 @@
     {{/* The entries displayed with a <table> */}}
 	{{ with $entries }}
 	    <div id="entry-list" class="mt-8">
-	    	<input type="text" class="search border p-2 w-full mb-5 capitalize" placeholder="Search {{ $.Title }}">
-	    	<table class="mt-6">
+	    	<input type="text" class="font-sans search border p-2 w-full mb-5 capitalize" placeholder="Search {{ $.Title }}">
+	    	<table class="mt-6 font-sans text-gray-700">
 	    		<thead>
 	    			<tr>
 	    				<th class="sort asc" data-sort="category">Category <i class="fa fa-sort"></i></th>
@@ -50,25 +50,25 @@
 	    				<th class="sort" data-sort="publication">Publication <i class="fa fa-sort"></i></th>
 	    			</tr>
 	    		</thead> 
-	    		<tbody class="list">
+	    		<tbody class="list text-base">
 	    			{{ range $index, $entry := . }}
-	    				<tr>
-	    					<td class="category" width="15%">
+	    				<tr class="mb-2">
+	    					<td class="category w-full md:w-1/6">
 	    						{{ with .category }}
 	    							{{ delimit . ", " }}
 	    						{{ end }}
 	    					</td>
-	    					<td class="title" width="65%">
+	    					<td class="title w-full md:w-1/3">
 	    						{{ with .title }}
 	    							{{ . }}
 	    						{{ end }}
 	    					</td>
-	    					<td class="date" width="15%">
+	    					<td class="date w-full md:w-1/6">
 	    						{{ with .date }}
 	    							{{ . | dateFormat "2006-Jan-02" }}
 	    						{{ end }}
 	    					</td>
-	    					<td class="publication" width="20%">
+	    					<td class="publication w-full md:w-2/6">
 	    						{{ with .source }}
 	    							{{ with $entry.link_to_original }}
 	    								<a class="ss-redirect text-primary-color-400 italic" href="{{ . }}">{{ $entry.source }}</a>
