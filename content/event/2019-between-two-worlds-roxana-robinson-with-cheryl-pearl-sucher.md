@@ -1,7 +1,7 @@
 ---
 date: 2019-05-30T19:00:52-04:00
 show_time: true
-title: '2019 Between Two Worlds: Roxana Robinson with Cheryl Pearl Sucher'
+title: 'Between Two Worlds: Roxana Robinson with Cheryl Pearl Sucher'
 images: []
 venue:
   name: McNally Jackson
