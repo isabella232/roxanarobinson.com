@@ -1,7 +1,7 @@
 ---
 date: 2019-05-06T08:40:54-04:00
 show_time: true
-title: 2019 With Jacki Lyden at the Center for Fiction
+title: With Jacki Lyden at the Center for Fiction
 images: []
 venue:
   name: Center for Fiction
