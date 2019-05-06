@@ -1,0 +1,96 @@
+{{ define "main" }}
+	{{/* DATA
+		---------------------
+
+		Defaults var values have to be defined at the root
+		We set default values for $entries and $cats */}}
+	{{ $entries := false }}
+	{{ $cats := false }}
+	{{/* Both existing data models uses different key mapping for what will be displayed as title and publication
+		default value below are for "Writing" 
+
+	TODO: If possible, we should update data files to bring consistency and remove this overhead. */}}
+	{{ $titleKey := "title" }}
+	{{ $sourceKey := "publication" }}
+	{{/* Data files root name are stored in a page param "media" > "media.yaml, mediaCats.yaml" */}}
+	{{ with .Params.data }}
+		{{/* We grab the corresponding data files */}}
+		{{ $entries = index $.Site.Data . }}
+		{{ $cats = index $.Site.Data (printf "%sCats" .) }}
+		{{/* If we're dealing with "Media" we update title and publisher's key accordingly */}}
+		{{ if eq . "media" }}
+			{{ $titleKey = "description" }}
+			{{ $sourceKey = "source" }}
+		{{ end }}
+	{{ else }}
+	{{/* In case the "data" Param is missing we throw and error and interrupt the build */}}
+	{{ errorf "Page with layout `datatable` must have a `data` parameters pointing to its corresponding data files" }}
+	{{ end }}
+
+
+	{{/* MARKUP
+		---------  */}}
+
+	<div class="page-heading text-3xl p-0">
+		{{ .Title }}
+	</div>
+	
+	{{/* The filter buttons using $cats */}}
+    {{ with $cats }}
+        <div class="flex justify-between mt-16">
+        	{{ range . }}
+        		<button id="filter-{{ .catName }}" class="border py-1 px-4">
+        			{{ .name | safeHTML }}
+        		</button>
+        	{{ end }}
+        	<button id="filter-none" class="border hover p-1">Clear</button>
+        </div>
+    {{ end }}
+
+    {{/* The entries displayed with a <table> */}}
+	{{ with $entries }}
+	    <div id="entry-list" class="mt-8">
+	    	<input type="text" class="search border p-2 w-full mb-5 capitalize" placeholder="Search {{ $.Title }}">
+	    	<table class="mt-6">
+	    		<thead>
+	    			<tr>
+	    				<th class="sort asc" data-sort="category">Category <i class="fa fa-sort"></i></th>
+	    				<th class="sort" data-sort="title">Title <i class="fa fa-sort"></i></th>
+	    				<th class="sort date" data-sort="date">Date <i class="fa fa-sort"></i></th>
+	    				<th class="sort" data-sort="publication">Publication <i class="fa fa-sort"></i></th>
+	    			</tr>
+	    		</thead> 
+	    		<tbody class="list">
+	    			{{ range $index, $entry := . }}
+	    				<tr>
+	    					<td class="category" width="15%">
+	    						{{ with .category }}
+	    							{{ delimit . ", " }}
+	    						{{ end }}
+	    					</td>
+	    					<td class="title" width="65%">
+	    						{{ with index . $titleKey }}
+	    							{{ . }}
+	    						{{ end }}
+	    					</td>
+	    					<td class="date" width="15%">
+	    						{{ with .date }}
+	    							{{ . | dateFormat "2006-Jan-02" }}
+	    						{{ end }}
+	    					</td>
+	    					<td class="publication" width="20%">
+	    						{{ with index $sourceKey }}
+	    							{{ with $entry.link_to_original }}
+	    								<a class="ss-redirect primary-color-300 italic" href="{{ . }}">{{ index $entry $sourceKey }}</a>
+	    							{{ else }}
+	    								<span class="italic">{{ . }}</span>
+	    							{{ end }}
+	    						{{ end }}
+	    					</td>
+	    				</tr>
+	    			{{ end }}
+	    		</tbody>
+	    	</table>
+	    </div>	
+	{{ end }}
+{{ end }}

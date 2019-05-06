@@ -18,7 +18,8 @@ body.news #content {
 }
 
 body.home #content,
-body.page.book #content {
+body.page.book #content,
+body.page.datatable #content {
 	@apply max-w-5xl mx-auto  px-6;
 }
 
