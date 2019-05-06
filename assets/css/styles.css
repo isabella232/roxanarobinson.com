@@ -21,7 +21,7 @@ body.page.book #content,
 body.news #content {
 	@apply max-w-5xl mx-auto  px-6;
 }
-
+body.datatable #content,
 body.news #content {
 	@apply max-w-6xl mx-auto  px-6;
 }
@@ -84,7 +84,9 @@ header .site-title {
 .page-heading {
 	@apply font-serif font-normal text-5xl mt-16 mb-4 leading-tight;
 }
-
+.prose img, .prose iframe {
+	@apply max-w-full;
+}
 body.book .page-heading {
 	@apply font-serif;
 }

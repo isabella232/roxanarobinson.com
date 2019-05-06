@@ -1,20 +1,36 @@
 {{ define "main" }}
-  {{ $books := where .Data.Pages "Section" "book" }}
-  <main class="max-w-6xl mx-auto md:pt-16">
-    <section class="flex flex-wrap lg:flex-row flex-col-reverse mx-auto px-4 md:px-4 py-8">
-      {{ range first 1 $books  }}
-        <div class="w-full lg:w-3/4 flex flex-wrap lg:flex-row flex-col-reverse">
-          {{ partial "home/book-cover-center.html" . }}
-        </div>
-      {{ end }}
-      <div class="hidden font-sans md:block w-full lg:w-1/4">
-        {{ partial "home/news-list.html" . }}
-      </div>     
-    </section>
-    {{/* {{ range first 1 $books  }}
-    <div class="center mb5 pa4 w-75-l">
-      {{- partial "books/praise.html" (dict "count" 100 "Page" . ) -}}
+{{ $books := where .Data.Pages "Section" "book" }}
+<main class="max-w-6xl mx-auto md:pt-16">
+  <section class="flex flex-wrap lg:flex-row flex-col-reverse mx-auto px-4 md:px-4 py-8">
+    {{ range first 1 $books  }}
+    <div class="w-full lg:w-3/4 flex flex-wrap lg:flex-row flex-col-reverse">
+      {{ partial "home/book-cover-center.html" . }}
     </div>
-    {{ end }} */}}
-  </main>    
+    {{ end }}
+    <div class="hidden font-sans md:block w-full lg:w-1/4">
+      {{ partial "home/news-list.html" . }}
+    </div>
+  </section>
+  {{/* {{ range first 1 $books  }}
+  <div class="center mb5 pa4 w-75-l">
+    {{- partial "books/praise.html" (dict "count" 100 "Page" . ) -}}
+  </div>
+  {{ end }} */}}
+
+  {{/*  {{$news := where .Site.RegularPages "Section" "news"}}
+  {{ with $news }}
+  
+      <h2>More News</h2>
+      <section class="flex flex-wrap justify-between">
+        {{ range first 3 (after 3 .) }}
+        <div class="bg-gray-100 w-30 p-4 mb-4 ">
+          {{- partial "summary.html" . -}}
+        </div>
+        {{ end }}
+      </section>
+      {{ end }}
+        */}}
+  
+</main>
+
 {{ end }}

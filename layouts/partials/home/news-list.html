@@ -5,7 +5,7 @@
         <div class="px-6 py-4">
           <div class="text-base mb-2">
               {{- partial "_components/time.html" (dict "context" . "show_time" false "classes" "text-xs block color-inherit font-sans tracked") -}}
-          <a href="{{ .URL }}" class="news hover:dim no-underline text-primary-color-700 font-serif text-xl">  {{- .Title | markdownify -}}</a>
+          <a href="{{ .URL }}" class="news hover:dim no-underline text-primary-color-500 font-serif text-xl">  {{- .Title | markdownify -}}</a>
           </div>          
         </div>        
       </div>
