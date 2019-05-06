@@ -18,8 +18,7 @@ body.event #content {
 }
 
 body.home #content,
-body.page.book #content
- {
+body.page.book #content {
 	@apply max-w-5xl mx-auto  px-6;
 }
 body.section.news #content,
@@ -86,14 +85,16 @@ header .site-title {
 	@apply text-primary-color-400 lowercase;
 }
 
-.tnd-Nav__item--active a {
+.tnd-Nav__item--active a,
+.tnd-Nav__item a:hover {
 	@apply text-primary-color-700 border-b-2 border-primary-color-700;
 }
 
 .page-heading {
 	@apply font-serif font-normal text-5xl mt-16 mb-4 leading-tight;
 }
-.prose img, .prose iframe {
+.prose img,
+.prose iframe {
 	@apply max-w-full;
 }
 body.book .page-heading {
@@ -130,7 +131,6 @@ footer div a {
 .description {
 	@apply text-2xl;
 }
-
 
 /* h2 {
 	@apply font-sans text-4xl;
