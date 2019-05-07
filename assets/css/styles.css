@@ -24,7 +24,15 @@ body.page.book #content {
 body.section.news #content,
 body.datatable #content,
 body.news #content {
-	@apply max-w-6xl mx-auto;
+	@apply max-w-6xl mx-auto px-6;
+}
+@screen lg {
+	body.section.news #content,
+	body.datatable #content,
+	body.news #content {
+		@apply px-0;
+	}
+	
 }
 
 body {
