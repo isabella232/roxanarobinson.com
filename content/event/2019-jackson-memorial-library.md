@@ -1,5 +1,5 @@
 ---
-date: 2019-07-06T18:00:55-04:00
+date: 2019-07-09T18:00:55-04:00
 show_time: false
 title: Jackson Memorial Library
 images: []
