@@ -17,6 +17,11 @@ fields:
   hidden: false
   default: ''
   description: 'Put an asterisk (*) around any word to *italicize* it. '
+- name: link_to_original
+  type: text
+  config:
+    required: false
+  label: Link to Original
 - type: select
   name: book
   config:

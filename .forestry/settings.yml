@@ -32,7 +32,7 @@ sections:
   - book
 - type: directory
   path: content/review
-  label: Reviews
+  label: Review Quotes
   create: documents
   match: "**/*"
   exclude: index.md
