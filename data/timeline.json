@@ -1,10 +1,20 @@
 {
   "years": [
     {
+      "year": 2019,
+      "events": [
+        {
+          "event": "2019 Barnes & Noble Writers for Writers Award",
+          "image": ""
+        }
+      ]
+    },
+    {
       "year": 2015,
       "events": [
         {
-          "event": "Finalist - Nona Balakian Citation for Excellence in Reviewing, NBCC"
+          "event": "Finalist - Nona Balakian Citation for Excellence in Reviewing, NBCC",
+          "image": ""
         }
       ]
     },
@@ -12,22 +22,28 @@
       "year": 2014,
       "events": [
         {
-          "event": "*Sparta* winner of the James Webb Award"
+          "event": "*Sparta* winner of the James Webb Award",
+          "image": ""
         },
         {
-          "event": "*Sparta* included on Short List for the 2015 International IMPAC Dublin Literary Award."
+          "event": "*Sparta* included on Short List for the 2015 International IMPAC Dublin Literary Award.",
+          "image": ""
         },
         {
-          "event": "Fiction Award, Maine Writers and Publishers Alliance, for *Sparta*"
+          "event": "Fiction Award, Maine Writers and Publishers Alliance, for *Sparta*",
+          "image": ""
         },
         {
-          "event": "*Sparta* a Best Books of the Year at the Chicago Tribune"
+          "event": "*Sparta* a Best Books of the Year at the Chicago Tribune",
+          "image": ""
         },
         {
-          "event": "*Sparta* a Best Books of the Year at the BBC"
+          "event": "*Sparta* a Best Books of the Year at the BBC",
+          "image": ""
         },
         {
-          "event": "*Sparta*, Publishers Weekly, The 10 Best Contemporary War Novels"
+          "event": "*Sparta*, Publishers Weekly, The 10 Best Contemporary War Novels",
+          "image": ""
         }
       ]
     },
@@ -35,10 +51,12 @@
       "year": 2013,
       "events": [
         {
-          "event": "Finalist - Nona Balakian Citation for Excellence in Reviewing, NBCC"
+          "event": "Finalist - Nona Balakian Citation for Excellence in Reviewing, NBCC",
+          "image": ""
         },
         {
-          "event": "BBC's “Ten best books of 2013”"
+          "event": "BBC's “Ten best books of 2013”",
+          "image": ""
         }
       ]
     },
@@ -46,19 +64,24 @@
       "year": 2008,
       "events": [
         {
-          "event": "Fiction Award, Maine Writers and Publishers Alliance, for *Cost*"
+          "event": "Fiction Award, Maine Writers and Publishers Alliance, for *Cost*",
+          "image": ""
         },
         {
-          "event": "*Cost* named One of the Best Five Fiction Books of the Year by *The Washington Post*"
+          "event": "*Cost* named One of the Best Five Fiction Books of the Year by *The Washington Post*",
+          "image": ""
         },
         {
-          "event": "*Cost* named *New York Times* Editors’ Choice"
+          "event": "*Cost* named *New York Times* Editors’ Choice",
+          "image": ""
         },
         {
-          "event": "*Cost* on the best books of the year lists at *The Wall Street Journal*, *The Seattle Times*, and the *Chicago Tribune*"
+          "event": "*Cost* on the best books of the year lists at *The Wall Street Journal*, *The Seattle Times*, and the *Chicago Tribune*",
+          "image": ""
         },
         {
-          "event": "*Cost* named spring 2008 Recommended Reads choice of the National Book Critics Circle"
+          "event": "*Cost* named spring 2008 Recommended Reads choice of the National Book Critics Circle",
+          "image": ""
         }
       ]
     },
@@ -66,7 +89,8 @@
       "year": 2006,
       "events": [
         {
-          "event": "\"A Perfect Stranger,” the story, listed in *Best American Short Stories*"
+          "event": "\"A Perfect Stranger,” the story, listed in *Best American Short Stories*",
+          "image": ""
         }
       ]
     },
@@ -74,7 +98,8 @@
       "year": 2005,
       "events": [
         {
-          "event": "Blind Man” was listed in *Best American Short Stories*"
+          "event": "Blind Man” was listed in *Best American Short Stories*",
+          "image": ""
         }
       ]
     },
@@ -82,19 +107,24 @@
       "year": 2003,
       "events": [
         {
-          "event": "*Sweetwater* named Barnes and Noble Best Books of 2003"
+          "event": "*Sweetwater* named Barnes and Noble Best Books of 2003",
+          "image": ""
         },
         {
-          "event": "*Sweetwater* named a *New York Times* Notable Book of the Year"
+          "event": "*Sweetwater* named a *New York Times* Notable Book of the Year",
+          "image": ""
         },
         {
-          "event": "*Sweetwater* named a Book Sense choice"
+          "event": "*Sweetwater* named a Book Sense choice",
+          "image": ""
         },
         {
-          "event": "*Sweetwater* named a Literary Guild Featured Alternate Selection"
+          "event": "*Sweetwater* named a Literary Guild Featured Alternate Selection",
+          "image": ""
         },
         {
-          "event": "*Sweetwater* named *Chicago Tribune* Best Books of 2003"
+          "event": "*Sweetwater* named *Chicago Tribune* Best Books of 2003",
+          "image": ""
         }
       ]
     },
@@ -102,13 +132,16 @@
       "year": 2001,
       "events": [
         {
-          "event": "\"Face-Lift” selected by Houghton Mifflin for inclusion in *Best American Mystery Stories*"
+          "event": "\"Face-Lift” selected by Houghton Mifflin for inclusion in *Best American Mystery Stories*",
+          "image": ""
         },
         {
-          "event": "\"Family Christmas,” Finalist, National Magazine Awards for Fiction"
+          "event": "\"Family Christmas,” Finalist, National Magazine Awards for Fiction",
+          "image": ""
         },
         {
-          "event": "\"Face-Lift” and “Family Christmas” listed in *Best American Short Stories*"
+          "event": "\"Face-Lift” and “Family Christmas” listed in *Best American Short Stories*",
+          "image": ""
         }
       ]
     },
@@ -116,10 +149,12 @@
       "year": 2000,
       "events": [
         {
-          "event": "Fellowship from the John S. Guggenheim Foundation"
+          "event": "Fellowship from the John S. Guggenheim Foundation",
+          "image": ""
         },
         {
-          "event": "\"Assistance,” published in *The Atlantic*, listed in *Best American Short Stories*"
+          "event": "\"Assistance,” published in *The Atlantic*, listed in *Best American Short Stories*",
+          "image": ""
         }
       ]
     },
@@ -127,10 +162,12 @@
       "year": 1999,
       "events": [
         {
-          "event": "*This Is My Daughter* received the Washington Irving Award, Westchester Library Association"
+          "event": "*This Is My Daughter* received the Washington Irving Award, Westchester Library Association",
+          "image": ""
         },
         {
-          "event": "Fellowship from The McDowell Colony, September/October"
+          "event": "Fellowship from The McDowell Colony, September/October",
+          "image": ""
         }
       ]
     },
@@ -138,7 +175,8 @@
       "year": 1998,
       "events": [
         {
-          "event": "*This Is My Daughter* named a Notable Book of the Year by *The New York Times*"
+          "event": "*This Is My Daughter* named a Notable Book of the Year by *The New York Times*",
+          "image": ""
         }
       ]
     },
@@ -146,10 +184,12 @@
       "year": 1997,
       "events": [
         {
-          "event": "*Asking for Love* named one of the Notable Books of the Year by the American Library Association"
+          "event": "*Asking for Love* named one of the Notable Books of the Year by the American Library Association",
+          "image": ""
         },
         {
-          "event": "Washington Irving Award, Westchester Library Association"
+          "event": "Washington Irving Award, Westchester Library Association",
+          "image": ""
         }
       ]
     },
@@ -157,7 +197,8 @@
       "year": 1995,
       "events": [
         {
-          "event": "\"King of the Sky” and “Leaving Home” listed in *Best American Short Stories*"
+          "event": "\"King of the Sky” and “Leaving Home” listed in *Best American Short Stories*",
+          "image": ""
         }
       ]
     },
@@ -165,10 +206,12 @@
       "year": 1994,
       "events": [
         {
-          "event": "\"Mr. Sumarsono,” story published in *The Atlantic*, chosen for *Best American Short Stories*"
+          "event": "\"Mr. Sumarsono,” story published in *The Atlantic*, chosen for *Best American Short Stories*",
+          "image": ""
         },
         {
-          "event": "Founders’ Day Award for Literature, The Shipley School, Bryn Mawr, Pennsylvania, April 16, 1994"
+          "event": "Founders’ Day Award for Literature, The Shipley School, Bryn Mawr, Pennsylvania, April 16, 1994",
+          "image": ""
         }
       ]
     },
@@ -176,13 +219,16 @@
       "year": 1992,
       "events": [
         {
-          "event": "*A Glimpse of Scarlet and Other Stories*, paperback, named Notable Book of the Year by *The New York Times*"
+          "event": "*A Glimpse of Scarlet and Other Stories*, paperback, named Notable Book of the Year by *The New York Times*",
+          "image": ""
         },
         {
-          "event": "\"The Time for Kissing,” story published in *The Atlantic*, finalist, National Magazine Awards for fiction"
+          "event": "\"The Time for Kissing,” story published in *The Atlantic*, finalist, National Magazine Awards for fiction",
+          "image": ""
         },
         {
-          "event": "\"The Time for Kissing,” listed in *Best American Short Stories*"
+          "event": "\"The Time for Kissing,” listed in *Best American Short Stories*",
+          "image": ""
         }
       ]
     },
@@ -190,13 +236,16 @@
       "year": 1991,
       "events": [
         {
-          "event": "*A Glimpse of Scarlet and Other Stories*, named a Notable Book of the Year by *The New York Times*"
+          "event": "*A Glimpse of Scarlet and Other Stories*, named a Notable Book of the Year by *The New York Times*",
+          "image": ""
         },
         {
-          "event": "*Georgia O’Keeffe: A Life* paperback, named one of the Recommended Books of the Year by *The New York Times*"
+          "event": "*Georgia O’Keeffe: A Life* paperback, named one of the Recommended Books of the Year by *The New York Times*",
+          "image": ""
         },
         {
-          "event": "Honored as a Literary Lion by the New York Public Library, New York"
+          "event": "Honored as a Literary Lion by the New York Public Library, New York",
+          "image": ""
         }
       ]
     },
@@ -204,13 +253,16 @@
       "year": 1990,
       "events": [
         {
-          "event": "*Georgia O’Keeffe: A Life*, nominated for the Charles Eldredge Award for Scholarship, Smithsonian Institution"
+          "event": "*Georgia O’Keeffe: A Life*, nominated for the Charles Eldredge Award for Scholarship, Smithsonian Institution",
+          "image": ""
         },
         {
-          "event": "Nominated for the National Book Critics Circle Award"
+          "event": "Nominated for the National Book Critics Circle Award",
+          "image": ""
         },
         {
-          "event": "Recipient of a Washington Irving Award"
+          "event": "Recipient of a Washington Irving Award",
+          "image": ""
         }
       ]
     },
@@ -218,10 +270,12 @@
       "year": 1989,
       "events": [
         {
-          "event": "*Georgia O’Keeffe: A Life* named one of the Recommended Books of the Year by *The New York Times*, 1989, hardbound, and 1990, paperback"
+          "event": "*Georgia O’Keeffe: A Life* named one of the Recommended Books of the Year by *The New York Times*, 1989, hardbound, and 1990, paperback",
+          "image": ""
         },
         {
-          "event": "*Summer Light* chosen for inclusion in the Pennsylvania Writers Collection"
+          "event": "*Summer Light* chosen for inclusion in the Pennsylvania Writers Collection",
+          "image": ""
         }
       ]
     },
@@ -229,7 +283,8 @@
       "year": 1988,
       "events": [
         {
-          "event": "*Summer Light*, Washington Irving Book Award, Westchester Library Association"
+          "event": "*Summer Light*, Washington Irving Book Award, Westchester Library Association",
+          "image": ""
         }
       ]
     },
@@ -237,7 +292,8 @@
       "year": 1987,
       "events": [
         {
-          "event": "National Endowment for the Arts fellowship in creative writing"
+          "event": "National Endowment for the Arts fellowship in creative writing",
+          "image": ""
         }
       ]
     },
@@ -245,7 +301,8 @@
       "year": 1984,
       "events": [
         {
-          "event": "Getting On,” published in *The New Yorker*, listed in *Best American Short Stories*"
+          "event": "Getting On,” published in *The New Yorker*, listed in *Best American Short Stories*",
+          "image": ""
         }
       ]
     }
