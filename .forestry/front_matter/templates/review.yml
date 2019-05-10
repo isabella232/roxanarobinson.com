@@ -32,3 +32,5 @@ fields:
   label: weight
   template: partial-weight
   hidden: true
+pages:
+- content/review/wapo-on-dawson-s-fall.md
