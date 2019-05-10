@@ -11,11 +11,11 @@ fields:
     label: Year
   - type: field_group_list
     name: events
-    label: Events
+    label: Awards
     fields:
     - type: textarea
       name: event
-      label: Event
+      label: Award
       config:
         wysiwyg: true
         schema:
@@ -23,5 +23,6 @@ fields:
     - type: file
       name: image
       label: Image
+      hidden: true
 pages:
 - data/timeline.json
