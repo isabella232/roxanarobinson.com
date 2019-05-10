@@ -11,26 +11,11 @@
       {{ partial "home/news-list.html" . }}
     </div>
   </section>
-  {{/* {{ range first 1 $books  }}
-  <div class="center mb5 pa4 w-75-l">
+  {{ range first 1 $books  }}
+  <div class="my-12 p-4 lg:w-full mx-auto">
     {{- partial "books/praise.html" (dict "count" 100 "Page" . ) -}}
   </div>
-  {{ end }} */}}
-
-  {{/*  {{$news := where .Site.RegularPages "Section" "news"}}
-  {{ with $news }}
-  
-      <h2>More News</h2>
-      <section class="flex flex-wrap justify-between">
-        {{ range first 3 (after 3 .) }}
-        <div class="bg-gray-100 w-30 p-4 mb-4 ">
-          {{- partial "summary.html" . -}}
-        </div>
-        {{ end }}
-      </section>
-      {{ end }}
-        */}}
-  
+  {{ end }}
 </main>
 
 {{ end }}
