@@ -1,5 +1,5 @@
 ---
-date: 2019-05-10T12:16:19-04:00
+date: 2019-04-29T12:16:19-04:00
 title: Wapo on Dawson's Fall
 attribution: Bethanne Patrick, *Washington Post*
 book: book/dawsons-fall.md
