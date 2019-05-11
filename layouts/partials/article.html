@@ -10,6 +10,7 @@
   {{ end }}
     {{partial "_components/image-article.html" .}}        
     {{ .Content }}
+    {{partial "_components/link-to-original.html" .}}        
     <div class="border-t">{{- partial "_components/event-venue.html" . -}}</div>
   </section>
 </article>
