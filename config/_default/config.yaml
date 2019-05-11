@@ -3,7 +3,7 @@ MetaDataFormat: yaml
 buildFuture: true
 baseURL: https://www.roxanarobinson.com
 enableRobotsTXT: true
-googleAnalytics: ''
+googleAnalytics: 'UA-50141097-3'
 languageCode: en-us
 themesDir: components
 theme:
