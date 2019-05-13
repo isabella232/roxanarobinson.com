@@ -2,24 +2,16 @@
 title: Biography
 published: true
 class: about-the-author
-#permalink: "/"
 description: The official website of author Roxana Robinson, president of the Authors
   Guild
+
 ---
+![](/uploads/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG.jpg) Roxana Robinson is the author of ten books - six novels, three collections of short stories, and the biography of Georgia O’Keeffe. Four of these were chosen as _New York Times Notable Books ,_ two as _New York Times_ Editors’ Choices.
 
+Her fiction has appeared in _The New Yorker, The Atlantic, Harper’s, Best American Short Stories, Tin House_ and elsewhere. Her work has been widely anthologized and broadcast on NPR. Her books have been published in England, France, Germany, Holland and Spain. Robinson is a scholar of American paintings and an environmentalist, and her essays, criticism and Op-Eds have appeared in _The New York Times,_ _The International Herald Tribune, The Chicago Tribune,_ _The Philadelphia Inquirer,The Washington Post, Bookforum, The Nation_ and elsewhere. She has twice been a finalist for the Balakian Award for Criticism from the NBCC.
 
-![](/uploads/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG.jpg) Born in Pine Mountain, Kentucky, Roxana Robinson grew up in New Hope, Pennsylvania. She graduated from Buckingham Friends School, in Lahaska, and from The Shipley School, in Bryn Mawr. She attended Bennington College and studied with Bernard Malamud and Howard Nemerov. She received a B.A. degree in English Literature from the University of Michigan
+Her novel, _Cost,_ won the Maine Writers and Publishers Alliance Fiction Award for 2008, and it was listed as one of the Best Books of the Year by the _Chicago_ _Tribune_, _Library_ _Journal_, _The_ _Seattle_ _Times_ and _The_ _Wall_ _Street_ _Journal_. It was named one of the Five Best Fiction Books of the Year by _The_ _Washington Post._
 
-Ms. Robinson has received fellowships from the Guggenheim Foundation, the National Endowment for the Arts, and The MacDowell Colony. She is a critically acclaimed fiction writer and the author of five novels and three collections of short stories. Her work has been compared to John Cheever’s by *The New York Times*and to Edith Wharton’s by *Time *magazine. It has appeared in *The New Yorker*, *The Atlantic*, *Harper’s*, *One Story*, *Best American Short Stories*, and elsewhere. Her work has been widely anthologized and broadcast on National Public Radio. Four of her works have been chosen Notable Books of the Year by *The New York Times*, and she was named a Literary Lion by The New York Public Library.
+Her novel, _Sparta_, won the Maine Fiction Award, the James Webb Award from the USMCHF, was named one of the Ten Best Books of the Year by the BBC, and was short-listed for the Dublin Impac Award.
 
-Roxana Robinson has taught at Wesleyan University and the University of Houston. She teaches in the MFA Program at Hunter College, CUNY.
-
-Roxana Robinson is currently the President of the Authors Guild. She has been a Trustee at PEN, the National Center for the Humanities, the Northeast Harbor Library, the Maine Coast Heritage Trust and at the Authors Guild.
-
-Ms. Robinson is also a biographer and scholar of nineteenth and early twentieth century American art. Her articles have appeared in *Arts*, *ARTnews*, and *Art & Antiques* as well as in exhibition catalogs for the Metropolitan Museum of Art, the Katonah Museum of Art, and other institutions. Her biography of Georgia O’Keeffe was short-listed for the National Book Critics Circle Award and was named one of *The New York Times* Most Notable Books of the Year. Ms. Robinson lectures frequently on Georgia O’Keeffe and appeared in the BBC documentary on the artist. Her biography is considered the definitive work, called by Calvin Tomkins, of *The New Yorker*, “without question the best book written about O’Keeffe.”
-
-She reviews books for *The New York Times* and the *Washington Post*, and her work has appeared in *The Wall Street Journal*, *The Boston Globe*, *Slate*, *The Nation*, *Harper’s*, *Bookforum*, *Tin House*, *LitHub* and elsewhere.
-
-Ms. Robinson is also a gardener and garden writer, and her essays in this field have appeared in *Horticulture*, *House and Garden*, *House Beautiful*, and *Fine Gardening*. For years, her garden was listed in the Garden Conservancy Open Days, and it has been written about in *The* *New York Times*, *House and Garden*, *Traditional Homes*, *The Atlantic*, *Gardens Illustrated*, and other publications.
-
-She was President of the Authors Guild from 2014-2017.
+Roxana Robinson has received fellowships from the NEA, the MacDowell Colony and the Guggenheim Foundation, and she was named a Literary Lion by the New York Public Library. Robinson has served on the Boards of PEN and the Authors Guild, and was the president of the Authors Guild from 2013-2017. In 2019 she received the Barnes and Noble “Writers for Writers Award,” given by Poets and Writers.
