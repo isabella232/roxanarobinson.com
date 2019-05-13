@@ -4,6 +4,8 @@ class: about-the-author
 form: forms-contact.html
 description: The official website of author Roxana Robinson, president of the Authors
   Guild
+images: []
+weight: 
 
 ---
 ![Roxana](/uploads/robinson1_si-303x335.jpg) Roxana Robinson is the author of ten books - six novels, three collections of short stories, and the biography of Georgia O’Keeffe. Four of these were chosen as _New York Times Notable Books ,_ two as _New York Times_ Editors’ Choices.
