@@ -27,8 +27,8 @@ fields:
   label: venue
   template: partial-venue
 pages:
-- content/event/2019-jackson-memorial-library.md
 - content/event/2019-between-two-worlds-roxana-robinson-with-cheryl-pearl-sucher.md
+- content/event/2019-jackson-memorial-library.md
 - content/event/2019-the-white-hart-speaker-series-roxana-robinson.md
 - content/event/2019-cornwall-library.md
 - content/event/2019-reading-from-dawson-s-fall-at-politics-and-prose.md
