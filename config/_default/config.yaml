@@ -12,6 +12,7 @@ theme:
   - timeline
   - events
   - layout_module-base  
+  - seo
   
 
 preserveTaxonomyNames: true
