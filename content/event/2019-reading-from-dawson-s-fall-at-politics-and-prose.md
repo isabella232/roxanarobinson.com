@@ -1,7 +1,7 @@
 ---
-date: 2019-06-03T19:00:14-04:00
+date: 2019-06-03T23:00:14.000+00:00
 show_time: true
-title: Reading from Dawson's Fall at Politics and Prose
+title: Reading from *Dawson's Fall* at Politics and Prose
 images: []
 venue:
   name: Politics & Prose
