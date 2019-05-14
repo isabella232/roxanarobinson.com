@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ $.Site.LanguageCode | default "en" }}" class="no-js">
   <head>
+    {{/* TODO: Replace with SEO component */}}
+      <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
     {{ block "head" .}}
       {{- partial "_head/_head.html" . -}}
     {{ end }}
