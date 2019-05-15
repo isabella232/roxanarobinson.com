@@ -1,5 +1,19 @@
 <div class="pt-4">
   {{- partial "_components/time.html" (dict "context" . "show_time" true ) -}}
-  {{- partial "summary.html" . -}}
+  <div class="prose">
+    <h2 class="text-2xl mb-1">
+      <a href="{{.Permalink}}">{{.Title | markdownify }}</a></h2>      
+    {{ with .Params.Description }}
+      <div class="font-sans text-base">
+        {{ . }}
+      </div>
+    {{else}}
+      {{ with .Content }}
+        <div class="font-sans text-base">
+          {{- . | truncate 500 -}}
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
   {{- partial "_components/event-venue.html" . -}}
 </div>
