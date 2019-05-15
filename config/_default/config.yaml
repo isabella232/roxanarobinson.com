@@ -16,7 +16,7 @@ theme:
   
 
 preserveTaxonomyNames: true
-#disableAliases: true
+disableAliases: true
 blackfriday:
   extensionsmask:
     - noIntraEmphasis
