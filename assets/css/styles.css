@@ -90,7 +90,7 @@ header .site-title {
 	@apply font-sans text-base flex flex-wrap items-center inline-block mr-8;
 }
 .tnd-Nav__item a {
-	@apply text-primary-color-400 lowercase;
+	@apply text-primary-color-400;
 }
 
 .tnd-Nav__item--active a,

@@ -7,9 +7,9 @@ main:
     name: Writing
     url: /writing/
     weight: 20
-  - identifier: media
-    name: Media
-    url: /media/
+  - identifier: inverviews
+    name: Interviews
+    url: /interviews/
     weight: 30
   - identifier: news
     name: News
