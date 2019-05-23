@@ -10,6 +10,5 @@ venue:
   state: Mass
   zip: ''
   link: 'https://www.edithwharton.org/event/biographical-fiction-in-dawsons-fall/ '
-draft: true
 
 ---
