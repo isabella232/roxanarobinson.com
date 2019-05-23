@@ -38,5 +38,6 @@ fields:
   template: partial-weight
   hidden: true
 pages:
+- content/review/the-new-yorker.md
 - content/review/harlan-greene-on-dawson-s-fall.md
 - content/review/wapo-on-dawson-s-fall.md
