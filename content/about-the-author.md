@@ -20,33 +20,12 @@ Her fiction has appeared in _The New Yorker, The Atlantic, Harper’s, Best Amer
 
 {{< timeline "### Awards" >}}
 
-<hr>
+***
 
 ### Downloads
 
 ***
 
-[![](/uploads/sparta_robinson_275x400.jpg)](/uploads/sparta_robinson_275x400.jpg)[![](/uploads/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop.jpg)](/uploads/Roxana-ROBINSON-14David-Ignaszewski-koboy_LG-crop.jpg)[![](/uploads/Robinson_JoyceRavid.jpg)](/uploads/Robinson_JoyceRavid.jpg)
+![](/uploads/9780374135218.jpg "Dawson's Fall Cover") ![](/uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg "Roxana Robinson, by Beowulf Sheehan")
 
-<style>
-p a img {
-flex-basis:32%;
-margin: auto;
-text-align:center;
-max-width: 200px;
-flex-wrap: wrap;
-display: flex;
-
-}
-</style>
-<div style="width:100%;clear:both;margin:2em 0;"> </div>
-
-### Sources
-
-\--- SPARTA Cover (6"X10" 72 ppi)
-
-\--- Roxana Robinson, credit ©2010 David Ignaszewski/Koboy (4"X6" 300ppi)
-
-\--- Roxana Robinson, credit ©2008 JoyceRavid (5X6.5 @ 300ppi)
-
-\--- Roxana Robinson, credit ©2008 JoyceRavid (5X6.5 @ 300ppi)
+### photo credit: Beowulf Sheehan
