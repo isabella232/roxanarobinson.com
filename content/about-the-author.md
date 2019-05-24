@@ -14,7 +14,7 @@ Her fiction has appeared in _The New Yorker, The Atlantic, Harper’s, Best Amer
 
 [Full Bio](/biography/)
 
-[Click here for hi-res images](#downloads)
+[Click here for hi-res images](#click-image-to-download-hi-res-version)
 
 ***
 
