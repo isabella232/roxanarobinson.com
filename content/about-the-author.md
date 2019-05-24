@@ -26,6 +26,8 @@ Her fiction has appeared in _The New Yorker, The Atlantic, Harper’s, Best Amer
 
 ***
 
-![](/uploads/9780374135218.jpg "Dawson's Fall Cover") ![](/uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg "Roxana Robinson, by Beowulf Sheehan")
+[![](/uploads/9780374135218.jpg "Dawson's Fall Cover") ](/uploads/cover-dawsons-fall-large.jpg)
 
+[![](/uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg "Roxana Robinson, by Beowulf Sheehan")
+](/uploads/Roxana-Robinson-by-Beowulf-Sheehan-large.jpg)
 ### photo credit: Beowulf Sheehan
