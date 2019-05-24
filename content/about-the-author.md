@@ -22,7 +22,7 @@ Her fiction has appeared in _The New Yorker, The Atlantic, Harper’s, Best Amer
 
 ***
 
-### Downloads
+### Click image to download hi-res version
 
 ***
 
