@@ -156,3 +156,13 @@ footer div a {
 .event-summary {
 	@apply font-sans;
 }
+
+
+.images img {
+	@apply h-64 mr-2;
+}
+
+.images {
+	@apply w-full mb-32 flex flex-wrap;
+}
+

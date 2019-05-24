@@ -24,4 +24,8 @@ Alison Granucci, Blue Flower Arts <alison@blueflowerarts.com>
 
 ### Get in Touch
 
-If you’d like to contact me directly, click here.  Send me a message, or invite me to visit your book group, in person or by skype.
+If you’d like to contact me directly, use the form below.  Send me a message, or invite me to visit your book group, in person or by skype.
+
+{{< form-contact>}}
+
+---
