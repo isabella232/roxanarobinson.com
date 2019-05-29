@@ -5,10 +5,10 @@ title: Cornwall Library, 30 Pine Street, Cornwall CT
 images: []
 venue:
   name: Cornwall Library
-  address: 395 Hudson St
+  address: 30 Pine Street
   city: Cornwall
   state: CT
-  zip: "12518"
+  zip: ''
   link: ''
 
 ---
