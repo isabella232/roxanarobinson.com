@@ -82,5 +82,5 @@ fields:
   description: Optional (may not be in use)
   hidden: true
 pages:
-- content/book/a-glimpse-of-scarlet.md
 - content/book/a-perfect-stranger-and-other-stories.md
+- content/book/a-glimpse-of-scarlet.md
