@@ -10,6 +10,5 @@ venue:
   state: Maine
   zip: ''
   link: 'https://www.coa.edu/live/files/1001-summer-calendar-2019 '
-draft: true
 
 ---
