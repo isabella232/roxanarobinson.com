@@ -1,0 +1,16 @@
+<div class="flex flex-wrap items-center justify-center">
+  {{ range .Pages.GroupByParam "contributor" }}
+    {{ range .Pages }}
+      {{ $path := .Title | urlize }}
+      {{ with .Params.editions }}
+        <div class="flex flex-wrap justify-between mb-4">
+          {{ range . }}      
+            <a href="#{{ $path }}" class="block">
+              <img src="{{ .cover_image }}" alt="" class="h-48 md:h-64 mx-2 md:mx-4 shadow-lg hover:shadow-outline">          
+            </a>      
+          {{ end }}
+        </div>
+      {{ end }}        
+    {{ end }}
+  {{ end }}
+</div>
