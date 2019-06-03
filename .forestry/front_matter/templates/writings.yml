@@ -1,0 +1,44 @@
+---
+label: writings
+hide_body: true
+fields:
+- type: field_group_list
+  name: Writing
+  label: Writing
+  fields:
+  - type: datetime
+    name: date
+    label: date
+  - name: category
+    type: list
+    config:
+      use_select: true
+      min: 
+      max: 
+      source:
+        type: simple
+      options:
+      - Essays
+      - Book Reviews
+      - Anthologies & Collections
+      - Travel
+      - Short Stories
+      - Art History
+    label: Category
+  - type: text
+    name: source
+    label: source
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: link_to_original
+    label: link_to_original
+  - type: text
+    name: related_book
+    label: related_book
+  - type: text
+    name: content
+    label: content
+pages:
+- data/writing.yaml
