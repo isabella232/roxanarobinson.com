@@ -32,3 +32,5 @@ fields:
     name: related_book
     label: related_book
     hidden: true
+pages:
+- data/media.yaml
