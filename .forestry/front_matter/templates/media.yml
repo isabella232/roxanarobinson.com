@@ -6,6 +6,9 @@ fields:
   name: Media
   label: Media
   fields:
+  - type: text
+    name: title
+    label: Title
   - type: list
     name: category
     label: category
@@ -22,9 +25,6 @@ fields:
   - type: text
     name: source
     label: source
-  - type: text
-    name: description
-    label: description
   - type: textarea
     name: link_to_original
     label: link_to_original
