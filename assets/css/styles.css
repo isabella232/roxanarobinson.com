@@ -117,7 +117,7 @@ blockquote.text-quotes {
 }
 
 footer {
-	@apply flex flex-wrap items-center font-sans justify-between py-4;
+	@apply flex flex-wrap items-center font-sans justify-between py-4 px-4;
 }
 
 footer a {
@@ -166,3 +166,6 @@ footer div a {
 	@apply w-full mb-32 flex flex-wrap;
 }
 
+h2.past-events {
+	@apply text-5xl border-b-4 border-black;
+}

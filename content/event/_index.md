@@ -1,5 +1,6 @@
 ---
-title: Appearances 
+title: Events 
 aliases:
  - /appearances/
+ - /events/
 ---
