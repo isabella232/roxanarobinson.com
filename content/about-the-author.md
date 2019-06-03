@@ -12,7 +12,7 @@ weight:
 
 Her fiction has appeared in _The New Yorker, The Atlantic, Harper’s, Best American Short Stories, Tin House_ and elsewhere. Her work has been widely anthologized and broadcast on NPR. Her books have been published in England, France, Germany, Holland and Spain.
 
-Roxana Robinson has received fellowships from the NEA, the MacDowell Colony and the Guggenheim Foundation, and she was named a Literary Lion by the New York Public Library.
+She is the recipient of many awards, the most recent the Barnes & Noble “Writers for Writers” Award, from Poets & Writers.
 
 [Full Bio](/biography/)
 
