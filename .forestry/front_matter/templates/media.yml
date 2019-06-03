@@ -9,6 +9,13 @@ fields:
   - type: list
     name: category
     label: category
+    config:
+      use_select: true
+      source:
+        type: simple
+      options:
+      - Interview
+      - Reading
   - type: datetime
     name: date
     label: date
