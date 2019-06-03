@@ -15,10 +15,10 @@
       <main role="main">
         {{ block "hero" . }}{{ end }}
         {{ block "main" . }}{{ end }}
-      </main>
-      {{ block "footer" . }}
+      </main>      
+    </div>   
+    {{ block "footer" . }}
         {{- partial "_global/footer.html" . -}}
-      {{ end }}
-    </div>    
+      {{ end }} 
   </body>
 </html>
