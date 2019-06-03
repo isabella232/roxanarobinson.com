@@ -7,7 +7,8 @@
   related_book: Dawson's Fall
   content: The problems of trying to write a novel and biography at the same time.
 - date: 2019-04-16T04:00:00.000+00:00
-  category: ''
+  category:
+  - Essay
   source: The New Yorker
   title: 'Reading Myself Aloud: Making the Audio Book of Dawson''s Fall'
   link_to_original: https://www.newyorker.com/books/page-turner/reading-myself-aloud
