@@ -12,6 +12,8 @@ weight:
 
 Her fiction has appeared in _The New Yorker, The Atlantic, Harper’s, Best American Short Stories, Tin House_ and elsewhere. Her work has been widely anthologized and broadcast on NPR. Her books have been published in England, France, Germany, Holland and Spain.
 
+She is the recipient of many awards, the most recent the Barnes & Noble “Writers for Writers” Award, from Poets & Writers.
+
 [Full Bio](/biography/)
 
 [Click here for hi-res images](#click-image-to-download-hi-res-version)
@@ -26,12 +28,11 @@ Her fiction has appeared in _The New Yorker, The Atlantic, Harper’s, Best Amer
 
 _Author photo by Beowulf Sheehan_
 
----
+***
 
 <div class="images">
 
 <a href="/uploads/cover-dawsons-fall-large.jpg"><img src="/uploads/9780374135218.jpg" title="Dawson's Fall Cover"></a>
 <a href="/uploads/Roxana-Robinson-by-Beowulf-Sheehan-large.jpg"><img src="/uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg" title="Roxana Robinson, by Beowulf Sheehan"></a>
-
 
 </div>
