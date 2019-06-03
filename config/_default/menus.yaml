@@ -16,7 +16,7 @@ main:
     url: /news/
     weight: 50
   - identifier: events
-    name: Appearances
+    name: Events
     url: /event/
     weight: 60
   - identifier: about-the-author
