@@ -58,7 +58,7 @@
 										{{ end }}
 									</div>
 	    						{{ with .title }}
-	    							<span class="font-serif text-xl">{{ . }}</span>
+	    							<span class="font-serif text-xl">{{ . | markdownify }}</span>
 									{{ end }}
 									{{ with .date }}
 	    							<span class="text-sm">
