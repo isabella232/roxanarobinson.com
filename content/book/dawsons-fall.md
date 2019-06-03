@@ -18,6 +18,7 @@ editions:
 description: A cinematic Reconstruction-era drama of violence and fraught moral reckoning.
 genre:
 - Fiction
+contributor: false
 ---
 In Dawson’s Fall, a novel based on the lives of Roxana Robinson’s great-grandparents, we see America at its most fragile, fraught, and malleable. Set in 1889, in Charleston, South Carolina, Robinson’s tale weaves her family’s journal entries and letters with a novelist’s narrative grace, and spans the life of her tragic hero, Frank Dawson, as he attempts to navigate the country’s new political, social, and moral landscape.
 

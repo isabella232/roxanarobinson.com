@@ -18,7 +18,6 @@ editions:
   cover_image: 
   publisher: 
 contributor: true
-
 ---
 *Loving* is set in the vast hereditary house of the Tennants, an aristocratic Anglo-Irish family, but the story mainly involves their servants. The war has led to a scarcity of experienced staff, and when Eldon the butler dies, Raunce the head footman is assigned his job. The other servants are taken aback by this irregular promotion, but lovely young Edith, a recent hire, is quite attracted to the older Raunce and a flirtation begins. And it is Edith who discovers Mrs. Tennant’s daughter-in-law, whose husband is fighting at the front, in bed with a neighbor one morning, scandalizing the whole household.
 

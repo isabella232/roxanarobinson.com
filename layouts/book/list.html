@@ -3,32 +3,41 @@
     <div class="mt-16 max-w-5xl mx-auto text-black">
       {{- partial "books/praise-featured.html" . -}}
     </div>
-    
-        {{ range $i, $c := .Pages }}
-        <div class="px-4 {{if eq (mod $i 2) 1}}bg-gray-200{{ end}}">
-        <section id="book-{{ $i }}" class="mx-auto px-4 max-w-5xl md:px-4 py-4 w-80-l">
-            
-          {{- partial "books/header.html" . -}}
-          <div class="md:flex flex-wrap">
-            <div class="w-full md:w-2/5 lg:pt-2">
-              {{- partial "books/cover.html" . -}}
-              {{- partial "books/meta-data-array.html" . -}}
-            </div>
-            <div class="w-full md:w-3/5 mt-4 md:mt-0 md:px-6">
-                {{ partial "books/description.html" . }}
-              <div class="border-b my-4 leading-normal">
-                {{ .Content }}
-              </div>
-              {{ partial "books/buylinks_array.html" (dict "item" . "count" "10") }}
-            </div>
-          </div>
-        </section>
-        <section class="mx-auto max-w-4xl flex flex-columnd mb-16 mt-8 px-4 md:px-4 text-on-primary-color">
-          {{- partial "books/praise.html" (dict "count" 1 "Page" . ) -}}
-          <a class="more-button btn my-8 btn-buylinks self-end" href="{{ .URL }}">more</a>
-        </section>
-      </div>
+      {{ $books := where .Pages ".Params.contributor" "!=" true }}
+      {{ range $i, $c := $books }}
+        {{ template "books_layout" . }}
       {{ end }}
-    
+      {{ $books_contributor := where .Pages ".Params.contributor" true }}
+      {{ range $i, $c := $books_contributor }}
+        {{ template "books_layout" . }}
+      {{ end }}
   </main>
+{{ end }}
+
+
+{{ define "books_layout" }}
+{{/*  {{if eq (mod $i 2) 1}}bg-gray-200{{ end}}  id="book-{{ $i }}" */}}
+<div class="px-4 ">
+  <section class="mx-auto px-4 max-w-5xl md:px-4 py-4 w-80-l">
+      
+    {{- partial "books/header.html" . -}}
+    <div class="md:flex flex-wrap">
+      <div class="w-full md:w-2/5 lg:pt-2">
+        {{- partial "books/cover.html" . -}}
+        {{- partial "books/meta-data-array.html" . -}}
+      </div>
+      <div class="w-full md:w-3/5 mt-4 md:mt-0 md:px-6">
+          {{ partial "books/description.html" . }}
+        <div class="border-b my-4 leading-normal">
+          {{ .Content }}
+        </div>
+        {{ partial "books/buylinks_array.html" (dict "item" . "count" "10") }}
+      </div>
+    </div>
+  </section>
+  <section class="mx-auto max-w-4xl flex flex-columnd mb-16 mt-8 px-4 md:px-4 text-on-primary-color">
+    {{- partial "books/praise.html" (dict "count" 1 "Page" . ) -}}
+    <a class="more-button btn my-8 btn-buylinks self-end" href="{{ .URL }}">more</a>
+  </section>
+</div>
 {{ end }}

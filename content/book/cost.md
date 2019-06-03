@@ -19,5 +19,6 @@ editions:
   publisher: 
 description: "In *Cost*, Robinson tackles addiction and explores its subtle effects on the bonds of family, dazzling us with her subtlety and precision in evoking the emotional interiors of her characters. The result is a work in which the reader's sense of discovery and compassion for every character remain unflagging to the end, even as the reader, like the characters, is caught up in <em>Cost</em>'s pace."
 tagline: 'A fragile family confronts the tragedy of addiction.'
+contributor: false
 ---
 In *Cost*, Robinson tackles addiction and explores its subtle effects on the bonds of family, dazzling us with her subtlety and precision in evoking the emotional interiors of her characters. The result is a work in which the reader&#8217;s sense of discovery and compassion for every character remain unflagging to the end, even as the reader, like the characters, is caught up in *Cost*&#8216;s pace.

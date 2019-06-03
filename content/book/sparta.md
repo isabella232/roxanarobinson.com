@@ -18,6 +18,7 @@ editions:
   description: ''
   cover_image: 
   publisher: 
+contributor: false
 ---
 **_Sparta_ included on Short List for the 2015 International IMPAC Dublin Literary Award.**
 

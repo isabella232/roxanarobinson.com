@@ -21,7 +21,7 @@ editions:
   publisher: ''
 buy_links_external: []
 featured_image: ''
-
+contributor: false
 ---
 Taking readers into the summer homes, town houses, and boarding schools of those for whom power and wealth come as a birthright, she uncovers an astonishing emotional territory.
 

@@ -20,6 +20,7 @@ editions:
   description: ''
   cover_image: 
   publisher: 
+contributor: true
 ---
 These masterfully crafted stories from writers who have served reflect the entire breadth of human emotion―loss, anger, joy, love, fear, and courage―and the evolving nature of what has become America’s “Forever War.”
 
