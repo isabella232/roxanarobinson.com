@@ -1,14 +1,14 @@
 ---
 - date: 2019-05-24T04:00:00.000+00:00
-  category: Essay
+  category:
+  - Essay
   source: Lithub
   title: '"Struggling to Mine Family History for My Novel "'
   link_to_original: https://lithub.com/struggling-to-mine-family-history-for-my-novel/?fbclid=IwAR3__m-1eAHSbzu2-EdXgre_tVHL6cJNK5o4ja-hou67ZGq1iHCoXyg5P2o
   related_book: Dawson's Fall
   content: The problems of trying to write a novel and biography at the same time.
 - date: 2019-04-16T04:00:00.000+00:00
-  category:
-  - Essay
+  category: []
   source: The New Yorker
   title: 'Reading Myself Aloud: Making the Audio Book of Dawson''s Fall'
   link_to_original: https://www.newyorker.com/books/page-turner/reading-myself-aloud
@@ -85,18 +85,24 @@
   source: The Center for Fiction
   title: Morning After
   link_to_original: http://www.centerforfiction.org/magazine/nonfiction/reading-pa/
+  related_book: ''
+  content: ''
 - date: 2016-10-14T00:00:00.000+00:00
   category:
   - Essays
   source: New York Review Books
   title: Introduction to *LOVING*, by Henry Green
   link_to_original: http://www.nyrb.com/products/loving?variant=16506338567
+  related_book: ''
+  content: ''
 - date: 2016-10-05T00:00:00.000+00:00
   category:
   - Essays
   source: The Washington Post
   title: The violation of Elena Ferrante
   link_to_original: https://www.washingtonpost.com/entertainment/books/the-violation-of-elena-ferrante/2016/10/05/f70bec7c-8afd-11e6-bff0-d53f592f176e_story.html
+  related_book: ''
+  content: ''
 - date: 2017-08-23T04:00:00.000+00:00
   category:
   - Essays
@@ -112,54 +118,72 @@
   source: Authors Guild
   title: 'Authors Guild: Letter from the President'
   link_to_original: https://www.authorsguild.org/who-we-are/letter-president/
+  related_book: ''
+  content: ''
 - date: 2016-02-07T00:00:00.000+00:00
   category:
   - Essays
   source: Wall Street Journal
   title: How Google Stole the Work of Millions of Authors
   link_to_original: http://www.wsj.com/articles/how-google-stole-the-work-of-millions-of-authors-1454880410
+  related_book: ''
+  content: ''
 - date: 2016-01-22T00:00:00.000+00:00
   link_to_original: https://www.washingtonpost.com/entertainment/books/youngblood-review-a-novel-about-the-iraq-war-from-a-soldier-who-was-there/2016/01/22/279a7930-bf7f-11e5-bcda-62a36b394160_story.html
   source: The Washington Post
   category:
   - Book Reviews
   title: "‘Youngblood’ review: A novel about the Iraq War from a soldier who was there"
+  related_book: ''
+  content: ''
 - date: 2015-10-07T00:00:00.000+00:00
   link_to_original: http://centerforfiction.org/magazine/why-fiction-matters/roxana-robinson/
   source: The Center for Fiction
   category:
   - Essays
   title: Why Fiction Matters
+  related_book: ''
+  content: ''
 - category:
   - Book Reviews
   date: 2015-09-18T00:00:00.000+00:00
   source: New York Times Sunday Book Review
   title: _Sweet Caress_, by William Boyd
   link_to_original: http://lithub.com/against-lolita/
+  related_book: ''
+  content: ''
 - category:
   - Essays
   date: 2015-09-16T00:00:00.000+00:00
   source: Literary Hub
   title: Against Lolita
   link_to_original: http://lithub.com/against-lolita/
+  related_book: ''
+  content: ''
 - category:
   - Essays
   date: 2015-06-02T00:00:00.000+00:00
   source: New York Review Books via Lithub
   title: An introduction to Elizabeth Taylor’s _A View of the Harbour_
   link_to_original: http://lithub.com/manners-morality-and-mid-century-feminism/
+  related_book: ''
+  content: ''
 - category:
   - Essays
   date: 2015-01-22T00:00:00.000+00:00
   source: The Center for Fiction
   title: Remembering Robert Stone
   link_to_original: http://www.centerforfiction.org/for-readers/robert-stone/
+  related_book: ''
+  content: ''
 - category:
   - Book Reviews
   date: 2015-01-06T00:00:00.000+00:00
   source: The Nation
   title: 'Faith and Suspicion: On Marilynne Robinson’s ‘Lila’'
   link_to_original: http://www.thenation.com/article/194289/examined-life
+  related_book: ''
+  content: ''
 - category:
   - Essays
   date: 2014-09-25T00:00:00.000+00:00
@@ -167,12 +191,15 @@
   title: Sparta
   link_to_original: http://wlajournal.com/archive.aspx?issue=26
   related_book: sparta
+  content: ''
 - category:
   - Book Reviews
   date: 2014-09-15T00:00:00.000+00:00
   source: Washington Post
   title: _My Life as a Foreign Country_ by Brian Turner
   link_to_original: http://www.washingtonpost.com/entertainment/books/review-my-life-as-a-foreign-country-by-brian-turner/2014/09/15/be6c7e6c-353d-11e4-9e92-0899b306bbea_story.html
+  related_book: ''
+  content: ''
 - title: Between Women
   link_to_original: http://www.nytimes.com/2014/09/07/books/review/elena-ferrantes-those-who-leave-and-those-who-stay.html
   content: On Elena Ferrante’s 'Those Who Leave and Those Who Stay'
@@ -180,36 +207,47 @@
   date: 2014-09-05T00:00:00.000+00:00
   category:
   - Book Reviews
+  related_book: ''
 - title: The Right to Write
   source: The New York Times
   link_to_original: http://opinionator.blogs.nytimes.com/2014/06/28/the-right-to-write/
   date: 2014-06-28T00:00:00.000+00:00
   category:
   - Essays
+  related_book: ''
+  content: ''
 - title: Away
   source: Virginia Quarterly Review
   link_to_original: http://www.vqronline.org/essays-articles/2014/07/away
   date: 2014-06-01T00:00:00.000+00:00
   category:
   - Essays
+  related_book: ''
+  content: ''
 - title: Army of Shadows
   source: Bookforum
   link_to_original: http://www.bookforum.com/inprint/021_02
   date: 2014-06-01T00:00:00.000+00:00
   category:
   - Essays
+  related_book: ''
+  content: ''
 - title: On Philip Seymour Hoffman and Heroin
   link_to_original: http://2paragraphs.com/2014/02/roxana-robinson-on-philip-seymour-hoffman-and-heroin/
   source: 2 Paragraphs
   date: 2014-02-04T00:00:00.000+00:00
   category:
   - Essays
+  related_book: ''
+  content: ''
 - title: 'Facing the Change: Personal Encounters with Global Warming'
   content: edited by Steven Pavlos Holmes
   date: 2014-02-01T00:00:00.000+00:00
   source: Torrey House Press
   category:
   - Anthologies & Collections
+  link_to_original: ''
+  related_book: ''
 - title: Reading to Write
   content: I like to read before I write.
   date: 2013-12-15T00:00:00.000+00:00
@@ -217,6 +255,7 @@
   source: Glimmer Train, Bulletin, 82nd issue, Winter 2013
   category:
   - Essays
+  related_book: ''
 - title: A Tribute to Alice Munro
   content: "“I think I started reading Alice Munro in the early 1980s. I think the
     first book was *The Lives of Girls and Women*. It was an odd title, but I was
@@ -228,6 +267,7 @@
   source: The Center for Fiction
   category:
   - Essays
+  related_book: ''
 - title: Writers on Munro
   content: "“Like Chekhov, Alice Munro never sets out to make a political point. She
     isn’t sexist, she has no axe to grind. She’s simply bearing witness to the human
@@ -237,6 +277,7 @@
   source: The New Yorker
   category:
   - Essays
+  related_book: ''
 - title: Love Story Electrifies Beneath The Silhouette 'Of Venus'
   content: On *Transit of Venus* by Shirley Hazzard
   date: 2013-09-15T00:00:00.000+00:00
@@ -244,12 +285,15 @@
   source: NPR
   category:
   - Book Reviews
+  related_book: ''
 - title: Review of *Someone*, latest novel by Alice McDermott
   date: 2013-09-09T00:00:00.000+00:00
   source: Washington Post
   link_to_original: http://articles.washingtonpost.com/2013-09-09/entertainment/41903940_1_novel-marie-neighborhood
   category:
   - Book Reviews
+  related_book: ''
+  content: ''
 - title: The Dark Heart of James Salter
   content: "“We no longer require compassion from the literature we admire. We admire
     writers who celebrate irony, disdain, contempt.”"
@@ -258,6 +302,7 @@
   source: Slate
   category:
   - Essays
+  related_book: ''
 - title: Burn Your Letters?
   content: Page-Turner
   date: 2013-05-23T00:00:00.000+00:00
@@ -265,6 +310,7 @@
   source: The New Yorker
   category:
   - Essays
+  related_book: ''
 - title: God Calls
   content: Culture Blog
   date: 2013-04-04T00:00:00.000+00:00
@@ -272,6 +318,7 @@
   source: The New Yorker
   category:
   - Essays
+  related_book: ''
 - title: Heart’s Desire
   content: Story of the Week
   date: 2013-03-17T00:00:00.000+00:00
@@ -279,6 +326,7 @@
   source: Narrative Magazine
   category:
   - Essays
+  related_book: ''
 - title: Opera on HD
   content: Culture Blog
   date: 2013-03-01T00:00:00.000+00:00
@@ -286,6 +334,7 @@
   source: The New Yorker
   category:
   - Essays
+  related_book: ''
 - title: New York’s Phantom Bookstores
   content: Culture Blog
   date: 2013-02-06T00:00:00.000+00:00
@@ -293,6 +342,7 @@
   source: The New Yorker
   category:
   - Essays
+  related_book: ''
 - title: How I Get to ‘Write’
   content: Culture Blog
   date: 2013-01-04T00:00:00.000+00:00
@@ -300,12 +350,15 @@
   source: The New Yorker
   category:
   - Essays
+  related_book: ''
 - title: What My Mother Gave Me
   content: Edited by Elizabeth Benedict (Algonquin, 2013)
   date: 2013-01-01T00:00:00.000+00:00
   source: Algonquin
   category:
   - Anthologies & Collections
+  link_to_original: ''
+  related_book: ''
 - title: 'A Different Sort of Nature: The Gardens of Kyoto'
   content: Appeared as *A Different Nature* in T+L Magazine, October issue
   date: 2012-10-01T00:00:00.000+00:00
@@ -313,6 +366,7 @@
   source: Travel and Leisure
   category:
   - Travel
+  related_book: ''
 - title: Response to Jonathan Franzen on Edith Wharton
   content: Center for Fiction, August, 2012
   date: 2012-08-01T00:00:00.000+00:00
@@ -320,6 +374,7 @@
   source: Center for Fiction
   category:
   - Essays
+  related_book: ''
 - title: 'Marilynne Robinson’s ‘When I Was a Child I Read Books’: Essays on faith,
     reading'
   content: Review of *When I Was a Child I Read Books* by Marilynne Robinson
@@ -328,12 +383,15 @@
   source: The Washington Post
   category:
   - Book Reviews
+  related_book: ''
 - title: Edith Wharton, a Writer’s Reflections
   date: 2012-04-11T00:00:00.000+00:00
   link_to_original: http://www.themillions.com/2012/04/edith-wharton-a-writers-reflections.html
   source: The Millions
   category:
   - Essays
+  related_book: ''
+  content: ''
 - title: The Strange Career of Frank Dawson
   content: Opinionator Blog, State of Our Disunion
   date: 2012-03-20T00:00:00.000+00:00
@@ -341,6 +399,7 @@
   source: The New York Times
   category:
   - Essays
+  related_book: ''
 - title: The Lethal Consequences of Fracking
   content: February 23, 2012
   date: 2012-02-23T00:00:00.000+00:00
@@ -348,6 +407,7 @@
   source: The Boston Globe
   category:
   - Essays
+  related_book: ''
 - title: Anne Enright’s *The Forgotten Waltz*
   content: Anne Enright’s new novel, *The Forgotten Waltz,* is the luxury sedan. Everything
     in it is perfectly engineered, and it’s so beautifully written that you could
@@ -357,6 +417,7 @@
   source: The Washington Post
   category:
   - Book Reviews
+  related_book: ''
 - title: My Wooden Deer Carving
   content: p. 216
   date: 2011-11-03T00:00:00.000+00:00
@@ -364,6 +425,7 @@
   source: Real Simple
   category:
   - Essays
+  related_book: ''
 - title: Great-Aunt Hattie’s ‘Little Book’
   content: Opinionator Blog, State of our Disunion. Harriet Beecher Stowe was my great-great-great
     aunt.
@@ -372,6 +434,7 @@
   source: The New York Times
   category:
   - Essays
+  related_book: ''
 - title: In the North Tower
   content: ''
   date: 2011-09-11T00:00:00.000+00:00
@@ -379,6 +442,7 @@
   source: Boston.com
   category:
   - Essays
+  related_book: ''
 - title: VS Naipaul and Women’s Tosh
   content: Center for Fiction, June 5, 2011
   date: 2011-06-05T00:00:00.000+00:00
@@ -386,6 +450,7 @@
   source: Center for Fiction
   category:
   - Essays
+  related_book: ''
 - title: Naipaul’s Comments Reflective Of ‘Hubris
   content: Sunday Weekend Edition
   date: 2011-06-05T00:00:00.000+00:00
@@ -393,6 +458,7 @@
   source: NPR
   category:
   - Essays
+  related_book: ''
 - title: Francisco Goldman’s *Say Her Name*
   content: How much of our own lives should writers use as material? What should we
     reveal and what hold back? What, for a writer, is privacy? Do writers even have
@@ -403,6 +469,7 @@
   source: The Washington Post
   category:
   - Book Reviews
+  related_book: ''
 - title: 'Up Front: Roxana Robinson'
   content: by The Editors
   date: 2011-01-14T00:00:00.000+00:00
@@ -410,6 +477,7 @@
   source: The New York Times Book Review
   category:
   - Essays
+  related_book: ''
 - title: Stories of Dislocation and Relocation
   content: Review of Edith Pearlman's, *Binocular Vision*
   date: 2011-01-14T00:00:00.000+00:00
@@ -417,6 +485,7 @@
   source: The New York Times Book Review
   category:
   - Book Reviews
+  related_book: ''
 - title: Philip Roth's *Nemesis*
   content: For decades, Philip Roth has written the long narrative of the Jewish American
     experience, shining on it the light of his considerable intelligence. His latest
@@ -426,6 +495,7 @@
   source: The Washington Post
   category:
   - Book Reviews
+  related_book: ''
 - title: 'Paralyzed: Learning to Live in the Shadow of Polio'
   content: "*Harper’s* Magazine"
   date: 2010-09-18T00:00:00.000+00:00
@@ -433,18 +503,23 @@
   source: Harper’s
   category:
   - Essays
+  related_book: ''
 - title: Vanishing Point
   date: 2010-07-01T00:00:00.000+00:00
   link_to_original: http://www.more.com/relationships/attitudes/vanishing-point
   source: More magazine
   category:
   - Essays
+  related_book: ''
+  content: ''
 - date: 2010-05-01T00:00:00.000+00:00
   link_to_original: ''
   source: The American Scholar
   category:
   - Short Stories
   title: Honey
+  related_book: ''
+  content: ''
 - content: on Kindle
   date: 2010-04-01T00:00:00.000+00:00
   link_to_original: ''
@@ -452,12 +527,15 @@
   category:
   - Short Stories
   title: This Is America
+  related_book: ''
 - date: 2010-04-01T00:00:00.000+00:00
   link_to_original: http://www.howjournal.com/issues-current.html#roxana
   source: H.O.W. Journal
   category:
   - Short Stories
   title: The Bureau
+  related_book: ''
+  content: ''
 - content: Jonathan Dee's *The Privileges*
   date: 2010-01-12T00:00:00.000+00:00
   link_to_original: ''
@@ -465,6 +543,7 @@
   category:
   - Book Reviews
   title: The Privileges
+  related_book: ''
 - content: Recipes from today’s best-selling authors, edited by Judy Gelman and Vicki
     Levy Krupp (Adams Media, 2010)
   date: 2010-01-01T00:00:00.000+00:00
@@ -473,6 +552,7 @@
   category:
   - Anthologies & Collections
   title: Table of Contents
+  related_book: ''
 - content: Stories from *The New York Times* City Section, edited by Constance Rosenblum
     (NYU Press, 2010)
   date: 2010-01-01T00:00:00.000+00:00
@@ -481,6 +561,7 @@
   category:
   - Anthologies & Collections
   title: More New York Stories
+  related_book: ''
 - content: 'issue #11, “Make Believe,” winter issue'
   date: 2009-12-01T00:00:00.000+00:00
   link_to_original: ''
@@ -488,6 +569,7 @@
   category:
   - Short Stories
   title: The Trade
+  related_book: ''
 - content: Winter Reading, volume 11, number 2, winter 2009–2010
   date: 2009-11-01T00:00:00.000+00:00
   link_to_original: http://www.tinhouse.com/issue-42-winter-reading-2009.html
@@ -495,18 +577,23 @@
   category:
   - Essays
   title: Kentucky Bread
+  related_book: ''
 - date: 2009-08-16T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times Book Review
   category:
   - Book Reviews
   title: Richard Russo's *That Old Cape Magic*
+  related_book: ''
+  content: ''
 - date: 2009-07-30T00:00:00.000+00:00
   link_to_original: http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/07/30/stopping_heroin_use_before_its_too_late/
   source: The Boston Globe
   category:
   - Essays
   title: Stopping Heroin Before It’s Too Late
+  related_book: ''
+  content: ''
 - content: online, 'Paper Cuts' blog
   date: 2009-06-09T00:00:00.000+00:00
   link_to_original: ''
@@ -514,84 +601,111 @@
   category:
   - Essays
   title: Unpacking
+  related_book: ''
 - date: 2009-06-09T00:00:00.000+00:00
   link_to_original: http://artsbeat.blogs.nytimes.com/2009/06/09/the-writers-notebook-roxana-robinson/
   source: The New York Times
   category:
   - Essays
   title: The Writer’s Notebook
+  related_book: ''
+  content: ''
 - date: 2009-05-01T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Essays
   title: Soul Train
+  related_book: ''
+  content: ''
 - title: Nancy Clark's, *The Hills at Home*
   date: 2009-03-09T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
+  related_book: ''
+  content: ''
 - date: 2009-03-06T00:00:00.000+00:00
   link_to_original: http://www.nytimes.com/2009/03/06/opinion/06iht-edrobinson.1.20644301.html?_r=0
   source: International Herald Tribune
   category:
   - Essays
   title: And if that mockingbird don't sing
+  related_book: ''
+  content: ''
 - date: 2009-03-05T00:00:00.000+00:00
   link_to_original: http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/03/05/a_mockingbirds_cry_of_desperation/
   source: The Boston Globe
   category:
   - Essays
   title: A Mockingbird’s Cry of Desperation
+  related_book: ''
+  content: ''
 - title: The Good Parents
   date: 2009-02-22T00:00:00.000+00:00
   link_to_original: ''
   source: "*The New York Times Book Review* / *International Herald Tribune*"
   category:
   - Book Reviews
+  related_book: ''
+  content: ''
 - date: 2009-01-29T00:00:00.000+00:00
   link_to_original: http://bookcritics.org/blog/archive/ro/
   source: NBCC
   category:
   - Essays
   title: On John Updike
+  related_book: ''
+  content: ''
 - title: Carlos Fuentes' *Happy Families*
   date: 2008-10-12T00:00:00.000+00:00
   link_to_original: ''
   source: The Washington Post
   category:
   - Book Reviews
+  related_book: ''
+  content: ''
 - date: 2008-10-01T00:00:00.000+00:00
   link_to_original: ''
   source: Good Housekeeping
   category:
   - Short Stories
   title: The Finish Line
+  related_book: ''
+  content: ''
 - date: 2008-07-15T00:00:00.000+00:00
   link_to_original: ''
   source: Chekhov's Mistress
   category:
   - Essays
   title: 'Classics: On Edith Wharton'
+  related_book: ''
+  content: ''
 - date: 2008-07-07T00:00:00.000+00:00
   link_to_original: http://americareads.blogspot.com/2008/07/pg-69-roxana-robinsons-cost.html
   source: Campaign for the American Reader
   category:
   - Essays
   title: Campaign for the American Reader
+  related_book: ''
+  content: ''
 - date: 2008-06-27T00:00:00.000+00:00
   link_to_original: http://www.largeheartedboy.com/blog/archive/2008/06/book_notes_roxa.html
   source: Largehearted Boy
   category:
   - Essays
   title: 'Book Notes: Cost'
+  related_book: ''
+  content: ''
 - date: 2008-04-19T00:00:00.000+00:00
   link_to_original: ''
   source: Chicago Tribune
   category:
   - Essays
   title: A Literary Glass Ceiling
+  related_book: ''
+  content: ''
 - content: "*N.Y./Region Opinions"
   date: 2007-12-23T00:00:00.000+00:00
   link_to_original: ''
@@ -599,6 +713,7 @@
   category:
   - Essays
   title: My Mother’s Home
+  related_book: ''
 - content: winter issue
   date: 2007-12-01T00:00:00.000+00:00
   link_to_original: ''
@@ -606,6 +721,7 @@
   category:
   - Short Stories
   title: The Leap
+  related_book: ''
 - content: October issue
   date: 2007-10-01T00:00:00.000+00:00
   link_to_original: ''
@@ -613,6 +729,7 @@
   category:
   - Essays
   title: Nan
+  related_book: ''
 - content: on the natural world from July 18 through July 29.
   date: 2007-07-18T00:00:00.000+00:00
   link_to_original: ''
@@ -620,6 +737,7 @@
   category:
   - Essays
   title: Natural Resources Defense Council
+  related_book: ''
 - content: edited by Ellen Sussman (W. W. Norton July 9, 2007)
   date: 2007-07-09T00:00:00.000+00:00
   link_to_original: http://books.wwnorton.com/books/Bad-Girls/
@@ -627,6 +745,7 @@
   category:
   - Anthologies & Collections
   title: 'Bad Girls: 26 Writers Misbehave'
+  related_book: ''
 - content: City Section, page 3
   date: 2007-06-03T00:00:00.000+00:00
   link_to_original: ''
@@ -634,6 +753,7 @@
   category:
   - Essays
   title: The Novelist and the Curious Cabbie
+  related_book: ''
 - content: Op-Ed
   date: 2007-01-14T00:00:00.000+00:00
   link_to_original: ''
@@ -641,6 +761,7 @@
   category:
   - Essays
   title: Drowning in Apathy
+  related_book: ''
 - content: edited by Karen Stabiner (Hyperion, 2007)
   date: 2007-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -648,6 +769,7 @@
   category:
   - Anthologies & Collections
   title: The Empty Nest
+  related_book: ''
 - content: edited by Harriet Brown (Ballantine Books, 2007)
   date: 2007-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -655,12 +777,15 @@
   category:
   - Anthologies & Collections
   title: Mr. Wrong
+  related_book: ''
 - date: 2007-01-01T00:00:00.000+00:00
   link_to_original: ''
   source: New York Review of Books
   category:
   - Anthologies & Collections
   title: Introduction to The New York Stories of Edith Wharton
+  related_book: ''
+  content: ''
 - content: winter issue
   date: 2006-12-01T00:00:00.000+00:00
   link_to_original: ''
@@ -668,6 +793,7 @@
   category:
   - Essays
   title: Wild Duck
+  related_book: ''
 - content: November issue
   date: 2006-11-01T00:00:00.000+00:00
   link_to_original: ''
@@ -675,18 +801,23 @@
   category:
   - Essays
   title: The Night Ride
+  related_book: ''
 - date: 2006-09-07T00:00:00.000+00:00
   link_to_original: ''
   source: International Herald Tribune
   category:
   - Essays
   title: The Monarch and the Milkweed
+  related_book: ''
+  content: ''
 - content: Op-Ed, September 6, 2006
   date: 2006-09-06T00:00:00.000+00:00
   source: The Boston Globe
   category:
   - Essays
   title: The Monarch and the Milkweed
+  link_to_original: ''
+  related_book: ''
 - content: June 2006
   date: 2006-06-01T00:00:00.000+00:00
   link_to_original: ''
@@ -694,6 +825,7 @@
   category:
   - Essays
   title: Mother, Once Removed
+  related_book: ''
 - content: Sailing on the Sea Cloud, Turkey
   date: 2006-02-04T00:00:00.000+00:00
   link_to_original: ''
@@ -701,12 +833,15 @@
   category:
   - Travel
   title: Sailing Through the Classics
+  related_book: ''
 - date: 2006-01-01T00:00:00.000+00:00
   link_to_original: ''
   source: The Boston Globe
   category:
   - Essays
   title: Watching as the World Vanishes
+  related_book: ''
+  content: ''
 - content: edited by Elizabeth Merrick (Random House, 2006)
   date: 2006-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -714,6 +849,7 @@
   category:
   - Anthologies & Collections
   title: 'This Is Not Chick Lit: Original Stories by America’s Best Women Writers'
+  related_book: ''
 - content: edited by Anne Burt (W.W. Norton, 2006)
   date: 2006-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -721,6 +857,7 @@
   category:
   - Anthologies & Collections
   title: My Father Married Your Mother
+  related_book: ''
 - content: October/November issue
   date: 2005-10-01T00:00:00.000+00:00
   link_to_original: ''
@@ -728,12 +865,15 @@
   category:
   - Essays
   title: This Dog’s Life
+  related_book: ''
 - date: 2005-08-21T00:00:00.000+00:00
   link_to_original: ''
   source: Chicago Tribune
   category:
   - Essays
   title: Gendered Genres
+  related_book: ''
+  content: ''
 - content: 'Pen on Fire: Writers on Writing'
   date: 2005-07-12T00:00:00.000+00:00
   link_to_original: http://penonfire.blogspot.com/2005/07/roxana-robinson-on-writing.html
@@ -741,24 +881,31 @@
   category:
   - Essays
   title: On Writing
+  related_book: ''
 - date: 2005-07-01T00:00:00.000+00:00
   link_to_original: ''
   source: NRDC Action Blog
   category:
   - Essays
   title: NRDC Action Blog
+  related_book: ''
+  content: ''
 - date: 2005-04-27T00:00:00.000+00:00
   link_to_original: http://thehappybooker.blogs.com/the_happy_booker/2005/04/roxana_robinson.html
   source: The Happy Booker
   category:
   - Essays
   title: Writing Spaces
+  related_book: ''
+  content: ''
 - date: 2005-04-01T00:00:00.000+00:00
   link_to_original: ''
   source: One Story
   category:
   - Short Stories
   title: A Perfect Stranger
+  related_book: ''
+  content: ''
 - content: John M. Marzluff and Tony Angell's, *In the Company of Crows and Ravens*,
     Yale University Press
   date: 2005-01-01T00:00:00.000+00:00
@@ -767,6 +914,7 @@
   category:
   - Book Reviews
   title: In the Company of Crows and Ravens
+  related_book: ''
 - content: edited by Bryant Mangum, published by Modern Library, 2005
   date: 2005-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -774,6 +922,7 @@
   category:
   - Essays
   title: Foreword to The Best Early Stories of F. Scott Fitzgerald
+  related_book: ''
 - content: vol. 33, no. 3
   date: 2005-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -781,6 +930,7 @@
   category:
   - Essays
   title: Coyote
+  related_book: ''
 - content: Op-Ed
   date: 2004-10-10T00:00:00.000+00:00
   link_to_original: ''
@@ -788,6 +938,7 @@
   category:
   - Essays
   title: Breathing Partners
+  related_book: ''
 - content: Fall issue
   date: 2004-09-01T00:00:00.000+00:00
   link_to_original: ''
@@ -795,6 +946,7 @@
   category:
   - Short Stories
   title: Intersection
+  related_book: ''
 - content: "*Travel and Leisure*, July, 2004"
   date: 2004-07-01T00:00:00.000+00:00
   link_to_original: ''
@@ -802,6 +954,7 @@
   category:
   - Travel
   title: New Zealand’s Natural Wonders
+  related_book: ''
 - content: Summer issue
   date: 2004-06-01T00:00:00.000+00:00
   link_to_original: ''
@@ -809,6 +962,7 @@
   category:
   - Short Stories
   title: Blind Man
+  related_book: ''
 - content: Travel Section
   date: 2004-05-02T00:00:00.000+00:00
   link_to_original: ''
@@ -816,6 +970,7 @@
   category:
   - Travel
   title: To Russia, With Books
+  related_book: ''
 - content: Op-Ed
   date: 2004-02-16T00:00:00.000+00:00
   link_to_original: ''
@@ -823,6 +978,7 @@
   category:
   - Essays
   title: A Hare Out of Season
+  related_book: ''
 - content: St. Petersburg
   date: 2003-12-14T00:00:00.000+00:00
   link_to_original: ''
@@ -830,12 +986,15 @@
   category:
   - Travel
   title: The Lairs of the Russian Literary Lions
+  related_book: ''
 - date: 2003-12-01T00:00:00.000+00:00
   link_to_original: ''
   source: Adirondack Life
   category:
   - Essays
   title: The Setting of Sweetwater
+  related_book: ''
+  content: ''
 - content: fall issue
   date: 2003-09-01T00:00:00.000+00:00
   link_to_original: ''
@@ -843,6 +1002,7 @@
   category:
   - Essays
   title: My Dog Lacey
+  related_book: ''
 - content: July/August issue
   date: 2003-07-01T00:00:00.000+00:00
   link_to_original: ''
@@ -850,6 +1010,7 @@
   category:
   - Essays
   title: The Fabric of Life in a Meadow
+  related_book: ''
 - content: Taronga Zoo, Sydney, Australia
   date: 2003-06-01T00:00:00.000+00:00
   link_to_original: ''
@@ -857,18 +1018,23 @@
   category:
   - Travel
   title: Wombats and Wallabies
+  related_book: ''
 - date: 2003-06-01T00:00:00.000+00:00
   link_to_original: ''
   source: House Beautiful
   category:
   - Essays
   title: 'A Calm, Quiet Place: Watermark'
+  related_book: ''
+  content: ''
 - date: 2003-05-01T00:00:00.000+00:00
   link_to_original: ''
   source: Good Housekeeping
   category:
   - Short Stories
   title: At the Beach
+  related_book: ''
+  content: ''
 - content: "*The Old Maid: The Fifties, *by Edith Wharton, Modern Library, 2003"
   date: 2003-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -876,6 +1042,7 @@
   category:
   - Essays
   title: 'Introduction to The Old Maid: The Fifties'
+  related_book: ''
 - content: p. 72
   date: 2002-12-01T00:00:00.000+00:00
   link_to_original: ''
@@ -883,12 +1050,15 @@
   category:
   - Essays
   title: Box Step
+  related_book: ''
 - date: 2002-09-01T00:00:00.000+00:00
   link_to_original: ''
   source: The Atlantic Monthly
   category:
   - Short Stories
   title: Treatment
+  related_book: ''
+  content: ''
 - content: City Section, p. 11
   date: 2002-08-18T00:00:00.000+00:00
   link_to_original: ''
@@ -896,6 +1066,7 @@
   category:
   - Essays
   title: Chandelier
+  related_book: ''
 - content: John Hough's *The Last Summer*
   date: 2002-07-28T00:00:00.000+00:00
   link_to_original: ''
@@ -903,12 +1074,15 @@
   category:
   - Book Reviews
   title: The Last Summer
+  related_book: ''
 - title: On Eugene McCabe's, *Death and Nightingales*
   date: 2002-04-21T00:00:00.000+00:00
   link_to_original: ''
   source: The Washington Post Book World
   category:
   - Book Reviews
+  related_book: ''
+  content: ''
 - content: edited by Robert Kahn (The Little Bookroom, New York, 2002)
   date: 2002-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -916,6 +1090,7 @@
   category:
   - Anthologies & Collections
   title: 'City Secrets: New York City'
+  related_book: ''
 - content: edited by Ulrich Baer (NYU Press, 2002)
   date: 2002-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -923,12 +1098,15 @@
   category:
   - Anthologies & Collections
   title: '110 Stories: New York Writes After September 11'
+  related_book: ''
 - date: 2001-08-01T00:00:00.000+00:00
   link_to_original: ''
   source: Vogue
   category:
   - Essays
   title: Here Comes the Mother of the Bride
+  related_book: ''
+  content: ''
 - content: Lives column
   date: 2001-01-17T00:00:00.000+00:00
   link_to_original: ''
@@ -936,12 +1114,15 @@
   category:
   - Essays
   title: Great Expectations
+  related_book: ''
 - date: 2001-01-07T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times Book Review
   category:
   - Essays
   title: The Ice Age
+  related_book: ''
+  content: ''
 - content: edited by Jane Maher (Prentice-Hall, 2001)
   date: 2001-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -949,6 +1130,7 @@
   category:
   - Anthologies & Collections
   title: 'Writing for a Lifetime: Contemporary Readings From Popular Sources'
+  related_book: ''
 - content: edited by John Darnton (Times Books, New York, 2001)
   date: 2001-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -956,6 +1138,7 @@
   category:
   - Anthologies & Collections
   title: 'Writers on Writing: Collected Essays From the New York Times'
+  related_book: ''
 - content: edited by Otto Penzler (Houghton Mifflin, Boston, 2001)
   date: 2001-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -963,12 +1146,15 @@
   category:
   - Anthologies & Collections
   title: Best American Mystery Stories of 2001
+  related_book: ''
 - date: 2000-12-01T00:00:00.000+00:00
   link_to_original: ''
   source: The Atlantic Monthly
   category:
   - Short Stories
   title: Family Christmas
+  related_book: ''
+  content: ''
 - content: p. W17
   date: 2000-10-20T00:00:00.000+00:00
   link_to_original: ''
@@ -976,18 +1162,23 @@
   category:
   - Essays
   title: Listening Silence
+  related_book: ''
 - date: 2000-09-01T00:00:00.000+00:00
   link_to_original: ''
   source: Victoria Magazine
   category:
   - Essays
   title: Dogs in My Life
+  related_book: ''
+  content: ''
 - date: 2000-08-01T00:00:00.000+00:00
   link_to_original: ''
   source: The Atlantic Monthly
   category:
   - Short Stories
   title: The Face-Lift
+  related_book: ''
+  content: ''
 - content: Writers on Writing column
   date: 2000-07-17T00:00:00.000+00:00
   link_to_original: ''
@@ -995,24 +1186,31 @@
   category:
   - Essays
   title: If You Write the Story…
+  related_book: ''
 - date: 2000-03-01T00:00:00.000+00:00
   link_to_original: ''
   source: Travel and Leisure
   category:
   - Travel
   title: A Walking Trip in the Sicilian Countryside
+  related_book: ''
+  content: ''
 - title: Karen Bender's *Like Normal People*
   date: 2000-01-01T00:00:00.000+00:00
   link_to_original: ''
   source: The Washington Post
   category:
   - Book Reviews
+  related_book: ''
+  content: ''
 - date: 1999-12-01T00:00:00.000+00:00
   link_to_original: ''
   source: The Atlantic Monthly
   category:
   - Short Stories
   title: Assistance
+  related_book: ''
+  content: ''
 - content: Lives column
   date: 1999-04-04T00:00:00.000+00:00
   link_to_original: ''
@@ -1020,6 +1218,7 @@
   category:
   - Essays
   title: Instant Intimacy
+  related_book: ''
 - content: 'Books Column: On Reading'
   date: 1998-11-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1027,6 +1226,7 @@
   category:
   - Essays
   title: When Tragedy in Literature Is a Family Affair
+  related_book: ''
 - content: Op-Ed
   date: 1998-10-19T00:00:00.000+00:00
   link_to_original: ''
@@ -1034,30 +1234,39 @@
   category:
   - Essays
   title: Censorship or Common Sense
+  related_book: ''
 - title: Susan Minot's *Evening*
   date: 1998-10-11T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
+  related_book: ''
+  content: ''
 - date: 1998-05-01T00:00:00.000+00:00
   link_to_original: ''
   source: House and Garden
   category:
   - Essays
   title: Personal Growth
+  related_book: ''
+  content: ''
 - title: Dorothy Allison's *Cavedweller*
   date: 1998-04-05T00:00:00.000+00:00
   link_to_original: ''
   source: The Washington Post
   category:
   - Book Reviews
+  related_book: ''
+  content: ''
 - title: David Gates', *Preston Falls*
   date: 1998-02-01T00:00:00.000+00:00
   link_to_original: ''
   source: The Washington Post
   category:
   - Book Reviews
+  related_book: ''
+  content: ''
 - content: Edited by Susan Hill (Michael Joseph, London, 1998)
   date: 1998-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1065,42 +1274,55 @@
   category:
   - Anthologies & Collections
   title: The Second Penguin Book of Modern Women’s Short Stories
+  related_book: ''
 - content: Thomas Caplan's, *Grace and Favor*
   date: 1997-12-14T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
+  title: ''
+  related_book: ''
 - title: Fernanda Eberstadt's *When the Sons of Heaven Meet the Daughters of the Earth*
   date: 1997-03-30T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
+  related_book: ''
+  content: ''
 - date: 1997-02-01T00:00:00.000+00:00
   link_to_original: ''
   source: Vogue
   category:
   - Essays
   title: The Stepmother
+  related_book: ''
+  content: ''
 - title: Janet Peery's *The River Beyond the World*
   date: 1996-12-10T00:00:00.000+00:00
   link_to_original: ''
   source: The Washington Post
   category:
   - Book Reviews
+  related_book: ''
+  content: ''
 - date: 1996-11-03T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
   title: Shena Mackay's *The Orchard on Fire*
+  related_book: ''
+  content: ''
 - date: 1996-10-06T00:00:00.000+00:00
   link_to_original: ''
   source: The Washington Post Book World
   category:
   - Book Reviews
   title: Mona Simpson's *A Regular Guy*
+  related_book: ''
+  content: ''
 - content: Ireland
   date: 1996-07-21T00:00:00.000+00:00
   link_to_original: ''
@@ -1108,12 +1330,15 @@
   category:
   - Travel
   title: Horses of Another Color
+  related_book: ''
 - date: 1996-04-21T00:00:00.000+00:00
   link_to_original: ''
   source: The Washington Post
   category:
   - Book Reviews
   title: Louise Erdrich's *Tales of Burning Love*
+  related_book: ''
+  content: ''
 - content: January 1996
   date: 1996-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1121,6 +1346,7 @@
   category:
   - Short Stories
   title: The Favor
+  related_book: ''
 - content: edited by Katrina Kenison and Kathleen Hirsch (Farrar Straus, New York
     1996)
   date: 1996-01-01T00:00:00.000+00:00
@@ -1129,24 +1355,31 @@
   category:
   - Anthologies & Collections
   title: 'Mothers: Twenty Stories of Contemporary Motherhood'
+  related_book: ''
 - date: 1995-05-07T00:00:00.000+00:00
   link_to_original: ''
   source: The Los Angeles Times
   category:
   - Book Reviews
   title: Sue Miller's *The Distinguished Guest*
+  related_book: ''
+  content: ''
 - date: 1994-11-01T00:00:00.000+00:00
   link_to_original: ''
   source: Harper’s
   category:
   - Short Stories
   title: King of the Sky
+  related_book: ''
+  content: ''
 - date: 1994-09-01T00:00:00.000+00:00
   link_to_original: ''
   source: The Atlantic Monthly
   category:
   - Short Stories
   title: Leaving Home
+  related_book: ''
+  content: ''
 - content: Sweden
   date: 1994-05-29T00:00:00.000+00:00
   link_to_original: ''
@@ -1154,6 +1387,7 @@
   category:
   - Travel
   title: Carl Larsson’s House
+  related_book: ''
 - content: Edited by Tobias Wolfe and Katrina Kenison (Houghton Mifflin, Boston, 1994)
   date: 1994-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1161,12 +1395,15 @@
   category:
   - Anthologies & Collections
   title: The Best American Short Stories 1994
+  related_book: ''
 - date: 1993-10-26T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
   title: Beatrice Kert's, *Abby Aldrich Rockefeller*
+  related_book: ''
+  content: ''
 - content: Summer issue
   date: 1993-05-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1174,30 +1411,39 @@
   category:
   - Short Stories
   title: Sleepover
+  related_book: ''
 - date: 1993-04-25T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
   title: Mary Morris's, *A Mother’s Love*
+  related_book: ''
+  content: ''
 - date: 1993-04-01T00:00:00.000+00:00
   link_to_original: ''
   source: The Atlantic Monthly
   category:
   - Short Stories
   title: Mr. Sumarsono
+  related_book: ''
+  content: ''
 - date: 1993-01-24T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
   title: Diane Johnson's *Natural Opium*
+  related_book: ''
+  content: ''
 - date: 1992-03-15T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
   title: Louis Auchincloss's *False Gods*
+  related_book: ''
+  content: ''
 - content: edited by Doreen Bolger, Marc Simpson, and John Wilmerding. Essays by Roxana
     Robinson, et al. (New York, Metropolitan Museum of Art, Harry Abrams, 1992)
   date: 1992-01-01T00:00:00.000+00:00
@@ -1206,6 +1452,7 @@
   category:
   - Art History
   title: William M. Harnett
+  related_book: ''
 - content: "*A Matter of Prejudice,* by Kate Chopin (Bantam 1992)"
   date: 1992-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1213,6 +1460,7 @@
   category:
   - Anthologies & Collections
   title: Introduction to A Matter of Prejudice
+  related_book: ''
 - content: edited by C. Michael Curtis (Boston, Globe Pequot Press, 1992)
   date: 1992-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1220,18 +1468,23 @@
   category:
   - Anthologies & Collections
   title: Contemporary New England Stories
+  related_book: ''
 - date: 1991-09-29T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
   title: Peter Cameron, *Far-Flung*
+  related_book: ''
+  content: ''
 - date: 1991-07-21T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
   title: On David Small's *Alone*
+  related_book: ''
+  content: ''
 - content: 'On John Pope-Hennessy, *Learning to Look: My Life in Art   *Jed Perls*,
     Gallery Going: Four Seasons in the Art World*'
   date: 1991-06-30T00:00:00.000+00:00
@@ -1240,18 +1493,23 @@
   category:
   - Book Reviews
   title: Learning to Look and Gallery Going
+  related_book: ''
 - date: 1991-02-01T00:00:00.000+00:00
   link_to_original: ''
   source: The Atlantic Monthly
   category:
   - Short Stories
   title: The Time for Kissing
+  related_book: ''
+  content: ''
 - date: 1990-09-01T00:00:00.000+00:00
   link_to_original: ''
   source: Wigwag magazine
   category:
   - Short Stories
   title: At the Heart of My Life (Graduation)
+  related_book: ''
+  content: ''
 - content: Summer in Provence
   date: 1990-05-27T00:00:00.000+00:00
   link_to_original: ''
@@ -1259,6 +1517,7 @@
   category:
   - Travel
   title: Bulls, Bravery, and Bounty in St.-Remy
+  related_book: ''
 - content: 'On Avis Berman, *Rebels on 8th Street: Julianna Force and the Whitney
     Museum of American Art*'
   date: 1990-04-01T00:00:00.000+00:00
@@ -1268,12 +1527,15 @@
   - Book Reviews
   title: 'Rebels on 8th Street: Julianna Force and the Whitney Museum of American
     Art'
+  related_book: ''
 - date: 1990-03-01T00:00:00.000+00:00
   link_to_original: ''
   source: New York Woman
   category:
   - Short Stories
   title: A Glimpse of Scarlet
+  related_book: ''
+  content: ''
 - content: edited by Suzanne S. Webb (Harcourt, Brace, Jovanovich, 1990)
   date: 1990-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1282,12 +1544,15 @@
   - Anthologies & Collections
   title: 'The Resourceful Writer: Readings to Accompany the Harbrace College Handbook,
     Second Edition'
+  related_book: ''
 - date: 1989-10-29T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Travel
   title: On the Ancient Nile, a Modern Voyage
+  related_book: ''
+  content: ''
 - content: "*Sophisticated Traveler*"
   date: 1989-03-12T00:00:00.000+00:00
   link_to_original: ''
@@ -1295,6 +1560,7 @@
   category:
   - Travel
   title: A Puritan at the Helm
+  related_book: ''
 - content: edited by Michael Nagler and William Swanson (New York, Mentor Books, 1989)
   date: 1989-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1302,6 +1568,7 @@
   category:
   - Anthologies & Collections
   title: 'Wives and Husbands: 20 Stories About Marriage'
+  related_book: ''
 - content: Safari in Africa
   date: 1988-12-04T00:00:00.000+00:00
   link_to_original: ''
@@ -1309,12 +1576,15 @@
   category:
   - Travel
   title: Investing in an Absence of Civilization
+  related_book: ''
 - date: 1988-01-24T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
   title: Jill Paton Walsh, *Lapsing*
+  related_book: ''
+  content: ''
 - content: "(LSU, Baton Rouge) Winter issue"
   date: 1987-12-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1322,30 +1592,39 @@
   category:
   - Short Stories
   title: Charity Dance
+  related_book: ''
 - date: 1987-07-01T00:00:00.000+00:00
   link_to_original: ''
   source: The Fiction Magazine
   category:
   - Short Stories
   title: Charity Dance
+  related_book: ''
+  content: ''
 - date: 1987-02-22T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Travel
   title: Total Immersion in a Flood of French
+  related_book: ''
+  content: ''
 - date: 1987-01-18T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
   title: Dorie Friend, *Family Laundry*
+  related_book: ''
+  content: ''
 - date: 1986-11-23T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Travel
   title: John Gardner Tennis Ranch
+  related_book: ''
+  content: ''
 - content: "*The New York Times*; J.I.M. Stewart, *Parlour 4 and Other Stories*"
   date: 1986-08-10T00:00:00.000+00:00
   link_to_original: ''
@@ -1353,18 +1632,23 @@
   category:
   - Book Reviews
   title: Parlour 4 and Other Stories
+  related_book: ''
 - date: 1986-04-13T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Travel
   title: The Lure of London’s Chelsea Flower Show
+  related_book: ''
+  content: ''
 - title: Francis King, *One Is a Wanderer*
   date: 1986-03-02T00:00:00.000+00:00
   link_to_original: ''
   source: The New York Times
   category:
   - Book Reviews
+  related_book: ''
+  content: ''
 - content: London, February issue
   date: 1986-02-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1372,6 +1656,7 @@
   category:
   - Short Stories
   title: Snowfall
+  related_book: ''
 - content: "*The Philadelphia Inquirer*; Marina Warner, *Monuments and Maidens: The
     Allegory of the Female Form*"
   date: 1985-12-29T00:00:00.000+00:00
@@ -1380,6 +1665,7 @@
   category:
   - Book Reviews
   title: 'Monuments and Maidens: The Allegory of the Female Form'
+  related_book: ''
 - content: "*The New York Times*; Penelope Fitzgerald, *At Freddie’s*"
   date: 1985-09-08T00:00:00.000+00:00
   link_to_original: ''
@@ -1387,6 +1673,7 @@
   category:
   - Book Reviews
   title: At Freddie’s
+  related_book: ''
 - content: London, August/September issue
   date: 1985-08-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1394,6 +1681,7 @@
   category:
   - Short Stories
   title: Layering
+  related_book: ''
 - content: "*The New York Times*; Jill Tweedie, Jewels"
   date: 1985-04-14T00:00:00.000+00:00
   link_to_original: ''
@@ -1401,6 +1689,7 @@
   category:
   - Book Reviews
   title: Jewels
+  related_book: ''
 - content: "*The New York Times*; Thomas Baird, *Villa Aphrodite*"
   date: 1984-11-25T00:00:00.000+00:00
   link_to_original: ''
@@ -1408,6 +1697,7 @@
   category:
   - Book Reviews
   title: Villa Aphrodite
+  related_book: ''
 - content: "*The Philadelphia Inquirer*, Isabel Colegate, *Three Novels*"
   date: 1984-03-25T00:00:00.000+00:00
   link_to_original: ''
@@ -1415,6 +1705,7 @@
   category:
   - Book Reviews
   title: Three Novels
+  related_book: ''
 - content: Catalogue raisonne by Ann Lee Morgan (Newark, University of Delaware Press)
   date: 1984-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1422,12 +1713,15 @@
   category:
   - Art History
   title: Introduction to Arthur Dove
+  related_book: ''
 - date: 1983-03-28T00:00:00.000+00:00
   link_to_original: ''
   source: The New Yorker
   category:
   - Short Stories
   title: Getting On
+  related_book: ''
+  content: ''
 - content: Jan/Feb issue
   date: 1983-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1435,12 +1729,15 @@
   category:
   - Art History
   title: '19th Century Picnic Paintings: An Arcadian Idyll'
+  related_book: ''
 - date: 1981-09-01T00:00:00.000+00:00
   link_to_original: ''
   source: Antiques World
   category:
   - Art History
   title: 'The Bathing Scene: People on the Beach in American Art, 1700–1900'
+  related_book: ''
+  content: ''
 - content: Sep/Oct issue
   date: 1981-09-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1448,6 +1745,7 @@
   category:
   - Art History
   title: Plane Truths
+  related_book: ''
 - content: Exhibition catalog, The Katonah Gallery
   date: 1981-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1455,6 +1753,7 @@
   category:
   - Art History
   title: 'Land of Plenty: 19th Century American Picnic and Harvest Scenes'
+  related_book: ''
 - content: December, 1980
   date: 1980-12-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1462,12 +1761,15 @@
   category:
   - Art History
   title: Where Are America’s Missing Masterpieces?
+  related_book: ''
 - date: 1980-11-01T00:00:00.000+00:00
   link_to_original: ''
   source: McCall’s
   category:
   - Short Stories
   title: Daughter
+  related_book: ''
+  content: ''
 - content: exhibition catalog, The Katonah Gallery
   date: 1980-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1475,10 +1777,14 @@
   category:
   - Art History
   title: 'Plane Truths: 19th Century American Trompe l’Oeil Painting'
+  related_book: ''
 - date: 1979-10-01T00:00:00.000+00:00
   link_to_original: ''
   source: Arts
   title: 'The Age of Blood and Iron: Marsden Hartley in Berlin'
+  category: []
+  related_book: ''
+  content: ''
 - content: Exhibition catalog, Terry Dintenfass Gallery, New York
   date: 1975-01-01T00:00:00.000+00:00
   link_to_original: ''
@@ -1486,9 +1792,12 @@
   category:
   - Art History
   title: 'Shapes of Industry: First Images in American Art'
+  related_book: ''
 - date: 1975-01-01T00:00:00.000+00:00
   link_to_original: ''
   source: ARTnews
   category:
   - Art History
   title: Rousseau, Buffalo Bill, and the European Image of the American Indian
+  related_book: ''
+  content: ''
