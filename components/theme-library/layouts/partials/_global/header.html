@@ -5,7 +5,10 @@
       <a href="{{ .Site.Home.RelPermalink }}" class="site-title"> 
         {{.Site.Title}}
       </a>
-      {{- partial "_global/menu.html" (dict "page" . "menu" "main") -}}
+      <div>
+          {{- partial "_global/menu.html" (dict "page" . "menu" "main") -}}
+          {{- partial "_components/social-follow.html" (dict "size" "20") -}}
+      </div>
     </div>  
   </header>
   <div class="bordered bordered-b"></div>

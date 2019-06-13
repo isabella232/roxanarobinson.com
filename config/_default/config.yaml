@@ -45,7 +45,8 @@ sitemap:
   changefreq: monthly
   filename: sitemap.xml
   priority: 0.5
-social: {}
+social: 
+   facebook: https://www.facebook.com/roxana.robinson
 taxonomies:
   tag: tags
 
