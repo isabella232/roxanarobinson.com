@@ -5,4 +5,4 @@ book: book/cost.md
 attribution: Ron Charles, *The Washington Post*, Sunday, July 6, 2008; Page BW07
 
 ---
-If heroin is what gives this novel its rush, Robinson’s sensitivity to family relations is what makes it so compelling.
+With such fierce moments of anxiety and grief, this is, frankly, a challenging novel to read, but Robinson's insight makes it impossible to break away. She has crept into corners of human experience each of us is terrified to approach: the loss of our children, our parents, our minds, the implacable tragedies that shred our sense of how the world should work. Toward the end, Robinson writes, ‘There was now a great silent ringing where the sky had been.’ Like every moment in this novel, that sounds chillingly right.
