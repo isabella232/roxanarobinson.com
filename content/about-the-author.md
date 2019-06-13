@@ -4,7 +4,8 @@ class: about-the-author
 form: forms-contact.html
 description: The official website of author Roxana Robinson, president of the Authors
   Guild
-images: []
+image: 
+  file: /uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg
 weight: 
 
 ---
