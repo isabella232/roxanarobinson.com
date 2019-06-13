@@ -26,3 +26,9 @@ tagline: A fragile family confronts the tragedy of addiction.
 contributor: false
 
 ---
+
+- Fiction Award, Maine Writers and Publishers Alliance, for Cost  
+- Cost named One of the Best Five Fiction Books of the Year by *The Washington Post*  
+- Cost named *New York Times* Editors’ Choice  
+- Cost on the best books of the year lists at *The Wall Street Journal*, *The Seattle Times*, and the *Chicago Tribune*  
+- Cost named spring 2008 Recommended Reads choice of the National Book Critics Circle  

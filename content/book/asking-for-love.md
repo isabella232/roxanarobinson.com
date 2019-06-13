@@ -22,3 +22,6 @@ contributor: false
 In this second collection of her short fiction, the author returns to the world she knows so well, and shows us men and women whose lives are in various stages of disarray or disrepair. Divorce and remarriage have altered their landscapes, and they struggle to achieve order with a new set of rules. Stories like “The Nightmare” and “Family Restaurant” explore the minefields of stepparenting and portray the confused struggles—sometimes silent, sometimes not—of the ultimate victims of divorce, the children.
 
 Several of the stories in this collection have appeared in *The Atlantic* and *Harper’s*, and one, “Mr. Sumarsono,” was included in *The Best American Short Stories 1994*.
+
+
+- Named one of the Notable Books of the Year by the American Library Association

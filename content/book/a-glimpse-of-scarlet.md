@@ -28,3 +28,5 @@ Taking readers into the summer homes, town houses, and boarding schools of those
 Here, in the first collection of her short fiction, Robinson probes the pain and joy of raising children, the allure of illicit love, the ordeal of divorce, as well as more subtle events—the small but often exquisitely painful betrayals that litter the course of a life.
 
 But in her world, grace too can be near at hand, and Robinson balances these harrowing portraits with stories that uncover the possibility of reunion and renewal—and moments of transcendent loveliness that promise, and deliver, “merely great delight.”
+
+- Named Notable Book of the Year by *The New York Times*

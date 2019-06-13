@@ -28,6 +28,14 @@ As Roxana Robinson’s new novel,&nbsp;*Sparta*, begins, Conrad has just returne
 
 Suspenseful, compassionate, and perceptive,&nbsp;*Sparta&nbsp;*captures the nuances of the unique estrangement that modern soldiers face as they attempt to rejoin the society they’ve fought for. Billy Collins writes that Roxana Robinson is “a master at…the work of excavating the truths about ourselves”;&nbsp;*The Washington Post*’s Jonathan Yardley calls her “one of our best writers.” In*Sparta*, with the powerful insight and acuity that marked her earlier books (*Cost*,&nbsp;*Sweetwater*, and&nbsp;*A Perfect Stranger*, among others), Robinson delivers her best book yet.
 
+- **Winner of the James Webb Award**
+- **Included on Short List for the 2015 International IMPAC Dublin Literary Award.**
+- **Fiction Award, Maine Writers and Publishers Alliance, for Sparta**
+- **A Best Books of the Year at the *Chicago Tribune***
+- **A Best Books of the Year at the BBC**
+- **Publishers Weekly, The 10 Best Contemporary War Novels**
+
+
 #### [Read a Q&A about the book](/book-extras/a-conversation-with-roxana-robinson-author-of-sparta/)
 
 ---

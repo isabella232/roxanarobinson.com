@@ -170,3 +170,7 @@ footer div a {
 h2.past-events {
 	@apply text-5xl border-b-4 border-black;
 }
+
+.page-single_default ul li {
+	@apply mb-2;
+}
