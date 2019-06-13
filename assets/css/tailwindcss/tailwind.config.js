@@ -46,6 +46,7 @@ module.exports = {
           'serif',
         ],
         'sans': [
+          'Avenir',
           'Work Sans',
           '-apple-system',
           'BlinkMacSystemFont',

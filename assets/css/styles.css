@@ -33,7 +33,6 @@ body.news #content {
 	body.news #content {
 		@apply px-0;
 	}
-	
 }
 
 body {
@@ -107,11 +106,11 @@ header .site-title {
 	@apply max-w-full;
 }
 body.book .page-heading {
-	@apply font-serif;
+	@apply font-brand;
 }
 
 body.book p {
-	@apply font-sans;
+	@apply font-serif;
 }
 blockquote.text-quotes {
 	@apply font-serif;
@@ -157,7 +156,6 @@ footer div a {
 .event-summary {
 	@apply font-sans;
 }
-
 
 .images img {
 	@apply h-64 mr-2;
