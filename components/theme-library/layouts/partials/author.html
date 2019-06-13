@@ -1,0 +1,21 @@
+{{ $author := .Site.GetPage "about-the-author.md" }}
+
+{{ with $author }}
+  <div class="flex flex-wrap items-start bg-white border shadow-xl">
+    {{ with .Params.image.file }}
+    {{ $image := resources.Get (printf "%s%s" "/" . ) }}
+    {{ $image := $image.Fill "250x250 Center" }}
+      <div class="w-full lg:w-1/4">    
+        <img src="{{ $image.Permalink }}" alt=""  width="{{ $image.Width }}" height="{{ $image.Height }}">
+      </div>
+    {{ end }}
+    {{ with .Summary }}
+    <div class="w-full lg:w-3/4">
+      <div class="px-4 pt-4 text-base">{{ . }}
+        
+      </div>
+      <a href="{{ $author.Permalink }}" class="mx-4 mt-4 text-xs inline-block bg-gray-200 rounded p-1 hover:bg-gray-300">read more</a>
+    </div>
+    {{ end }}      
+  </div>
+{{ end }}

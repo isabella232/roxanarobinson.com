@@ -50,3 +50,7 @@ social:
 taxonomies:
   tag: tags
 
+imaging:
+  resampleFilter: box
+  quality: 99
+  anchor: smart

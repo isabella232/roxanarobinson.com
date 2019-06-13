@@ -11,6 +11,9 @@
       {{ partial "home/news-list.html" . }}
     </div>
   </section>
+  <div class="my-12 p-4 lg:w-full mx-auto">
+    {{- partial "author.html" . -}}
+  </div>
   {{ range first 1 $books  }}
   <div class="my-12 p-4 lg:w-full mx-auto">
     {{- partial "books/praise.html" (dict "count" 10 "Page" . ) -}}
