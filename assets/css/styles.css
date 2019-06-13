@@ -3,6 +3,7 @@
 @import "tailwindcss/components";
 
 @import "tailwindcss/modules/_hugo-internal-templates";
+@import "tailwindcss/modules/_social-icons";
 @import "tailwindcss/modules/_utilities";
 
 @import "tailwindcss/utilities";
