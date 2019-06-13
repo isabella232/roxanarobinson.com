@@ -1,7 +1,7 @@
 //console.log("NODE_ENV", process.env.NODE_ENV);
 // NOTE THAT PURGECSS IS ALREADY SETUP FOR VUE
 module.exports = {
-	plugins: [		
+	plugins: [
 		require("postcss-import")({
 			path: ["./assets/css"]
 		}),
@@ -13,7 +13,11 @@ module.exports = {
 		...(process.env.NODE_ENV !== "development"
 			? [
 					require("@fullhuman/postcss-purgecss")({
-						content: ["./layouts/**/*.html", "./components/**/**/*.html", "./assets/js/app/**/*.vue"],
+						content: [
+							"./layouts/**/*.html",
+							"./components/**/**/*.html",
+							"./assets/js/app/**/*.vue"
+						],
 						extractors: [
 							{
 								extractor: class {
@@ -24,7 +28,6 @@ module.exports = {
 									}
 								},
 								extensions: ["vue", "html"]
-								
 							}
 						],
 						whitelist: ["fill-current", "grid", "datatable"]

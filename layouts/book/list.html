@@ -6,7 +6,7 @@
     </div>      
     {{ range .Pages.GroupByParam "contributor" }}
       {{ range $i, $c := .Pages }}
-        <div class="px-4{{if eq (mod $i 2) 1}} bg-gray-200{{ end}}">
+        <div class="px-4">
           <section class="mx-auto px-4 max-w-5xl md:px-4 py-4 w-80-l">      
             {{- partial "books/header.html" . -}}
             <div class="md:flex flex-wrap">

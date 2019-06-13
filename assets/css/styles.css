@@ -8,25 +8,24 @@
 
 @import "tailwindcss/utilities";
 
+/* purgecss start ignore */
 #content {
 	@apply font-serif text-lg;
 }
-
-body.page #content,
-body.page.news #content,
-body.event #content {
+body.kind-section.event #content,
+body.kind-page #content {
 	@apply max-w-3xl mx-auto px-6;
 }
-
-body.home #content,
-body.page.book #content {
+body.kind-home #content,
+body.kind-section #content,
+body.kind-page.book #content {
 	@apply max-w-5xl mx-auto  px-6;
 }
-body.section.news #content,
-body.datatable #content,
-body.news #content {
+
+body.layout-datatable #content {
 	@apply max-w-6xl mx-auto px-6;
 }
+
 @screen lg {
 	body.section.news #content,
 	body.datatable #content,
@@ -38,20 +37,7 @@ body.news #content {
 body {
 	@apply border-solid border-primary-color-500 border-r-8 border-l-8 text-gray-800;
 }
-/* body.home {
-	@apply text-gray-100;
-	background: linear-gradient(
-		to bottom,
-		#ffffff 0%,
-		rgba(125, 185, 232, 0.98) 10%,
-		rgba(125, 185, 232, 1) 50%,
-		#247ba0 100%
-	);
-}
 
-body.home .site-title {
-	@apply text-gray-800;
-} */
 .bordered {
 	@apply fixed w-full border-solid border-primary-color-500 border-b-8 z-10;
 }
@@ -140,9 +126,7 @@ footer div a {
 	@apply text-2xl;
 }
 
-/* h2 {
-	@apply font-sans text-4xl;
-} */
+
 .h-entry h3 {
 	@apply text-3xl;
 }
@@ -172,3 +156,4 @@ h2.past-events {
 .page-single_default ul li {
 	@apply mb-2;
 }
+/* purgecss end ignore */
