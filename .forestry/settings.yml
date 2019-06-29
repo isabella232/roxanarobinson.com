@@ -53,7 +53,7 @@ sections:
   label: Writing
 - type: document
   path: data/media.yaml
-  label: Media
+  label: Interviews
 - type: directory
   path: content
   label: Pages
