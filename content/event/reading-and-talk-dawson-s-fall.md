@@ -6,10 +6,9 @@ images: []
 venue:
   name: ''
   address: ''
-  city: ''
-  state: ''
+  city: Tenants Harbor
+  state: Maine
   zip: ''
   link: ''
-draft: true
 
 ---
