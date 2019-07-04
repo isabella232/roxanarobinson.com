@@ -1,5 +1,5 @@
 ---
-date: 2019-07-04T11:47:14-04:00
+date: 2019-07-10T19:00:00-04:00
 show_time: true
 title: Roxana Robinson in conversation with Richard Russo
 images: []
