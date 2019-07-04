@@ -4,7 +4,7 @@ show_time: true
 title: 'Reading and Talk: Dawson''s Fall'
 images: []
 venue:
-  name: ''
+  name: Jackson Memorial Library
   address: ''
   city: Tenants Harbor
   state: Maine
