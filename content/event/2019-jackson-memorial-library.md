@@ -1,5 +1,5 @@
 ---
-date: 2019-07-09T17:30:00-04:00
+date: 2019-07-09T21:30:00.000+00:00
 show_time: false
 title: Jackson Memorial Library
 images: []
@@ -10,5 +10,6 @@ venue:
   state: ME
   zip: ''
   link: https://www.jacksonmemoriallibrary.org/calendar1
+draft: true
 
 ---
