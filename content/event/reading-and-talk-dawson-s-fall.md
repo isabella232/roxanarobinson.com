@@ -1,7 +1,7 @@
 ---
-date: 2019-07-09T17:30:00-04:00
+date: 
 show_time: true
-title: 'Reading and Talk: Dawson''s Fall'
+title: ''
 images: []
 venue:
   name: Jackson Memorial Library
@@ -10,6 +10,5 @@ venue:
   state: Maine
   zip: ''
   link: 'https://www.jacksonmemoriallibrary.org/calendar1/ '
-draft: true
 
 ---
