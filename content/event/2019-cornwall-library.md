@@ -10,6 +10,5 @@ venue:
   state: CT
   zip: ''
   link: ''
-draft: true
 
 ---
