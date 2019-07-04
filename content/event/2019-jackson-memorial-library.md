@@ -10,6 +10,5 @@ venue:
   state: ME
   zip: ''
   link: https://www.jacksonmemoriallibrary.org/calendar1
-draft: true
 
 ---
