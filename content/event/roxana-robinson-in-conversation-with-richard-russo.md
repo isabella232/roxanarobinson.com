@@ -10,6 +10,5 @@ venue:
   state: Maine
   zip: ''
   link: 'https://www.printbookstore.com/event/roxana-robinson-presents-her-new-novel-dawson’s-fall-conversation-richard-russo '
-draft: true
 
 ---
