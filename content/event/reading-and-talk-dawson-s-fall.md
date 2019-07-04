@@ -1,5 +1,5 @@
 ---
-date: 2019-07-09T11:24:11-04:00
+date: 2019-07-09T17:30:00-04:00
 show_time: true
 title: 'Reading and Talk: Dawson''s Fall'
 images: []
@@ -9,6 +9,7 @@ venue:
   city: Tenants Harbor
   state: Maine
   zip: ''
-  link: ''
+  link: 'https://www.jacksonmemoriallibrary.org/calendar1/ '
+draft: true
 
 ---
