@@ -27,7 +27,6 @@ fields:
   label: venue
   template: partial-venue
 pages:
-- content/event/reading-and-talk-dawson-s-fall.md
 - content/event/2019-jackson-memorial-library.md
 - content/event/national-book-festival.md
 - content/event/coffee-and-conversation-with-karen-waldron.md
