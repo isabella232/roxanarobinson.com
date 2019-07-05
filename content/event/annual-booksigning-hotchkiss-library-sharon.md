@@ -10,6 +10,5 @@ venue:
   state: CT
   zip: ''
   link: 'https://www.hotchkisslibrary.org/annual-book-signing/ '
-draft: true
 
 ---
