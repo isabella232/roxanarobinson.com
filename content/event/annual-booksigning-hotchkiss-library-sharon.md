@@ -1,6 +1,6 @@
 ---
 date: 2019-08-02T18:00:00-04:00
-show_time: false
+show_time: true
 title: Annual Booksigning, Hotchkiss Library, Sharon CT.
 images: []
 venue:
