@@ -10,6 +10,5 @@ venue:
   state: Florida
   zip: ''
   link: 'https://www.jfcl.org/events/roxana-robinson/ '
-draft: true
 
 ---
