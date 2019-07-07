@@ -1,6 +1,6 @@
 ---
-date: 2019-07-07T10:43:50-04:00
-show_time: true
+date: 
+show_time: false
 title: 'Reading and Talk: Dawson''s Fall'
 images: []
 venue:
@@ -10,6 +10,5 @@ venue:
   state: 'Florida '
   zip: ''
   link: 'https://www.jfcl.org/events/roxana-robinson/ '
-draft: true
 
 ---
