@@ -27,6 +27,7 @@ fields:
   label: venue
   template: partial-venue
 pages:
+- content/event/reading-and-discussion.md
 - content/event/reading-and-talk-dawson-s-fall-1.md
 - content/event/roxana-robinson-in-conversation-with-richard-russo.md
 - content/event/2019-jackson-memorial-library.md
