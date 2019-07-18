@@ -10,6 +10,5 @@ venue:
   state: Maine
   zip: ''
   link: ''
-draft: true
 
 ---
