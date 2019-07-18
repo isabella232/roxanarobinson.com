@@ -5,11 +5,10 @@ title: Reading and Discussion
 images: []
 venue:
   name: North Haven Library
-  address: North Haven
-  city: ''
+  address: '33 Main Street '
+  city: North Haven
   state: Maine
-  zip: ''
+  zip: '04853'
   link: 'https://northhavenlibrary.org '
-draft: true
 
 ---
