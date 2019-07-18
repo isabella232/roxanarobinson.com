@@ -10,5 +10,6 @@ venue:
   state: Connecticut
   zip: ''
   link: 'https://www.hickorystickbookshop.com/event/author-discussion-signing-roxana-robinson-dawsons-fall '
+draft: true
 
 ---
