@@ -10,6 +10,5 @@ venue:
   state: Maine
   zip: ''
   link: http://www.bhpl.net/events/author-event-dawsons-fall-with-roxana-robinson/
-draft: true
 
 ---
