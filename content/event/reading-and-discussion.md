@@ -1,7 +1,7 @@
 ---
 date: 2019-08-11T14:00:19-04:00
 show_time: true
-title: Reading and Discussion
+title: 'Blue Hill Books: Reading and Discussion'
 images: []
 venue:
   name: Hickory Stick Bookstore
