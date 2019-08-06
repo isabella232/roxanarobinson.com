@@ -7,5 +7,6 @@ link_to_original: http://www.washingtonindependentreviewofbooks.com/index.php/bo
 book: book/dawsons-fall.md
 featured: false
 weight: 
+draft: true
 
 ---
