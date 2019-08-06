@@ -9,3 +9,4 @@ featured: false
 weight: 
 
 ---
+"Taken as a whole, the...story reads as a reflection of America in the years after the Civil War, defined by reinvention, race, and the ideal of honor." Chris Rutledge, in the Washington Independent Review of Books.
