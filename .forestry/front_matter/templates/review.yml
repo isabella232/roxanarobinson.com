@@ -38,6 +38,7 @@ fields:
   template: partial-weight
   hidden: true
 pages:
+- content/review/review.md
 - content/review/the-new-yorker.md
 - content/review/wapo-on-dawson-s-fall.md
 - content/review/in-roxana-robinson-s-new-book.md
