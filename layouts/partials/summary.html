@@ -4,7 +4,7 @@
     {{- partial "_components/time.html" (dict "context" . "show_time" false "classes" "text-xs block color-inherit font-sans tracked mb-1") -}}
   {{ with .Params.Description }}
     <div class="font-sans text-base">
-      {{ . }}
+      {{ . | markdownify }}
     </div>
   {{else}}
     {{ with .Content }}
