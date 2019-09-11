@@ -13,6 +13,6 @@ tags: []
 categories: []
 
 ---
-"The Rivalry between Ida and Georgia O'Keeffe"
+"The Rivalry between Ida and Georgia O'Keeffe," in The New Yorker
 
 [https://www.newyorker.com/culture/culture-desk/the-rivalry-between-georgia-okeeffe-and-her-sister-ida](https://www.newyorker.com/culture/culture-desk/the-rivalry-between-georgia-okeeffe-and-her-sister-ida "https://www.newyorker.com/culture/culture-desk/the-rivalry-between-georgia-okeeffe-and-her-sister-ida")
