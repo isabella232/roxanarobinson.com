@@ -11,6 +11,7 @@ venue:
   link: http://www.hunter.cuny.edu/creativewriting/calendar.shtml
 slug: 2014-10-28-fall-2014-distinguished-writers-series-hunter-college
 show_time: true
+draft: true
 
 ---
 Faculty Dining Room, Hunter College, West Building, 8th floor (Southwest corner of Lexington Avenue and East 68th Street)
