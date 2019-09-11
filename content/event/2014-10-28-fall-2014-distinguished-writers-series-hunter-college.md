@@ -1,5 +1,5 @@
 ---
-title: Fall 2014 Distinguished Writers Series at Hunter College
+title: Fall 2019 Distinguished Writers Series at Hunter College
 published: true
 date: 2014-10-28T19:30:00-04:00
 allday: false
