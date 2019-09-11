@@ -1,0 +1,18 @@
+---
+date: 2019-09-11T16:51:25-04:00
+title: '"The Rivalry Between Ida and Georgia O''Keeffe"'
+description: ''
+images:
+- file: ''
+  credit: ''
+  caption: ''
+- file: ''
+  credit: ''
+  caption: ''
+tags: []
+categories: []
+
+---
+"The Rivalry between Ida and Georgia O'Keeffe"
+
+[https://www.newyorker.com/culture/culture-desk/the-rivalry-between-georgia-okeeffe-and-her-sister-ida](https://www.newyorker.com/culture/culture-desk/the-rivalry-between-georgia-okeeffe-and-her-sister-ida "https://www.newyorker.com/culture/culture-desk/the-rivalry-between-georgia-okeeffe-and-her-sister-ida")
