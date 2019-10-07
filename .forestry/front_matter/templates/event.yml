@@ -27,6 +27,7 @@ fields:
   label: venue
   template: partial-venue
 pages:
+- content/event/international-womens-writers-guild.md
 - content/event/boston-book-festival-3.md
 - content/event/boston-book-festival-2.md
 - content/event/boston-book-festival-1.md
