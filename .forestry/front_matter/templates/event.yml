@@ -27,6 +27,7 @@ fields:
   label: venue
   template: partial-venue
 pages:
+- content/event/boston-book-festival.md
 - content/event/reading-from-dawson-s-fall.md
 - content/event/2019-with-jacki-lyden-at-the-center-for-fiction.md
 - content/event/2019-the-white-hart-speaker-series-roxana-robinson.md
