@@ -10,6 +10,5 @@ venue:
   state: VT
   zip: ''
   link: 'http://brattleboroliteraryfestival.org '
-draft: true
 
 ---
