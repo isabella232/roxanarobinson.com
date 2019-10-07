@@ -10,6 +10,5 @@ venue:
   state: 'NY '
   zip: "10017"
   link: 'https://www.cathleenoconnor.com/bigapple2019.html '
-draft: true
 
 ---
