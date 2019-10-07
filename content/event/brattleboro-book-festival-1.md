@@ -1,15 +1,15 @@
 ---
-date: 2019-10-07T16:14:05-04:00
+date: 2019-10-20T13:00:05-04:00
 show_time: true
 title: Brattleboro Book Festival
 images: []
 venue:
-  name: ''
-  address: ''
-  city: ''
-  state: ''
+  name: Brooks Library
+  address: 224 Main Street
+  city: 'Brattleboro '
+  state: VT
   zip: ''
-  link: ''
+  link: 'http://brattleboroliteraryfestival.org '
 draft: true
 
 ---
