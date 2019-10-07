@@ -1,7 +1,7 @@
 ---
 date: 0001-12-31T14:49:06-04:56
 show_time: true
-title: International Womens' Writers Guild
+title: International Womens' Writers Guild - Discussion with Deirdre Baird
 images: []
 venue:
   name: Cornell Club
