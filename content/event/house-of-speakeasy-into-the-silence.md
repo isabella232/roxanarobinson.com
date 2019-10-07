@@ -7,7 +7,7 @@ venue:
   name: Joe's Pub - Public Theatre
   address: 155 Varick Street
   city: 'New York '
-  state: Ny
+  state: NY
   zip: ''
   link: 'https://publictheater.org/productions/joes-pub/2019/h/house-of-speakeasy-seriously-entertaining/ '
 draft: true
