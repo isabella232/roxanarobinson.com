@@ -10,6 +10,5 @@ venue:
   state: NY
   zip: ''
   link: 'https://publictheater.org/productions/joes-pub/2019/h/house-of-speakeasy-seriously-entertaining/ '
-draft: true
 
 ---
