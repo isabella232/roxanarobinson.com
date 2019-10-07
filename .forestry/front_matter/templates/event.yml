@@ -27,6 +27,7 @@ fields:
   label: venue
   template: partial-venue
 pages:
+- content/event/boston-book-festival-2.md
 - content/event/boston-book-festival-1.md
 - content/event/brattleboro-book-festival-1.md
 - content/event/brattleboro-book-festival.md
