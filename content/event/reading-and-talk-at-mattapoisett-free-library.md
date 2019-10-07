@@ -10,6 +10,5 @@ venue:
   state: MA
   zip: ''
   link: 'http://www.eventkeeper.com/code/events.cfm?curOrg=MATTAP '
-draft: true
 
 ---
