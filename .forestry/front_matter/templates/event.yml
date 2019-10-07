@@ -27,6 +27,7 @@ fields:
   label: venue
   template: partial-venue
 pages:
+- content/event/house-of-speakeasy-into-the-silence.md
 - content/event/reading-and-talk-at-mattapoisett-free-library.md
 - content/event/international-womens-writers-guild.md
 - content/event/boston-book-festival-3.md
