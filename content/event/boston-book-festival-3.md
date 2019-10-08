@@ -1,7 +1,7 @@
 ---
-date: 2019-10-19T11:00:00-04:00
+date: 
 show_time: true
-title: Boston Book Festival
+title: ''
 images: []
 venue:
   name: ''
