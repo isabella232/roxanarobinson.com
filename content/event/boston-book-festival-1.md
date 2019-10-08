@@ -1,7 +1,7 @@
 ---
-date: 2019-10-07T16:17:42-04:00
+date: 
 show_time: true
-title: Boston Book Festival
+title: ''
 images: []
 venue:
   name: ''
@@ -10,6 +10,5 @@ venue:
   state: ''
   zip: ''
   link: ''
-draft: true
 
 ---
