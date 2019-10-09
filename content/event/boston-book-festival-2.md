@@ -10,5 +10,6 @@ venue:
   state: ''
   zip: ''
   link: https://bostonbookfest.org
+draft: true
 
 ---
