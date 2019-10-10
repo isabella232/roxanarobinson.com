@@ -10,6 +10,5 @@ venue:
   state: SC
   zip: ''
   link: " https://charlestonlibrarysociety.org/events-and-programs  "
-draft: true
 
 ---
