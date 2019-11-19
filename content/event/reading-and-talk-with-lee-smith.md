@@ -1,7 +1,7 @@
 ---
-date: 2019-12-05T18:00:48-05:00
+date: 
 show_time: true
-title: Reading and Talk with Lee Smith
+title: ''
 images: []
 venue:
   name: Quail Ridge Bookstore
