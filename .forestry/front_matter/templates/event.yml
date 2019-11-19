@@ -27,6 +27,7 @@ fields:
   label: venue
   template: partial-venue
 pages:
+- content/event/conversation-with-jill-mccorkle.md
 - content/event/conversation-with-lee-smith.md
 - content/event/panel-with-cathleen-schine-and-sarah-baker.md
 - content/event/reading-and-talk-with-lee-smith.md
