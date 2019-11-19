@@ -27,6 +27,7 @@ fields:
   label: venue
   template: partial-venue
 pages:
+- content/event/savannah-book-festival.md
 - content/event/reading-and-talk.md
 - content/event/conversation-with-lee-smith.md
 - content/event/conversation-with-jill-mccorkle.md
