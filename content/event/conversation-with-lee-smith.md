@@ -9,6 +9,6 @@ venue:
   city: 'Raleigh '
   state: NC
   zip: ''
-  link: ''
+  link: https://www.quailridgebooks.com/event/robinson19
 
 ---
