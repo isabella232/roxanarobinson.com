@@ -10,6 +10,5 @@ venue:
   state: NC
   zip: ''
   link: ''
-draft: true
 
 ---
