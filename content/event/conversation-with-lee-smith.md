@@ -1,7 +1,7 @@
 ---
 date: 2019-12-05T19:00:20-05:00
 show_time: true
-title: Conversation with Lee Smith
+title: Conversation between Roxana Robinson and Lee Smith
 images: []
 venue:
   name: Quail Ridge Books
