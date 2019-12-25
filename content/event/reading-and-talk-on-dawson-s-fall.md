@@ -10,6 +10,5 @@ venue:
   state: MA
   zip: '02111'
   link: https://www.bostonathenaeum.org/events/6895/dawsons-fall
-draft: true
 
 ---
