@@ -9,7 +9,7 @@ venue:
   city: Boston
   state: MA
   zip: '02111'
-  link: ''
+  link: https://www.bostonathenaeum.org/events/6895/dawsons-fall
 draft: true
 
 ---
