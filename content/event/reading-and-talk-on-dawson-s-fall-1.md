@@ -1,6 +1,6 @@
 ---
-date: 2020-03-26T15:22:34-04:00
-show_time: false
+date: 2020-03-26T17:30:34-04:00
+show_time: true
 title: Reading and Talk on Dawson's Fall
 images: []
 venue:
