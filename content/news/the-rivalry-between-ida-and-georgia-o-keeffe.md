@@ -2,13 +2,7 @@
 date: 2019-09-11T16:51:25-04:00
 title: '"The Rivalry Between Ida and Georgia O''Keeffe," in *The New Yorker*'
 description: ''
-images:
-- file: ''
-  credit: ''
-  caption: ''
-- file: ''
-  credit: ''
-  caption: ''
+images: []
 tags: []
 categories: []
 
