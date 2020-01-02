@@ -9,6 +9,6 @@ venue:
   city: ''
   state: ''
   zip: ''
-  link: ''
+  link: https://www.savannahbookfestival.org
 
 ---
