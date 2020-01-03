@@ -5,10 +5,10 @@ title: 'Reading and Talk: Dawson''s Fall '
 images: []
 venue:
   name: Johan Fust Library
-  address: ''
+  address: 1040 West 10th St.
   city: Boca Grande
   state: Florida
-  zip: ''
+  zip: "33921"
   link: 'https://www.jfcl.org/events/roxana-robinson/ '
 
 ---
