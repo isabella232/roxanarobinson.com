@@ -1,7 +1,7 @@
 ---
 date: 2020-05-07T13:01:07-04:00
 title: Jennifer Weiner's By the Book New York Times Interview
-attribution: Jennifer Weiner
+attribution: Jennifer Weiner, “By the Book” *New York Times* Interview
 link_to_original: https://www.nytimes.com/2020/05/07/books/review/jennifer-weiner-by-the-book-interview.html
 book: book/cost.md
 featured: true
