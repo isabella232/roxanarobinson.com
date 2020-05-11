@@ -1,6 +1,6 @@
 ---
 title: Vanity Fair on Cost
-featured: true
+featured: false
 link_to_original: 
 book: book/cost.md
 attribution: "*Vanity Fair*"
