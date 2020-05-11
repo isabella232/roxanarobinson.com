@@ -4,7 +4,7 @@ title: Jennifer Weiner's By the Book New York Times Interview
 attribution: Jennifer Weiner
 link_to_original: https://www.nytimes.com/2020/05/07/books/review/jennifer-weiner-by-the-book-interview.html
 book: book/cost.md
-featured: false
+featured: true
 weight: 
 
 ---
