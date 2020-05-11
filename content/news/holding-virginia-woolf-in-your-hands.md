@@ -2,10 +2,7 @@
 date: 2020-01-29T12:22:11-05:00
 title: Holding Virginia Woolf in Your Hands, in *The New Yorker*
 description: Virginia Woolf and Roxana Robinson
-images:
-- file: ''
-  credit: ''
-  caption: ''
+images: []
 tags: []
 categories: []
 
