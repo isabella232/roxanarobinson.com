@@ -1,18 +1,18 @@
 ---
-- date: 2020-04-10T00:00:00-04:00
-  category:
-  - Essays
-  source: The New Yorker
-  title: Quarantine Culture Recommendations
-  link_to_original: https://www.newyorker.com/culture/culture-desk/quarantine-culture-recommendations-the-cat-in-the-hat-ambient-electronica-and-tolstoy
-  related_book: ''
-  content: ''
 - date: 2020-05-18T00:00:00-04:00
   category:
   - Essays
   source: Scoundrel Time
   title: Trump and the Criminal Culture (Updated)
   link_to_original: https://scoundreltime.com/trump-and-the-criminal-culture/?fbclid=IwAR3jE80oX8TAwgNaa3f5KIWBZ0LB8dYHmGXM9W9ZCcw2XolQxfJqQJPH7fI
+  related_book: ''
+  content: ''
+- date: 2020-04-10T00:00:00-04:00
+  category:
+  - Essays
+  source: The New Yorker
+  title: Quarantine Culture Recommendations
+  link_to_original: https://www.newyorker.com/culture/culture-desk/quarantine-culture-recommendations-the-cat-in-the-hat-ambient-electronica-and-tolstoy
   related_book: ''
   content: ''
 - date: 2020-01-29T12:20:00-05:00
