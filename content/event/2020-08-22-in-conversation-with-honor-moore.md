@@ -1,6 +1,6 @@
 ---
-date: 2020-08-25T09:49:22-04:00
-show_time: true
+date: 2020-08-22T09:49:22-04:00
+show_time: false
 title: In Conversation with Honor Moore
 images: []
 venue:
