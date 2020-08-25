@@ -1,15 +1,15 @@
 ---
-date: 2020-08-25T09:52:19-04:00
+date: 2020-09-01T16:00:00-04:00
 show_time: true
-title: 2020-09-01-launch-event-The Lying Life of Adult
+title: International Launch Party for The Lying Life of Adults by Elena Ferrante
 images: []
 venue:
-  name: ''
+  name: Center for Fiction
   address: ''
   city: ''
   state: ''
   zip: ''
-  link: ''
-draft: true
+  link: https://centerforfiction.org/event/international-launch-party-the-lying-life-of-adults-by-elena-ferrante/
 
 ---
+The Lying Life of Adults is the first novel in five years from Elena Ferrante, author of the bestselling and beloved Neapolitan quartet. The long-awaited release calls for a pub day party with Ferrante fans from all over the world! On September 1, join Ferrante’s star translator Ann Goldstein, authors Siddhartha Deb, Lauren Groff, and Roxana Robinson, and other to-be-announced special guests for an evening of literary talks, trivia, readings, and giveaways in celebration of “the literary event of the year” (ELLE).
