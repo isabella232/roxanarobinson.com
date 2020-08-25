@@ -12,6 +12,6 @@ venue:
   link: ''
 
 ---
-I will be speaking at the Kentucky Women Writers’ Festival
+I will be speaking at the Kentucky Women Writers’ Festival on September 10th and 12th.
 
 [Click here for itinerary](https://womenwriters.as.uky.edu/itinerary)
