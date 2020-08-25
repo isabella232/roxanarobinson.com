@@ -1,7 +1,7 @@
 ---
 date: 2020-09-01T16:00:00-04:00
 show_time: true
-title: International Launch Party for The Lying Life of Adults by Elena Ferrante
+title: International Launch Party for *The Lying Life of Adults* by Elena Ferrante
 images: []
 venue:
   name: Center for Fiction
