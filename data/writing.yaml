@@ -1,5 +1,13 @@
 ---
-- date: 2020-07-23T00:00:00-04:00
+- date: 2020-10-01T00:00:00-04:00
+  category:
+  - Essays
+  source: The New Yorker
+  title: How I Met the Reclusive Georgia O’Keeffe
+  link_to_original: https://www.newyorker.com/culture/personal-history/how-i-met-the-reclusive-georgia-okeeffe
+  related_book: ''
+  content: The story of two encounters—one in life, the other on the page.
+- date: 2020-07-23T00:00:00.000-04:00
   category:
   - Essays
   source: Statement of Record
@@ -7,7 +15,7 @@
   link_to_original: https://statorec.com/militarizing-the-police/?fbclid=IwAR3s416MJNt5mS5N6m8EEFgd0fVEs_M0svFkKXustzj-UjgP_jJ1ZReDAn8
   related_book: ''
   content: ''
-- date: 2020-06-20T00:00:00-04:00
+- date: 2020-06-20T00:00:00.000-04:00
   category:
   - Essays
   source: Cornwall Chronicle
@@ -15,7 +23,7 @@
   link_to_original: https://www.cornwallchronicle.org/ahem-cornwall
   related_book: ''
   content: ''
-- date: 2020-05-18T00:00:00-04:00
+- date: 2020-05-18T00:00:00.000-04:00
   category:
   - Essays
   source: Scoundrel Time
@@ -23,7 +31,7 @@
   link_to_original: https://scoundreltime.com/update-trump-and-the-criminal-culture/
   related_book: ''
   content: ''
-- date: 2020-04-10T00:00:00-04:00
+- date: 2020-04-10T00:00:00.000-04:00
   category:
   - Essays
   source: The New Yorker
@@ -31,7 +39,7 @@
   link_to_original: https://www.newyorker.com/culture/culture-desk/quarantine-culture-recommendations-the-cat-in-the-hat-ambient-electronica-and-tolstoy
   related_book: ''
   content: ''
-- date: 2020-04-13T00:00:00-04:00
+- date: 2020-04-13T00:00:00.000-04:00
   category:
   - Essays
   source: Scoundrel Time
@@ -39,7 +47,7 @@
   link_to_original: https://scoundreltime.com/trump-and-the-criminal-culture/?fbclid=IwAR3jE80oX8TAwgNaa3f5KIWBZ0LB8dYHmGXM9W9ZCcw2XolQxfJqQJPH7fI
   related_book: ''
   content: ''
-- date: 2020-01-29T12:20:00-05:00
+- date: 2020-01-29T12:20:00.000-05:00
   category: []
   source: The New Yorker
   title: Holding Virginia Woolf in Your Hands, in The New Yorker
