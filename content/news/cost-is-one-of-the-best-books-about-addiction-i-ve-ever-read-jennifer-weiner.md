@@ -4,10 +4,7 @@ title: '"Cost is one of the best books about addiction I''ve ever read," Jennife
   Weiner.'
 description: 'By the Book: Jennifer Weiner Used to Read Her Father’s Medical Textbooks
   for Fun'
-images:
-- file: ''
-  credit: ''
-  caption: ''
+images: []
 tags: []
 categories: []
 
