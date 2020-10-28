@@ -1,7 +1,10 @@
 ---
 date: 2020-10-28T09:23:32-04:00
 title: 'Expanded Edition of *Georgia O''Keeffe: A Life* Released'
-description: ''
+description: This new edition features a new foreword by the author setting O’Keeffe
+  in an artistic context over the last thirty years since the book was first published,
+  as well as previously unpublished letters of the young O’Keeffe to her lover, Arthur
+  Macmahon. It also relates the story of Robinson’s own encounter with the artist.
 images:
 - file: "/uploads/robinson_georgiaokeeffe.jpeg"
   credit: ''
