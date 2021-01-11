@@ -25,4 +25,4 @@ Registration is required for this Zoom series.
 
 [Click Here to Register ](https://cornwalllibrary.us8.list-manage.com/track/click?u=9b4b764a8f2893f5e08a384b2&id=33bfe2f1b2&e=217a1ac72f)
 
-Click here to download a PDF on directions and reading schedule for the series. 
+[Click here for a weekly reading schedule, additional instructions, and supplemental reading list. ](/uploads/anna-karenina-by-leo-tolstoy-translated-by-pevear-and-volokhonsky.pdf)
