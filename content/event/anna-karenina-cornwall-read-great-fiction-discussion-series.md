@@ -4,7 +4,7 @@ show_time: true
 title: 'Anna Karenina "Cornwall Read Great Fiction" Discussion Series '
 images: []
 venue:
-  name: Ann
+  name: ''
   address: ''
   city: ''
   state: ''
