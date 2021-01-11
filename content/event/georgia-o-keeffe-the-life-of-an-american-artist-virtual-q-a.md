@@ -1,5 +1,5 @@
 ---
-date: 0021-01-13T18:04:50-04:56
+date: 2021-01-13T18:00:00-05:00
 show_time: true
 title: 'Georgia O''Keeffe: The Life of an American Artist Virtual Q&A'
 images: []
