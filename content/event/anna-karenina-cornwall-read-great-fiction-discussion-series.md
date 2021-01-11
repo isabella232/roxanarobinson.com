@@ -10,7 +10,6 @@ venue:
   state: ''
   zip: ''
   link: ''
-draft: true
 
 ---
 Author and Cornwall resident Roxana Robinson will lead a discussion of Tolstoy’s Anna Karenina, for 9 weeks beginning Tuesday, January 12, at 4 pm through March 9. Each week, through Zoom meetings, Roxana will read a short excerpt from the book, and then lead a discussion of the week’s reading.
